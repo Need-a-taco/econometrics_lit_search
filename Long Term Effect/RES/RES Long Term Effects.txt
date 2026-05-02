@@ -1,0 +1,597 @@
+﻿Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform Open Access
+Petter Lundborg and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 876–908, https://doi.org/10.1093/restud/rdab028
+Published: 11 May 2021
+...-of-the-envelope cost–benefit calculation of the school-lunch program and concludes. The negative long-term effects of severe shocks in utero or infancy are now well established and a recent literature has instead turned to examining the effects of targeted policies that improve conditions early in life ( Almond...
+Abstract  
+Supplementary data
+Journal Article
+Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field ExperimentsGet access Arrow
+Alec Brandon and others
+The Review of Economic Studies, rdag012, https://doi.org/10.1093/restud/rdag012
+Published: 20 February 2026
+... change has important implications for designing behavioural interventions and evaluating their long-term social impacts. Nudges Long-term effects Mechanisms Field experiments A growing literature has established that nudges ( Thaler and Sunstein, 2008 ) are a highly cost-effective approach...
+Abstract  
+Supplementary data
+Journal Article
+The Causal Impact of Socio-Emotional Skills Training on Educational Success Open Access
+Giuseppe Sorrenti and others
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 506–552, https://doi.org/10.1093/restud/rdae018
+Published: 22 February 2024
+...—for further information please contact journals.permissions@oup.com. Abstract We study the long-term effects of a randomized intervention targeting children's socio-emotional skills. The classroom-based intervention for primary school children has positive impacts that persist for over a decade. Treated...
+Abstract  
+Supplementary data
+Journal Article
+Weak States: Causes and Consequences of the Sicilian MafiaGet access Arrow
+Daron Acemoglu and others
+The Review of Economic Studies, Volume 87, Issue 2, March 2020, Pages 537–581, https://doi.org/10.1093/restud/rdz009
+Published: 25 February 2019
+... and long-term effects of the Mafia in a two-stage least squares (2SLS) setup using drought in 1893 as an excluded instrument. We verify that economic and social indicators before 1893 are not correlated with drought in 1893 and that rainfall in other years does not predict subsequent outcomes, increasing...
+Abstract  
+Supplementary data
+Image
+Assessing parallel trends: the relationship between the year of adoption of...
+Assessing parallel trends: the relationship between the year of adoption of... Open Access
+in Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform
+Published: 11 May 2021
+Figure 2 Assessing parallel trends: the relationship between the year of adoption of the school lunch program and pre-treatment trends. Notes: Panel A plots coefficients from a regression on the year of adoption of the school lunch program on the change in average (log)lifetime income among unexposed coho
+Image
+Effect of school lunch exposure on income by age  Notes: The figure plots e...
+Effect of school lunch exposure on income by age Notes: The figure plots e... Open Access
+in Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform
+Published: 11 May 2021
+Figure 4 Effect of school lunch exposure on income by age Notes: The figure plots estimates and 95% confidence intervals from regressions on the effect of years of exposure to school lunches on income at each age between 26 and 46. Control variables include cohort fixed effects, municipality fixed effects
+Image
+The rollout of the school lunch program.  Notes: The figure shows a map of ...
+The rollout of the school lunch program. Notes: The figure shows a map of ... Open Access
+in Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform
+Published: 11 May 2021
+Figure 1 The rollout of the school lunch program. Notes: The figure shows a map of the geographical distribution of the rollout of the school lunch program. See text for details.
+Image
+Event study graph of the effect of school lunch exposure on income  Notes: ...
+Event study graph of the effect of school lunch exposure on income Notes: ... Open Access
+in Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform
+Published: 11 May 2021
+Figure 3 Event study graph of the effect of school lunch exposure on income Notes: The figure plots estimates and 95% confidence intervals from an event study regression. In the graph, years of exposure coincide with cohorts. Zero years of exposure is the omitted reference category and corresponds to the
+Journal Article
+Dutch Disease or Agglomeration? The Local Economic Effects of Natural Resource Booms in Modern AmericaGet access Arrow
+Hunt Allcott and Daniel Keniston
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 695–731, https://doi.org/10.1093/restud/rdx042
+Published: 28 July 2017
+..., wages, and revenue productivity are all procyclical, the booms are canceled out by the busts. By the end of the 1990s, we see no significant remaining long-term effects of the boom and bust cycle of the 1970s and 1980s. The procyclicality of local wages plus the lack of adverse long-term effects...
+Abstract  
+Supplementary data
+Journal Article
+Teachers’ Pay for Performance in the Long-Run: The Dynamic Pattern of Treatment Effects on Students’ Educational and Labour Market Outcomes in AdulthoodGet access Arrow
+Victor Lavy
+The Review of Economic Studies, Volume 87, Issue 5, October 2020, Pages 2322–2355, https://doi.org/10.1093/restud/rdaa002
+Published: 24 January 2020
+... be directly implemented by public policy, whereas evidence based on parameters such as school or teacher quality is not so easily measured or rewarded by policy interventions. This article adds to a growing literature on the long-term effects of education programs. Earlier studies focused on the long-term...
+Abstract  
+Supplementary data
+Journal Article
+Disease Control and Inequality Reduction: Evidence from a Tuberculosis Testing and Vaccination CampaignGet access Arrow
+Aline Bütikofer and Kjell G Salvanes
+The Review of Economic Studies, Volume 87, Issue 5, October 2020, Pages 2087–2125, https://doi.org/10.1093/restud/rdaa022
+Published: 16 June 2020
+... income in 1930 (in 1930 NOK) 1090.2 1090.2 1090.2 (457.7) (457.7) (457.7) Number of observations 444,932 223,447 221,485 Notes: Means and standard deviations in parentheses. However, these findings do not rule out that our estimates of the short- and long-term effects...
+Abstract  
+Supplementary data
+Journal Article
+A Dynamic Approach to the Theory of Consumer DemandGet access Arrow
+J. S. Cramer
+The Review of Economic Studies, Volume 24, Issue 2, February 1957, Pages 73–86, https://doi.org/10.2307/2295761
+Published: 01 February 1957
+... towards such a stable position provided income and prices remain constant long enough. Thus, in the present theory the comparative statics of the classical analysis would appear to be mainly concerned with the long term effects of changes in income and prices. 3. AN ELEMENTARY...
+Journal Article
+Is the Social Safety Net a Long-Term Investment? Large-Scale Evidence From the Food Stamps ProgramGet access Arrow
+Martha J Bailey and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1291–1330, https://doi.org/10.1093/restud/rdad063
+Published: 08 June 2023
+.... Lastly, our work is related to the literature on the long-term effects of early childhood income (for some overviews, see, e.g.  Duncan and Brooks-Gunn, 1997 ; Solon, 1999 ; Duncan et al., 2010 ; Black and Devereux, 2011 ; National Academies of Sciences, 2019 ). This work faces...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+The Slaughter of the Bison and Reversal of Fortunes on the Great PlainsGet access Arrow
+Donn L Feir and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1634–1670, https://doi.org/10.1093/restud/rdad060
+Published: 30 May 2023
+Abstract  
+Supplementary data
+Journal Article
+Hazed and Confused: The Effect of Air Pollution on DementiaGet access Arrow
+Kelly C Bishop and others
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2188–2214, https://doi.org/10.1093/restud/rdac078
+Published: 13 December 2022
+Abstract  
+Supplementary data
+Journal Article
+The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely Open Access
+Susan Athey and others
+The Review of Economic Studies, rdaf087, https://doi.org/10.1093/restud/rdaf087
+Published: 30 September 2025
+... settings. In the context of experimentation in digital technology companies, a discussion of the most important challenges ranks as the top concern that “While most experiments in the industry run for 2 weeks or less, we are really interested in detecting the long-term effect of a change. How do long-term...
+Abstract  
+Supplementary data
+Journal Article
+Human Capital Development and Parental Investment in IndiaGet access Arrow
+Orazio Attanasio and others
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2511–2541, https://doi.org/10.1093/restud/rdaa026
+Published: 18 June 2020
+... to be sustained and followed up: while highly intensive interventions at an early age and in ultra-poor populations have been shown to have long term effects (see Gertler et al., 2013 ) sustaining the impacts of less intense, scalable interventions in a broader population is likely to be more successful...
+Abstract  
+Supplementary data
+Journal Article
+Migrants, Ancestors, and Foreign InvestmentsGet access Arrow
+Konrad B Burchardi and others
+The Review of Economic Studies, Volume 86, Issue 4, July 2019, Pages 1448–1486, https://doi.org/10.1093/restud/rdy044
+Published: 23 August 2018
+...Konrad B Burchardi; Thomas Chaney; Tarek A Hassan O11 J61 L14 We contribute to this literature in several ways. First, we identify a causal effect of ancestry on FDI in a setting with a high degree of external validity directly relevant for assessing, for example, the long-term effects...
+Abstract  
+Supplementary data
+Journal Article
+It’s Raining Men! Hallelujah? The Long-Run Consequences of Male-Biased Sex RatiosGet access Arrow
+Pauline Grosjean and Rose Khattar
+The Review of Economic Studies, Volume 86, Issue 2, March 2019, Pages 723–754, https://doi.org/10.1093/restud/rdy025
+Published: 25 May 2018
+.... As can be seen in Figure 1 , a male-biased sex ratio endured in Australia for more than a century. Figure 1 Sex ratio in Australia: number of men to every woman, 1830–2011. Source: Australian Bureau of Statistics. We study the short- and long-term effects of male-biased sex ratios on female...
+Abstract  
+Supplementary data
+Journal Article
+Parental Job Loss and Children's School PerformanceGet access Arrow
+Mari Rege and others
+The Review of Economic Studies, Volume 78, Issue 4, October 2011, Pages 1462–1489, https://doi.org/10.1093/restud/rdr002
+Published: 22 February 2011
+Abstract
+Immigrants and the Making of AmericaGet access Arrow
+Sandra Sequeira and others
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 382–419, https://doi.org/10.1093/restud/rdz003
+Published: 12 March 2019
+Abstract  
+Supplementary data
+Journal Article
+On Measuring the Variance-Age Profile of Lifetime EarningsGet access Arrow
+Benjamin Eden and Ariél Pakes
+The Review of Economic Studies, Volume 48, Issue 3, July 1981, Pages 385–394, https://doi.org/10.2307/2297152
+Published: 01 July 1981
+..., it can be used to provide a partial preference ordering over alternative earnings paths. As a result, the measure presented here ought to prove helpful in analysing an assortment of decisions, be they individual decisions or policy alternatives, which have long-term effects on earnings. Examples...
+Journal Article
+A Variable-Parameter Model of Exporting BehaviourGet access Arrow
+R. A. Batchelor
+The Review of Economic Studies, Volume 44, Issue 1, February 1977, Pages 43–57, https://doi.org/10.2307/2296972
+Published: 01 February 1977
+... been dropped BATCHELOR A MODEL OF EXPORT BEHAVIOUR 53 altogether because ofits poor showing; the latter has been retained since the net long-term effect cited above is the sum of a series of initially positive but ultimately negative lag coefficients, all well...
+Journal Article
+The Impact of EITC on Education, Labour Market Trajectories, and InequalitiesGet access Arrow
+Julien Albertini and others
+The Review of Economic Studies, rdaf073, https://doi.org/10.1093/restud/rdaf073
+Published: 29 September 2025
+... 5 explores the long-term effects of EITC. Section 6 describes the optimal design of EITC. Section 7 presents the results of several robustness tests. Finally, Section 8 concludes. The federal EITC is a benefit for low-income workers. Its amount varies based on the recipient’s earnings...
+Abstract  
+Supplementary data
+Journal Article
+On the Origins of Property Rights: Conflict and Productionin the State of NatureGet access Arrow
+Catherine Hafer
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 119–143, https://doi.org/10.1111/j.1467-937X.2006.00371.x
+Published: 01 January 2006
+... of goods. In so doing, it provides a natural way to explore the emergence of de facto property rights, emphasized by Sugden (1986) and Skaperdas and Syropoulos (1995) and allows a measure of the extent of (unrealized) potential gains from trade, and so of the long-term effects of the inability...
+Abstract 
+Journal Article
+Long-Run Effects of Lottery Wealth on Psychological Well-Being Open Access
+Erik Lindqvist and others
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2703–2726, https://doi.org/10.1093/restud/rdaa006
+Published: 12 February 2020
+....   Brickman and Campbell, 1971 ; Frederick and Lowenstein, 1999 ), implying the long-term effect of positive economic shocks may be smaller than the short-term effect ( Frey and Stutzer, 2002 ; Clark et al., 2008 ). Considerable uncertainty therefore remains about the magnitude as well...
+Abstract  
+Supplementary data
+Journal Article
+“High” Achievers? Cannabis Access and Academic PerformanceGet access Arrow
+Olivier Marie and Ulf Zölitz
+The Review of Economic Studies, Volume 84, Issue 3, July 2017, Pages 1210–1237, https://doi.org/10.1093/restud/rdx020
+Published: 27 March 2017
+Abstract  
+Supplementary data
+Journal Article
+The Lifetime Costs of Bad HealthGet access Arrow
+Mariacristina De Nardi and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1987–2026, https://doi.org/10.1093/restud/rdae080
+Published: 09 August 2024
+Abstract  
+Supplementary data
+Journal Article
+Getting Parents Involved: A Field Experiment in Deprived SchoolsGet access Arrow
+Francesco Avvisati and others
+The Review of Economic Studies, Volume 81, Issue 1, January 2014, Pages 57–83, https://doi.org/10.1093/restud/rdt027
+Published: 19 September 2013
+Abstract  
+Supplementary data
+Journal Article
+On the Economic Origins of Concerns Over Women’s ChastityGet access Arrow
+Anke Becker
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2303–2329, https://doi.org/10.1093/restud/rdae084
+Published: 26 August 2024
+Abstract  
+Supplementary data
+Journal Article
+Improving Management with Individual and Group-Based Consulting: Results from a Randomized Experiment in ColombiaGet access Arrow
+Leonardo Iacovone and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 346–371, https://doi.org/10.1093/restud/rdab005
+Published: 25 February 2021
+Abstract  
+Supplementary data
+Journal Article
+Quick Job Entry or Long-Term Human Capital Development? The Dynamic Effects of Alternative Training SchemesGet access Arrow
+Aderonke Osikominu
+The Review of Economic Studies, Volume 80, Issue 1, January 2013, Pages 313–342, https://doi.org/10.1093/restud/rds022
+Published: 18 May 2012
+Abstract  
+Supplementary data
+Journal Article
+Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood Free
+David W Brown and others
+The Review of Economic Studies, Volume 87, Issue 2, March 2020, Pages 792–821, https://doi.org/10.1093/restud/rdz039
+Published: 25 July 2019
+Abstract  
+Supplementary data
+Journal Article
+A Model of Wage-Price InflationGet access Arrow
+J. D. Sargan
+The Review of Economic Studies, Volume 47, Issue 1, 1980, Pages 97–112, https://doi.org/10.2307/2297105
+Published: 01 January 1980
+... strategies for the participants in a single industry is so difficult, particularly in view of the great uncertainties about the short term and long term effects of actual current wage bargains, that the short term adoption of rules of thumb by either side would not be surprising, which would...
+Journal Article
+Hours Constraints, Occupational Choice, and Gender: Evidence from Medical ResidentsGet access Arrow
+Melanie Wasserman
+The Review of Economic Studies, Volume 90, Issue 3, May 2023, Pages 1535–1568, https://doi.org/10.1093/restud/rdac042
+Published: 21 July 2022
+Abstract  
+Supplementary data
+Journal Article
+War Signals: A Theory of Trade, Trust, and ConflictGet access Arrow
+Dominic Rohner and others
+The Review of Economic Studies, Volume 80, Issue 3, July 2013, Pages 1114–1147, https://doi.org/10.1093/restud/rdt003
+Published: 05 February 2013
+Abstract  
+Supplementary data
+Journal Article
+Monetary Policy and Birth Rates: The Effect of Mortgage Rate Pass-Through on FertilityGet access Arrow
+Fergus Cumming and Lisa Dettling
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 229–258, https://doi.org/10.1093/restud/rdad034
+Published: 04 March 2023
+Abstract  
+Supplementary data
+Journal Article
+Convicting Corrupt Officials: Evidence from Randomly Assigned Cases Open Access
+Sebastian Axbard
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2271–2302, https://doi.org/10.1093/restud/rdae069
+Published: 25 June 2024
+... just before an election, rather than after, affected short-term municipal corruption in Puerto Rico but had no long-term effects. The three papers most closely related to the current article are Litschig and Zamboni (2024) , Zamboni and Litschig  ( 2018 ), and Avis et al . ( 2018 ), all...
+Abstract  
+Supplementary data
+Journal Article
+Which Investors Matter for Equity Valuations and Expected Returns?Get access Arrow
+Ralph S J Koijen and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2387–2424, https://doi.org/10.1093/restud/rdad083
+Published: 21 August 2023
+Abstract  
+Supplementary data
+Journal Article
+The Development Effects of the Extractive Colonial Economy: The Dutch Cultivation System in JavaGet access Arrow
+Melissa Dell and Benjamin A Olken
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 164–203, https://doi.org/10.1093/restud/rdz017
+Published: 18 March 2019
+Abstract  
+Supplementary data
+Which Investors Matter for Equity Valuations and Expected Returns?Get access Arrow
+Ralph S J Koijen and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2387–2424, https://doi.org/10.1093/restud/rdad083
+Published: 21 August 2023
+Abstract  
+Supplementary data
+Journal Article
+The Development Effects of the Extractive Colonial Economy: The Dutch Cultivation System in JavaGet access Arrow
+Melissa Dell and Benjamin A Olken
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 164–203, https://doi.org/10.1093/restud/rdz017
+Published: 18 March 2019
+Abstract  
+Supplementary data
+Journal Article
+The Micro and Macro Effects of Changes in the Potential Benefit DurationGet access Arrow
+Jonas Jessen and others
+The Review of Economic Studies, rdaf056, https://doi.org/10.1093/restud/rdaf056
+Published: 17 July 2025
+Abstract  
+Supplementary data
+Journal Article
+Patent Term, Innovation, and the Role of Technology Disclosure ExternalitiesGet access Arrow
+Fabio Bertolotti
+The Review of Economic Studies, rdag005, https://doi.org/10.1093/restud/rdag005
+Published: 19 January 2026
+... and Wolf, 2021 ) This paper jointly analyses the short- and long-term effects of innovation policy shocks. Specifically, I present new empirical evidence on the impact of an anticipated change in US patent term—the duration of the legal monopoly granted by patents—on innovation and R&D...
+Abstract  
+Supplementary data
+Journal Article
+Myopic AgencyGet access Arrow
+John Y Zhu
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 1352–1388, https://doi.org/10.1093/restud/rdx034
+Published: 31 May 2017
+.... Without the proper incentives, an agent may engage in indiscriminate lending under terms overly favourable to the borrower. While deviating to this short-term action is an easy way to inflate business today, the long-term effects can be disastrous. Hedge funds are also susceptible to myopic agency. Here...
+Abstract 
+Journal Article
+The Impact of Car Pollution on Infant and Child Health: Evidence from Emissions CheatingGet access Arrow
+Diane Alexander and Hannes Schwandt
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 2872–2910, https://doi.org/10.1093/restud/rdac007
+Published: 16 February 2022
+Abstract  
+Supplementary data
+Journal Article
+Behaviour within a Clinical Trial and Implications for Mammography GuidelinesGet access Arrow
+Amanda E Kowalski
+The Review of Economic Studies, Volume 90, Issue 1, January 2023, Pages 432–462, https://doi.org/10.1093/restud/rdac022
+Published: 09 May 2022
+Abstract 
+Journal Article
+Labour Market Screening and the Design of Social Insurance: An Equilibrium Analysis of the Labour Market for the DisabledGet access Arrow
+Naoki Aizawa and others
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 1–39, https://doi.org/10.1093/restud/rdae015
+Published: 16 February 2024
+Abstract  
+Supplementary data
+Journal Article
+The Baby Boom and World War II: A Macroeconomic AnalysisGet access Arrow
+Matthias Doepke and others
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 1031–1073, https://doi.org/10.1093/restud/rdv010
+Published: 06 March 2015
+Abstract  
+Supplementary data
+Journal Article
+Roman Transport Network Connectivity and Economic IntegrationGet access Arrow
+Matthias Flückiger and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 774–810, https://doi.org/10.1093/restud/rdab036
+Published: 10 July 2021
+Abstract  
+Supplementary data
+Journal Article
+Labour Force Participation: Timing and PersistenceGet access Arrow
+Kim B. Clark and Lawrence H. Summers
+The Review of Economic Studies, Volume 49, Issue 5, December 1982, Pages 825–844, https://doi.org/10.2307/2297190
+Published: 01 December 1982
+... that the increase in participation was not short-lived. Table II presents projected values of labour force participation, based on trends estimated over the periods 1890-1930 and 1890• 1940, for married women and adult women 25-64. Comparison of actual and predicted values confirms the long-term effects...
+Abstract 
+Journal Article
+Feedback and Learning: The Causal Effects of Reversals on Judicial Decision-Making Open Access
+Manudeep Bhuller and Henrik Sigstad
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2359–2397, https://doi.org/10.1093/restud/rdae073
+Published: 25 June 2024
+Abstract  
+Supplementary data
+Journal Article
+From Polygyny to Serial Monogamy: A Unified Theory of Marriage InstitutionsGet access Arrow
+David De La Croix and Fabio Mariani
+The Review of Economic Studies, Volume 82, Issue 2, April 2015, Pages 565–607, https://doi.org/10.1093/restud/rdv001
+Published: 07 January 2015
+Abstract  
+Supplementary data
+Journal Article
+Industrial Policy Implementation: Empirical Evidence from China’s Shipbuilding IndustryGet access Arrow
+Panle Jia Barwick and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3611–3648, https://doi.org/10.1093/restud/rdaf011
+Published: 28 March 2025
+Abstract  
+Supplementary data
+Journal Article
+Endogenous Agency Problems and the Dynamics of RentsGet access Arrow
+B Biais and A Landier
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2542–2567, https://doi.org/10.1093/restud/rdaa021
+Published: 15 June 2020
+Abstract  
+Supplementary data
+Journal Article
+Trust in Risk Sharing: A Double-Edged Sword Free
+Harold L Cole and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1448–1497, https://doi.org/10.1093/restud/rdad071
+Published: 06 July 2023
+Abstract  
+Supplementary data
+Journal Article
+Infrastructure, Growth and the Two Dimensions of Industrial PolicyGet access Arrow
+Moshe Justman
+The Review of Economic Studies, Volume 62, Issue 1, January 1995, Pages 131–157, https://doi.org/10.2307/2297845
+Published: 01 January 1995
+... outstanding 8. Thus resources can be reallocated costlessly from one sector to the other once an infrastructure has been installed. This understates the long-term effects of postponing infrastructure development when directly productive capital is both sector-specific and durable, but simplifiesthe...
+Abstract 
+Journal Article
+Surviving Competition: Neighbourhood Shops versus Convenience Chains Open Access
+Miguel Ángel Talamas Marcos
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 553–585, https://doi.org/10.1093/restud/rdae023
+Published: 01 March 2024
+Abstract  
+Supplementary data
+Journal Article
+Women in the Courtroom: Technology and Justice Open Access
+Heng Chen and others
+The Review of Economic Studies, rdaf066, https://doi.org/10.1093/restud/rdaf066
+Published: 01 August 2025
+Abstract  
+Supplementary data
+Journal Article
+Intrinsic and Extrinsic MotivationGet access Arrow
+Roland Bénabou and Jean Tirole
+The Review of Economic Studies, Volume 70, Issue 3, July 2003, Pages 489–520, https://doi.org/10.1111/1467-937X.00253
+Published: 01 July 2003
+Abstract
+Intrinsic and Extrinsic MotivationGet access Arrow
+Roland Bénabou and Jean Tirole
+The Review of Economic Studies, Volume 70, Issue 3, July 2003, Pages 489–520, https://doi.org/10.1111/1467-937X.00253
+Published: 01 July 2003
+Abstract 
+Journal Article
+Education and Crime over the Life CycleGet access Arrow
+Giulio Fella and Giovanni Gallipoli
+The Review of Economic Studies, Volume 81, Issue 4, October 2014, Pages 1484–1517, https://doi.org/10.1093/restud/rdu014
+Published: 09 May 2014
+... of the effect of two alternative—economy wide—policies; namely, we compare increasing prison sentences to a high school graduation subsidy. The focus of our analysis is on the long-term effects of policy interventions and, to this purpose, we develop a general equilibrium, life-cycle model with heterogeneous...
+Abstract  
+Supplementary data
+Journal Article
+The Brexit Vote, Productivity Growth, and Macroeconomic Adjustments in the U.K.Get access Arrow
+Ben Broadbent and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2104–2134, https://doi.org/10.1093/restud/rdad086
+Published: 18 September 2023
+Abstract  
+Supplementary data
+Journal Article
+Opinions as FactsGet access Arrow
+Leonardo Bursztyn and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1832–1864, https://doi.org/10.1093/restud/rdac065
+Published: 02 December 2022
+Abstract  
+Supplementary data
+Journal Article
+All Along the Watchtower: Military Landholders and Serfdom Consolidation in Early Modern RussiaGet access Arrow
+Andrea Matranga and Timur Natkhov
+The Review of Economic Studies, rdaf095, https://doi.org/10.1093/restud/rdaf095
+Published: 27 November 2025
+Abstract  
+Supplementary data
+Journal Article
+Shocking Racial Attitudes: Black G.I.s in Europe Open Access
+David Schindler and Mark Westcott
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 489–520, https://doi.org/10.1093/restud/rdaa039
+Published: 03 August 2020
+Abstract  
+Supplementary data
+Journal Article
+Sixty Years after the Magic Carpet Ride: The Long-Run Effect of the Early Childhood Environment on Social and Economic OutcomesGet access Arrow
+Eric D. Gould and others
+The Review of Economic Studies, Volume 78, Issue 3, July 2011, Pages 938–973, https://doi.org/10.1093/restud/rdq038
+Published: 23 February 2011
+Abstract  
+Supplementary data
+Journal Article
+Do Female Officers Improve Law Enforcement Quality? Effects on Crime Reporting and Domestic ViolenceGet access Arrow
+Amalia R Miller and Carmit Segal
+The Review of Economic Studies, Volume 86, Issue 5, October 2019, Pages 2220–2247, https://doi.org/10.1093/restud/rdy051
+Published: 18 September 2018
+Abstract  
+Supplementary data
+Journal Article
+Anonymity or Distance? Job Search and Labour Market Exclusion in a Growing African CityGet access Arrow
+Girum Abebe and others
+The Review of Economic Studies, Volume 88, Issue 3, May 2021, Pages 1279–1310, https://doi.org/10.1093/restud/rdaa057
+Published: 28 December 2020
+Abstract  
+Supplementary data
+Journal Article
+Quasi-Experimental Shift-Share Research DesignsGet access Arrow
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 181–213, https://doi.org/10.1093/restud/rdab030
+Published: 08 June 2021
+Abstract  
+Supplementary data
+Journal Article
+Does Tax-Benefit Linkage Matter for the Incidence of Payroll Taxes? Open Access
+Antoine Bozio and others
+The Review of Economic Studies, rdaf059, https://doi.org/10.1093/restud/rdaf059
+Published: 23 July 2025
+Abstract  
+Supplementary data
+Journal Article
+Female Labour Supply and Marital Status Decisions: A Life-Cycle ModelGet access Arrow
+Wilbert van der Klaauw
+The Review of Economic Studies, Volume 63, Issue 2, April 1996, Pages 199–235, https://doi.org/10.2307/2297850
+Published: 01 April 1996
+... a potential marriage. Interruptions in labour market participation caused by marriages as well as the birth and presence of children can have long-term effects through lower future wages associated with less' labour market experience, making the female more economicaHy dependent on the husband...
+Abstract 
+Journal Article
+Determinants of College Major Choice: Identification using an Information ExperimentGet access Arrow
+Matthew Wiswall and Basit Zafar
+The Review of Economic Studies, Volume 82, Issue 2, April 2015, Pages 791–824, https://doi.org/10.1093/restud/rdu044
+Published: 17 December 2014
+Abstract  
+Supplementary data
+Journal Article
+National Industry Trade Shocks, Local Labour Markets, and Agglomeration Spillovers Open Access
+Ines Helm
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1399–1431, https://doi.org/10.1093/restud/rdz056
+Published: 31 October 2019
+... the initial layoff. Kline and Moretti (2014) study how a place-based policy aimed at attracting manufacturing employment and providing investment in public infrastructure affects local employment over the long run. They find sizable long-term effects on manufacturing employment and explain...
+Abstract  
+Supplementary data
+Journal Article
+Backlash: The Unintended Effects of Language Prohibition in U.S. Schools after World War IGet access Arrow
+Vasiliki Fouka
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 204–239, https://doi.org/10.1093/restud/rdz024
+Published: 26 May 2019
+... ; Bisin et al., 2011 ; Schøyen, 2017 ). Whether such backlash is more than a theoretical possibility is an empirical question that has not been tested to date. In this article, I examine the long-term effects of a particular assimilation policy: the prohibition of German in U.S. schools after...
+Abstract  
+Supplementary data
+Journal Article
+Demand Stimulus as Social Policy Open Access
+Alan J Auerbach and others
+The Review of Economic Studies, rdaf096, https://doi.org/10.1093/restud/rdaf096
+Published: 06 November 2025
+... externalities. For example, as shown in the recent comprehensive survey by Aizer et al. (2022) , programs aimed at supporting the health and income of low-income families with children not only reduce childhood poverty and improve childhood nutrition but also have beneficial long-term effects in terms...
+Abstract  
+Supplementary data
+Journal Article
+The Work-From-Home Technology Boon and its ConsequencesGet access Arrow
+Morris A Davis and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3362–3401, https://doi.org/10.1093/restud/rdad114
+Published: 25 January 2024
+... in telecommutable occupations, the improvement in relative WFH productivity widens income inequality. Finally, the model forecasts a small decline in the productivity of work at the office due to a decrease in agglomeration economies. The long-term effects of COVID on income and productivity depend on WFH...
+Abstract  
+Supplementary data
+Journal Article
+Trauma at School: The Impacts of Shootings on Students’ Human Capital and Economic OutcomesGet access Arrow
+Marika Cabral and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 327–365, https://doi.org/10.1093/restud/rdaf027
+Published: 10 June 2025
+Abstract  
+Supplementary data
+Journal Article
+Down the River: Glyphosate Use in Agriculture and Birth Outcomes of Surrounding PopulationsGet access Arrow
+Mateus Dias and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 2943–2981, https://doi.org/10.1093/restud/rdad011
+Published: 06 February 2023
+..., as opposed to potential long-term effects of continued exposure, which would require longitudinal data with a past history of residence. In addition, human embryos during the gestational period are particularly responsive to environmental conditions and laboratory research has shown that glyphosate can...
+Abstract  
+Supplementary data
+Journal Article
+Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work Open Access
+Giulia Giupponi and Camille Landais
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1963–2005, https://doi.org/10.1093/restud/rdac069
+Published: 28 December 2022
+Abstract  
+Supplementary data
+Policy Influence and Private Returns from Lobbying in the Energy SectorGet access Arrow
+Karam Kang
+The Review of Economic Studies, Volume 83, Issue 1, January 2016, Pages 269–305, https://doi.org/10.1093/restud/rdv029
+Published: 20 July 2015
+...-term effect of lobbying on policy outcomes, I track the policies in my dataset for four more years, i.e . through the terms of the 111th and the 112th Congresses. To track these policies, I use the same method described in Section 2.1 . The results of this additional four years of tracking...
+Abstract  
+Supplementary data
+Journal Article
+Firm Quality Dynamics and the Slippery Slope of Credit Intervention Open Access
+Wenhao Li and Ye Li
+The Review of Economic Studies, rdaf100, https://doi.org/10.1093/restud/rdaf100
+Published: 28 November 2025
+.... This observation underscores a trend in which credit intervention has been ambitiously designed under the mantra of doing “whatever it takes” to prevent crises. In light of this trend, it is important to consider the following question: what could be the long-term effects of credit intervention, and in particular...
+Abstract  
+Supplementary data
+Journal Article
+Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labour Market Outcomes in NorwayGet access Arrow
+Marianne Bertrand and others
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 191–239, https://doi.org/10.1093/restud/rdy032
+Published: 21 June 2018
+Abstract  
+Supplementary data
+Journal Article
+“Bid Shopping” in Procurement Auctions with SubcontractingGet access Arrow
+Raymond Deneckere and Daniel Quint
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3840–3887, https://doi.org/10.1093/restud/rdaf007
+Published: 26 February 2025
+.... The concern over bankruptcy is echoed by Baltz ( 1997 , p. 24), who states that bid shopping “creates lower profit margins for subcontractors,” the long-term effect of which may be “a reduction in the number of subcontractors… with a resultant decrease in competition for subcontract work and higher costs...
+Abstract  
+Supplementary data

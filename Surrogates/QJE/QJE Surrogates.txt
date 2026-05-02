@@ -1,0 +1,312 @@
+﻿The Use of Cross-Section Microdata in Life Cycle Models: An Application to Inequality Theory in Nonstationary EconomiesGet access Arrow[a]
+I. J. Irvine
+The Quarterly Journal of Economics, Volume 96, Issue 2, May 1981, Pages 301–316, https://doi.org/10.2307/1882392
+Published: 01 May 1981
+... empirical work based upon panel data, we illustrate how these results can be used as priors to generate a distribution of life cycle earnings. Such a surrogate distribution can be shown to possess the same properties as actual distri- butions. We focus attention particularly upon the treatment...
+Abstract 
+Journal Article
+“The Demand for Money: A Cross-Section Study of Business Firms”: CommentGet access Arrow
+G. S. Maddala and Robert C. Vogel
+The Quarterly Journal of Economics, Volume 79, Issue 1, February 1965, Pages 153–159, https://doi.org/10.2307/1880521
+Published: 01 February 1965
+...., pp. 406, 420. 3. Ibid., p. 420. 4. Ibid., pp. 406, 420. Our italics. 5. Ibid., p. 406. 154 QUARTERLY JOURNAL OF ECONOMICS of parallelism in general between cross-section and time series estimates, and inappropriate use of sales as a surrogate for wealth. (2) Meltzer has...
+Journal Article
+“The Demand for Money: A Cross-Section Study of Business Firms”: ReplyGet access Arrow
+Allan H. Meltzer
+The Quarterly Journal of Economics, Volume 79, Issue 1, February 1965, Pages 162–165, https://doi.org/10.2307/1880523
+Published: 01 February 1965
+... results may not apply to the Tobin model since I did not join his liquidity preference and transaction hypotheses. But this is not the Maddala and Vogel point. The claim that I use sales as (1) "a surrogate for wealth" and that this is "inconsistent" with the use of sales as (2) "a surrogate...
+Journal Article
+The Unimportance of ReswitchingGet access Arrow
+Joan Robinson
+The Quarterly Journal of Economics, Volume 89, Issue 1, February 1975, Pages 32–39, https://doi.org/10.2307/1881707
+Published: 01 February 1975
+... the value of capital does not vary with the rate of profit. The machines required for different techniques on his "surrogate production function" are different with respect to engineering specifications, but, with each technique, the ratio of labor to machines required to produce its machines...
+Abstract 
+Journal Article
+RejoinderGet access Arrow
+John F. Kain
+The Quarterly Journal of Economics, Volume 85, Issue 1, February 1971, Pages 161–162, https://doi.org/10.2307/1881845
+Published: 01 February 1971
+.... The major question is how the coefficient of the neighborhood racial composition variable (R) should be interpreted. To what extent does it represent consumer discrimination based on the racial composition of the neighborhood, and to what extent does it act as a surrogate for transport cost...
+Journal Article
+Technology, Profit Risk, and Assessments of Market PerformanceGet access Arrow
+Roger Sherman and Robert Tollison
+The Quarterly Journal of Economics, Volume 86, Issue 3, August 1972, Pages 448–462, https://doi.org/10.2307/1880803
+Published: 01 August 1972
+... it is not subject to sampling effects as vari- ance measures are, it might serve as a convenient surrogate for profit variance. Our purposes here are, first, to show how a largely technological property, the extent to which a firm's total cost can be adjusted in the short run as its output varies...
+Abstract 
+Journal Article
+ReplyGet access Arrow
+Myron J. Gordon
+The Quarterly Journal of Economics, Volume 76, Issue 2, May 1962, Pages 315–319, https://doi.org/10.2307/1880824
+Published: 01 May 1962
+... over time and among firms is due to differences in liquidity flow. 1 Unable to observe return on investment schedules and disap- pointed with the surrogates for these schedules that have been em- ployed, I have abandoned the theory which requires them. Using a definition of security...
+Journal Article
+Capital Heterogeneity, Aggregation, and the Two-Sector ModelGet access Arrow
+Paul Zarembka
+The Quarterly Journal of Economics, Volume 89, Issue 1, February 1975, Pages 103–114, https://doi.org/10.2307/1881713
+Published: 01 February 1975
+... OF ECONOMICS to a single capital-good sector of Samuelson's 13 surrogate produc- tion function aggregation of a two-good economy to a one-sector model. Equations (7) and (8) are extraordinarily powerful assump- tions, for they say that the relative proportions of utilization of every two physical...
+Abstract 
+Journal Article
+Social and Economic Legislation of the States in 1894Get access Arrow
+William B. Shaw
+The Quarterly Journal of Economics, Volume 9, Issue 2, January 1895, Pages 195–207, https://doi.org/10.2307/1885600
+Published: 01 January 1895
+... or the legacy was the basis of the direct inheritance tax. In the Hoffman case the Surrogate of New York County held that, if the estate was worth $10,000, it should pay a tax of 1 per cent., whether each individual legacy amounted to $10,000 or not. The lower courts did not sustain this contention...
+Journal Article
+Risk and Corporate Rates of Return: ReplyGet access Arrow
+I. N. Fisher and G. R. Hall
+The Quarterly Journal of Economics, Volume 85, Issue 3, August 1971, Pages 518–522, https://doi.org/10.2307/1885938
+Published: 01 August 1971
+... as a surrogate representing the return to efficiency and innovation on grounds that it reflects, among other things, investors' appraisal of management's compe- tence and effectiveness. The firm's annual growth rate is included to represent the return to capacity adjustment; e.g., rapidly ex- panding firms...
+Journal Article
+The Neoclassical Postulate and the Technology Frontier in Capital TheoryGet access Arrow
+Kazuo Sato
+The Quarterly Journal of Economics, Volume 88, Issue 3, August 1974, Pages 353–384, https://doi.org/10.2307/1881941
+Published: 01 August 1974
+... produce other types. The implicit assumption is that it is not efficient. 2. The representation of technology in terms of the linear process was popularized by P. A. Samuelson, "Parable and Realism in Capital Theory : The Surrogate Production Function," Review of Economic Studies, XXIX (June 1962...
+Abstract 
+Journal Article
+The Speed of Response of Firms to New TechniquesGet access Arrow
+Edwin Mansfield
+The Quarterly Journal of Economics, Volume 77, Issue 2, May 1963, Pages 290–311, https://doi.org/10.2307/1884404
+Published: 01 May 1963
+..., surrogates were obtained where possible. For example, since the profitability of a firm's investment in a continuous mining machine was likely to vary directly with the per cent of i#0;s output derived from "high seams#0;" this percentage was used as a surrogate. Other surrogates were the reciprocal...
+Abstract 
+Journal Article
+A Test of the Friedman-Savage Gambling ModelGet access Arrow
+Gregory G. Brunk
+The Quarterly Journal of Economics, Volume 96, Issue 2, May 1981, Pages 341–348, https://doi.org/10.2307/1882394
+Published: 01 May 1981
+.... The two responses should be highly correlated, and this variable provides a useful surrogate. Despite the fact that one might suppose that everyone would indicate they were not at all satisfied with their income, responses were in fact slightly skewed toward moderate satisfaction with income...
+Journal Article
+Economic Aspects of Adulteration and ImitationGet access Arrow
+Carl L. Alsberg
+The Quarterly Journal of Economics, Volume 46, Issue 1, November 1931, Pages 1–33, https://doi.org/10.2307/1883920
+Published: 01 November 1931
+... or imitation does not seem to have been studied in detail. An inquiry into this case is presented in this paper. I. To avoid misunderstanding, the terms, adulteration, sub- stitute, surrogate, imitation, artificial, synthetic, and falsification, need to be defined...
+Abstract 
+Journal Article
+Consumer Demand and Equilibrium Unemployment in a Working Model of the Customer-Market Incentive-Wage EconomyGet access Arrow
+Edmund S. Phelps
+The Quarterly Journal of Economics, Volume 107, Issue 3, August 1992, Pages 1003–1032, https://doi.org/10.2307/2118372
+Published: 01 August 1992
+... possible that the natural rate is an everywhere decreasing function of the real wage. The surrogate employment supply curve, or equilibrium wage curve, was born. This labor-market supply-side block, to- gether with the derived labor-demand block of one's choice, jointly determine the equilibrium...
+Abstract 
+Journal Article
+A Nonsubstitution Theorem and Switching of TechniquesGet access Arrow
+David Levhari
+The Quarterly Journal of Economics, Volume 79, Issue 1, February 1965, Pages 98–105, https://doi.org/10.2307/1880514
+Published: 01 February 1965
+... can do so with the matrices. SAMuELsoN's INN SUBSTITUTION THEOREM Samuelson, in his paper in the Akerman Festschrift 4 and in his article on the surrogate production function, 5 presents the following theorem: With one primary input, say labor, and with no joint products...
+Abstract 
+Journal Article
+Benefit-Cost Analysis: Its Relevance to Public Investment DecisionsGet access Arrow
+Arthur Maass
+The Quarterly Journal of Economics, Volume 80, Issue 2, May 1966, Pages 208–226, https://doi.org/10.2307/1880690
+Published: 01 May 1966
+... to both factors in our complex objective func- tion economic efficiency and income redistribution. Fortunately, however, market-determined prices are a fairly good surrogate for the economic efficiency factor, providing adjustments are made for so-called externalities and the like. 9 This is opportune...
+Abstract 
+Journal Article
+Interfirm Profitability Differences: CommentGet access Arrow
+R. E. Caves and others
+The Quarterly Journal of Economics, Volume 91, Issue 4, November 1977, Pages 667–675, https://doi.org/10.2307/1885889
+Published: 01 November 1977
+... to the "winners' " investments. (c) Each firm faces essentially the same set of investment op- portunities, both initially and subsequently. 3. Mancke appears to believe that the conventional wisdom counts the share- profits relation as a surrogate for market power in the industry, so...
+Journal Article
+Wealth and Wealth Proxies in a Permanent Income ModelGet access Arrow
+J. Walter Elliott
+The Quarterly Journal of Economics, Volume 95, Issue 3, November 1980, Pages 509–535, https://doi.org/10.2307/1885091
+Published: 01 November 1980
+.... These measures are alternatively used in a permanent income model, producing results that bear upon whether wealth-based or income-based surrogates for permanent income better explain con- sumer expenditures. The results suggest that unique information may be contained in explicit measures of consumer wealth...
+Abstract 
+Journal Article
+A Model of Short-Run Bank BehaviorGet access Arrow
+Dennis J. Aigner and William R. Bryan
+The Quarterly Journal of Economics, Volume 85, Issue 1, February 1971, Pages 97–118, https://doi.org/10.2307/1881842
+Published: 01 February 1971
+.... The surrogate variable, A, was constructed as a measure of a bank's anticipations regarding deposit movements. Briefly, this "expectations index" seeks to embody the notion that the bank 5. See, for example, A. P. Barten, "Maximum Likelihood Estimation of a Complete System of Demand Equations," Report...
+Abstract
+New Union Organizing: A Test of the Ashenfelter-Pencavel Model of Trade Union GrowthGet access Arrow
+Arvil V. Adams and Joseph Krislov
+The Quarterly Journal of Economics, Volume 88, Issue 2, May 1974, Pages 304–311, https://doi.org/10.2307/1883073
+Published: 01 May 1974
+... the historical association of the union movement and the Democratic Party, Ashenfelter and Pencavel use the percentage of Democrats, (D L ), in the United States House of Representatives to measure the impact on union organization of legislation and po- litical forces as surrogates of public opinion...
+Abstract 
+Journal Article
+Steady-State and Transient Relations: A Reply on ReswitchingGet access Arrow
+Paul A. Samuelson
+The Quarterly Journal of Economics, Volume 89, Issue 1, February 1975, Pages 40–47, https://doi.org/10.2307/1881708
+Published: 01 February 1975
+... a 1967 correction or a 1975 recantation. But I sinned neither in thought nor word. Indeed, even in 1962, 6 I did not perpetrate such an error in my surrogate production function dis- cussion; and in 1966 I went out of the way to avoid all such pitfalls. SUBSTANTIVE...
+Abstract 
+Journal Article
+The Nature and Implications of the Reswitching of TechniquesGet access Arrow
+Michael Bruno and others
+The Quarterly Journal of Economics, Volume 80, Issue 4, November 1966, Pages 526–553, https://doi.org/10.2307/1882914
+Published: 01 November 1966
+... into an indecomposable one by adding some arbitrarily small elements in the right places thereby causing only an infinitesimal change in the FPF. 3. This so-called canonical model was introduced by Samuelson, "Parable and Realism in Capital Theory: The Surrogate Production Function," Review of Economic...
+Abstract 
+Journal Article
+An Annual Index of U. S. Industrial Production, 1790–1915Get access Arrow
+Joseph H. Davis
+The Quarterly Journal of Economics, Volume 119, Issue 4, November 2004, Pages 1177–1215, https://doi.org/10.1162/0033553042476143
+Published: 01 November 2004
+... emerged following the culmination of years of research by its members. Collectively, these secondary sources act as a historical surrogate for the various agencies that currently provide statis- tics to the Federal Reserve for inclusion in its monthly index. New annual production series have been...
+Abstract 
+Journal Article
+Diversifying Society’s Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private CollegesGet access Arrow
+Raj Chetty and others
+The Quarterly Journal of Economics, Volume 141, Issue 1, February 2026, Pages 51–145, https://doi.org/10.1093/qje/qjaf050
+Published: 30 October 2025
+... our key outcomes at age 33—the probability of having earnings in the top 1% of the birth cohort and mean income rank—on graduate school and employer fixed effects interacted with age (22–25) fixed effects and construct predicted values from these regressions, a surrogate index in the terminology...
+Abstract  
+Supplementary data
+Journal Article
+The Firm Decision Process: An Econometric InvestigationGet access Arrow
+Dennis C. Mueller
+The Quarterly Journal of Economics, Volume 81, Issue 1, February 1967, Pages 58–87, https://doi.org/10.2307/1879673
+Published: 01 February 1967
+... with that of the theory which it represents, for the variable may act as a surrogate for a number of separate influences upon firm be- havior. This characteristic of lagged dependent variables introduces a number of problems in interpretation. The distributed lag vari- able conceivably might be any one...
+Abstract 
+Journal Article
+The Badly Behaved Production FunctionGet access Arrow
+Joan Robinson and K. A. Naqvi
+The Quarterly Journal of Economics, Volume 81, Issue 4, November 1967, Pages 579–591, https://doi.org/10.2307/1885579
+Published: 01 November 1967
+... in mind when he con- structed his surrogate production function with jelly capital, but, although in this case the envelope of the lines for the separate techniques may look like a well-behaved production function, it would not #0;e o#0;e#0; #0;#0;e e#0;as#0;ici#0;y o#0; #0;#0;e e#0;#0;e#0;o#0;e #0;oes #0;o#0; eess #0;#0;e relative share...
+Abstract 
+Journal Article
+Rate-of-Return Regulation and Two-Part TariffsGet access Arrow
+Roger Sherman and Michael Visscher
+The Quarterly Journal of Economics, Volume 97, Issue 1, February 1982, Pages 27–42, https://doi.org/10.2307/1882625
+Published: 01 February 1982
+... to these surrogate marginal costs could produce one price above true marginal cost and the other below it. In this example the greater understatement of marginal cost would come through #0;yK#0;#0; tending to make #0;#0; below true marginal 11. Ordinarily both terms in the numerators will be negative, and we can...
+Abstract 
+Journal Article
+Switching and Reswitching in a General Production ModelGet access Arrow
+David A. Starrett
+The Quarterly Journal of Economics, Volume 83, Issue 4, November 1969, Pages 673–687, https://doi.org/10.2307/1885456
+Published: 01 November 1969
+... and the Theory of Capital: Comment," Review of Economic Studies, XXI (June 1953). 2. P. Samuelson, "Parable and Realism in Capital Theory: The Surrogate Production Function," Review of Economic Studies, XXIX (June 1962), 193-206. 3. We may...
+Abstract 
+Journal Article
+Annual Inequality and Lifetime InequalityGet access Arrow
+Peter H. Friesen and Danny Miller
+The Quarterly Journal of Economics, Volume 98, Issue 1, February 1983, Pages 139–155, https://doi.org/10.2307/1885571
+Published: 01 February 1983
+... vavo — fdxa fdx0 f.(xa)f13(xi3), ao3€ r 2 X.ye r v-i i-t-y shows that it cannot serve as a surrogate for lifetime inequality. Mo- bility in annual incomes over time is a fact of life. Some of the rich have bad years and conversely, some of the poor have good...
+Abstract 
+Journal Article
+The Theory of Relative SharesGet access Arrow
+Lowell E. Gallaway
+The Quarterly Journal of Economics, Volume 78, Issue 4, November 1964, Pages 574–591, https://doi.org/10.2307/1879656
+Published: 01 November 1964
+... is to implement it with a suitable set of data. This presents some difficulties in that no obvious source of data describing sector relative labor prices is avail- able. However, as an alternative, we might simply use money wage rates as a surrogate for the relative price of labor. This is probably...
+Abstract 
+Journal Article
+The Optimal Consumption of Depletable Natural ResourcesGet access Arrow
+Milton C. Weinstein and Richard J. Zeckhauser
+The Quarterly Journal of Economics, Volume 89, Issue 3, August 1975, Pages 371–392, https://doi.org/10.2307/1885258
+Published: 01 August 1975
+... are considered. See M. Spence and R. Zeckhauser, "The Effect of the Timing of Consumption Decisions and the Res- olution of Lotteries on the Choice of Lotteries," Econometrica, XL (March 1972), 401-03. Nevertheless, it is a common and convenient practice to use utility of discounted income as a surrogate...
+Abstract 
+Journal Article
+Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits Free
+Tamma Carleton and others
+The Quarterly Journal of Economics, Volume 137, Issue 4, November 2022, Pages 2037–2105, https://doi.org/10.1093/qje/qjac020
+Published: 21 April 2022
+... ). 7 To correct for this, we assign probabilistic weights to climate projections and use 12 surrogate models that describe local climate outcomes in the tails of the climate sensitivity distribution ( Rasmussen, Meinshausen, and Kopp 2016 ; Hsiang et al. 2017 ). Online Appendix Figure B.2...
+Abstract  
+Supplementary data
+Journal Article
+Bank Portfolio Allocation, Deposit Variability, and the Availability DoctrineGet access Arrow
+Edward J. Kane and Burton G. Malkiel
+The Quarterly Journal of Economics, Volume 79, Issue 1, February 1965, Pages 113–134, https://doi.org/10.2307/1880516
+Published: 01 February 1965
+... period. In the first place, em- ployment of more stringent credit standards for loans at unchanged contract rates stands as a surrogate for higher stated rates as the formulation of (I.4) in footnote (2) just above makes clear. Thus they do effect implicit increases in interest rates. Second...
+Abstract 
+Journal Article
+The Long-Term Effects of Universal Preschool in BostonGet access Arrow
+Guthrie Gray-Lobe and others
+The Quarterly Journal of Economics, Volume 138, Issue 1, February 2023, Pages 363–411, https://doi.org/10.1093/qje/qjac036
+Published: 16 September 2022
+Abstract  
+Supplementary data
+Journal Article
+Two-Sector Growth with Endogenous Technical Change: A Marxian Simulation ModelGet access Arrow
+David Laibman
+The Quarterly Journal of Economics, Volume 96, Issue 1, February 1981, Pages 47–75, https://doi.org/10.2307/2936140
+Published: 01 February 1981
+... the present moment and the time of scrapping. It is difficult to imagine that a capitalist could make a calculation of this kind in his own sector, let alone for other sectors; the closest he could conceivably get is to estimate re- placement cost in terms of the latest vintage, as a surrogate...
+Abstract 
+Journal Article
+Walrasian Economics in RetrospectGet access Arrow
+Samuel Bowles and Herbert Gintis
+The Quarterly Journal of Economics, Volume 115, Issue 4, November 2000, Pages 1411–1439, https://doi.org/10.1162/003355300555006
+Published: 01 November 2000
+... by the employer, but the ex post rent remains, and the threat of its removal continues to motivate the employee). The fact that such fees, or their surrogates such as steep tenure-earnings proﬁles, are not widespread is taken to mean that models of the contingent renewal type are ﬂawed...
+Abstract 
+Journal Article
+Intermediate Products and Differential Tariffs: A Generalization of Lerner's Symmetry TheoremGet access Arrow
+Ronald I. McKinnon
+The Quarterly Journal of Economics, Volume 80, Issue 4, November 1966, Pages 584–615, https://doi.org/10.2307/1882917
+Published: 01 November 1966
+Abstract 
+Journal Article
+Does Market Experience Eliminate Market Anomalies?Get access Arrow
+John A. List
+The Quarterly Journal of Economics, Volume 118, Issue 1, February 2003, Pages 41–71, https://doi.org/10.1162/00335530360535144
+Published: 01 February 2003
+Abstract 
+Journal Article
+Contracts as Reference PointsGet access Arrow
+Oliver Hart and John Moore
+The Quarterly Journal of Economics, Volume 123, Issue 1, February 2008, Pages 1–48, https://doi.org/10.1162/qjec.2008.123.1.1
+Published: 01 February 2008
+Abstract
+Optimal Dividends and Corporate Growth under UncertaintyGet access Arrow
+John Lintner
+The Quarterly Journal of Economics, Volume 78, Issue 1, February 1964, Pages 49–95, https://doi.org/10.2307/1880545
+Published: 01 February 1964
+... 57 periods (or as their surrogate, recent realized levels of earnings). To bring out the central implications of such dependence most simply, I shall assume 7 that the average profit rate p on the net in- vestment flow (capital budget) Ft* at any time t is constant over time when written...
+Abstract 
+Journal Article
+Identity, Morals, and Taboos: Beliefs as AssetsGet access Arrow
+Roland Bénabou and Jean Tirole
+The Quarterly Journal of Economics, Volume 126, Issue 2, May 2011, Pages 805–855, https://doi.org/10.1093/qje/qjr002
+Published: 01 May 2011
+... certain ones to be “priceless” or sacred: life, justice, liberty, honor, love, religious faith, etc. (e.g., Durkheim 1925). It is thus considered highly immoral to place a monetary value on marriage, friendship, or loyalty to a cause. Markets for organs, genes, sex, surrogate pregnancy and adoption...
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Fixed Exchange Rates on Monetary PolicyGet access Arrow
+Jay C. Shambaugh
+The Quarterly Journal of Economics, Volume 119, Issue 1, February 2004, Pages 301–352, https://doi.org/10.1162/003355304772839605
+Published: 01 February 2004
+Abstract 
+Journal Article
+Answering the Call of Automation: How the Labor Market Adjusted to Mechanizing Telephone OperationGet access Arrow
+James Feigenbaum and Daniel P Gross
+The Quarterly Journal of Economics, Volume 139, Issue 3, August 2024, Pages 1879–1939, https://doi.org/10.1093/qje/qjae005
+Published: 26 February 2024
+Abstract  
+Supplementary data
+Journal Article
+EDITOR'S CHOICE
+Does Directed Innovation Mitigate Climate Damage? Evidence from U.S. AgricultureGet access Arrow
+Jacob Moscona and Karthik A Sastry
+The Quarterly Journal of Economics, Volume 138, Issue 2, May 2023, Pages 637–701, https://doi.org/10.1093/qje/qjac039
+Published: 13 October 2022
+Abstract  
+Supplementary data
+Journal Article
+Representation and Extrapolation: Evidence from Clinical Trials Open Access
+Marcella Alsan and others
+The Quarterly Journal of Economics, Volume 139, Issue 1, February 2024, Pages 575–635, https://doi.org/10.1093/qje/qjad036
+Published: 05 September 2023
+Abstract  
+Supplementary data
+[a]46 results in total

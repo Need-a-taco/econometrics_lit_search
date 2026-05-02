@@ -1,0 +1,2536 @@
+﻿A production technology, p(q|b, θ), that generates switchingGet access Arrow
+in Private Information and Intertemporal Job Assignments
+Published: 01 April 2006
+Table 1 A production technology, p (q | b , θ), that generates switching
+Image
+A production technology for signals, f(s|b, θ), for which
+A production technology for signals, f(s|b, θ), for whichGet access Arrow
+in Private Information and Intertemporal Job Assignments
+Published: 01 April 2006
+Table 2 A production technology for signals, f (s | b, θ), for which it is valuable for the principal to know θ
+Image
+Isoquants for long-term and short-term production technologies 
+Isoquants for long-term and short-term production technologiesGet access Arrow
+in Common Currencies vs. Monetary Independence
+Published: 01 October 2003
+Figure 3 Isoquants for long-term and short-term production technologies
+Journal Article
+Estimating Production Functions Using Inputs to Control for UnobservablesGet access Arrow
+James Levinsohn and Amil Petrin
+The Review of Economic Studies, Volume 70, Issue 2, April 2003, Pages 317–341, https://doi.org/10.1111/1467-937X.00246
+Published: 01 April 2003
+...James Levinsohn; Amil Petrin 6 2000 10 2002 © 2003 The Review of Economic Studies Limited 2003 Abstract We add to the methods for conditioning out serially correlated unobserved shocks to the production technology. We build on ideas first developed in Olley and Pakes (1996). They show how...
+Abstract 
+Journal Article
+Efficient Intra-Household Allocations and Distribution Factors: Implications and IdentificationGet access Arrow
+François Bourguignon and others
+The Review of Economic Studies, Volume 76, Issue 2, April 2009, Pages 503–528, https://doi.org/10.1111/j.1467-937X.2008.00525.x
+Published: 01 April 2009
+... consumption externalities between household members, and all types of interdependent individual preferences and domestic production technology. The test is proved to be necessary and sufficient. We then provide conditions for the identification of the sharing rule and the Engel curves of individual household...
+Abstract 
+Journal Article
+Social Incentives in the WorkplaceGet access Arrow
+Oriana Bandiera and others
+The Review of Economic Studies, Volume 77, Issue 2, April 2010, Pages 417–458, https://doi.org/10.1111/j.1467-937X.2009.00574.x
+Published: 01 April 2010
+... by the presence of those they are socially tied to, even in settings where there are no externalities among workers due to either the production technology or the compensation scheme in place. To do so, we combine data on individual worker productivity from a firm's personnel records with information on each...
+Abstract 
+Journal Article
+Wage and Technology DispersionGet access Arrow
+Daron Acemoglu and Robert Shimer
+The Review of Economic Studies, Volume 67, Issue 4, October 2000, Pages 585–607, https://doi.org/10.1111/1467-937X.00146
+Published: 01 October 2000
+... in order to gather information about jobs (Stigler (1961)). In equilibrium, some firms adopt high fixed cost, high productivity technologies, offer high wages, and fill job openings quickly. Other firms adopt less capital-intensive technologies and offer low wages, hiring mostly uninformed workers...
+Abstract 
+Journal Article
+Appropriate Technology and Balanced Growth Open Access
+Miguel A León-Ledesma and Mathan Satchi
+The Review of Economic Studies, Volume 86, Issue 2, March 2019, Pages 807–835, https://doi.org/10.1093/restud/rdy002
+Published: 22 January 2018
+... macroeconomic models. The rest of the article is organized as follows. The next section contains the key theoretical results. It presents the production technology and its core characteristics, dynamics, and relationship to balanced growth. Section 3 presents an application of this approach to modelling...
+Abstract  
+Supplementary data
+Journal Article
+Marriage Market and Labour Market SortingGet access Arrow
+Paula Calvo and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3316–3361, https://doi.org/10.1093/restud/rdae010
+Published: 29 January 2024
+..., but fuels between-household inequality. Our estimated model sheds new light on the sources of inequality in today’s Germany, and—by identifying important shifts in home production technology toward more complementarity—on the evolution of inequality over time. Sorting Marriage market Labour market Hours...
+Abstract  
+Supplementary data
+Journal Article
+Estimating a Dynamic Adverse-Selection Model: Labour-Force Experience and the Changing Gender Earnings Gap 1968–1997Get access Arrow
+George-Levi Gayle and Limor Golan
+The Review of Economic Studies, Volume 79, Issue 1, January 2012, Pages 227–267, https://doi.org/10.1093/restud/rdr019
+Published: 08 September 2011
+..., number of hours worked, and the proportion of females working in professional occupations. Although of less importance, demographic changes account for a substantial part of the increase in female labour-force participation and hours worked, whereas home production technology shocks do not. Gender...
+Abstract  
+Supplementary data
+Journal Article
+Private Information and Intertemporal Job AssignmentsGet access Arrow
+Edward Simpson Prescott and Robert M. Townsend
+The Review of Economic Studies, Volume 73, Issue 2, April 2006, Pages 531–548, https://doi.org/10.1111/j.1467-937X.2006.00386.x
+Published: 01 April 2006
+...A production technology, p (q | b , θ), that generates switching ...
+Abstract 
+Journal Article
+A Welfare Analysis of Employment Contracts with and without Asymmetric InformationGet access Arrow
+Arthur J. Hosios
+The Review of Economic Studies, Volume 51, Issue 3, July 1984, Pages 471–489, https://doi.org/10.2307/2297435
+Published: 01 July 1984
+..., two consumption goods and random production technologies in which: (a) workers can/cannot observe realizations of their employers' revenue function (symmetric vs. asymmetric information), and in which; (b) employment contracts allow/preclude contingent wages and/or employment levels (flexible vs...
+Abstract 
+Journal Article
+Monopsony Wage Determination and Multiple Unemployment Equilibria in a Non-Linear Search ModelGet access Arrow
+Martin Chalkley
+The Review of Economic Studies, Volume 58, Issue 1, January 1991, Pages 181–193, https://doi.org/10.2307/2298054
+Published: 01 January 1991
+..., with a low activity equilibrium that displays "bootstrap" properties. The incorporation of non-linear production technology together with a reconsider• ation of wage determination within a search setting therefore appears to provide an interesting extension to the analysis of search in equilibrium...
+Abstract 
+Journal Article
+A Theory of Socially Responsible Investment Open Access
+Martin Oehmke and Marcus M Opp
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 1193–1225, https://doi.org/10.1093/restud/rdae048
+Published: 22 April 2024
+... frictions are not only empirically relevant for young firms (an important source of clean innovation), but they also matter for mature firms that seek to replace profitable dirty production with more expensive clean production technologies. We find that whether an SR fund can achieve impact crucially...
+Abstract 
+Image
+Markov equilibrium interest rate policy correspondence and payment technolo...
+Markov equilibrium interest rate policy correspondence and payment technolo...Get access Arrow
+in Expectation Traps and Monetary Policy
+Published: 01 October 2003
+Figure 4 Markov equilibrium interest rate policy correspondence and payment technology functions with two types of shocks. (a) Markov equilibrium with production technology shock, θ. (b) Markov equilibrium with payment technology shock, η
+Journal Article
+FEATURED
+Estimating Production Functions of Multiproduct FirmsGet access Arrow
+Nelli Valmari
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 3315–3342, https://doi.org/10.1093/restud/rdad005
+Published: 25 January 2023
+... in evaluating how changes in, for example, competition and regulation affect market outcomes. Production function estimates are typically based on the often implicit assumption that the firm produces all of its output with a firm-level production technology that is independent of the firm’s product set...
+Abstract  
+Supplementary data
+Journal Article
+The Macroeconomics of Supply Chain DisruptionsGet access Arrow
+Daron Acemoglu and Alireza Tahbaz-Salehi
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 656–695, https://doi.org/10.1093/restud/rdae038
+Published: 10 April 2024
+... access to a menu of constant returns production technologies, each with its own productivity and a potentially different mix of inputs sourced from other firms. 2 Forming relationships with suppliers raises the firm’s productivity but requires upfront fixed costs, as supplier–customer...
+Abstract  
+Supplementary data
+Image
+The effect of carbon pricing with and without technology switching Notes: T...
+The effect of carbon pricing with and without technology switching Notes: T... Open Access
+in Does Pricing Carbon Mitigate Climate Change? Firm-Level Evidence from the European Union Emissions Trading System
+Published: 24 May 2024
+Figure 5. effect of the new technology leads to an increase in value added. Measured TFP trails the increase in actual TFP because measured capital overstates the amount of productive capital. Since data on one-off investments to switch production technologies is not separately available from other investments
+Journal Article
+Household Choices and Child DevelopmentGet access Arrow
+Daniela Del Boca and others
+The Review of Economic Studies, Volume 81, Issue 1, January 2014, Pages 137–185, https://doi.org/10.1093/restud/rdt026
+Published: 03 October 2013
+... a production technology for child quality, in which some initial endowment of child quality at birth is augmented during the development process by inputs of time contributed by parents, siblings, other relatives, paid child-care workers, teachers, etc., and by various types of goods purchased in the market...
+Abstract  
+Supplementary data
+Image
+Coal demand and natural gas prices Notes: This stylized electricity market ...
+Coal demand and natural gas prices Notes: This stylized electricity market ...Get access Arrow
+in Market Power in Coal Shipping and Implications for U.S. Climate Policy
+Published: 07 September 2023
+Figure. 3. translate the coal plant’s production into its coal input demand (MWh out as a function of MMBTU of coal in, given the plant’s fixed production technology). Under a high gas price ( P gas H ), the coal plant consumes at full capacity ( Q cap ) given a low coal price ( P coal L
+Contractual Incompleteness, Unemployment, and Labour Market SegmentationGet access Arrow
+Steffen Altmann and others
+The Review of Economic Studies, Volume 81, Issue 1, January 2014, Pages 30–56, https://doi.org/10.1093/restud/rdt034
+Published: 23 October 2013
+... on the causal impact of contractual incompleteness on unemployment and market segmentation, we study behaviour of firms and workers in competitive experimental labour markets. All firms in our markets share the same production technology which exhibits decreasing returns to scale from labour. In our main...
+Abstract  
+Supplementary data
+Journal Article
+Common Currencies vs. Monetary IndependenceGet access Arrow
+Thomas F. Cooley and Vincenzo Quadrini
+The Review of Economic Studies, Volume 70, Issue 4, October 2003, Pages 785–806, https://doi.org/10.1111/1467-937X.00267
+Published: 01 October 2003
+...Thomas F. Cooley; Vincenzo Quadrini Firms and technology. The main action comes from the decisions of firms. Firms produce output with two intermediate inputs: a domestically produced input and an imported input. In country 1 the production technology is (1) where...
+Abstract 
+Journal Article
+Optimal Bank Regulation and Fiscal CapacityGet access Arrow
+Vania Stavrakeva
+The Review of Economic Studies, Volume 87, Issue 2, March 2020, Pages 1034–1089, https://doi.org/10.1093/restud/rdz012
+Published: 16 April 2019
+... of banks and large banks. The domestic consumers are identical, infinitesimally small, and of measure one. They consume and lend to/borrow from banks using state-contingent contracts. Every consumer also operates a labour-intensive production technology and owns an equal share of the equity of the firms...
+Abstract  
+Supplementary data
+Journal Article
+The Morishima Elasticity of Substitution; Symmetry, Constancy, Separability, and its Relationship to the Hicks and Allen ElasticitiesGet access Arrow
+Charles Blackorby and R. Robert Russell
+The Review of Economic Studies, Volume 48, Issue 1, January 1981, Pages 147–158, https://doi.org/10.2307/2297127
+Published: 01 January 1981
+... the class of production technologies for which the Morishima elasticities of substitution are identical to the Allen elasticities of substitu• tion. Theorem 3. Assume that C satisfies the regularity conditions. Then the Morishima and Allen elasticities ofsubstitution are identical ifand only...
+Journal Article
+A Diagrammatic Approach to General Equilibrium AnalysisGet access Arrow
+N. F. Laing
+The Review of Economic Studies, Volume 30, Issue 1, February 1963, Pages 43–55, https://doi.org/10.2307/2296030
+Published: 01 February 1963
+... EQUILIBRIUM ANALYSIS 55 prices. It follows that equal neutral improvements in the production technology of X and Y affect all factor indifference curves by shifting them the same proportional amount as that of the improvement, towards their origins. The effect on prices is therefore the same...
+Journal Article
+A Measure of CapitalGet access Arrow
+Graham Pyatt
+The Review of Economic Studies, Volume 30, Issue 3, October 1963, Pages 195–202, https://doi.org/10.2307/2296320
+Published: 01 October 1963
+... of producing-a state of technical knowledge -which has become stylised as a book of blueprints. Certain pages, or combinations of pages, within this book dominate others because they represent more efficient ways of producing. Taken together the undominated pages yield a convex production technology...
+Journal Article
+Assessing Dynamic Efficiency: Theory and EvidenceGet access Arrow
+Andrew B. Abel and others
+The Review of Economic Studies, Volume 56, Issue 1, 1989, Pages 1–19, https://doi.org/10.2307/2297746
+Published: 01 January 1989
+... of Phelps (1961) and others: an economy is dynamically efficient if it invests less than the return to capital and is inefficient if it invests more than the return to capital. This result applies to a stochastic setting with a very general production technology. In a competitive economy, therefore...
+Abstract 
+Journal Article
+International Trade and Currency ExchangeGet access Arrow
+Hélène Rey
+The Review of Economic Studies, Volume 68, Issue 2, April 2001, Pages 443–464, https://doi.org/10.1111/1467-937X.00176
+Published: 01 April 2001
+....' The production technology is a constant return to scale technology with labour as sole input. Agents are infinitely lived and can be either producers or financial intermediaries. There is no labour mobility between countries but full labour mobility between sectors within a country. Both producers...
+Abstract 
+Journal Article
+Does Pricing Carbon Mitigate Climate Change? Firm-Level Evidence from the European Union Emissions Trading System Open Access
+Jonathan Colmer and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1625–1660, https://doi.org/10.1093/restud/rdae055
+Published: 24 May 2024
+..., but not emissions intensity, that we observe during the later years of phase II. We present an augmented model of firm production, where firms have the opportunity to switch to an alternative production technology, which requires a fixed switching cost, and also reduces marginal variable costs and weakly increases...
+Abstract  
+Supplementary data
+Journal Article
+Building the Family Nest: Premarital Investments, Marriage Markets, and Spousal AllocationsGet access Arrow
+Murat Nick and P. Randall Walsh
+The Review of Economic Studies, Volume 74, Issue 2, April 2007, Pages 507–535, https://doi.org/10.1111/j.1467-937X.2007.00429.x
+Published: 01 April 2007
+...: in Section 3 , we describe spousal preferences, endowments, and the marital production technology. In Section 4 , we examine the marital outcomes and their stability conditional on a given set of premarital decisions. In Section 5 , we discuss individuals' premarital investments and how the matching...
+Abstract 
+Journal Article
+Productivity Dynamics with Technology Choice: An Application to Automobile AssemblyGet access Arrow
+Johannes van Biesebroeck
+The Review of Economic Studies, Volume 70, Issue 1, January 2003, Pages 167–198, https://doi.org/10.1111/1467-937X.00241
+Published: 01 January 2003
+... ratio, and returns to scale. 1. INTRODUCTION Measuring technological change, which is defined as the shift of a production function over time, becomes harder if plants can choose which production technology to adopt. In the automobile assembly industry...
+Abstract 
+Journal Article
+Self-Selection and Monitoring in Dynamic Incentive Problems with Incomplete ContractsGet access Arrow
+Arthur J. Hosios and Michael Peters
+The Review of Economic Studies, Volume 60, Issue 1, January 1993, Pages 149–174, https://doi.org/10.2307/2297816
+Published: 01 January 1993
+... to resolve informational difficulties along the equilibrium path. We also study the employer's choice of production technology. In particular, we allow the employer to consider the information generated by the production process in selecting his technology. We are primarily interested in illustrating...
+Abstract 
+Journal Article
+Excess Capacity and Demand-Driven Business Cycles Open Access
+Tiancheng Sun
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2730–2764, https://doi.org/10.1093/restud/rdae072
+Published: 25 June 2024
+... to explain business cycle fluctuations. Moreover, in Bai et al.  ( 2012 ), the matching technology and the production technology combined exhibit increasing returns to scale. This assumption allows demand shocks to be important for business cycles even though capacity is efficiently utilized...
+Abstract  
+Supplementary data
+Journal Article
+Human Capital, Female Employment, and Electricity: Evidence from the Early 20th-Century United StatesGet access Arrow
+Daniela Vidart
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 560–594, https://doi.org/10.1093/restud/rdad021
+Published: 15 February 2023
+... and skilled production, respectively. Wages in the skilled and unskilled sectors are thus given by w u = A u , w s = A s . The home production technology, on the other hand, captures the possibility individuals have of producing goods at home, and is given by Y h = A h L h...
+Abstract  
+Supplementary data
+Journal Article
+Trading Population for Productivity: Theory and EvidenceGet access Arrow
+Oded Galor and Andrew Mountford
+The Review of Economic Studies, Volume 75, Issue 4, October 2008, Pages 1143–1179, https://doi.org/10.1111/j.1467-937X.2008.00501.x
+Published: 01 October 2008
+.... In early stages of development the new production technologies are latent and production is conducted using the old technologies. However, in the process of development the productivity of the new technologies grows faster than those of the old technologies and ultimately the new technologies become...
+Abstract  
+Supplementary data
+Journal Article
+Expectation Traps and Monetary PolicyGet access Arrow
+Stefania Albanesi and others
+The Review of Economic Studies, Volume 70, Issue 4, October 2003, Pages 715–741, https://doi.org/10.1111/1467-937X.00264
+Published: 01 October 2003
+... in this economy is produced by a monopolist using the following production technology: where y(ω) denotes output and n(ω) denotes the employment level for the type ω good. Also, recall that θ is a technology shock that is the same for all goods. The household's problem yields demand curves...
+Abstract 
+Journal Article
+Identifying Sorting—In TheoryGet access Arrow
+Jan Eeckhout and Philipp Kircher
+The Review of Economic Studies, Volume 78, Issue 3, July 2011, Pages 872–906, https://doi.org/10.1093/restud/rdq034
+Published: 04 March 2011
+.... It provides insights into the features of the production technology. If the answer is affirmative and there is positive sorting, it means that the inputs in production, worker skill, and job productivity, exhibits strong enough complementarities. The marginal product of a worker increases the better the firm...
+Abstract 
+Journal Article
+Nonergodic Economic GrowthGet access Arrow
+Steven N. Durlauf
+The Review of Economic Studies, Volume 60, Issue 2, April 1993, Pages 349–366, https://doi.org/10.2307/2298061
+Published: 01 April 1993
+... by the interactions of many heterogeneous industries employing non-convex technologies. Production occurs with a one period lag; industries commit themselves to one of two production technologies, together with an associated level of capital at t in order to produce output at t + 1. Cooper (1987) and Murphy...
+Abstract 
+Journal Article
+Energy and Resource Allocation: A Dynamic Model of the “Dutch Disease”Get access Arrow
+Michael Bruno and Jeffrey Sachs
+The Review of Economic Studies, Volume 49, Issue 5, December 1982, Pages 845–859, https://doi.org/10.2307/2297191
+Published: 01 December 1982
+... that the marginal value product of capital is always equal to r*'TT'k' where r* is the fixed world rental rate. By standard results of the Heckschen-Ohlin-Samuelson model (assuming constant-returns-to-scale production technology in Nand T), fixing r*'TT'k also fixes the relative price of non-traded goods...
+Abstract 
+Journal Article
+A Model of TFPGet access Arrow
+Ricardo Lagos
+The Review of Economic Studies, Volume 73, Issue 4, October 2006, Pages 983–1007, https://doi.org/10.1111/j.1467-937X.2006.00405.x
+Published: 01 October 2006
+..., a standard search model of the labour market—with its underlying meeting frictions and simple fixed-proportions micro-level production technologies—can generate an aggregate production function that looks just like the one implied by the textbook neoclassical model of growth in which firms have access...
+Abstract  
+Supplementary data
+Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field ExperimentsGet access Arrow
+Alec Brandon and others
+The Review of Economic Studies, rdag012, https://doi.org/10.1093/restud/rdag012
+Published: 20 February 2026
+Abstract  
+Supplementary data
+Journal Article
+Incentives and Loss of Control in an Optimal HierarchyGet access Arrow
+Yingyi Qian
+The Review of Economic Studies, Volume 61, Issue 3, July 1994, Pages 527–544, https://doi.org/10.2307/2297902
+Published: 01 July 1994
+... to be quite useful, which enables us to obtain many insightful results about the hierarchical structure. Two main results are obtained with a specific monitoring and production technology. First, in the optimal hierarchy in which all managers and workers are identical ex ante, wages fall and efforts...
+Abstract 
+Journal Article
+Majority Voting and Corporate Control: The Rule of the Dominant ShareholderGet access Arrow
+Peter M. DeMarzo
+The Review of Economic Studies, Volume 60, Issue 3, July 1993, Pages 713–734, https://doi.org/10.2307/2298132
+Published: 01 July 1993
+... states. Finally, different activity levels require different amounts of first-period investment. Formally, each firm j E J has access to a production technology involving a set of Si different activities. At the end of the first period, the firm must choose a level for each activity, represented...
+Abstract 
+Journal Article
+Pecuniary Externalities in Economies with Financial FrictionsGet access Arrow
+Eduardo Dávila and Anton Korinek
+The Review of Economic Studies, Volume 85, Issue 1, January 2018, Pages 352–395, https://doi.org/10.1093/restud/rdx010
+Published: 10 February 2017
+... in these sufficient statistics. The sufficient statistics that we identify in Proposition 2 remain the key determinants of the sign of the externalities, in more general environments with multiple agents and more general preferences and production technologies, as shown in the Online Appendix . 15 We...
+Abstract  
+Supplementary data
+Journal Article
+Vested Interests in a Positive Theory of Stagnation and GrowthGet access Arrow
+Per Krusell and José-Víctor Ríos-Rull
+The Review of Economic Studies, Volume 63, Issue 2, April 1996, Pages 301–329, https://doi.org/10.2307/2297854
+Published: 01 April 1996
+... in the context of the standard growth modeJ, see KruselJ, Quadrini and Rios-RulJ (J994). KRUSELL & Rios-RuLL VESTED INTERESTS 305 For a given technology to operate, skill is needed, and skill is costly to accumulate. At any point in time, new and more productive technologies...
+Abstract 
+Journal Article
+General Equilibrium Returns to Human and Investment Capital under Moral HazardGet access Arrow
+Christine A. Parlour and Johan Walden
+The Review of Economic Studies, Volume 78, Issue 1, January 2011, Pages 394–428, https://doi.org/10.1093/restud/rdq010
+Published: 01 January 2011
+Abstract 
+Journal Article
+Waves of Creative Destruction: Firm-Specific Learning-by-Doing and the Dynamics of InnovationGet access Arrow
+Jeremy C. Stein
+The Review of Economic Studies, Volume 64, Issue 2, April 1997, Pages 265–288, https://doi.org/10.2307/2971712
+Published: 01 April 1997
+..., but no spillovers across firms. As will become clear, it is this lack of spillovers across firms that differentiates distribution costs from production costs in the model. When a new production technology is pioneered by one firm, other firms are eventually able to learn from it and improve upon it. In contrast...
+Abstract 
+Journal Article
+A Simple Model of Sectoral AdjustmentGet access Arrow
+Kiminori Matsuyama
+The Review of Economic Studies, Volume 59, Issue 2, February 1992, Pages 375–387, https://doi.org/10.2307/2297959
+Published: 01 February 1992
+....) The production technology exhibits constant returns to scale: Xi =«i: where Xi is the output and a' the average (and marginal) labour productivity in the i-th sector. Throughout the paper it is assumed that there is no technical change. Then, one can set a l =il 2 =1 without loss of generality. Take good 1...
+Abstract 
+Journal Article
+Statistical Discrimination and EfficiencyGet access Arrow
+Peter Norman
+The Review of Economic Studies, Volume 70, Issue 3, July 2003, Pages 615–627, https://doi.org/10.1111/1467-937X.00258
+Published: 01 July 2003
+... that the factor frontier unambiguously expands when group differences in investments increase for a constant total number of qualified workers. Exactly how this affects the solution to the planning problem depends on the technology, and to clarify the role of the production technology I consider two cases: one...
+Abstract 
+Journal Article
+Prices as Signals of Product QualityGet access Arrow
+Asher Wolinsky
+The Review of Economic Studies, Volume 50, Issue 4, October 1983, Pages 647–658, https://doi.org/10.2307/2297767
+Published: 01 October 1983
+... cannot completely disguise the true quality of its product; some imperfect information about qf will reach the consumers who consider buying it. The common production technology is characterized by the cost C (x, q) as a function of quantity x and quality q, C(x, q) =Z...
+Abstract 
+Journal Article
+Inventory and Price BehaviourGet access Arrow
+Patricia B. Reagan
+The Review of Economic Studies, Volume 49, Issue 1, January 1982, Pages 137–142, https://doi.org/10.2307/2297146
+Published: 01 January 1982
+... holdings remain positive. When inventories are drawn down to zero and the firm experiences a "stock-out", price is more responsive. The firm's production technology is modeled so that there is a one period production lag between the commitment of inputs and the availability of output for final sale...
+Abstract 
+Journal Article
+On the Boundedness of an Economy with ExternalitiesGet access Arrow
+Hiroaki Osana
+The Review of Economic Studies, Volume 40, Issue 3, July 1973, Pages 321–331, https://doi.org/10.2307/2296453
+Published: 01 July 1973
+... for the production technology. This is rather artificial, but will be trivial1y satisfied if we can ignore the external effects con• sumption activities have on the production technology. To interpret condition (ii) of Lemma 2, we begin by noting that if producer.i operates under non-increasing returns...
+Journal Article
+Monopolistic Competition and General Purpose ProductsGet access Arrow
+Thomas von Ungern-Sternberg
+The Review of Economic Studies, Volume 55, Issue 2, April 1988, Pages 231–246, https://doi.org/10.2307/2297579
+Published: 01 April 1988
+..... (b) The production technology We employ the simplest production technology which allows us to model the basic trade-offs we are interested in. In order to capture the importance of economies of scale, it is assumed that each producer has fixed costs of F and constant marginal production...
+Abstract 
+Journal Article
+Short-Term Contracting and Strategic Oil ReservesGet access Arrow
+Norman Clifford and Vincent P. Crawford
+The Review of Economic Studies, Volume 54, Issue 2, April 1987, Pages 311–323, https://doi.org/10.2307/2297520
+Published: 01 April 1987
+..., whatever the length of the contract, to ensure that all oil is exported to and processed by the oil-poor country, which has the superior production technology. For the same reasons, oil and consumption 314 REVIEW OF ECONOMIC STUDIES are never wasted. Thus, a complete...
+Abstract 
+Journal Article
+Existence and Characterization of Optimal Growth Paths Including Models with Non-Convexities in Utilities and TechnologiesGet access Arrow
+Graciela Chichilnisky
+The Review of Economic Studies, Volume 48, Issue 1, January 1981, Pages 51–61, https://doi.org/10.2307/2297120
+Published: 01 January 1981
+... themselves be consumed without their prior transformation into goods by the production technology. However, the problem of consumption of a fixed stock could be formally transformed into a similar problem to the one formalized here as where So is a fixed stock. In this case, if set) is defined as So...
+Journal Article
+An Empirical Model of Wage Dispersion with SortingGet access Arrow
+Jesper Bagger and Rasmus Lentz
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 153–190, https://doi.org/10.1093/restud/rdy022
+Published: 11 May 2018
+... variation in incentives to reallocate to more productive matches. Heterogeneity is single-dimensional. Workers differ by skill, firms by productivity. Sorting is driven by complementarities in the match-level production technology that combines worker skill and firm productivity. Wages are set as in Dey...
+Abstract  
+Supplementary data
+Journal Article
+Relationships and Growth: On the Dynamic Interplay between Relational Contracts and Competitive Markets in Economic DevelopmentGet access Arrow
+Shingo Ishiguro
+The Review of Economic Studies, Volume 83, Issue 2, April 2016, Pages 629–657, https://doi.org/10.1093/restud/rdv041
+Published: 17 September 2015
+Abstract  
+Supplementary data
+Journal Article
+Inefficiency and the Demand for “Money” in a Sequence EconomyGet access Arrow
+David Starrett
+The Review of Economic Studies, Volume 40, Issue 4, October 1973, Pages 437–448, https://doi.org/10.2307/2296579
+Published: 01 October 1973
+... production sector. A model with these properties seems, at first glance, to be isomorphic to another in which" sold" goods and" bought" goods are different commodities, and there is a production technology for transforming the one into the other. In such a model we would surely expect...
+Journal Article
+Normalizations and Misspecification in Skill Formation ModelsGet access Arrow
+Joachim Freyberger
+The Review of Economic Studies, rdaf078, https://doi.org/10.1093/restud/rdaf078
+Published: 04 September 2025
+... of features that is identified under weaker restrictions on the measures and the production function and without anchoring the skills or fixing their scales. Importantly, I also provide identification results for alternative production technologies, such as the widely used CES production function, where...
+Abstract  
+Supplementary data
+Journal Article
+On the Existence of Markov-Consistent Plans under Production UncertaintyGet access Arrow
+B. Douglas Bernheim and Debraj Ray
+The Review of Economic Studies, Volume 53, Issue 5, October 1986, Pages 877–882, https://doi.org/10.2307/2297724
+Published: 01 October 1986
+... (1982 However, we must emphasize that this procedure is particularly natural for the consistent planning problem, since uncertainty can be introduced through the production technology, and is likely to exist there. We establish the existence of Markov-consistent plans for finite horizon problems...
+Abstract
+Why are Married Men Working So Much? An Aggregate Analysis of Intra-Household Bargaining and Labour SupplyGet access Arrow
+John A. Knowles
+The Review of Economic Studies, Volume 80, Issue 3, July 2013, Pages 1055–1085, https://doi.org/10.1093/restud/rds043
+Published: 04 December 2012
+.... The argument developed here proceeds in two stages; first a model of marriage and allocations is developed; the model is equipped with a standard CES home-production technology, CRRA preferences, and a stochastic process for marriage quality. The marriage-equilibrium concept is similar to that of Chade...
+Abstract  
+Supplementary data
+Journal Article
+Education and Crime over the Life CycleGet access Arrow
+Giulio Fella and Giovanni Gallipoli
+The Review of Economic Studies, Volume 81, Issue 4, October 2014, Pages 1484–1517, https://doi.org/10.1093/restud/rdu014
+Published: 09 May 2014
+... apprehension, has been resolved. Also, at age jb, an individual chooses the size of a one-off monetary transfer b to a newborn offspring. Individuals in jail (convicted criminals) just consume the exogenous amount Production technology: The representative firm produces...
+Abstract  
+Supplementary data
+Journal Article
+Deep HabitsGet access Arrow
+Morten Ravn and others
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 195–218, https://doi.org/10.1111/j.1467-937X.2006.00374.x
+Published: 01 January 2006
+... to be time consistent. Section 5 concludes. Each good i ∈ [0,1] is manufactured using labour as an input via the linear production technology yit = Athit, where yit denotes output...
+Abstract  
+Supplementary data
+Journal Article
+Uncertainty and Investment DynamicsGet access Arrow
+Nick Bloom and others
+The Review of Economic Studies, Volume 74, Issue 2, April 2007, Pages 391–415, https://doi.org/10.1111/j.1467-937X.2007.00426.x
+Published: 01 April 2007
+..., as larger shocks induce firms to invest in more types of capital and at more production units (the extensive margin). This in turn induces more adjustment at the intensive margin, with these aggregation effects being reinforced by supermodularity in the production technology. We also use our simulated...
+Abstract 
+Journal Article
+Price Distortion and the Second Best OptimumGet access Arrow
+Kunio Kawamata
+The Review of Economic Studies, Volume 44, Issue 1, February 1977, Pages 23–29, https://doi.org/10.2307/2296970
+Published: 01 February 1977
+... not apply, but the rules for optimal price distortion which have so far appeared in the literature are mostly based on rather restrictive assumptions on the production technology. Thus in Green [l1J producer prices are assumed to be constant and in Bergson [3J labour is taken to be the only variable...
+Journal Article
+Interrelated Industries and the Rate of Technological ChangeGet access Arrow
+W. Paul Strassmann
+The Review of Economic Studies, Volume 27, Issue 1, October 1959, Pages 16–22, https://doi.org/10.2307/2296047
+Published: 01 October 1959
+... in mining and manufacturing. If a productivity change in any firm or industry makes its product avail• able at a lower price or in greater quantity or quality, firms in related industries, both at earlier and later stages must reconsider their schedules of production. Technological changes will be made...
+Journal Article
+Dynamic Matching and Evolving ReputationsGet access Arrow
+Axel Anderson and Lones Smith
+The Review of Economic Studies, Volume 77, Issue 1, January 2010, Pages 3–29, https://doi.org/10.1111/j.1467-937X.2009.00567.x
+Published: 01 January 2010
+... effect may reinforce the static output effect near 0 and 1, yielding PAM for any level of patience. In general, the PAM failure is quite robust. Proposition 4 shows that for randomly chosen production technologies, the chance of both a high and low skill technology tends to one, as the number...
+Abstract 
+Journal Article
+Urban Structure and GrowthGet access Arrow
+Esteban Rossi-Hansberg and Mark L. J. Wright
+The Review of Economic Studies, Volume 74, Issue 2, April 2007, Pages 597–624, https://doi.org/10.1111/j.1467-937X.2007.00432.x
+Published: 01 April 2007
+..., as it is the imposition of linearity in the aggregate production technology that is necessary for the existence of balanced growth. Where our paper differs is in its utilization of the urban structure as the vehicle for obtaining this linearity. A second related literature is the small number of papers on urban growth...
+Abstract  
+Supplementary data
+Journal Article
+Learning and Equilibrium Selection in a Monetary Overlapping Generations Model with Sticky PricesGet access Arrow
+Klaus Adam
+The Review of Economic Studies, Volume 70, Issue 4, October 2003, Pages 887–907, https://doi.org/10.1111/1467-937X.00271
+Published: 01 October 2003
+.... At the beginning of each time period young entrepreneurs simultaneously decide about their prices. Profit maximization by the competitive sector implies that the demand curve faced by entrepreneur j is given by (8) With the production technology being linear in labour, each entrepreneur j...
+Abstract 
+Journal Article
+A Generalized Model of Pricing for Homogeneous Goods under Imperfect InformationGet access Arrow
+Asha Sadanand and Louis Wilde
+The Review of Economic Studies, Volume 49, Issue 2, April 1982, Pages 229–240, https://doi.org/10.2307/2297272
+Published: 01 April 1982
+... in that paper made strong assumptions about the nature of consumers' demand curves and firms' production technologies. The primary purpose of this paper is to explore whether the conclusions of Wilde and Schwartz are robust to the relaxation of those assumptions. Formally it is similar to Braverman's (1980...
+Abstract 
+Journal Article
+Computing Multi-Period, Information-Constrained OptimaGet access Arrow
+Christopher Phelan and Robert M. Townsend
+The Review of Economic Studies, Volume 58, Issue 5, October 1991, Pages 853–881, https://doi.org/10.2307/2297941
+Published: 01 October 1991
+... In this section, we consider the social planning problem for an economy with a continuum of identical agents each having an identical but independent production technology taking in an agent's own labour and producing the single consumption good as a function ofthis labour and an independent shock. Our...
+Abstract 
+Journal Article
+Institutional Quality and International TradeGet access Arrow
+Andrei A. Levchenko
+The Review of Economic Studies, Volume 74, Issue 3, July 2007, Pages 791–819, https://doi.org/10.1111/j.1467-937X.2007.00435.x
+Published: 01 July 2007
+...) Production technology of the K-good and the L-good is linear in K and L. Suppose that one unit of capital produces a units of the K-good, and one unit of labour produces b units of the L-good. Then profit maximization in the two...
+Abstract  
+Supplementary data
+Journal Article
+On the Origins of Property Rights: Conflict and Productionin the State of NatureGet access Arrow
+Catherine Hafer
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 119–143, https://doi.org/10.1111/j.1467-937X.2006.00371.x
+Published: 01 January 2006
+... solution for the symmetric equilibrium strategy. Two production technologies are available. Only technology A requires land; both A and B require labour, although they require labour of different kinds. Each agent is endowed with four discrete units of time. Agent i's possession of land...
+Abstract 
+Journal Article
+Comparative Dynamics of an Equilibrium Intertemporal Asset Pricing ModelGet access Arrow
+John B. Donaldson and Rajnish Mehra
+The Review of Economic Studies, Volume 51, Issue 3, July 1984, Pages 491–508, https://doi.org/10.2307/2297436
+Published: 01 July 1984
+... are viewed as vectors of elemen• tary Arrow-Debreu securities and are so priced. In the spirit of this tradition, we provide a framework in which equilibrium prices, firm value, the market and risk free returns, and the market risk premium are explicitly linked to the underlying production technology...
+Abstract 
+Journal Article
+Consumer Preferences, Linear Demand Functions and Aggregation in Competitive Asset MarketsGet access Arrow
+Frank Milne
+The Review of Economic Studies, Volume 46, Issue 3, July 1979, Pages 407–417, https://doi.org/10.2307/2297010
+Published: 01 July 1979
+..., but a similar set of theorems exist also for producer demand functions. Strangely enough, there appears to be very little work in finance theory that exploits restrictions on the production technology, to obtain statements about comparative statics, or restrictions on relative prices of assets. First...
+Journal Article
+Monotone Matching in Perfect and Imperfect WorldsGet access Arrow
+Patrick Legros and Andrew F. Newman
+The Review of Economic Studies, Volume 69, Issue 4, October 2002, Pages 925–942, https://doi.org/10.1111/1467-937X.00231
+Published: 01 October 2002
+... to the more general environments that have attracted recent attention. Some investigations of credit market imperfections suggest that complementarities in the production technology alone need not entail PAM (Legros and Newman (1996), Sadoulet (1998». Similarly, restrictions on the way output is shared...
+Abstract 
+Journal Article
+A Decision Theoretic Model of Innovation, Technology Transfer, and TradeGet access Arrow
+Richard Jensen and Marie Thursby
+The Review of Economic Studies, Volume 54, Issue 4, October 1987, Pages 631–647, https://doi.org/10.2307/2297486
+Published: 01 October 1987
+.... The essential difference between the two is that only Northern workers can develop new goods, where new goods are defined as newly developed traded goods whose production technology is known only in the North. Old goods are those traded goods whose production technology is common knowledge. Initially all...
+Abstract 
+Journal Article
+Testing the Production Approach to Markup EstimationGet access Arrow
+Devesh Raval
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2592–2611, https://doi.org/10.1093/restud/rdad002
+Published: 15 January 2023
+..., these comparisons jointly test the assumptions of the production approach itself and auxiliary assumptions on production technology. The validity of estimates of markups using the production approach will thus also depend upon the accuracy of auxiliary assumptions such as Hicks neutrality. I follow De Loecker...
+Abstract  
+Supplementary data
+Journal Article
+Monetary Policy in the Open Economy Revisited: Price Setting and Exchange-Rate FlexibilityGet access Arrow
+Michael B. Devereux and Charles Engel
+The Review of Economic Studies, Volume 70, Issue 4, October 2003, Pages 765–783, https://doi.org/10.1111/1467-937X.00266
+Published: 01 October 2003
+... as given. Firms are monopolistic and maximize utility for their owners. There are shocks to both velocity and production technologies. We use two alternative specifications for the pricing of consumer goods. In both specifications, producers must set prices prior to the realization of shocks...
+Abstract  
+Supplementary data
+Journal Article
+Household Sharing and Commitment: Evidence from Panel Data on Individual Expenditures and Time UseGet access Arrow
+Jeremy Lise and Ken Yamada
+The Review of Economic Studies, Volume 86, Issue 5, October 2019, Pages 2184–2219, https://doi.org/10.1093/restud/rdy066
+Published: 31 October 2018
+... power of the household members, but do not shift preferences, the home production technology, or the budget set (termed extra-environmental parameters by McElroy (1990) or distribution factors by Browning et al. (1994) ). Note that with full commitment all variation in the Pareto weight...
+Abstract  
+Supplementary data
+Enterprise, Inequality and Economic DevelopmentGet access Arrow
+Huw Lloyd-Ellis and Dan Bernhardt
+The Review of Economic Studies, Volume 67, Issue 1, January 2000, Pages 147–168, https://doi.org/10.1111/1467-937X.00125
+Published: 01 January 2000
+... (see Andreoni (1989 Homegeneity can be relaxed considerably without changing the results. At time t =°a new production technology comes into existence. Entrepreneurs who pay the necessary start-up costs (discussed below), combine labour, It, and capital, k., to produce a single consumption good...
+Abstract 
+Journal Article
+On The Efficiency of Matching and Related Models of Search and UnemploymentGet access Arrow
+Arthur J. Hosios
+The Review of Economic Studies, Volume 57, Issue 2, April 1990, Pages 279–298, https://doi.org/10.2307/2297382
+Published: 01 April 1990
+... a neoclassical production technology, f(n 1 , k an output price equal to one, and has trade coordinated by a Walrasian auctioneer. Sector 2 is a simple version ofour matching model: it has a Leontief technology, where one worker and one unit of capital together produce one unit output, an output price...
+Abstract 
+Journal Article
+Efficient Allocations with Hidden Income and Hidden StorageGet access Arrow
+Harold L. Cole and Narayana R. Kocherlakota
+The Review of Economic Studies, Volume 68, Issue 3, July 2001, Pages 523–542, https://doi.org/10.1111/1467-937X.00179
+Published: 01 July 2001
+... that are close to the inverse of the discount factor or risky income streams that give rise to a significant precautionary savings demand. In interpreting Proposition 4, it is worth noticing that the relationship between output and storage in our model is the same linear production technology assumed...
+Abstract 
+Journal Article
+Engines of LiberationGet access Arrow
+Jeremy Greenwood and others
+The Review of Economic Studies, Volume 72, Issue 1, January 2005, Pages 109–133, https://doi.org/10.1111/0034-6527.00326
+Published: 01 January 2005
+Abstract 
+Journal Article
+Does Poaching Distort Training?Get access Arrow
+Espen R. Moen and Åsa Rosén
+The Review of Economic Studies, Volume 71, Issue 4, October 2004, Pages 1143–1162, https://doi.org/10.1111/0034-6527.00317
+Published: 01 October 2004
+...) be heterogeneous, both with respect to human capital levels and current wages. Workers with different characteristics search in different markets. The separation of workers with different human capital levels into different search markets may be due to production technology, say because a worker's training level...
+Abstract 
+Journal Article
+Time-Consistent Public PolicyGet access Arrow
+Paul Klein and others
+The Review of Economic Studies, Volume 75, Issue 3, July 2008, Pages 789–808, https://doi.org/10.1111/j.1467-937X.2008.00491.x
+Published: 01 July 2008
+... production technology used there abstracts from labour and labour taxation. In sum, the Hassler et al. and Azzimonti et al. papers are the only ones we know of in the literature that compare optimal paths under commitment to those under no commitment. We also know of no other quantitative...
+Abstract  
+Supplementary data
+Journal Article
+Research and Development and Intra-industry Spillovers: An Empirical Application of Dynamic DualityGet access Arrow
+Jeffrey I. Bernstein and M. Ishaq Nadiri
+The Review of Economic Studies, Volume 56, Issue 2, April 1989, Pages 249–267, https://doi.org/10.2307/2297460
+Published: 01 April 1989
+..., but the rate of substitution (all other things constant in the production function) between own and borrowed R&D capital is independent ofboth the production technology and all non-R&D capital factors of production. The rate of substitution depends only on the knowledge absorption function and the size...
+Abstract 
+Journal Article
+Profit Maximization and the Market Selection HypothesisGet access Arrow
+Prajit K. Dutta and Roy Radner
+The Review of Economic Studies, Volume 66, Issue 4, October 1999, Pages 769–798, https://doi.org/10.1111/1467-937X.00108
+Published: 01 October 1999
+Abstract 
+Journal Article
+The Impact of Technical Change on the Holotheticity of Production FunctionsGet access Arrow
+Ryuzo Sato
+The Review of Economic Studies, Volume 47, Issue 4, July 1980, Pages 767–776, https://doi.org/10.2307/2296942
+Published: 01 July 1980
+... and P. J. Hammond. This work was partly supported by a NSF grant. NOTES 1. For the utility and demand analysis, the exogenous change may be identified as " taste change ". Needless to say that everything we say about production technologies will carryover to preference...
+Journal Article
+The Sullying Effect of RecessionsGet access Arrow
+Gadi Barlevy
+The Review of Economic Studies, Volume 69, Issue 1, January 2002, Pages 65–96, https://doi.org/10.1111/1467-937X.00198
+Published: 01 January 2002
+... to form a match, the entrepreneur will retain that worker and stop searching until either the original worker he hired leaves him or the two somehow become separated' The production technology governing the various pairings ofworkers and job types is as follows. On his own, any worker can produce b...
+Abstract 
+Journal Article
+Wage Determination and Efficiency in Search EquilibriumGet access Arrow
+Peter A. Diamond
+The Review of Economic Studies, Volume 49, Issue 2, April 1982, Pages 217–227, https://doi.org/10.2307/2297271
+Published: 01 April 1982
+.... 2. WAGE DETERMINATION Next we turn to the wage bargain in this steady state setting.' That is, a theory of wage negotiations is added to the search and production technologies described above." We assume that both firms and workers are risk neutral. This simplifies the analysis. Also...
+Abstract 
+Journal Article
+Strategic Monetary Policy with Non-Atomistic Wage SettersGet access Arrow
+Francesco Lippi
+The Review of Economic Studies, Volume 70, Issue 4, October 2003, Pages 909–919, https://doi.org/10.1111/1467-937X.t01-1-00263
+Published: 01 October 2003
+..., between 2.5 and 8. These values are broadly in line with the evidence of “easy substitution among occupation categories” (skilled vs. unskilled labour) reported by Hamermesh (1993, Chapter 3) in his encompassing survey of the literature. Somewhat larger values, consistent with a CES production...
+Abstract 
+Journal Article
+The Baby Boom and World War II: A Macroeconomic AnalysisGet access Arrow
+Matthias Doepke and others
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 1031–1073, https://doi.org/10.1093/restud/rdv010
+Published: 06 March 2015
+..., only some women resume work after having children. Since fertility and labour force participation decisions are discrete, the model incorporates preference heterogeneity to generate heterogeneous behaviour in these dimensions. At the aggregate level, the model features a standard production technology...
+Abstract  
+Supplementary data
+Journal Article
+”Turnpike“ Theory With (Under) ConsumptionGet access Arrow
+Trout Rader
+The Review of Economic Studies, Volume 42, Issue 1, January 1975, Pages 155–165, https://doi.org/10.2307/2296829
+Published: 01 January 1975
+... for consumption efficiency (Corollary 2 of Theorem 3). We return to the underlying production technology; rather than repeat well-known analysis, we list the properties most immediately used in proofs. (P.I) (Maximal balanced development). There is a maximum fl and associated strictly positive y...
+Journal Article
+Household Division and Rural Economic GrowthGet access Arrow
+Andrew D. Foster and Mark R. Rosenzweig
+The Review of Economic Studies, Volume 69, Issue 4, October 2002, Pages 839–869, https://doi.org/10.1111/1467-937X.00228
+Published: 01 October 2002
+...) reduced insurance associated with interhousehold transfers. Whether households remain intact thus depends on the production technology, risk, the taste for privacy, individual preference heterogeneity and the household technology. We assume that each household claimant's nuclear family...
+Journal Article
+Investor Overconfidence and the Forward Premium PuzzleGet access Arrow
+Craig Burnside and others
+The Review of Economic Studies, Volume 78, Issue 2, April 2011, Pages 523–558, https://doi.org/10.1093/restud/rdq013
+Published: 03 February 2011
+Abstract  
+Supplementary data
+Journal Article
+Falling Interest Rates and Credit Reallocation: Lessons from General Equilibrium Open Access
+Vladimir Asriyan and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2197–2227, https://doi.org/10.1093/restud/rdae065
+Published: 25 June 2024
+.... Technology . Each capitalist has access to a production technology that converts χ ( k ) units of the consumption good into k units of capital at t = 0 , where χ is quasi-convex and weakly increasing in k. 5 Capital can be used for production...
+Abstract  
+Supplementary data
+Journal Article
+Equilibrium with Non-convex Transactions Costs: Monetary and Non-monetary EconomiesGet access Arrow
+Walter Perrin Heller and Ross M. Starr
+The Review of Economic Studies, Volume 43, Issue 2, June 1976, Pages 195–215, https://doi.org/10.2307/2297318
+Published: 01 June 1976
+... consider the reopening of markets allowed by the sequence economy model. Though we will take the individual's transactions technology as fixed for the purpose of this model, it should be recognized that unlike the production technology of the firm in standard competitive equilibrium models...
+Journal Article
+Corporate Tournaments, Human Capital Acquisition, and the Firm Size—Wage RelationGet access Arrow
+Jan Zábojník and Dan Bernhardt
+The Review of Economic Studies, Volume 68, Issue 3, July 2001, Pages 693–716, https://doi.org/10.1111/1467-937X.00186
+Published: 01 July 2001
+... assumptions on the learning by doingcostly human capital does not directly affect learning by doing, and the uniform distribution-s-ease the analysis. However, as we later detail, they are not important for our qualitative conclusions. Production technology Firms differ in their technologies. A measure...
+Abstract 
+Journal Article
+Consumption Quality and Employment Across the Wealth DistributionGet access Arrow
+Domenico Ferraro and Vytautas Valaitis
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1801–1836, https://doi.org/10.1093/restud/rdae052
+Published: 23 May 2024
+... ( 0 ) = 0 when h t = 0 . Technology. The production technology for the consumption good of quality q is CES with capital, K q , t , and labor services, N q , t , as inputs: The parameter ρ governs the degree of substitutability between...
+Abstract  
+Supplementary data
+Wages as Sorting Mechanisms in Competitive Markets with Asymmetric Information: A Theory of TestingGet access Arrow
+J. Luis Guasch and Andrew Weiss
+The Review of Economic Studies, Volume 47, Issue 4, July 1980, Pages 653–664, https://doi.org/10.2307/2296934
+Published: 01 July 1980
+..., a firm can choose not to give a test. Due to the constant returns to scale nature of the production technology, and to the free entry assumption, in equilibrium every firm will earn zero profits and the total number of firms will be indeterminate. We shall talk about types of firms, defined in terms...
+Journal Article
+On Optimal Consumption Plans in a Multi-sector EconomyGet access Arrow
+Bezalel Peleg and Harl E. Ryder
+The Review of Economic Studies, Volume 39, Issue 2, April 1972, Pages 159–169, https://doi.org/10.2307/2296868
+Published: 01 April 1972
+... and HARL E. RYDER, Jr. Brown University 1. INTRODUCTION We consider a stationary, productive technology which is described mathematically by a closed convex cone (see (T. 1) and (T. 3 Labour appears in an explicit form as a factor...
+Journal Article
+Financial Capacity and Output Fluctuations in an Economy with Multi-Period Financial RelationshipsGet access Arrow
+Mark Gertler
+The Review of Economic Studies, Volume 59, Issue 3, July 1992, Pages 455–472, https://doi.org/10.2307/2297859
+Published: 01 July 1992
+... imperfections. 2. THE BASIC SETTING There are three periods, numbered 0, 1, 2. A countable infinity of people exist, divided into "lenders" who wish to save and "entrepreneurs" who have access to a production technology but need to borrow to finance their capital needs...
+Abstract 
+Journal Article
+Learning, Matching and GrowthGet access Arrow
+Derek Laing and others
+The Review of Economic Studies, Volume 62, Issue 1, January 1995, Pages 115–129, https://doi.org/10.2307/2297844
+Published: 01 January 1995
+... in education. The boundary condition ¢ < I rules out omniscience. The labour market Employers possess a fixed-coefficient production technology requiring a single worker. The cost of a unit of capital is denoted vo. In practice, Va will depend upon a host of factors such as the extent of frictions...
+Abstract 
+Journal Article
+A Neoclassical Model of the Balance of PaymentsGet access Arrow
+Ron Michener
+The Review of Economic Studies, Volume 51, Issue 4, October 1984, Pages 651–664, https://doi.org/10.2307/2297784
+Published: 01 October 1984
+... with one unit per capita of each factor. The agents in the economy consist offirms, consumers, and the government. Firms acquire capital and labour services from consumers at competitively determined factor prices and produce either traded or nontraded goods. Both production technologies are assumed...
+Abstract 
+Journal Article
+Implicit Contracts and Employment TheoryGet access Arrow
+H. M. Polemarchakis
+The Review of Economic Studies, Volume 46, Issue 1, January 1979, Pages 97–108, https://doi.org/10.2307/2297175
+Published: 01 January 1979
+.... 4. CONCLUSION I shall conclude by pointing out the areas for further work suggested by the preceding analysis. Some of the assumptions were innocuous: Uncertainty was introduced on the con• sumption side, but it could have equivalently entered through random factors in the production...
+Journal Article
+Comparative Advantage and the Theory of Tariffs: A Multi-Country, Multi-Commodity ModelGet access Arrow
+Ronald W. Jones
+The Review of Economic Studies, Volume 28, Issue 3, June 1961, Pages 161–175, https://doi.org/10.2307/2295945
+Published: 01 June 1961
+.... Trade patterns are then influenced both by differences in labor costs and differences in intermediate product technology. 5. The minimum product criterion for optimal assignments suggests that the bilateral ratios of comparative costs significant in the two-country or two-commodity case...
+Journal Article
+Trade and Protection with Multistage ProductionGet access Arrow
+Avinash K. Dixit and Gene M. Grossman
+The Review of Economic Studies, Volume 49, Issue 4, October 1982, Pages 583–594, https://doi.org/10.2307/2297288
+Published: 01 October 1982
+... goods at an earlier, more capital-intensive, stage as it accumulates capital, regardless of whether any of the production technologies admit factor substitution. It is not necessarily true, though, that capital accumulation will cause mobile resources to reallocate to the manufacturing sector...
+Abstract 
+Journal Article
+An Equilibrium Analysis of Wage—Productivity GapsGet access Arrow
+J. Luis Guasch and Andrew Weiss
+The Review of Economic Studies, Volume 49, Issue 4, October 1982, Pages 485–497, https://doi.org/10.2307/2297282
+Published: 01 October 1982
+..., an innocuous assumption since the production technology is characterized by constant returns to scale." Assumption 9. Firms know to which other firms workers have applied." The economy is re~resented by g= «Fi(q), ai)iEb A). A strategy for the firm consists...
+Abstract 
+Journal Article
+Policy Variability and Economic GrowthGet access Arrow
+Hugo A. Hopenhayn and María E. Muniagurria
+The Review of Economic Studies, Volume 63, Issue 4, October 1996, Pages 611–625, https://doi.org/10.2307/2297796
+Published: 01 October 1996
+.... 2. THE MODEL We consider a simple endogenous growth model where all factors of production are reproducible and their quantity is summarized by the composite capital good k (see King and Rebelo (1990) and Rebelo (1991». The production technology is given...
+Abstract 
+Journal Article
+Inventories, Markups, and Real Rigidities in Menu Cost ModelsGet access Arrow
+Oleksiy Kryvtsov and Virgiliu Midrigan
+The Review of Economic Studies, Volume 80, Issue 1, January 2013, Pages 249–276, https://doi.org/10.1093/restud/rds028
+Published: 05 July 2012
+..., the relationship between inputs costs and marginal costs is highly sensitive to what one assumes about the production technology, as Rotemberg and Woodford (1999 ) forcefully illustrate. In contrast, theory predicts a very robust relationship between the behaviour of inventories and that of marginal costs, which...
+Abstract  
+Supplementary data
+Journal Article
+Occupational Mobility and Wage InequalityGet access Arrow
+Gueorgui Kambourov and Iourii Manovskii
+The Review of Economic Studies, Volume 76, Issue 2, April 2009, Pages 731–759, https://doi.org/10.1111/j.1467-937X.2009.00535.x
+Published: 01 April 2009
+... are equivalent to those in a model with risk-averse individuals and complete insurance markets. Production. All occupations produce the same homogeneous good. Output y in an occupation is produced with the production technology (4) where ρ ≤ 1,0 < γ < 1,0 < a < 1...
+Abstract  
+Supplementary data
+Journal Article
+The New Keynesian Transmission Mechanism: A Heterogeneous-Agent PerspectiveGet access Arrow
+Tobias Broer and others
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 77–101, https://doi.org/10.1093/restud/rdy060
+Published: 23 March 2019
+..., is the log deviation in average real marginal cost, and . Note that with a CRS production technology, deviations in the average real marginal cost equal the deviation in the average real wage: , where . There is neither government consumption nor taxation and the fiscal authority maintains...
+Abstract  
+Supplementary data
+Journal Article
+How Important Is Human Capital? A Quantitative Theory Assessment of World Income InequalityGet access Arrow
+Andrés Erosa and others
+The Review of Economic Studies, Volume 77, Issue 4, October 2010, Pages 1421–1449, https://doi.org/10.1111/j.1467-937X.2010.00610.x
+Published: 01 October 2010
+... of ability, schooling tastes, and parental resources. Individuals across countries face different wage rates and prices for human capital inputs. The model's main novelty relative to previous work in the area is the inclusion of a production technology for human capital which takes expenditures and time...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Subjective Models of the Macroeconomy: Evidence From Experts and Representative Samples Open Access
+Peter Andre and others
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 2958–2991, https://doi.org/10.1093/restud/rdac008
+Published: 18 February 2022
+..., while in the income tax vignette, the government increases income taxes by 1 p.p. for every US household for 1 year. To establish the exogeneity of the shocks, we tell respondents that the change in the oil price is due to problems with the local production technology in the Middle East...
+Abstract  
+Supplementary data
+Journal Article
+A Dynamic Model of Input–Output NetworksGet access Arrow
+Ernest Liu and Aleh Tsyvinski
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3608–3644, https://doi.org/10.1093/restud/rdae012
+Published: 31 January 2024
+... features the same production technology as the static model. Hence, when shocks are permanent, the Domar weight—a measure of sectoral size in the static model of Acemoglu et al. (2012) —reflects the elasticity of the steady-state output to TFP shocks. By contrast, when shocks are temporary...
+Abstract  
+Supplementary data
+Journal Article
+On the Efficiency of Competitive Programmes in an Infinite-Horizon ModelGet access Arrow
+M. Kurz and D. A. Starrett
+The Review of Economic Studies, Volume 37, Issue 4, October 1970, Pages 571–584, https://doi.org/10.2307/2296486
+Published: 01 October 1970
+... of efficient competitive programmes; additional aspects of our search are discussed in section 4. Throughout the paper we will deal with a Malinvaud [7] production technology in which the number of commodities is arbitrary; inputs, outputs, consumption, and exo• genous resources available at date t...
+Journal Article
+Expected Interruptions in Labour Force Participation and Sex-Related Differences in Earnings GrowthGet access Arrow
+Yoram Weiss and Reuben Gronau
+The Review of Economic Studies, Volume 48, Issue 4, October 1981, Pages 607–619, https://doi.org/10.2307/2297200
+Published: 01 October 1981
+... of the equilibrium wage structure rather than of production technology (see Rosen (1972 2. This assumption ignores accumulation of capital in home activities and transferability of capital across activities (see Weiss (1971 The assumption that human capital acquired at the market has only limited use...
+Journal Article
+Money and ContractsGet access Arrow
+Roger E. A. Farmer
+The Review of Economic Studies, Volume 55, Issue 3, July 1988, Pages 431–446, https://doi.org/10.2307/2297393
+Published: 01 July 1988
+... types of agents-workers and entrepreneurs-each of which lives for two periods. Workers are endowed with a unit of labour in their youth and entrepreneurs are endowed with a unit of capital, K. Capital may be combined with labour in a stochastic production technology that takes the form...
+Abstract 
+Journal Article
+Capital Accumulation and Foreign Investment TaxationGet access Arrow
+Anne C. Sibert
+The Review of Economic Studies, Volume 52, Issue 2, April 1985, Pages 331–345, https://doi.org/10.2307/2297625
+Published: 01 April 1985
+... to be sold to the firms as capital for the period t + I production process. There is a neoclassical production technology which is assumed to be linearly homogeneous. Thus output per unit of labour is solely a function of the capital-labour ratio. The allocation of factors is perfectly competitive...
+Abstract
+Gaps and TrianglesGet access Arrow
+Bernardino Adão and others
+The Review of Economic Studies, Volume 70, Issue 4, October 2003, Pages 699–713, https://doi.org/10.1111/1467-937X.00263
+Published: 01 October 2003
+... to Mst = Mst−1 + Xt. Each firm i operates according to the production technology (2.12) where yt(i) is the production of good i...
+Abstract 
+Journal Article
+Implicit Contracts with Asymmetric Information and Bankruptcy: The Effect of Interest Rates on LayoffsGet access Arrow
+Roger E. A. Farmer
+The Review of Economic Studies, Volume 52, Issue 3, July 1985, Pages 427–442, https://doi.org/10.2307/2297662
+Published: 01 July 1985
+... lower levels of employment than would otherwise be the case. Finally, Section 7 presents a short conclusion. 2. STRUCTURE OF THE PRODUCTION TECHNOLOGY Consider a firm which produces a single commodity y, using the services of N workers and one machine. For the purposes...
+Abstract 
+Journal Article
+Estimation of a Vintage Capital Model for Electricity GeneratingGet access Arrow
+Hugh R. Wills
+The Review of Economic Studies, Volume 45, Issue 3, October 1978, Pages 495–510, https://doi.org/10.2307/2297251
+Published: 01 October 1978
+Journal Article
+Homeownership, Polarization, and Inequality Open Access
+Andrii Parkhomenko
+The Review of Economic Studies, rdaf068, https://doi.org/10.1093/restud/rdaf068
+Published: 26 September 2025
+...? These are important questions for economic growth, human capital investment, and public policy. The leading explanations in the literature emphasized the role of production technology and offered explanations that rely on skill-biased technical change ( Baum-Snow et al., 2018 ; Cerina et al., 2023...
+Abstract  
+Supplementary data
+Journal Article
+Dollar Safety and the Global Financial CycleGet access Arrow
+Zhengyang Jiang and others
+The Review of Economic Studies, Volume 91, Issue 5, October 2024, Pages 2878–2915, https://doi.org/10.1093/restud/rdad108
+Published: 26 November 2023
+..., the production technology, and financial constraints, and we generate a convenience yield on dollar bonds via bonds-in-the-utility function. Bianchi et al. (2020) present a micro-founded model of the convenience yields on dollar bonds, and the role of monetary policy in driving this convenience yield...
+Abstract 
+Journal Article
+Are Chinese Cities Too Small?Get access Arrow
+Chun-Chung Au and J. Vernon Henderson
+The Review of Economic Studies, Volume 73, Issue 3, July 2006, Pages 549–576, https://doi.org/10.1111/j.1467-937X.2006.00387.x
+Published: 01 July 2006
+.... The form to market potential in (6) now becomes more complicated, as discussed in Section 3.2.1 . The second element is to assume that aspects of production technology differ by product, so that there will be urban specialization by product (see below) and an urban hierarchy. In our data, we do...
+Abstract  
+Supplementary data
+Journal Article
+Regulating Exclusion from Financial MarketsGet access Arrow
+Philip Bond and Arvind Krishnamurthy
+The Review of Economic Studies, Volume 71, Issue 3, July 2004, Pages 681–707, https://doi.org/10.1111/j.1467-937X.2004.00300.x
+Published: 01 July 2004
+... are indexed t = 0, 1,…,T, where T ≥ 2. There is a borrower B and M banks, 1,…,M. The borrower has access to a valuable production technology, but has limited funds of his own with which to invest. His resources entering date t are denoted...
+Abstract 
+Journal Article
+Infrastructure, Growth and the Two Dimensions of Industrial PolicyGet access Arrow
+Moshe Justman
+The Review of Economic Studies, Volume 62, Issue 1, January 1995, Pages 131–157, https://doi.org/10.2307/2297845
+Published: 01 January 1995
+.... There is an advanced, more productive technology capable of producing a more valuable product, but its adoption is contingent on the existence of an indivisible and durable infrastructure. Thus an investment in infrastructure can be expected to raise pro• ductivity, but a minimal level of productive activity...
+Abstract 
+Journal Article
+Learning by Doing vs. Learning About Match Quality: Can We Tell Them Apart?Get access Arrow
+Éva Nagypál
+The Review of Economic Studies, Volume 74, Issue 2, April 2007, Pages 537–566, https://doi.org/10.1111/j.1467-937X.2007.00430.x
+Published: 01 April 2007
+Abstract 
+Journal Article
+Inattentive ProducersGet access Arrow
+Ricardo Reis
+The Review of Economic Studies, Volume 73, Issue 3, July 2006, Pages 793–821, https://doi.org/10.1111/j.1467-937X.2006.00396.x
+Published: 01 July 2006
+.... Section 6 uses these results to set up a model of inflation. Section 7 contrasts the model with data, and Section 8 concludes. Consider the problem facing a monopolist that produces a perishable good. Both the production technology and the demand for its good are uncertain and can change every...
+Abstract  
+Supplementary data
+Journal Article
+Structural Estimation of a Becker-Ehrlich Equilibrium Model of Crime: Allocating Police Across Cities to Reduce CrimeGet access Arrow
+Chao Fu and Kenneth I Wolpin
+The Review of Economic Studies, Volume 85, Issue 4, October 2018, Pages 2097–2138, https://doi.org/10.1093/restud/rdx068
+Published: 20 November 2017
+... ( otherwise), if at home ( otherwise) and if working in the criminal sector ( otherwise). Legal sector output in city , is produced using the aggregate stock of human capital of those citizens in city who choose to work in that sector, . The production technology is given...
+Abstract  
+Supplementary data
+Journal Article
+Optimal Corporate Taxation Under Financial FrictionsGet access Arrow
+Eduardo Dávila and Benjamin Hébert
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1893–1933, https://doi.org/10.1093/restud/rdac068
+Published: 17 October 2022
+..., and then step back and describe the government’s problem and firm entry decisions. The following example provides an explicit illustration of firms’ production technology. In this example, the production function is a standard decreasing returns to scale production function, augmented with the ability to earn...
+Abstract  
+Supplementary data
+Journal Article
+The Work-From-Home Technology Boon and its ConsequencesGet access Arrow
+Morris A Davis and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3362–3401, https://doi.org/10.1093/restud/rdad114
+Published: 25 January 2024
+... from the more menial tasks associated with home production. A related literature discusses how this home-production technology influences the use of time spent working at the office or working on home production in response to changes in the macroeconomic environment; see, for example, Benhabib et...
+Abstract  
+Supplementary data
+Journal Article
+Bargaining and Sharing Innovative KnowledgeGet access Arrow
+Claude d'Aspremont and others
+The Review of Economic Studies, Volume 67, Issue 2, April 2000, Pages 255–271, https://doi.org/10.1111/1467-937X.00130
+Published: 01 April 2000
+... with externalities, such as Muto (1986), or more recently Jehiel and Moldovanu (1995), deals only with complete information bargaining. See also Imai (1994) on bilateral bargaining under complete information about the licensing of a new production technology, whose cost is com• mon knowledge, that is subject...
+Abstract 
+Journal Article
+Multi-sector Economic Models with Continuous Adaptive ExpectationsGet access Arrow
+Edwin Burmeister and Daniel A. Graham
+The Review of Economic Studies, Volume 41, Issue 3, July 1974, Pages 323–336, https://doi.org/10.2307/2296752
+Published: 01 July 1974
+... of the Jacobian Matrix from a Dynamic Joint-Production Technology ", unpublished manuscript, (1973). [5] Burmeister, E. and Kuga, K. "The Factor-Price Frontier, Duality and Joint Production ", Review ofEconomic Studies, 37 (Jan. 1970), pp. 162-174. [6] Burmeister, E. and Dobell, A. R...
+Journal Article
+Optimal Incentive Schemes with Many AgentsGet access Arrow
+Dilip Mookherjee
+The Review of Economic Studies, Volume 51, Issue 3, July 1984, Pages 433–446, https://doi.org/10.2307/2297432
+Published: 01 July 1984
+... on properties of the underlying production technology and (the joint distribution of) the random variables affecting the outputs of different agents. In Section 2 of the paper we consider the principal's problem of finding an optimal incentive scheme and an action tuple for agents, subject...
+Abstract 
+Journal Article
+Equilibrium Price DistributionsGet access Arrow
+Rafael Rob
+The Review of Economic Studies, Volume 52, Issue 3, July 1985, Pages 487–504, https://doi.org/10.2307/2297666
+Published: 01 July 1985
+... datum of our model and as we shall shortly see, many of our results depend on the properties of this distribution. Unlike consumers, sellers are all identical. They all have access to the same zero marginal cost of production technology. This assumption is intentionally employed to eliminate...
+Abstract 
+Journal Article
+On Bayesian Implementable AllocationsGet access Arrow
+Thomas R. Palfrey and Sanjay Srivastava
+The Review of Economic Studies, Volume 54, Issue 2, April 1987, Pages 193–208, https://doi.org/10.2307/2297511
+Published: 01 April 1987
+... with linear production technologies. In contrast, we are interested in identifying what interesting SCC's are globally implementable relative to domains in which individuals do not have complete information. These include domains such as D!. The rest of the paper addresses the following questions...
+Abstract 
+Journal Article
+Financial Intermediation and Endogenous GrowthGet access Arrow
+Valerie R. Bencivenga and Bruce D. Smith
+The Review of Economic Studies, Volume 58, Issue 2, April 1991, Pages 195–209, https://doi.org/10.2307/2297964
+Published: 01 April 1991
+Abstract 
+Journal Article
+A Game of Fair DivisionGet access Arrow
+Vincent P. Crawford
+The Review of Economic Studies, Volume 44, Issue 2, June 1977, Pages 235–247, https://doi.org/10.2307/2297064
+Published: 01 June 1977
+... the concept of fairness so that an EICE as defined in this paper is " fair ", although not in a completely satisfactory way, and not for general production technologies. For a discussion of the problems encountered in defining fairness and the EICE in an economy with production, see [10]and [14, pp. 70-75…
+Uncertainty Resolution, Private Information Aggregation and the Cournot Competitive LimitGet access Arrow
+Thomas R. Palfrey
+The Review of Economic Studies, Volume 52, Issue 1, January 1985, Pages 69–83, https://doi.org/10.2307/2297470
+Published: 01 January 1985
+.... A common production technology and demand curve is shared by all firms. The principal departure from classical oligopoly models in this approach is that the market participants do not have complete information about all factors affecting their ultimate profit in the market. The producing firms...
+Abstract 
+Journal Article
+Bargains and Ripoffs: A Model of Monopolistically Competitive Price DispersionGet access Arrow
+Steven Salop and Joseph Stiglitz
+The Review of Economic Studies, Volume 44, Issue 3, October 1977, Pages 493–510, https://doi.org/10.2307/2296903
+Published: 01 October 1977
+... are incompletely arbitraged. Furthermore, the price dispersion generated here is specifically associated with a market economy; a socialist economy with exactly the same information and production technology would require all stores to charge the same price. This paper is one of a series dealing...
+Journal Article
+Spatial Price Discrimination with Heterogeneous ProductsGet access Arrow
+Simon P. Anderson and André De Palma
+The Review of Economic Studies, Volume 55, Issue 4, October 1988, Pages 573–592, https://doi.org/10.2307/2297406
+Published: 01 October 1988
+... STUDIES suggested that the spatial model can be interpreted as a model of product location in characteristics space. An individual's geographical location is interpreted as his optimal product specification, and the firm's location becomes the standard product technology of the firm...
+Abstract 
+Journal Article
+An Asymptotic Theory of Growth Under UncertaintyGet access Arrow
+Robert C. Merton
+The Review of Economic Studies, Volume 42, Issue 3, July 1975, Pages 375–393, https://doi.org/10.2307/2296851
+Published: 01 July 1975
+... confined themselves to linear technologies. In his pioneering work, Phelps [19] and, later, Levhari and Srinivisan [10] ,Hahn [5] and Leland [23], examine the optimal consumption-saving decision under uncertainty with a given linear production technology. Hakansson [6], Leland [9] and Samuelson [21...
+Journal Article
+Sorting Multidimensional Types: Theory and ApplicationGet access Arrow
+Ilse Lindenlaub
+The Review of Economic Studies, Volume 84, Issue 2, April 2017, Pages 718–789, https://doi.org/10.1093/restud/rdw063
+Published: 23 January 2017
+... on the distributions and production technology. The figure below provides a graphical illustration of multidimensional PAM, using a discrete example: Each side of the market has two attributes that can be high (H) or low (L). Hence, there are four worker and four firm types. In each subfigure, the dots...
+Abstract  
+Supplementary data
+Journal Article
+Identity Politics and Trade PolicyGet access Arrow
+Gene M Grossman and Elhanan Helpman
+The Review of Economic Studies, Volume 88, Issue 3, May 2021, Pages 1101–1126, https://doi.org/10.1093/restud/rdaa031
+Published: 27 July 2020
+... by a small amount, such that the equilibrium identification regime continues to be , and examine the response of . We consider in turn changes in the psychological cost of identification, , changes in the production technologies (as described further below), and changes in the terms of trade...
+Abstract  
+Supplementary data
+Journal Article
+Efficient Sovereign DefaultGet access Arrow
+Alessandro Dovis
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 282–312, https://doi.org/10.1093/restud/rdy012
+Published: 01 February 2018
+.... There is a domestic production technology that transforms the intermediate good and labour into the domestic consumption good, , and foreign consumption good, , as follows: (3) \begin{gather} c\leq zF\left(m_{1},\ell_{1}\right)\,\,\text{ and }\,\,x\leq F\left(m_{2},\ell_{2}\right),\label{RCz1}\\ \end{gather...
+Abstract  
+Supplementary data
+Journal Article
+On Optimal Development in a Multi-Sector EconomyGet access Arrow
+David Gale
+The Review of Economic Studies, Volume 34, Issue 1, January 1967, Pages 1–18, https://doi.org/10.2307/2296567
+Published: 01 January 1967
+... T where we use the fact that A< 1. It follows that the partial sums L u, are bounded and t = 1 so (x t, Yt) is a good programme. Example 4. It might be thought that in a productive technology one could always, after a finite number...
+Journal Article
+Multinational Corporations and Trade StructureGet access Arrow
+Elhanan Helpman
+The Review of Economic Studies, Volume 52, Issue 3, July 1985, Pages 443–457, https://doi.org/10.2307/2297663
+Published: 01 July 1985
+.... We assume that production technologies are common knowledge and that preferences are homothetic and identical for all inhabitants of the world. In an integrated economy factor and commodity prices are the same everywhere. In the Y-sector, which is competitive, producers engage in marginal...
+Abstract 
+Journal Article
+Voting for Public GoodsGet access Arrow
+R. J. Aumann and others
+The Review of Economic Studies, Volume 50, Issue 4, October 1983, Pages 677–693, https://doi.org/10.2307/2297769
+Published: 01 October 1983
+... Neumann-Morgenstern utility). (vi) A u-additive, non-atomic, non-negative measure v on (T, C(5) (the voting measure); we assume v(T) = 1. Note that the total endowment of a coalition S-its input into the production technology if it wishes to produce public goods by itself-is Is e(t)/L...
+Abstract 
+Journal Article
+Productivity- and Pareto-Improving Changes in Taxes and TariffsGet access Arrow
+W. E. Diewert and others
+The Review of Economic Studies, Volume 56, Issue 2, April 1989, Pages 199–215, https://doi.org/10.2307/2297457
+Published: 01 April 1989
+... that a productivity improvement in tariffs exists under very mild conditions on the revenue function describing the production technology. The question arises as to whether the government is able to construct a domestic taxation policy to convert the productivity gain arising from a change in tariffs into a Pareto...
+Abstract 
+Journal Article
+Informative Advertising with Differentiated ProductsGet access Arrow
+Gene M. Grossman and Carl Shapiro
+The Review of Economic Studies, Volume 51, Issue 1, January 1984, Pages 63–81, https://doi.org/10.2307/2297705
+Published: 01 January 1984
+... that consumers are uniformly distributed around the circle with a constant density of 8 consumers per unit length. The production technology The importance of economies of scale in the context of differentiated products is well understood; there is a basic tradeoff between scale economies and the value...
+Abstract 
+Journal Article
+Involuntary Unemployment and Worker Moral HazardGet access Arrow
+Dilip Mookherjee
+The Review of Economic Studies, Volume 53, Issue 5, October 1986, Pages 739–754, https://doi.org/10.2307/2297717
+Published: 01 October 1986
+... complicated way on parameters concern• ing the state of demand and the production technology; no simple intuitive explanation of this seems available. The role of Proposition 2 is not to provide a solution to the nature of the optimal contract in all possible parametric circumstances, but rather...
+Abstract 
+Journal Article
+Pricing and Investment Policies in a System of Competitive Commuter RailwaysGet access Arrow
+Yoshitsugu Kanemoto
+The Review of Economic Studies, Volume 51, Issue 4, October 1984, Pages 665–681, https://doi.org/10.2307/2297785
+Published: 01 October 1984
+... at different locations are not identical for a consumer at a certain location. The resulting product differentiation, combined with increasing returns to scale in production technology, yields a market structure akin to that of monopolistic competition. In models of urban economics, firms have monopoly...
+Abstract 
+Journal Article
+State Taxes and Spatial MisallocationGet access Arrow
+Pablo D Fajgelbaum and others
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 333–376, https://doi.org/10.1093/restud/rdy050
+Published: 07 September 2018
+... in a state with respect to after-tax market potential of 0.8 and with respect to government spending of 0.1. The outcomes of our counterfactuals also depend on state-specific production technologies, productivities, amenities, and trade costs. These additional parameters are calibrated such that the model...
+Abstract  
+Supplementary data
+Journal Article
+Signalling to Dispersed Shareholders and Corporate ControlGet access Arrow
+Mike Burkart and Samuel Lee
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 922–962, https://doi.org/10.1093/restud/rdv005
+Published: 22 January 2015
+Abstract 
+Journal Article
+Uncertainty Shocks, Asset Supply and Pricing over the Business CycleGet access Arrow
+Francesco Bianchi and others
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 810–854, https://doi.org/10.1093/restud/rdx035
+Published: 24 June 2017
+... finance (see, , the survey by Strebulaev et al. (2011) ). In particular, we share the perspective of that literature that a firm is not simply a production technology, but instead makes decisions on how to package cash flows into debt and equity claims. Several recent papers have emphasized...
+Abstract  
+Supplementary data
+Journal Article
+Old, Sick, Alone, and Poor: A Welfare Analysis of Old-Age Social Insurance ProgrammesGet access Arrow
+R. Anton Braun and others
+The Review of Economic Studies, Volume 84, Issue 2, April 2017, Pages 580–612, https://doi.org/10.1093/restud/rdw016
+Published: 28 March 2016
+Abstract  
+Supplementary data
+Journal Article
+Taxation of Human Capital and Wage Inequality: A Cross-Country AnalysisGet access Arrow
+Fatih Guvenen and others
+The Review of Economic Studies, Volume 81, Issue 2, April 2014, Pages 818–850, https://doi.org/10.1093/restud/rdt042
+Published: 24 November 2013
+... technology, which takes aggregate physical and human capital as inputs. In this case, all countries will face the same world interest rate. In the second specification, suppose that all countries use the same aggregate production technology, which is linear in physical and human capital inputs. In both...
+Abstract  
+Supplementary data
+Journal Article
+Robust Permanent Income and PricingGet access Arrow
+Lars Peter Hansen and others
+The Review of Economic Studies, Volume 66, Issue 4, October 1999, Pages 873–907, https://doi.org/10.1111/1467-937X.00112
+Published: 01 October 1999
+.... Setting A> 0 induces intertemporal complementarities. Consumption services depend posi• tively on current consumption, but negatively on a weighted average of past consump• tions, an embodiment of "habit persistence". There is a linear production technology where the capital stock k...
+Abstract
+A World Equilibrium Model of the Oil MarketGet access Arrow
+Gideon Bornstein and others
+The Review of Economic Studies, Volume 90, Issue 1, January 2023, Pages 132–164, https://doi.org/10.1093/restud/rdac019
+Published: 15 April 2022
+... to this literature, our main contribution is to construct a model of the world economy in which OPEC acts as a cartel with the oil production technology parameters estimated using micro data. The second strand is a new, emerging literature that uses micro data to shed new light on key aspects of the oil industry...
+Abstract  
+Supplementary data
+Journal Article
+Informational AlliancesGet access Arrow
+David P. Baron and David Besanko
+The Review of Economic Studies, Volume 66, Issue 4, October 1999, Pages 743–768, https://doi.org/10.1111/1467-937X.00107
+Published: 01 October 1999
+.... II. THE MODEL The principal must obtain two components to produce a finished good, and each compo• nent is produced by an independent agent that has private information about the cost of producing its component. The production technologies of the agents are assumed to be characterized by fixed...
+Abstract 
+Journal Article
+Environmental Protection: A Theory of Direct and Indirect Competition for Political InfluenceGet access Arrow
+Zhihao Yu
+The Review of Economic Studies, Volume 72, Issue 1, January 2005, Pages 269–286, https://doi.org/10.1111/0034-6527.00332
+Published: 01 January 2005
+... perfectly competitive industries in an economy: one produces a numeraire good using labour only and the other produces good x using labour and an industry-specific factor. Production technology exhibits constant-returns-to-scale (CRS) in both industries. The production of good x pollutes...
+Abstract 
+Journal Article
+The Usefulness of Demand Forecasts for Team Resource Allocation in a Dynamic EnvironmentGet access Arrow
+Theodore Groves
+The Review of Economic Studies, Volume 50, Issue 3, July 1983, Pages 555–571, https://doi.org/10.2307/2297681
+Published: 01 July 1983
+... by evolving basic environmental variables-the resource supply and the enterprises' production technologies. The resource and enterprise managers are assumed to know the law of the stochastic process governing the evolution of these variables and also to be able to remember information from one period...
+Abstract 
+Journal Article
+Input Allocation, Workforce Management and Productivity Spillovers: Evidence from Personnel DataGet access Arrow
+Francesco Amodio and Miguel A Martinez-Carrasco
+The Review of Economic Studies, Volume 85, Issue 4, October 2018, Pages 1937–1970, https://doi.org/10.1093/restud/rdy010
+Published: 30 January 2018
+... comparable across laboratory experiments and field studies. There are several possible sources of productivity spillovers at the workplace. First, these may be built into the production technology. If coworkers are complements or substitutes in the workplace production function, the effort of one worker...
+Abstract  
+Supplementary data
+Journal Article
+A Theory of Liquidity and Regulation of Financial IntermediationGet access Arrow
+Emmanuel Farhi and others
+The Review of Economic Studies, Volume 76, Issue 3, July 2009, Pages 973–992, https://doi.org/10.1111/j.1467-937X.2009.00540.x
+Published: 01 July 2009
+...: b* = 0. It is easy to see that the interest rate on the markets for trades among intermediaries must be equal to the return on the production technology, so that . We now argue that an allocation satisfies the incentive compatibility constraint (16) if and only if the net present value...
+Abstract 
+Journal Article
+An Introduction to the Theory of Rational Expectations Under Asymmetric InformationGet access Arrow
+Sanford J. Grossman
+The Review of Economic Studies, Volume 48, Issue 4, October 1981, Pages 541–559, https://doi.org/10.2307/2297195
+Published: 01 October 1981
+... that market prices provide signals which facilitate the allocation of resources to their best use. In a world not subject to random shocks, consumers and producers when faced with competitive prices need look no further than their own preferences or production technology to be able to make a decision...
+Journal Article
+Foreign Direct Investment and Exports with Growing DemandGet access Arrow
+Rafael Rob and Nikolaos Vettas
+The Review of Economic Studies, Volume 70, Issue 3, July 2003, Pages 629–648, https://doi.org/10.1111/1467-937X.00259
+Published: 01 July 2003
+Abstract 
+Journal Article
+A Pure Theory of Job Security and Labour Income RiskGet access Arrow
+Giuseppe Bertola
+The Review of Economic Studies, Volume 71, Issue 1, January 2004, Pages 43–61, https://doi.org/10.1111/0034-6527.00275
+Published: 01 January 2004
+... or may not be the case, depending on the severity of the uninsurability problem and on the parametrization of the production technology, if severance payments are partly wasted from the point of view of employment relationships. As discussed in more detail in the following, such apparent waste may offset...
+Abstract 
+Journal Article
+Asset Management with Trading UncertaintyGet access Arrow
+Duncan K. Foley and Martin F. Hellwig
+The Review of Economic Studies, Volume 42, Issue 3, July 1975, Pages 327–346, https://doi.org/10.2307/2296848
+Published: 01 July 1975
+... think that this problem can be amended by a richer dynamic structure, which includes firms which make production decisions before knowing what their sales are going to be and which hold inventories. For a complete description, it is also necessary to assume either that the production technology...
+Journal Article
+The Time Pattern of Hedging and the Volatility of Futures PricesGet access Arrow
+Ronald W. Anderson and Jean-Pierre Danthine
+The Review of Economic Studies, Volume 50, Issue 2, April 1983, Pages 249–266, https://doi.org/10.2307/2297415
+Published: 01 April 1983
+... functions of the mean and variance of terminal wealth. Consequently, the optimal futures positions are of the form given in equations (10) and (12). We can become more specific if we note that (13), (15), and our assumption about production technology imply, Var! p~ = {32 Li...
+Abstract 
+Journal Article
+The Volume and Composition of Trade Between Rich and Poor CountriesGet access Arrow
+Nancy L. Stokey
+The Review of Economic Studies, Volume 58, Issue 1, January 1991, Pages 63–80, https://doi.org/10.2307/2298045
+Published: 01 January 1991
+... of Theorem 2 then, the competitive equilibrium is unique. The equilibrium prices and quantities depend on the exogenously given parameters h = (h", h') and k = (k", k the population sizes and human capital levels in the two regions. Since the production technology displays constant returns to scale...
+Abstract 
+Journal Article
+Statistical Discrimination with Peer Effects: Can Integration Eliminate Negative Stereotypes?Get access Arrow
+Shubham Chaudhuri and Rajiv Sethi
+The Review of Economic Studies, Volume 75, Issue 2, April 2008, Pages 579–596, https://doi.org/10.1111/j.1467-937X.2008.00468.x
+Published: 01 April 2008
+... economy perspective—implication that the privileged group has no incentive to resist public efforts to eliminate negative stereotypes. To address this shortcoming, Moro and Norman (2004) adopt a more general production technology under which they obtain cross-group effects operating through wages...
+Abstract 
+Journal Article
+A Micro-Econometric Model of Capital Utilization and Retirement: The Case of the U.S. Cement IndustryGet access Arrow
+Sanghamitra Das
+The Review of Economic Studies, Volume 59, Issue 2, February 1992, Pages 277–297, https://doi.org/10.2307/2297955
+Published: 01 February 1992
+... process is given in Witt (1966). The basic production technology has not changed since 1952. 280 REVIEW OF ECONOMIC STUDIES silicon oxide. These components occur naturally as deposits in limestone, shale, iron ore, clay or sand quarries. Hencecement production begins...
+Abstract 
+Journal Article
+A Tâtonnement Process for Public GoodsGet access Arrow
+J. H. Dreze and D. de la Vallee Poussin
+The Review of Economic Studies, Volume 38, Issue 2, April 1971, Pages 133–150, https://doi.org/10.2307/2296777
+Published: 01 April 1971
+.... 4 Except in those rare cases where there exists a private good which is a perfect substitute for the public good. DREZE & DE LA VALLEE POUSSIN PUBLIC GOODS 137 compatible with the production technology; which requires no information beyond the nl's (and h's...
+Journal Article
+A Theory of Trickle-Down Growth and DevelopmentGet access Arrow
+Philippe Aghion and Patrick Bolton
+The Review of Economic Studies, Volume 64, Issue 2, April 1997, Pages 151–172, https://doi.org/10.2307/2971707
+Published: 01 April 1997
+... function is U-shaped; and especially that the production technology exhibit diminishing returns. The specific form chosen in the text is otherwise not important. 154 REVIEW OF ECONOMIC STUDIES consider the quadratic cost function...
+Abstract 
+Journal Article
+Risk Sharing and Information in Village EconomiesGet access Arrow
+Ethan Ligon
+The Review of Economic Studies, Volume 65, Issue 4, October 1998, Pages 847–864, https://doi.org/10.1111/1467-937X.00071
+Published: 01 October 1998
+... can be tested in the absence of further knowledge ofboth the information structure and production technology. Under a particu• lar parameterization of preferences, the hypothesis that consumption allocations are indeed constrained-efficient yields a restriction which can be tested against...
+Abstract 
+Journal Article
+The Technology Cycle and InequalityGet access Arrow
+Boyan Jovanovic
+The Review of Economic Studies, Volume 76, Issue 2, April 2009, Pages 707–729, https://doi.org/10.1111/j.1467-937X.2009.00532.x
+Published: 01 April 2009
+... into (1) , the planner will use the most productive technologies, that is, those with the highest index i. In this case he will choose the technologies from the interval [N − 1,N], but not necessarily all of them. Thus the problem can be posed as follows: given...
+Abstract  
+Supplementary data
+Journal Article
+Firm Inattention and the Efficacy of Monetary Policy: A Text-Based ApproachGet access Arrow
+Wenting Song and Samuel Stern
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3438–3469, https://doi.org/10.1093/restud/rdae102
+Published: 23 October 2024
+Abstract  
+Supplementary data
+Journal Article
+Bewley BanksGet access Arrow
+Rustam Jamilov and Tommaso Monacelli
+The Review of Economic Studies, rdaf062, https://doi.org/10.1093/restud/rdaf062
+Published: 28 August 2025
+... 18.6 Labour disutility Average hours 0.3 χ 2 1 Labour supply elasticity Literature Firms and technology α 0.33 Capital share Literature a 4.59 Production technology Capital price 1 b 0.75 Production technology Price elasticity of lending...
+Abstract  
+Supplementary data
+Measuring the Incentive to Collude: The Vitamin Cartels, 1990–99Get access Arrow
+Mitsuru Igami and Takuo Sugaya
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1460–1494, https://doi.org/10.1093/restud/rdab052
+Published: 18 August 2021
+... vitamin required its own specific plant. Both UKCC (2001) and EC (2003) determined that “there was neither demand-side nor supply-side substitutability for individual vitamins.” 19 The underlying production technologies of vitamins had matured by the 1980s and were common across firms...
+Abstract  
+Supplementary data
+Journal Article
+ACCEPTED MANUSCRIPT
+Should Monetary Policy Care about Redistribution? Optimal Monetary and Fiscal Policy with Heterogeneous AgentsGet access Arrow
+François Le Grand and others
+The Review of Economic Studies, rdag019, https://doi.org/10.1093/restud/rdag019
+Published: 12 March 2026
+.... Intermediary firms are endowed with a Cobb-Douglas production technology and use labor and capital as production factors. The production technology is such that lj,t units of labor and k j,t units of capital are transformed into Ztk j ,t lj1, t units of intermediate good. In equilibrium, this production...
+Abstract  
+Supplementary data
+Journal Article
+Inequality in Landownership, the Emergence of Human-Capital Promoting Institutions, and the Great DivergenceGet access Arrow
+Oded Galor and others
+The Review of Economic Studies, Volume 76, Issue 1, January 2009, Pages 143–179, https://doi.org/10.1111/j.1467-937X.2008.00506.x
+Published: 01 January 2009
+... Production in the agricultural sector occurs within a period according to a neoclassical, constant-returns-to-scale (CRS) production technology, using labour and land as inputs. The output produced at time t,ytA, is (2) where...
+Abstract  
+Supplementary data
+Journal Article
+Productivity and Quality in Health Care: Evidence from the Dialysis IndustryGet access Arrow
+Paul L. E. Grieco and Ryan C. McDevitt
+The Review of Economic Studies, Volume 84, Issue 3, July 2017, Pages 1071–1105, https://doi.org/10.1093/restud/rdw042
+Published: 12 September 2016
+Abstract  
+Supplementary data
+Journal Article
+Reallocation, Competition, and Productivity: Evidence from a Financial Liberalization EpisodeGet access Arrow
+Liliana Varela
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 1279–1313, https://doi.org/10.1093/restud/rdx046
+Published: 18 August 2017
+... three years: developed a major product line, upgraded an existing product line, acquired a new production technology, obtained a new licensing agreement, or obtained a new quality accreditation. 21 I construct a dummy variable (Innovation) if the firm has undertaken any of these activities...
+Abstract  
+Supplementary data
+Journal Article
+Capital Regulation and Shadow Finance: A Quantitative AnalysisGet access Arrow
+Hyunju Lee and others
+The Review of Economic Studies, Volume 91, Issue 5, October 2024, Pages 3047–3084, https://doi.org/10.1093/restud/rdad105
+Published: 03 November 2023
+Abstract  
+Supplementary data
+Journal Article
+Job Matching with Subsidy and Taxation Open Access
+Fuhito Kojima and others
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 372–402, https://doi.org/10.1093/restud/rdad032
+Published: 24 February 2023
+Abstract  
+Supplementary data
+Journal Article
+The Macroeconomics of Irreversibility Open Access
+Isaac Baley and Andrés Blanco
+The Review of Economic Studies, rdag001, https://doi.org/10.1093/restud/rdag001
+Published: 13 January 2026
+... = 1 ∞ e − r T h ( θ T h + p ( i T h ) i T h ) ] , subject to the production technology ( 2.1 ), the idiosyncratic productivity shocks ( 2.2 ), the fixed cost ( 2.3 ), the investment price function ( 2.4 ), and the law of motion for the capital...
+Abstract  
+Supplementary data
+Journal Article
+Lobbying and Welfare in a Representative DemocracyGet access Arrow
+Timothy Besley and Stephen Coate
+The Review of Economic Studies, Volume 68, Issue 1, January 2001, Pages 67–82, https://doi.org/10.1111/1467-937X.00160
+Published: 01 January 2001
+Abstract 
+Journal Article
+Firing Costs and Labour Demand: How Bad is Eurosclerosis?Get access Arrow
+Samuel Bentolila and Giuseppe Bertola
+The Review of Economic Studies, Volume 57, Issue 3, July 1990, Pages 381–402, https://doi.org/10.2307/2298020
+Published: 01 July 1990
+... in continuous time, and with a continuous state space, we are better able to characterize quantitatively the labour demand policy of a firm subject to demand uncertainty. B. Problem setup We consider a firm with a linear production technology, that uses only homogeneous labour, L, as a factor...
+Abstract 
+Journal Article
+Unemployment Equilibrium with Myopic Complete InformationGet access Arrow
+Walter Perrin Heller and Ross M. Starr
+The Review of Economic Studies, Volume 46, Issue 2, April 1979, Pages 339–359, https://doi.org/10.2307/2297056
+Published: 01 April 1979
+..." equilibria). This assumption simply states that any offer that is possible for the household is also credible. Assumption H.3. Bi(d)cKi for i E H. 4. PRODUCTION AGENTS Let F denote the subset of all agents that are firms. For i E F, let Xi be the production...
+Journal Article
+The Welfare Effects of Incentive SchemesGet access Arrow
+Adam Copeland and Cyril Monnet
+The Review of Economic Studies, Volume 76, Issue 1, January 2009, Pages 93–113, https://doi.org/10.1111/j.1467-937X.2008.00513.x
+Published: 01 January 2009
+Abstract  
+Supplementary data
+Journal Article
+Optimal Taxation with Private Government InformationGet access Arrow
+Christopher Sleet
+The Review of Economic Studies, Volume 71, Issue 4, October 2004, Pages 1217–1239, https://doi.org/10.1111/0034-6527.00320
+Published: 01 October 2004
+...∞) according to: (1) , where β ∈ (0, 1) and U has the form (2) with σ,α > 0 and γ ≥ 0. For much of the paper U will be specialized to be quasi-linear in labour (γ = 0). 10 There is a linear production technology that converts one unit of labour supply into one unit...
+Abstract 
+Journal Article
+International Financial Integration and Crisis ContagionGet access Arrow
+Michael B Devereux and Changhua Yu
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1174–1212, https://doi.org/10.1093/restud/rdz054
+Published: 09 October 2019
+... binding constraints Financial contagion Leverage D52 F36 F44 G11 G15 (2.2) The decisions of firm-investors also involve hiring domestic labour and physical capital to maximize profits , given the production technology , where represents an exogenous productivity. This leads...
+Abstract  
+Supplementary data
+Journal Article
+Good Dispersion, Bad DispersionGet access Arrow
+Matthias Kehrig and Nicolas Vincent
+The Review of Economic Studies, Volume 93, Issue 2, March 2026, Pages 1103–1136, https://doi.org/10.1093/restud/rdaf042
+Published: 24 June 2025
+... as a collection of plants under common ownership or control. Following the literature, we assume a Cobb–Douglas production technology, which is common for all plants in a 4-digit NAICS industry, and approximate the marginal revenue product of plant n in year t with its real value added per unit...
+Abstract  
+Supplementary data
+Journal Article
+Technology and Price Structure in General Interdependence SystemsGet access Arrow
+Victor Zarnowitz
+The Review of Economic Studies, Volume 23, Issue 2, 1955, Pages 109–125, https://doi.org/10.2307/2296294
+Published: 01 January 1955
+Journal Article
+Labour Relations and Asset ReturnsGet access Arrow
+Jean-Pierre Danthine and John B. Donaldson
+The Review of Economic Studies, Volume 69, Issue 1, January 2002, Pages 41–64, https://doi.org/10.1111/1467-937X.00197
+Published: 01 January 2002
+... on At are given. (7) In formulation (7), n{ denotes the period t level of employment (hours) engaged by the firm, k, its period t capital stock level, and it its period t investment. The firm's production technology, f(kt , n is presumed to be shocked by a multiplicative random productivity disturbance...
+Abstract 
+Journal Article
+Financial Intermediation and Delegated MonitoringGet access Arrow
+Douglas W. Diamond
+The Review of Economic Studies, Volume 51, Issue 3, July 1984, Pages 393–414, https://doi.org/10.2307/2297430
+Published: 01 July 1984
+Abstract 
+Journal Article
+Pairwise-Difference Estimation of a Dynamic Optimization ModelGet access Arrow
+Han Hong and Matthew Shum
+The Review of Economic Studies, Volume 77, Issue 1, January 2010, Pages 273–304, https://doi.org/10.1111/j.1467-937X.2009.00576.x
+Published: 01 January 2010
+... the following dynamic firm investment problem where the individual-specific subscript i is omitted: (26) subject to (27) The interpretation here is that xt is capital, which is transformed into final goods yt via the production technology...
+Abstract 
+Journal Article
+A Competitive Theory of Employment DynamicsGet access Arrow
+Randall Gouge and Ian King
+The Review of Economic Studies, Volume 64, Issue 1, January 1997, Pages 1–122, https://doi.org/10.2307/2971738
+Published: 01 January 1997
+... local shocks. Firms All firms within a location are identical, with production technology: y~= r~e,f(n~) (2.1) where y~ denotes output in location i in period t, r~ denotes the local shock, 0, denotes the aggregate shock, n~ denotes...
+Abstract
+A Dynamic Tiebout Theory of Voluntary vs. Involuntary Provision of Public GoodsGet access Arrow
+Gerhard Glomm and Roger Lagunoff
+The Review of Economic Studies, Volume 66, Issue 3, July 1999, Pages 659–677, https://doi.org/10.1111/1467-937X.00102
+Published: 01 July 1999
+Abstract 
+Journal Article
+Income Distribution and Demand-Induced InnovationsGet access Arrow
+Reto Foellmi and Josef Zweimüller
+The Review of Economic Studies, Volume 73, Issue 4, October 2006, Pages 941–960, https://doi.org/10.1111/j.1467-937X.2006.00403.x
+Published: 01 October 2006
+Abstract 
+Journal Article
+Market Size, Trade, and ProductivityGet access Arrow
+Marc J. Melitz and Gianmarco I. P. Ottaviano
+The Review of Economic Studies, Volume 75, Issue 1, January 2008, Pages 295–316, https://doi.org/10.1111/j.1467-937X.2007.00463.x
+Published: 01 January 2008
+...) : This yields the zero cut-off profit condition (13) where is the average cost of surviving firms. 5 The number of entrants is then given by NE = N/G(cD). Given a production technology referenced by G(c...
+Abstract 
+Journal Article
+Managerial Incentives and Product Market CompetitionGet access Arrow
+Klaus M. Schmidt
+The Review of Economic Studies, Volume 64, Issue 2, April 1997, Pages 191–213, https://doi.org/10.2307/2971709
+Published: 01 April 1997
+... production costs. For example, he can reorganize the company, sell offor close down unprofitable divisions, lay off redundant workers, experiment with new production technologies, switch to new suppli• ers for inputs, develop a new product, etc. The probability that these activities are successful...
+Abstract 
+Journal Article
+Renegotiation and Optimality in Agency ContractsGet access Arrow
+Ching-To Albert Ma
+The Review of Economic Studies, Volume 61, Issue 1, January 1994, Pages 109–129, https://doi.org/10.2307/2297879
+Published: 01 January 1994
+Abstract 
+Journal Article
+Market Making by Price-Setting FirmsGet access Arrow
+Daniel F. Spulber
+The Review of Economic Studies, Volume 63, Issue 4, October 1996, Pages 559–580, https://doi.org/10.2307/2297793
+Published: 01 October 1996
+... and suppliers do not trade directly with each other. As noted previously, this is due to the intermediary's cost advantages in managing transactions. If the firms are manufacturers, then they may employ production technology that is not readily available to customers and suppliers. The purpose...
+Abstract 
+Journal Article
+Shadow Wages and Peasant Family Labour Supply: An Econometric Application to the Peruvian SierraGet access Arrow
+Hanan G. Jacoby
+The Review of Economic Studies, Volume 60, Issue 4, October 1993, Pages 903–921, https://doi.org/10.2307/2298105
+Published: 01 October 1993
+... offixed inputs (e.g. land) and the price ofthe composite consumption good is normalized to unity and set equal to the price offarm output, Y; the strictly concave home production technology, Q = (51,52 , I), where I is a vector of fixed inputs; and the inequality...
+Abstract 
+Journal Article
+The Cyclicality of Sales and Aggregate Price FlexibilityGet access Arrow
+Oleksiy Kryvtsov and Nicolas Vincent
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 334–377, https://doi.org/10.1093/restud/rdaa050
+Published: 04 September 2020
+Abstract  
+Supplementary data
+Journal Article
+Financial Regulation in a Quantitative Model of the Modern Banking SystemGet access Arrow
+J Begenau and T Landvoigt
+The Review of Economic Studies, Volume 89, Issue 4, July 2022, Pages 1748–1784, https://doi.org/10.1093/restud/rdab088
+Published: 24 December 2021
+... expenditure shocks. Such heterogeneous preferences over different types of money-like assets can give rise to the CES form (see e.g. Anderson, Palma, and Thisse, 1989 ). 13 There is a continuum of mass one of each type of bank, . Banks operate a Cobb–Douglas production technology combining...
+Abstract  
+Supplementary data
+Journal Article
+Analysing the Effects of Insuring Health Risks: On the Trade-off between Short-Run Insurance Benefits versus Long-Run Incentive CostsGet access Arrow
+Harold L Cole and others
+The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 1123–1169, https://doi.org/10.1093/restud/rdy017
+Published: 28 March 2018
+Abstract  
+Supplementary data
+Journal Article
+Managerial Quality and Productivity DynamicsGet access Arrow
+Achyuta Adhvaryu and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1569–1607, https://doi.org/10.1093/restud/rdac062
+Published: 08 September 2022
+..., and Van Reenen, 2016 ; Bandiera, Prat, Hansen, and Sadun, 2020 ) but is limited in its ability to separate establishment level features like organizational structure and production technology from the quality of the manger. The second has used “insider” firm data to show that managers vary widely...
+Abstract  
+Supplementary data
+Journal Article
+Back to Basics: Basic Research Spillovers, Innovation Policy, and GrowthGet access Arrow
+Ufuk Akcigit and others
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 1–43, https://doi.org/10.1093/restud/rdaa061
+Published: 13 October 2020
+... linear production technology that takes only labour as an input: (3) $$\begin{equation} y_{ij}=q_{ij}l_{ij} \label{linprod}, \end{equation}$$ where is the labour productivity associated with product line , and is the number of production workers employed. Let us denote the wage rate...
+Abstract  
+Supplementary data
+Journal Article
+Creating Cohesive Communities: A Youth Camp Experiment in India Open Access
+Arkadev Ghosh and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 438–475, https://doi.org/10.1093/restud/rdaf026
+Published: 19 April 2025
+Abstract  
+Supplementary data
+Journal Article
+Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic ModelGet access Arrow
+Rafael Araujo and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 72–105, https://doi.org/10.1093/restud/rdaf031
+Published: 22 May 2025
+Abstract  
+Supplementary data
+Journal Article
+Institutions, Comparative Advantage, and the Environment Open Access
+Joseph S Shapiro
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 4152–4193, https://doi.org/10.1093/restud/rdaf012
+Published: 27 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Risk-Bearing and the Theory of Income DistributionGet access Arrow
+Abhijit V. Banerjee and Andrew F. Newman
+The Review of Economic Studies, Volume 58, Issue 2, April 1991, Pages 211–235, https://doi.org/10.2307/2297965
+Published: 01 April 1991
+..., strictly concave and smooth.' We further assume they are bounded above and unbounded below. It will be evident that given the production technology, the linearity of the disutility of effort is a normalization. The form of the bequest preference is peculiar in two respects. First, we assume...
+Abstract 
+Journal Article
+Preemption Games with Private InformationGet access Arrow
+Hugo A. Hopenhayn and Francesco Squintani
+The Review of Economic Studies, Volume 78, Issue 2, April 2011, Pages 667–692, https://doi.org/10.1093/restud/rdq021
+Published: 09 February 2011
+Abstract  
+Supplementary data
+Journal Article
+Credit and Money in a Search Model with Divisible CommoditiesGet access Arrow
+Shouyong Shi
+The Review of Economic Studies, Volume 63, Issue 4, October 1996, Pages 627–652, https://doi.org/10.2307/2297797
+Published: 01 October 1996
+... consumption good. For clarity, consider a match between producers i and i + I. According to the description of tastes and production technology, agent i + 1 can produce TABLE 1 Possible exchanges without barter...
+Abstract 
+Journal Article
+The Timing of Purchases and Aggregate FluctuationsGet access Arrow
+John V. Leahy and Joseph Zeira
+The Review of Economic Studies, Volume 72, Issue 4, October 2005, Pages 1127–1151, https://doi.org/10.1111/0034-6527.00364
+Published: 01 October 2005
+... context. We begin with the standard assumption in the literature that prices are exogenous to durable demand. The relative price of durables and non-durables is fixed by the production technology and the interest rate is fixed by considering a small open economy that trades assets with the rest...
+Abstract 
+Journal Article
+Voting and Lottery Drafts as Efficient Public Goods MechanismsGet access Arrow
+John O. Ledyard and Thomas R. Palfrey
+The Review of Economic Studies, Volume 61, Issue 2, April 1994, Pages 327–355, https://doi.org/10.2307/2297984
+Published: 01 April 1994
+Abstract
+The Size and Life-Cycle Growth of Plants: The Role of Productivity, Demand, and WedgesGet access Arrow
+Marcela Eslava and others
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 259–300, https://doi.org/10.1093/restud/rdad029
+Published: 23 February 2023
+Abstract  
+Supplementary data
+Journal Article
+The Causal Impact of Socio-Emotional Skills Training on Educational Success Open Access
+Giuseppe Sorrenti and others
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 506–552, https://doi.org/10.1093/restud/rdae018
+Published: 22 February 2024
+Abstract  
+Supplementary data
+Journal Article
+The Economics and Econometrics of Gene–Environment Interplay Open Access
+Pietro Biroli and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 144–180, https://doi.org/10.1093/restud/rdaf034
+Published: 11 June 2025
+Abstract  
+Supplementary data
+Journal Article
+Seawalls and Stilts: A Quantitative Macro Study of Climate AdaptationGet access Arrow
+Stephie Fried
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 3303–3344, https://doi.org/10.1093/restud/rdab099
+Published: 27 December 2021
+...) using a linear production technology, . Variable denotes total factor productivity in the production of housing services. I assume that owner-occupied housing is not perfectly divisible, which I model using a minimum house size, , as in Gervais (2002) . In contrast, rental housing services...
+Abstract  
+Supplementary data
+Journal Article
+Equilibrium Analysis in Behavioural One-Sector Growth ModelsGet access Arrow
+Daron Acemoglu and Martin Kaae Jensen
+The Review of Economic Studies, Volume 91, Issue 2, March 2024, Pages 599–640, https://doi.org/10.1093/restud/rdad043
+Published: 06 April 2023
+... clear at all times, and production is described by a profit maximizing aggregate constant returns firm with a smooth (per capita) production technology y = f ( k ) that satisfies f ( 0 ) = 0 , f ′ > 0 , and f ″ < 0 . We also impose that there exists...
+Abstract  
+Supplementary data
+Journal Article
+Collective Labour Supply: Heterogeneity and Non-ParticipationGet access Arrow
+Richard Blundell and others
+The Review of Economic Studies, Volume 74, Issue 2, April 2007, Pages 417–445, https://doi.org/10.1111/j.1467-937X.2007.00440.x
+Published: 01 April 2007
+Abstract 
+Journal Article
+The Unavoidability of Low Inflation–Low Output TrapsGet access Arrow
+Narayana R Kocherlakota
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 3410–3435, https://doi.org/10.1093/restud/rdac009
+Published: 22 February 2022
+Abstract 
+Journal Article
+The Sale of Ideas: Strategic Disclosure, Property Rights, and ContractingGet access Arrow
+James J. Anton and Dennis A. Yao
+The Review of Economic Studies, Volume 69, Issue 3, July 2002, Pages 513–531, https://doi.org/10.1111/1467-937X.t01-1-00020
+Published: 01 July 2002
+..., would improve the chance of a successful innovation by a buyer. In practice, IP takes many different forms, such as scientific and technical knowledge, production technology or marketing information. We do not model IP at this primitive level. Instead, we assume that different types of IP can...
+Abstract 
+Journal Article
+Do Wages Rise with Job Seniority?Get access Arrow
+Joseph G. Altonji and Robert A. Shakotko
+The Review of Economic Studies, Volume 54, Issue 3, July 1987, Pages 437–459, https://doi.org/10.2307/2297568
+Published: 01 July 1987
+... uncorrelated or has a small variance. Unfortunately, serial correlation is likely. For example, wages may vary with firm specific changes in product demand or production technology. Or serially correlated industry-wide productivity shocks may not affect the wages of workers in their present job (because...
+Abstract 
+Journal Article
+The Concept of Income in a General EquilibriumGet access Arrow
+J. A. Sefton and M. R. Weale
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 219–249, https://doi.org/10.1111/j.1467-937X.2006.00375.x
+Published: 01 January 2006
+Abstract 
+Journal Article
+Increasing Returns in Infinite-Horizon EconomiesGet access Arrow
+Chris Shannon
+The Review of Economic Studies, Volume 64, Issue 1, January 1997, Pages 73–96, https://doi.org/10.2307/2971741
+Published: 01 January 1997
+... production set will be bounded. In an infinite-dimensional setting, this need not be true, an anomaly which arises not as a result of increasing returns or non-convexities, but rather as a result of the infinite dimensionality of the model. For example, suppose the production technology exhibits...
+Abstract 
+Journal Article
+FEATURED
+Trade and Domestic Production NetworksGet access Arrow
+Emmanuel Dhyne and others
+The Review of Economic Studies, Volume 88, Issue 2, March 2021, Pages 643–668, https://doi.org/10.1093/restud/rdaa062
+Published: 14 October 2020
+Abstract  
+Supplementary data
+Journal Article
+From Physical to Human Capital Accumulation: Inequality and the Process of DevelopmentGet access Arrow
+Oded Galor and Omer Moav
+The Review of Economic Studies, Volume 71, Issue 4, October 2004, Pages 1001–1026, https://doi.org/10.1111/0034-6527.00312
+Published: 01 October 2004
+... effect of equality on economic growth reflects later stages of development when human capital accumulation becomes a prime engine of economic growth, and credit constraints are largely binding. Production occurs within a period according to a neoclassical, constant-returns-to-scale, production technology...
+Abstract 
+Journal Article
+Optimal Contracting with Private Knowledge of Wealth and AbilityGet access Arrow
+Tracy R. Lewis and David E. M. Sappington
+The Review of Economic Studies, Volume 68, Issue 1, January 2001, Pages 21–44, https://doi.org/10.1111/1467-937X.00158
+Published: 01 January 2001
+... There are two risk-neutral actors in the model: a principal and an agent. The principal owns a production technology, or project, that requires the agent's unobservable effort. The project either succeeds or fails, and the outcome is observed publicly. Success gener• ates gross value V. Failure provides...
+Abstract 
+Journal Article
+Competition, Financial Discipline and GrowthGet access Arrow
+Philippe Aghion and others
+The Review of Economic Studies, Volume 66, Issue 4, October 1999, Pages 825–852, https://doi.org/10.1111/1467-937X.00110
+Published: 01 October 1999
+... equilibrium model of technological adoption, where intermediate producers have to incur a fixed cost to adopt the latest, that is, lowest marginal cost, production technology. In Sections 3 and 4, we show that, for profit-maximizing firms, the Schumpeterian argument works and competition deters adoption...
+Journal Article
+A Continuous-Time Version of the Principal-Agent ProblemGet access Arrow
+Yuliy Sannikov
+The Review of Economic Studies, Volume 75, Issue 3, July 2008, Pages 957–984, https://doi.org/10.1111/j.1467-937X.2008.00486.x
+Published: 01 July 2008
+... state variable, the principal's wealth. Although an additional state variable would involve a partial differential equation and a more complicated solution, some simplifications are possible for specific functional forms of utilities and production technologies. Williams (2005) has an example with log...
+Abstract 
+Journal Article
+Input Price Shocks and the Slowdown in Economic Growth: The Case of U.K. ManufacturingGet access Arrow
+Michael Bruno and Jeffrey Sachs
+The Review of Economic Studies, Volume 49, Issue 5, December 1982, Pages 679–705, https://doi.org/10.2307/2297185
+Published: 01 December 1982
+... conditions of perfect foresight, the real market value of the firm is simply the discounted value of cash flow: v= reQ- W,.L-ll,.N -I]dt (1) where ~ = J~ R (T) dr. The goal of the firm is to maximize V subject to the production technology, and the costs...
+Abstract 
+Journal Article
+Direct and Indirect Effects of Subsidized Dual Apprenticeships Open Access
+Bruno Crépon and Patrick Premand
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 2979–3028, https://doi.org/10.1093/restud/rdae094
+Published: 10 October 2024
+... ″ / ( c ″ − f ″ ) , with a the productivity differential between formal and traditional apprentices, f the firm’s production function, and c the cost of recruiting apprentices. The magnitude of ψ thus depends on various factors, including the firm’s production...
+Abstract  
+Supplementary data
+Journal Article
+Estimates of the Trade and Welfare Effects of NAFTAGet access Arrow
+Lorenzo Caliendo and Fernando Parro
+The Review of Economic Studies, Volume 82, Issue 1, January 2015, Pages 1–44, https://doi.org/10.1093/restud/rdu035
+Published: 14 November 2014
+... of each ω j . Producers of intermediate goods across countries differ in the efficiency of production. We denote by z n j ( ω j ) the efficiency of producing intermediate good ω j in country n . The production technology of a good ω j is q n...
+Abstract  
+Supplementary data
+Journal Article
+Organizational Change and Reference-Dependent PreferencesGet access Arrow
+Klaus M Schmidt and Jonas von Wangenheim
+The Review of Economic Studies, rdag009, https://doi.org/10.1093/restud/rdag009
+Published: 02 February 2026
+... , firms created at θ = 4 and θ = 7.5 , crisis at θ = 9 We consider two firms that have access to the same production technology. The productivity of the technology is summarized by θ, which grows over time. Firms are founded at different points in time. Firm 1 was founded when...
+Abstract  
+Supplementary data
+Negative Externalities and Evolutionary ImplementationGet access Arrow
+William H. Sandholm
+The Review of Economic Studies, Volume 72, Issue 3, July 2005, Pages 885–915, https://doi.org/10.1111/j.1467-937X.2005.00355.x
+Published: 01 July 2005
+Abstract 
+Journal Article
+Dynamic Optimal Taxation with Private InformationGet access Arrow
+Stefania Albanesi and Christopher Sleet
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 1–30, https://doi.org/10.1111/j.1467-937X.2006.00367.x
+Published: 01 January 2006
+...(yt) denotes the disutility from labour at time t. Preference shocks alter the disutility of labour and the marginal rate of substitution between consumption and labour. They may, for example, be interpreted as short-lived shocks to health. We also assume that the production technology...
+Abstract  
+Supplementary data
+Journal Article
+Does Income Inequality Lead to Consumption Inequality? Evidence and TheoryGet access Arrow
+Dirk Krueger and Fabrizio Perri
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 163–193, https://doi.org/10.1111/j.1467-937X.2006.00373.x
+Published: 01 January 2006
+... inequality. A single good being produced in a given period can be used for consumption or investment in the physical capital stock K. The representative firm produces output according to a Cobb—Douglas production technology. The aggregate resource constraint reads as (6) where...
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Immigration along the Distribution of WagesGet access Arrow
+Christian Dustmann and others
+The Review of Economic Studies, Volume 80, Issue 1, January 2013, Pages 145–173, https://doi.org/10.1093/restud/rds019
+Published: 18 April 2012
+Abstract  
+Supplementary data
+Journal Article
+Occupational Choice and Dynamic IncentivesGet access Arrow
+Maitreesh Ghatak and others
+The Review of Economic Studies, Volume 68, Issue 4, October 2001, Pages 781–810, https://doi.org/10.1111/1467-937X.00190
+Published: 01 October 2001
+Abstract 
+Journal Article
+Informal Insurance Arrangements with Limited Commitment: Theory and Evidence from Village EconomiesGet access Arrow
+Ethan Ligon and others
+The Review of Economic Studies, Volume 69, Issue 1, January 2002, Pages 209–244, https://doi.org/10.1111/1467-937X.00204
+Published: 01 January 2002
+Abstract 
+Journal Article
+Collusion, Delegation and Supervision with Soft InformationGet access Arrow
+Antoine Faure-Grimaud and others
+The Review of Economic Studies, Volume 70, Issue 2, April 2003, Pages 253–279, https://doi.org/10.1111/1467-937X.000244
+Published: 01 April 2003
+Abstract 
+Journal Article
+Technology Shocks and Job FlowsGet access Arrow
+Claudio Michelacci and David Lopez-Salido
+The Review of Economic Studies, Volume 74, Issue 4, October 2007, Pages 1195–1227, https://doi.org/10.1111/j.1467-937X.2007.00452.x
+Published: 01 October 2007
+...) , and Hornstein, Krusell and Violante (2002 , 2005 ). Yet, the business cycle implications of technology adoption remain largely unexplored. Technology shocks are typically assumed to instantaneously affect every firm's production technology. This contradicts the micro-evidence that firm-level technologies...
+Abstract  
+Supplementary data
+Journal Article
+Identifying Distributional Characteristics in Random Coefficients Panel Data ModelsGet access Arrow
+Manuel Arellano and Stéphane Bonhomme
+The Review of Economic Studies, Volume 79, Issue 3, July 2012, Pages 987–1020, https://doi.org/10.1093/restud/rdr045
+Published: 13 December 2011
+Abstract  
+Supplementary data
+Journal Article
+Money and InformationGet access Arrow
+Aleksander Berentsen and Guillaume Rocheteau
+The Review of Economic Studies, Volume 71, Issue 4, October 2004, Pages 915–944, https://doi.org/10.1111/0034-6527.00309
+Published: 01 October 2004
+... goods through its effect on the terms of trade. Later on we endogenize Π to see how money affects the decision to cheat. In this section we discuss the formation of the terms of trade in the bilateral matches. We first present our assumptions about preferences, the production technology...
+Abstract 
+Journal Article
+Fiscal Policy with Heterogeneous Agents and Incomplete MarketsGet access Arrow
+Jonathan Heathcote
+The Review of Economic Studies, Volume 72, Issue 1, January 2005, Pages 161–188, https://doi.org/10.1111/0034-6527.00328
+Published: 01 January 2005
+... is essentially the same. In what follows I therefore focus on the benchmark incomplete-markets model with proportional taxes. Table 1 Parameter values and simulation targets common across economies Table 2 Parameter values varying across economies Production technology and preferences. The parameters...
+Abstract  
+Supplementary data
+Journal Article
+Monopoly Power and Distribution in Fragmented Markets: The Case of GroundwaterGet access Arrow
+Hanan G. Jacoby and others
+The Review of Economic Studies, Volume 71, Issue 3, July 2004, Pages 783–808, https://doi.org/10.1111/j.1467-937X.2004.00304.x
+Published: 01 July 2004
+Abstract 
+Journal Article
+Incomplete Mechanisms and Efficient Allocation in Labour MarketsGet access Arrow
+Douglas Gale
+The Review of Economic Studies, Volume 58, Issue 5, October 1991, Pages 823–851, https://doi.org/10.2307/2297940
+Published: 01 October 1991
+...) ~ 0 denote the disutility (measured in terms of the produced good) suffered by a worker of type s as a result of working for a firm of type t. The production technology allows the firm to use labour to produce a consumption good. The information technology allows the firm to distinguish...
+Abstract 
+Journal Article
+Trade and Inequality: From Theory to EstimationGet access Arrow
+Elhanan Helpman and others
+The Review of Economic Studies, Volume 84, Issue 1, January 2017, Pages 357–405, https://doi.org/10.1093/restud/rdw025
+Published: 29 June 2016
+... ingredient is a production technology featuring complementarity between firm productivity and worker ability, following the ideas of Rosen (1982) . In particular, we assume that firm output ( Y ) depends on firm productivity ( θ ), the measure of workers hired by the firm ( H ), and the average...
+Abstract  
+Supplementary data
+Journal Article
+Recursive Lexicographical Search: Finding All Markov Perfect Equilibria of Finite State Directional Dynamic GamesGet access Arrow
+Fedor Iskhakov and others
+The Review of Economic Studies, Volume 83, Issue 2, April 2016, Pages 658–703, https://doi.org/10.1093/restud/rdv046
+Published: 29 October 2015
+... decisions of a stochastically improving production technology. 3 When applicable, state recursion is a much more effective method for finding an MPE than traditional time-based backward induction methods. For example, in an infinite horizon DDG there is no last period for performing backward...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Firm Dynamics, On-the-Job Search, and Labor Market Fluctuations Open Access
+Michael W L Elsby and Axel Gottfries
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1370–1419, https://doi.org/10.1093/restud/rdab054
+Published: 08 September 2021
+... recently, Audoly (2019) and Gouin-Bonenfant (2018) study related models that incorporate entry, exit, and firm lifecycles. In contrast to our model, however, all such work has maintained the assumption of linear production technologies. Third, and most closely related to our work, a handful of recent...
+Abstract  
+Supplementary data
+Journal Article
+Product Life Cycle, Learning, and Nominal ShocksGet access Arrow
+David Argente and Chen Yeh
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 2992–3054, https://doi.org/10.1093/restud/rdac004
+Published: 28 February 2022
+Abstract  
+Supplementary data
+Journal Article
+Increasing Competition and the Winner's Curse: Evidence from ProcurementGet access Arrow
+Han Hong and Matthew Shum
+The Review of Economic Studies, Volume 69, Issue 4, October 2002, Pages 871–898, https://doi.org/10.1111/1467-937X.00229
+Published: 01 October 2002
+... as a "quantity index" of inputs (where the amount of each input required depends on firms' efficiency levels). Standard assumptions (cf. Varian (1992, Chapter 9)) on the production technology enable one to aggregate the inner product of vectors of inputs and input prices as the product of a single price...
+Abstract 
+Journal Article
+Macroeconomic Dynamics Near the ZLB: A Tale of Two CountriesGet access Arrow
+S Borağan Aruoba and others
+The Review of Economic Studies, Volume 85, Issue 1, January 2018, Pages 87–118, https://doi.org/10.1093/restud/rdx027
+Published: 19 April 2017
+... ( 0 , 1 )  and  ρ ∈ ( 0 , 1 ) . Intermediate good is produced by a monopolist who has access to the following production technology: (14) Y t ( j ) = A t H t ( j ) , where is an exogenous productivity process that is common to all firms...
+Abstract  
+Supplementary data
+Journal Article
+Housing Liquidity, Mobility, and the Labour MarketGet access Arrow
+Allen Head and Huw Lloyd-Ellis
+The Review of Economic Studies, Volume 79, Issue 4, October 2012, Pages 1559–1589, https://doi.org/10.1093/restud/rds004
+Published: 08 February 2012
+.... Each city has a labour market that functions much like that considered by Lucas and Prescott (1974). For a household to enter this market in any city, they must first receive an offer. Firms enter and hire workers to operate the production technology. Inside each labour market, firms...
+Abstract  
+Supplementary data
+Getting Parents Involved: A Field Experiment in Deprived SchoolsGet access Arrow
+Francesco Avvisati and others
+The Review of Economic Studies, Volume 81, Issue 1, January 2014, Pages 57–83, https://doi.org/10.1093/restud/rdt027
+Published: 19 September 2013
+Abstract  
+Supplementary data
+Journal Article
+Information, Liquidity, Asset Prices, and Monetary PolicyGet access Arrow
+Benjamin Lester and others
+The Review of Economic Studies, Volume 79, Issue 3, July 2012, Pages 1209–1238, https://doi.org/10.1093/restud/rds003
+Published: 12 January 2012
+... V(a) be the value function for an agent in the DM. In the CM, where all assets are recognized, all that matters for an individual is total wealth y(a), and we write the value function as W[y(a)]. Since our linear CM production technology implies...
+Abstract 
+Journal Article
+Should Central Banks Issue Digital Currency?Get access Arrow
+Todd Keister and Daniel Sanches
+The Review of Economic Studies, Volume 90, Issue 1, January 2023, Pages 404–431, https://doi.org/10.1093/restud/rdac017
+Published: 31 March 2022
+Abstract  
+Supplementary data
+Journal Article
+Contracting Productivity GrowthGet access Arrow
+Patrick Francois and Joanne Roberts
+The Review of Economic Studies, Volume 70, Issue 1, January 2003, Pages 59–85, https://doi.org/10.1111/1467-937X.00237
+Published: 01 January 2003
+... t is denoted by w(t), without the subscript j, since it will not reflect industry level technologies. It will be seen subsequently that, due to incentive compatibility considerations, W j (t) need not equal w(t). Due to the Cobb-Douglas final good production technology, monopolist j faces...
+Abstract 
+Journal Article
+Bank Credit CyclesGet access Arrow
+G. B. Gorton and Ping He
+The Review of Economic Studies, Volume 75, Issue 4, October 2008, Pages 1181–1214, https://doi.org/10.1111/j.1467-937X.2008.00497.x
+Published: 01 October 2008
+..., but there is a per applicant cost of c > 0. Banks can test any proportion of their applicants. Let ni denote the number of applicants that are tested by bank i. We say that the more applicants that a bank tests, using the costly information production technology...
+Abstract  
+Supplementary data
+Journal Article
+Financial Distress and UnderemploymentGet access Arrow
+Ed Nosal
+The Review of Economic Studies, Volume 65, Issue 4, October 1998, Pages 817–845, https://doi.org/10.1111/1467-937X.00070
+Published: 01 October 1998
+...)loyment level magnitude of some takesplace (or rejection) variables andpays theworker FIGURE I The firm is endowed with a production technology. The state...
+Abstract 
+Journal Article
+Learning to game the systemGet access Arrow
+Jin Li and others
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 2014–2041, https://doi.org/10.1093/restud/rdaa065
+Published: 14 October 2020
+... the production process. And since the underlying production technology does not change over time, the information on the critical task is time-persistent. We show that in such a setting the revelation of task information has implications similar to those of a replacement of the measure (as in our main model...
+Abstract  
+Supplementary data
+Journal Article
+The Effects of Open Market Operations in a Model of Intermediation and GrowthGet access Arrow
+Stacey L. Schreft and Bruce D. Smith
+The Review of Economic Studies, Volume 65, Issue 3, July 1998, Pages 519–550, https://doi.org/10.1111/1467-937X.00056
+Published: 01 July 1998
+Abstract 
+Journal Article
+Improving Management with Individual and Group-Based Consulting: Results from a Randomized Experiment in ColombiaGet access Arrow
+Leonardo Iacovone and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 346–371, https://doi.org/10.1093/restud/rdab005
+Published: 25 February 2021
+... product X to Ecuador, or you should start using this production technology). The idea behind the group consulting treatment was to test whether the same gains in management improvements could be achieved more efficiently through working with small groups at a time, motivated in part through the way...
+Abstract  
+Supplementary data
+Journal Article
+On the Faustian Dynamics of Policy and Political PowerGet access Arrow
+Jinhui H. Bai and Roger Lagunoff
+The Review of Economic Studies, Volume 78, Issue 1, January 2011, Pages 17–48, https://doi.org/10.1093/restud/rdq022
+Published: 01 January 2011
+...] is the depreciation rate. Public investment at is produced from a lump-sum tax 𝒯t, according to a concave production technology . This technology can be alternatively expressed as the cost of providing public investment...
+Abstract 
+Journal Article
+Taxes, Regulations, and the Value of U.S. and U.K. CorporationsGet access Arrow
+Ellen R. McGrattan and Edward C. Prescott
+The Review of Economic Studies, Volume 72, Issue 3, July 2005, Pages 767–796, https://doi.org/10.1111/j.1467-937X.2005.00351.x
+Published: 01 July 2005
+... labour to produce output with a constant returns-to-scale production technology, 6 (3) This specification assumes that corporations use both tangible assets km, which are measured, and intangible assets ku, which are unmeasured. Tangible assets...
+Abstract  
+Supplementary data
+Journal Article
+Markups and InequalityGet access Arrow
+Corina Boar and Virgiliu Midrigan
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 2828–2860, https://doi.org/10.1093/restud/rdae103
+Published: 23 October 2024
+... z and operate a production technology (3) y = z [ ( 1 − ψ ( z ) ) 1 ρ l 1 ρ − 1 ρ + ψ ( z ) 1 ρ l 2 ρ − 1 ρ ] η ρ ρ − 1 , where y is output, l 1 and l 2 are the efficiency units...
+Abstract  
+Supplementary data
+Journal Article
+Property Rights, Land Misallocation, and Agricultural Efficiency in ChinaGet access Arrow
+Amalavoyal Chari and others
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1831–1862, https://doi.org/10.1093/restud/rdaa072
+Published: 05 November 2020
+Abstract  
+Supplementary data
+Journal Article
+Should Robots Be Taxed?Get access Arrow
+Joao Guerreiro and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 279–311, https://doi.org/10.1093/restud/rdab019
+Published: 10 April 2021
+... supply and savings on risk-free bonds to maximize their utility. Workers pay taxes and receive government transfers. Firms and technology. Robots and final output are produced by competitive firms using the same production technology as in the static model. Robots cost units of output...
+Abstract  
+Supplementary data
+Journal Article
+Fiscal Policy in an Unemployment CrisisGet access Arrow
+Pontus Rendahl
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 1189–1224, https://doi.org/10.1093/restud/rdv058
+Published: 22 February 2016
+Abstract  
+Supplementary data
+Journal Article
+Contractual Externalities and Systemic RiskGet access Arrow
+Emre Ozdenoren and Kathy Yuan
+The Review of Economic Studies, Volume 84, Issue 4, October 2017, Pages 1789–1817, https://doi.org/10.1093/restud/rdw058
+Published: 16 November 2016
+Abstract  
+Supplementary data
+Journal Article
+Endogenous Uncertainty and Credit CrunchesGet access Arrow
+Ludwig Straub and Robert Ulbricht
+The Review of Economic Studies, Volume 91, Issue 5, October 2024, Pages 3085–3115, https://doi.org/10.1093/restud/rdad110
+Published: 29 November 2023
+... to 1. Each input, i ∈ [ 0 , 1 ] , is produced by a monopolistically competitive firm that operates a linear production technology, (2) Y i , t = A i , t 1 ξ − 1 L i , t , where L i , t are units of labour. Here, the exponent on A i...
+Abstract  
+Supplementary data
+Journal Article
+When Does One Bad Apple Spoil the Barrel? An Evolutionary Analysis of Collective ActionGet access Arrow
+David P. Myatt and Chris Wallace
+The Review of Economic Studies, Volume 75, Issue 2, April 2008, Pages 499–527, https://doi.org/10.1111/j.1467-937X.2008.00482.x
+Published: 01 April 2008
+.... Section 4 presents results for vanishing noise, which are then applied to cases of interest in Section 5 . Section 6 expands the scope of the paper by allowing for a completely general class of public-good production technologies, whilst also allowing for non-vanishing noise. The proofs...
+Abstract  
+Supplementary data
+Journal Article
+Customer CapitalGet access Arrow
+François Gourio and Leena Rudanko
+The Review of Economic Studies, Volume 81, Issue 3, July 2014, Pages 1102–1136, https://doi.org/10.1093/restud/rdu007
+Published: 26 March 2014
+... with a Cobb–Douglas production technology y = f(k,l,z). The firms' capital stock k evolves according to a law of motion k′ = (1 − δk)k + i, with existing capital depreciating at rate δk...
+Abstract  
+Supplementary data
+Journal Article
+Das Human-Kapital: A Theory of the Demise of the Class StructureGet access Arrow
+Oded Galor and Omer Moav
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 85–117, https://doi.org/10.1111/j.1467-937X.2006.00370.x
+Published: 01 January 2006
+... according to a neoclassical, constant-returns-to-scale, production technology. The output produced at time t, Yt, is (1) where Kt and Ht are the quantities of physical capital and human capital (measured...
+Abstract
+Competing TeamsGet access Arrow
+Hector Chade and Jan Eeckhout
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1134–1173, https://doi.org/10.1093/restud/rdz022
+Published: 26 March 2019
+Abstract 
+Journal Article
+Self-enforcing Agreements and Forward Induction ReasoningGet access Arrow
+Emiliano Catonini
+The Review of Economic Studies, Volume 88, Issue 2, March 2021, Pages 610–642, https://doi.org/10.1093/restud/rdaa051
+Published: 25 August 2020
+... firm : and . There are two production technologies: , with marginal cost and no fixed cost; and , with no marginal cost and fixed cost . Firms choose price and technology simultaneously. Prices below and above , with either technology, do not best reply to any conjecture...
+Abstract  
+Supplementary data
+Journal Article
+The Equilibrium Impact of Agricultural Risk on Intermediate Inputs and Aggregate ProductivityGet access Arrow
+Kevin Donovan
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2275–2307, https://doi.org/10.1093/restud/rdaa084
+Published: 24 December 2020
+... and following Restuccia et al. (2008) and Lagakos and Waugh (2013) . 19 The latter implies that in the long run, agricultural consumption accounts for 0.5% of consumption. Second, I exogenously set some parts of the production technology, in particular, the technological exponents...
+Abstract  
+Supplementary data
+Journal Article
+Reorganization or Liquidation: Bankruptcy Choice and Firm DynamicsGet access Arrow
+Dean Corbae and Pablo D’Erasmo
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2239–2274, https://doi.org/10.1093/restud/rdaa091
+Published: 20 June 2021
+... maximizes the expected discounted value of dividends: (1) $$\begin{equation} E_{0}\sum_{t=0}^{\infty }(1+r)^{-t}d_{jt}, \end{equation}$$ where denotes dividends in period and is the discount rate of the firm. 16 Firms have access to a decreasing returns to scale production...
+Abstract  
+Supplementary data
+Journal Article
+What Goods Do Countries Trade? A Quantitative Exploration of Ricardo's IdeasGet access Arrow
+Arnaud Costinot and others
+The Review of Economic Studies, Volume 79, Issue 2, April 2012, Pages 581–608, https://doi.org/10.1093/restud/rdr033
+Published: 28 September 2011
+.... We generalize this model by allowing for intra-industry heterogeneity in labour productivity. Technology. Each good k may come in an infinite number of varieties indexed by ω∈Ω≡{1,…, + ∞}. 4 We denote...
+Abstract  
+Supplementary data
+Journal Article
+Rationally Inattentive Seller: Sales and Discrete PricingGet access Arrow
+Filip Matějka
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 1125–1155, https://doi.org/10.1093/restud/rdv049
+Published: 21 October 2015
+Abstract  
+Supplementary data
+Journal Article
+Human Capital Development and Parental Investment in IndiaGet access Arrow
+Orazio Attanasio and others
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2511–2541, https://doi.org/10.1093/restud/rdaa026
+Published: 18 June 2020
+... of childhood for cognition, health and investment expenditures in children as well as measures relating to the parents provides the ideal setting for implementation of the nonlinear factor model. Our article is related to a number of earlier studies that estimate production technologies for child development...
+Abstract  
+Supplementary data
+Journal Article
+Patterns of Skill PremiaGet access Arrow
+Daron Acemoglu
+The Review of Economic Studies, Volume 70, Issue 2, April 2003, Pages 199–230, https://doi.org/10.1111/1467-937X.00242
+Published: 01 April 2003
+... y AtLV where HW == HV + 'Lf=l oj Hj is the world "effective" supply of skilled workers and LW== LV + 'Lf=l oj Lj is the world "effective" supply of unskilled workers. The oj terms are here to take account ofthe fact that LDC workers may be using less productive technologies. The result...
+Abstract 
+Journal Article
+Liquidity Constraints in the U.S. Housing MarketGet access Arrow
+Corina Boar and others
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1120–1154, https://doi.org/10.1093/restud/rdab063
+Published: 20 September 2021
+... in this latter group, thus about 1% of their average income. The median liquid assets of these homeowners is also small, approximately 5,700. Home production. An agent who supplies hours of home production produces units of output at a utility cost . We think of this home production technology...
+Abstract  
+Supplementary data
+Journal Article
+Credit Shocks and Equilibrium Dynamics in Consumer Durable Goods Markets Open Access
+Alessandro Gavazza and Andrea Lanteri
+The Review of Economic Studies, Volume 88, Issue 6, November 2021, Pages 2935–2969, https://doi.org/10.1093/restud/rdab004
+Published: 01 March 2021
+Abstract  
+Supplementary data
+Journal Article
+Intra-firm Bargaining under Non-binding ContractsGet access Arrow
+Lars A. Stole and Jeffrey Zwiebel
+The Review of Economic Studies, Volume 63, Issue 3, July 1996, Pages 375–410, https://doi.org/10.2307/2297888
+Published: 01 July 1996
+Abstract 
+Journal Article
+A Welfare Analysis of Occupational Licensing in U.S. StatesGet access Arrow
+Morris M Kleiner and Evan J Soltas
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2481–2516, https://doi.org/10.1093/restud/rdad015
+Published: 22 February 2023
+... captures the general-equilibrium effect on all consumers. In our full model, we can further show how changes in employment and the wage bill are functions of structural parameters. To do so, we make strong assumptions on worker preferences, production technology, and market structure that highlight what we...
+Abstract  
+Supplementary data
+Journal Article
+Reconciling Hayek’s and Keynes’ Views of RecessionsGet access Arrow
+Paul Beaudry and others
+The Review of Economic Studies, Volume 85, Issue 1, January 2018, Pages 119–156, https://doi.org/10.1093/restud/rdx008
+Published: 01 March 2017
+... of technological change and balanced growth. We will also assume throughout that and that is strictly increasing in . 14 Moreover, we will assume that is sufficiently small such that there exists an satisfying . These restrictions on the production technology are always satisfied...
+Abstract  
+Supplementary data
+Journal Article
+Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending ProgramGet access Arrow
+Abhijit V. Banerjee and Esther Duflo
+The Review of Economic Studies, Volume 81, Issue 2, April 2014, Pages 572–607, https://doi.org/10.1093/restud/rdt046
+Published: 05 February 2014
+... fairly standard production technology: the firm pays a sunk cost Ψ before starting production (say the cost of setting up a factory and installing machinery). Once the cost is sunk, its production can be described by a production function (1) Now assume that inputs 1,..,m,m...
+Abstract  
+Supplementary data
+Journal Article
+Fiscal DevaluationsGet access Arrow
+Emmanuel Farhi and others
+The Review of Economic Studies, Volume 81, Issue 2, April 2014, Pages 725–760, https://doi.org/10.1093/restud/rdt036
+Published: 16 November 2013
+... given period, a firm can adjust its prices with probability 1 − θp, and maintains its previous-period price otherwise. The firm sets prices to maximize the expected net present value of profits conditional on no price change, , subject to the production technology and demand...
+Abstract  
+Supplementary data
+Journal Article
+Making Decisions Under Model Misspecification Open Access
+Simone Cerreia-Vioglio and others
+The Review of Economic Studies, Volume 93, Issue 2, March 2026, Pages 892–925, https://doi.org/10.1093/restud/rdaf046
+Published: 17 June 2025
+... t ) is ( 1 − β ) ∑ t = 0 ∞ β t v ( c t ) , where β ∈ ( 0 , 1 ) is a subjective discount rate and v : R → R is a utility function over consumption levels. The production technology further constrains the consumption and hence acts...
+Abstract  
+Supplementary data
+Journal Article
+Optimal Welfare-to-Work ProgramsGet access Arrow
+Nicola Pavoni and G. L. Violante
+The Review of Economic Studies, Volume 74, Issue 1, January 2007, Pages 283–318, https://doi.org/10.1111/j.1467-937X.2007.00422.x
+Published: 01 January 2007
+Abstract  
+Supplementary data
+Journal Article
+The Transmission of Commodity Price Super-CyclesGet access Arrow
+Felipe Benguria and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 1923–1955, https://doi.org/10.1093/restud/rdad078
+Published: 14 August 2023
+Abstract  
+Supplementary data
+Journal Article
+The Brexit Vote, Productivity Growth, and Macroeconomic Adjustments in the U.K.Get access Arrow
+Ben Broadbent and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2104–2134, https://doi.org/10.1093/restud/rdad086
+Published: 18 September 2023
+... sector’s total level of productivity as X M t . Given the production technology, X M t = ( X T t ) α M ( Z M t ) 1 − α M , (8) P t Y N t − W N t n N t − r N t k K N t in the non-tradable sector. Under...
+Abstract  
+Supplementary data
+Journal Article
+Regional Consumption Responses and the Aggregate Fiscal MultiplierGet access Arrow
+Bill Dupor and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 2982–3021, https://doi.org/10.1093/restud/rdad007
+Published: 04 April 2023
+Abstract  
+Supplementary data
+Pseudo Lindahl Equilibrium as a Collective Choice RuleGet access Arrow
+Faruk Gul and Wolfgang Pesendorfer
+The Review of Economic Studies, Volume 93, Issue 2, March 2026, Pages 938–967, https://doi.org/10.1093/restud/rdaf043
+Published: 17 June 2025
+Abstract 
+Journal Article
+Mergers, Innovation, and Entry-Exit Dynamics: Consolidation of the Hard Disk Drive Industry, 1996–2016Get access Arrow
+Mitsuru Igami and Kosuke Uetake
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2672–2702, https://doi.org/10.1093/restud/rdz044
+Published: 12 September 2019
+Abstract  
+Supplementary data
+Journal Article
+Statistical Discrimination and Duration Dependence in the Job Finding RateGet access Arrow
+Gregor Jarosch and Laura Pilossoph
+The Review of Economic Studies, Volume 86, Issue 4, July 2019, Pages 1631–1665, https://doi.org/10.1093/restud/rdy055
+Published: 21 September 2018
+Abstract  
+Supplementary data
+Journal Article
+Intertemporal Distortions in the Second BestGet access Arrow
+Stefania Albanesi and Roc Armenter
+The Review of Economic Studies, Volume 79, Issue 4, October 2012, Pages 1271–1307, https://doi.org/10.1093/restud/rds014
+Published: 22 February 2012
+Abstract  
+Supplementary data
+Journal Article
+Stock Market Participation, Inequality, and Monetary Policy Open Access
+Davide Melcangi and Vincent Sterk
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2656–2690, https://doi.org/10.1093/restud/rdae068
+Published: 25 June 2024
+... of monopolistically competitive intermediate goods price-setters, and a competitive representative final goods firm. The intermediate goods producer operates a production technology given by Y t = K t α N t 1 − α , α ∈ ( 0 , 1 ) where K t and N t denote...
+Abstract  
+Supplementary data
+Journal Article
+Taxes Depress Corporate Borrowing: Evidence from Private FirmsGet access Arrow
+Ivan T Ivanov and others
+The Review of Economic Studies, rdaf094, https://doi.org/10.1093/restud/rdaf094
+Published: 10 November 2025
+... productive technology, so capital rises and negative debt falls; that is, debt rises. Ex ante, it is not clear which of these effects is quantitatively more important. To understand this issue, we estimate the model parameters using our samples of large and small private firms. Our intent in this sample...
+Abstract  
+Supplementary data
+Journal Article
+The Determinants of Quality SpecializationGet access Arrow
+Jonathan I. Dingel
+The Review of Economic Studies, Volume 84, Issue 4, October 2017, Pages 1551–1582, https://doi.org/10.1093/restud/rdw054
+Published: 30 October 2016
+.... 24 Given the geographic distribution of skills, individuals’ preferences, and the production technology, the equilibrium pattern of production and trade depends on two forces. Trade costs shape the pattern of market access and, therefore, the home-market effect. Skill intensities, governed...
+Abstract  
+Supplementary data
+Journal Article
+Valuing the Time of the Self-EmployedGet access Arrow
+Daniel Agness and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3471–3503, https://doi.org/10.1093/restud/rdaf003
+Published: 16 January 2025
+Abstract  
+Supplementary data
+Journal Article
+Towards a Micro-Founded Theory of Aggregate Labour SupplyGet access Arrow
+Andrés Erosa and others
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 1001–1039, https://doi.org/10.1093/restud/rdw010
+Published: 16 March 2016
+... by Aaronson and French (2004) to pin down the value of θ . In the Online Appendix A , we use the production technology proposed by Hornstein and Prescott (1993) to show that it gives rise to a competitive equilibrium in which earnings follow the functional form specified in (4) . Heterogeneity...
+Abstract  
+Supplementary data
+Journal Article
+Technology and Production Fragmentation: Domestic versus Foreign SourcingGet access Arrow
+Teresa C. Fort
+The Review of Economic Studies, Volume 84, Issue 2, April 2017, Pages 650–687, https://doi.org/10.1093/restud/rdw057
+Published: 24 December 2016
+Abstract  
+Supplementary data
+Journal Article
+The Economics of Financial Stress Open Access
+Dmitriy Sergeyev and others
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3403–3437, https://doi.org/10.1093/restud/rdae110
+Published: 15 November 2024
+Abstract  
+Supplementary data
+Journal Article
+A Macro-Finance Model with SentimentGet access Arrow
+Peter Maxted
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 438–475, https://doi.org/10.1093/restud/rdad023
+Published: 06 March 2023
+... their equity funding with additional debt funding. Output flow Y t is produced according to an “AK” production technology 1 Y t = A K t . Parameter A governs the productivity of capital. Capital evolves endogenously, as follows: 2 d K t K t = ( i t − δ ) d t...
+Abstract  
+Supplementary data
+Journal Article
+Jumpstarting an International Currency Open Access
+Saleem Bahaj and Ricardo Reis
+The Review of Economic Studies, rdag011, https://doi.org/10.1093/restud/rdag011
+Published: 27 February 2026
+Abstract  
+Supplementary data
+Journal Article
+Asset Bubbles, Endogenous Growth, and Financial FrictionsGet access Arrow
+Tomohiro Hirano and Noriyuki Yanagawa
+The Review of Economic Studies, Volume 84, Issue 1, January 2017, Pages 406–443, https://doi.org/10.1093/restud/rdw059
+Published: 07 November 2016
+Abstract  
+Supplementary data
+Journal Article
+Real Options and Risk DynamicsGet access Arrow
+Dirk Hackbarth and Timothy Johnson
+The Review of Economic Studies, Volume 82, Issue 4, October 2015, Pages 1449–1482, https://doi.org/10.1093/restud/rdv021
+Published: 15 May 2015
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Work Experience on Female Wages and Labour SupplyGet access Arrow
+Sumru Altuğ and Robert A. Miller
+The Review of Economic Studies, Volume 65, Issue 1, January 1998, Pages 45–85, https://doi.org/10.1111/1467-937X.00035
+Published: 01 January 1998
+.... The preferences of individual n are defined as (2.2) There are two ways ofobtaining the output of the consumption good in this economy. The first is a linear production technology that is available to each individual; if an individual...
+Abstract 
+Journal Article
+Information Acquisition and WelfareGet access Arrow
+Luca Colombo and others
+The Review of Economic Studies, Volume 81, Issue 4, October 2014, Pages 1438–1483, https://doi.org/10.1093/restud/rdu015
+Published: 20 June 2014
+Abstract 
+Journal Article
+A Risk-based Theory of Exchange Rate StabilizationGet access Arrow
+Tarek A Hassan and others
+The Review of Economic Studies, Volume 90, Issue 2, March 2023, Pages 879–911, https://doi.org/10.1093/restud/rdac038
+Published: 29 June 2022
+...–Douglas production technology that employs capital and labour. Each household supplies one unit of labour inelastically to its own firm and, in addition, owns one unit of capital, which it can sell to its own firm or to any other firm in the world. Each firm’s output of non-traded goods is (5) $$\begin...
+Abstract  
+Supplementary data
+Journal Article
+Do Prices Determine Vertical Integration?Get access Arrow
+Laura Alfaro and others
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 855–888, https://doi.org/10.1093/restud/rdv059
+Published: 25 February 2016
+Abstract  
+Supplementary data
+Journal Article
+Taxes and Time Allocation: Evidence from Single Women and MenGet access Arrow
+Alexander M. Gelber and Joshua W. Mitchell
+The Review of Economic Studies, Volume 79, Issue 3, July 2012, Pages 863–897, https://doi.org/10.1093/restud/rdr041
+Published: 10 November 2011
+Abstract  
+Supplementary data
+The Production of Information in an Online WorldGet access Arrow
+Julia Cagé and others
+The Review of Economic Studies, Volume 87, Issue 5, October 2020, Pages 2126–2164, https://doi.org/10.1093/restud/rdz061
+Published: 11 December 2019
+... production technology. The production of information is characterized by large fixed costs and increasing returns to scale ( Cagé, 2020 ). Historically, newspapers have been willing to bear such a fixed cost in order to reap a profit from the original news content they provided ( Schudson, 1981 ; Gentzkow...
+Abstract  
+Supplementary data
+Journal Article
+Learning from House Prices: Amplification and Business FluctuationsGet access Arrow
+Ryan Chahrour and Gaetano Gaballo
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1720–1759, https://doi.org/10.1093/restud/rdaa079
+Published: 18 November 2020
+...) $$\begin{align} z_{it}+q_{t} &=p_{it}+\delta_{it}, \label{eq:foc_q} \\ \end{align}$$ (14) $$\begin{align} n_{it}^{h}+w_{it} &=p_{it}+\delta_{it} \label{eq:foc_n} \\ \end{align}$$ (15) $$\begin{align} v_{it}&=p_{it}+\delta_{it} \label{eq:foc_land} \end{align}$$ with production...
+Abstract 
+Journal Article
+Global Value Chains and Trade PolicyGet access Arrow
+Emily J Blanchard and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 181–214, https://doi.org/10.1093/restud/rdaf017
+Published: 13 March 2025
+... with GVC inputs. Production technologies are summarized by the following production functions: (1.1) q x c = f x c ( l x c , ν h c , ν f c ) , and q y c = l y c , where q s c is output of good s in country c, and l s c...
+Abstract  
+Supplementary data
+Journal Article
+The Returns to Nursing: Evidence from a Parental-Leave ProgramGet access Arrow
+Benjamin U Friedrich and Martin B Hackmann
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2308–2343, https://doi.org/10.1093/restud/rdaa082
+Published: 28 January 2021
+Abstract  
+Supplementary data
+Journal Article
+The (Q,S,s) Pricing RuleGet access Arrow
+Kenneth Burdett and Guido Menzio
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 892–928, https://doi.org/10.1093/restud/rdx048
+Published: 18 August 2017
+Abstract 
+Journal Article
+Capital Requirements with Non-Bank FinanceGet access Arrow
+Kyle Dempsey
+The Review of Economic Studies, rdaf061, https://doi.org/10.1093/restud/rdaf061
+Published: 21 July 2025
+.... They are then replaced by the next cohort. Each firm has a type j ∈ J which determines its production technology, endowments, and agency frictions, summarized by a vector of parameters Θ j detailed below. The share of type-j firms μ ~ j is constant over time. Firms operate...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Cascades and Fluctuations in an Economy with an Endogenous Production NetworkGet access Arrow
+Mathieu Taschereau-Dumouchel
+The Review of Economic Studies, Volume 93, Issue 2, March 2026, Pages 1354–1392, https://doi.org/10.1093/restud/rdaf036
+Published: 22 May 2025
+... in this environment. That allocation provides a natural benchmark as it captures some of the main forces at work in the environment. In the model, firms combine intermediate inputs using a standard CES production technology. As a result, having access to an additional input lowers the marginal cost of production...
+Abstract  
+Supplementary data
+Journal Article
+Minimum Wage Employment Effects and Labour Market ConcentrationGet access Arrow
+José Azar and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 1843–1883, https://doi.org/10.1093/restud/rdad091
+Published: 08 September 2023
+..., firms are of equal size because we assume they all use the same production technology; thus the firms are symmetric and concentration (HHI) is simply 1 / J . Firm j’s revenues are Y j = L j α , where L j is the amount of labour used by firm j and the price...
+Abstract  
+Supplementary data
+Journal Article
+The Cost of Wage Rigidity Open Access
+Ester Faia and Vincenzo Pezone
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 301–339, https://doi.org/10.1093/restud/rdad020
+Published: 16 February 2023
+Abstract  
+Supplementary data
+Journal Article
+Fiscal Multipliers and Foreign Holdings of Public DebtGet access Arrow
+Fernando Broner and others
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1155–1204, https://doi.org/10.1093/restud/rdab055
+Published: 09 September 2021
+... specification to obtain unconditional multipliers. We then incorporate the foreign share to estimate conditional multipliers. There are private and government production technologies. The agent receives an endowment of units of the good at . If she invests at she produces (2) $$\begin{equation...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach Open Access
+Yves Achdou and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 45–86, https://doi.org/10.1093/restud/rdab002
+Published: 06 April 2021
+Abstract  
+Supplementary data
+Journal Article
+Roads and Trade: Evidence from the USGet access Arrow
+Gilles Duranton and others
+The Review of Economic Studies, Volume 81, Issue 2, April 2014, Pages 681–724, https://doi.org/10.1093/restud/rdt039
+Published: 23 April 2014
+... advantage in the production technology. We investigate other sources of comparative advantage, e.g. a city's endowment of human capital, in our empirical work. Let denote expenditure in city j for the variety produced by city i in sector k...
+Abstract  
+Supplementary data
+Journal Article
+Self-Fulfilling Credit CyclesGet access Arrow
+Costas Azariadis and others
+The Review of Economic Studies, Volume 83, Issue 4, October 2016, Pages 1364–1405, https://doi.org/10.1093/restud/rdv056
+Published: 29 December 2015
+..., 2013 ). Azariadis and Kaas (2014) study a related model with limited enforcement, also documenting equilibrium multiplicity. That article builds on a stylized model with linear production technologies which is not suited for a quantitative analysis, it does not consider sunspot shocks and focuses...
+Abstract  
+Supplementary data
+Journal Article
+Policy Influence and Private Returns from Lobbying in the Energy SectorGet access Arrow
+Karam Kang
+The Review of Economic Studies, Volume 83, Issue 1, January 2016, Pages 269–305, https://doi.org/10.1093/restud/rdv029
+Published: 20 July 2015
+... Government policies often benefit certain firms at the expense of others. Environmental regulations, for example, may give a competitive advantage to firms with cleaner production technologies. As a result, many firms actively engage in lobbying activities in hopes of influencing the policy-making process...
+Abstract  
+Supplementary data
+Journal Article
+College-Major Choice to College-Then-Major ChoiceGet access Arrow
+Paola Bordon and Chao Fu
+The Review of Economic Studies, Volume 82, Issue 4, October 2015, Pages 1247–1288, https://doi.org/10.1093/restud/rdv023
+Published: 15 May 2015
+Abstract  
+Supplementary data
+Journal Article
+The Intertemporal Substitution Model of Labour Market Fluctuations: An Empirical AnalysisGet access Arrow
+Joseph G. Altonji
+The Review of Economic Studies, Volume 49, Issue 5, December 1982, Pages 783–824, https://doi.org/10.2307/2297189
+Published: 01 December 1982
+Abstract 
+Journal Article
+Collateral Booms and Information Depletion Open Access
+Vladimir Asriyan and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 517–555, https://doi.org/10.1093/restud/rdab046
+Published: 25 September 2021
+... of a modern and a traditional sector. These sectors are meant to represent, in a simple way, productive and unproductive activities. Modern-sector output is produced through long-lived projects, which combine capital and labour and use a more productive technology than the traditional sector. Projects...
+Abstract 
+Journal Article
+Market Power in Coal Shipping and Implications for U.S. Climate PolicyGet access Arrow
+Louis Preonas
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2508–2537, https://doi.org/10.1093/restud/rdad090
+Published: 07 September 2023
+... lines, low for dashed lines). The bottom panels translate the coal plant’s production into its coal input demand (MWh out as a function of MMBTU of coal in, given the plant’s fixed production technology). Under a high gas price ( P gas H ), the coal plant consumes at full capacity ( Q cap...
+Abstract  
+Supplementary data
+Journal Article
+Unemployment Fluctuations, Match Quality, and the Wage Cyclicality of New HiresGet access Arrow
+Mark Gertler and others
+The Review of Economic Studies, Volume 87, Issue 4, July 2020, Pages 1876–1914, https://doi.org/10.1093/restud/rdaa004
+Published: 07 February 2020
+Abstract  
+Supplementary data
+Journal Article
+Social Norms, Labour Market Opportunities, and the Marriage Gap Between Skilled and Unskilled WomenGet access Arrow
+Marianne Bertrand and others
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1936–1978, https://doi.org/10.1093/restud/rdaa066
+Published: 30 December 2020
+.... A couple of papers in this literature have focused on the role of improvements in the home production technology in explaining these trends. By freeing up women’s time at home, these changes have asymmetrical benefits for women. Chiappori et al., (2009) theoretically show how a reduction in time...
+Abstract  
+Supplementary data
+An Elementary Theory of Directed Technical Change and Wage Inequality Open Access
+Jonas Loebbing
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 411–451, https://doi.org/10.1093/restud/rdab025
+Published: 21 May 2021
+Abstract  
+Supplementary data
+Journal Article
+Structural Change, Land Use and Urban Expansion Open Access
+Nicolas Coeurdacier and others
+The Review of Economic Studies, rdaf091, https://doi.org/10.1093/restud/rdaf091
+Published: 07 November 2025
+Abstract  
+Supplementary data
+Journal Article
+Financial Intermediary CapitalGet access Arrow
+Adriano A Rampini and S Viswanathan
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 413–455, https://doi.org/10.1093/restud/rdy020
+Published: 23 April 2018
+... refer to simply as the firm or the corporate sector) has limited net worth at time 0 and has access to a standard neoclassical production technology; an investment of capital at time yields output at time where is the total factor productivity and is the production function...
+Abstract  
+Supplementary data
+Journal Article
+Quid Pro Quo: Technology Capital Transfers for Market Access in ChinaGet access Arrow
+Thomas J. Holmes and others
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 1154–1193, https://doi.org/10.1093/restud/rdv008
+Published: 14 March 2015
+... L ˜ i at wage rate W i , depreciation of tangible capital K ˜ T , i at rate δ T , and new investment in plant-specific intangible capital X ˜ I , i . The production technology in this case is (4.6) Y ˜ i t = A i t...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Follow the Money Open Access
+Marco Grotteria
+The Review of Economic Studies, Volume 91, Issue 2, March 2024, Pages 1122–1161, https://doi.org/10.1093/restud/rdad041
+Published: 06 April 2023
+Abstract  
+Supplementary data
+Journal Article
+Inflation Risk and the Finance-Growth NexusGet access Arrow
+Alexandre Corhay and Jincheng Tong
+The Review of Economic Studies, rdaf108, https://doi.org/10.1093/restud/rdaf108
+Published: 24 December 2025
+Abstract  
+Supplementary data
+Journal Article
+Monetary Shocks in Models with Inattentive Producers Open Access
+Fernando E. Alvarez and others
+The Review of Economic Studies, Volume 83, Issue 2, April 2016, Pages 421–459, https://doi.org/10.1093/restud/rdv050
+Published: 29 October 2015
+Abstract  
+Supplementary data
+Journal Article
+Bilateral Trade ImbalancesGet access Arrow
+Alejandro Cuñat and Robert Zymek
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1537–1583, https://doi.org/10.1093/restud/rdad052
+Published: 16 May 2023
+Abstract 
+Journal Article
+The Effect of Wealth on Worker ProductivityGet access Arrow
+Jan Eeckhout and Alireza Sepahsalari
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1584–1633, https://doi.org/10.1093/restud/rdad059
+Published: 17 July 2023
+Abstract  
+Supplementary data
+Journal Article
+The Impact of Immigration on Wages, Internal Migration, and WelfareGet access Arrow
+Suphanit Piyapromdee
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 406–453, https://doi.org/10.1093/restud/rdaa029
+Published: 05 August 2020
+...) estimates the elasticity of substitution between land and non-land inputs in the housing production to be around one. Therefore, I assume the housing production technology to take the following form where is the quantity of houses in city in year , is city-specific productivity...
+Abstract  
+Supplementary data
+Journal Article
+Detection and Impact of Industrial Subsidies: The Case of Chinese ShipbuildingGet access Arrow
+Myrto Kalouptsidi
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 1111–1158, https://doi.org/10.1093/restud/rdx050
+Published: 18 August 2017
+... important spill-overs to other industries ( iron and steel). Indeed, several of today’s leading economies developed their production technologies and human capital through a phase of heavy industrialization, in which shipbuilding was one of key pillars. In the 1850s, Britain was the world leading...
+Abstract  
+Supplementary data
+Journal Article
+Aggregate Implications of Corporate Debt ChoicesGet access Arrow
+Nicolas Crouzet
+The Review of Economic Studies, Volume 85, Issue 3, July 2018, Pages 1635–1682, https://doi.org/10.1093/restud/rdx058
+Published: 06 October 2017
+Abstract  
+Supplementary data
+Journal Article
+Policy Effects of International Taxation on Firm Dynamics and Capital StructureGet access Arrow
+Adam Hal Spencer
+The Review of Economic Studies, Volume 89, Issue 4, July 2022, Pages 2149–2200, https://doi.org/10.1093/restud/rdab071
+Published: 13 October 2021
+... produce using a constant returns to scale production technology in each country; capital and labour are inputs. Recall that firms own their capital stocks. A firm with or status has a capital stock only in , while a firm with status has one in each of and and an firm has only...
+Abstract 
+Journal Article
+Bond Premium Cyclicality and Liquidity TrapsGet access Arrow
+Nicolas Caramp and Sanjay R Singh
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 2822–2879, https://doi.org/10.1093/restud/rdad003
+Published: 17 January 2023
+Abstract  
+Supplementary data
+Journal Article
+Save, Spend, or Give? A Model of Housing, Family Insurance, and Savings in Old AgeGet access Arrow
+Daniel Barczyk and others
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2116–2187, https://doi.org/10.1093/restud/rdac081
+Published: 17 December 2022
+Abstract  
+Supplementary data
+Journal Article
+Survey Data and Subjective Beliefs in Business Cycle ModelsGet access Arrow
+Anmol Bhandari and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1375–1437, https://doi.org/10.1093/restud/rdae054
+Published: 27 May 2024
+Abstract  
+Supplementary data
+Journal Article
+The Heterogeneous Effects of Government Spending: It’s All About TaxesGet access Arrow
+Axelle Ferriere and Gaston Navarro
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 1061–1125, https://doi.org/10.1093/restud/rdae032
+Published: 02 April 2024
+...-good producer combines a continuum of intermediate goods—indexed by j ∈ [ 0 , 1 ] —to produce the final good Y t . Production technology is Y t = ( ∫ 0 1 y j t ϵ − 1 ϵ ) ϵ ϵ − 1 , where ϵ > 0 is the elasticity...
+Abstract

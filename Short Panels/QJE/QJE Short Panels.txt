@@ -1,0 +1,111 @@
+﻿Industrial Policy: Industrial and Export Development This figure shows the... Open Access[a]
+in Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea
+Published: 29 May 2025
+Figure III are estimates from long-panel data (four-digit), right are estimates from detailed short-panel data (five-digit). Panel A reports estimates for log outcomes: total employment; labor productivity (real value added per worker); output prices; number of plants; and output (labor) share is industry’s share of total
+Journal Article
+EDITOR'S CHOICE
+Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea Open Access
+Nathan Lane
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 1683–1741, https://doi.org/10.1093/qje/qjaf025
+Published: 29 May 2025
+... are estimates from long-panel data (four-digit), right are estimates from detailed short-panel data (five-digit). Panel A reports estimates for log outcomes: total employment; labor productivity (real value added per worker); output prices; number of plants; and output (labor) share is industry’s share of total...
+Abstract  
+Supplementary data
+Journal Article
+Job Mobility and the Careers of Young Men Purchased
+Robert H. Topel and Michael P. Ward
+The Quarterly Journal of Economics, Volume 107, Issue 2, May 1992, Pages 439–479, https://doi.org/10.2307/2118478
+Published: 01 May 1992
+Abstract 
+Journal Article
+Testing the Response of Consumption to Income Changes with (Noisy) Panel Data Purchased
+Joseph G. Altonji and Aloysius Siow
+The Quarterly Journal of Economics, Volume 102, Issue 2, May 1987, Pages 293–328, https://doi.org/10.2307/1885065
+Published: 01 May 1987
+... in a short panel. However, we doubt if this problem is important empirically, since most of the variation over time in the change in the wage, hours of unemployment, quits, layoffs, and other key elements of AX t _, arises from factors that are largely specific to a given household (rather than...
+Abstract 
+Journal Article
+Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India Purchased
+Robert Jensen
+The Quarterly Journal of Economics, Volume 127, Issue 2, May 2012, Pages 753–792, https://doi.org/10.1093/qje/qjs002
+Published: 03 March 2012
+... for marriage and the initiation of childbearing in rural India, were 5–6 percentage points less likely to get married or to have given birth over the three-year period of our intervention. Although with a short panel we cannot assess the long-term impact on fertility, women report wanting to have 0.35 fewer...
+Abstract  
+Supplementary data
+Journal Article
+The Creation and Capture of Rents: Wages and Innovation in a Panel of U. K. Companies Purchased
+John Van Reenen
+The Quarterly Journal of Economics, Volume 111, Issue 1, February 1996, Pages 195–226, https://doi.org/10.2307/2946662
+Published: 01 February 1996
+... that are hard to proxy by explicit variables. Estimation of (7) presents well-known difficulties. First dif- ferencing the equation to control for the presence of fixed effects causes the lagged dependent variable to become correlated with the transformed error term. Given only a short panel...
+Abstract 
+Journal Article
+Unconditional Convergence in Manufacturing Purchased
+Dani Rodrik
+The Quarterly Journal of Economics, Volume 128, Issue 1, February 2013, Pages 165–204, https://doi.org/10.1093/qje/qjs047
+Published: 18 November 2012
+... effect ( Hurwicz 1950 ; Nickell 1981 ). The bias tends to zero as the time span gets large, but can be large in short panels. 10 For my purposes, because I am mainly interested in unconditional convergence (and hence the specifications without country fixed effects), it suffices to treat...
+Abstract  
+Supplementary data
+Journal Article
+Radio's Impact on Public Spending Purchased
+David Strömberg
+The Quarterly Journal of Economics, Volume 119, Issue 1, February 2004, Pages 189–221, https://doi.org/10.1162/003355304772839560
+Published: 01 February 2004
+... is used for the study of FERA expenditures. A different data set, a short panel of counties for the period 1920–1940, is used to explore whether the increasing use of radio increased voter turnout. These county-level investigations are possible thanks to the 1930 and 1940 Censuses which collected...
+Abstract 
+Journal Article
+The Impact of Young Workers on the Aggregate Labor Market Purchased
+Robert Shimer
+The Quarterly Journal of Economics, Volume 116, Issue 3, August 2001, Pages 969–1007, https://doi.org/10.1162/00335530152466287
+Published: 01 August 2001
+Abstract 
+Journal Article
+Dividend Taxes and Corporate Behavior: Evidence from the 2003 Dividend Tax Cut Purchased
+Raj Chetty and Emmanuel Saez
+The Quarterly Journal of Economics, Volume 120, Issue 3, August 2005, Pages 791–833, https://doi.org/10.1093/qje/120.3.791
+Published: 01 August 2005
+..., and Shackelford [2004] analyze a short panel of ﬁrms that announced dividends either in the last six months of 2003 (after enactment) or the last six months of 2002 (before the reform was proposed). Consistent with our results, they ﬁnd a signiﬁcant increase in dividends both in special...
+Abstract 
+Journal Article
+A Theory of Wage and Promotion Dynamics Inside Firms Purchased
+Robert Gibbons and Michael Waldman
+The Quarterly Journal of Economics, Volume 114, Issue 4, November 1999, Pages 1321–1358, https://doi.org/10.1162/003355399556287
+Published: 01 November 1999
+... the PSID and argues that earlier studies based on similar samples did not ﬁnd serial correlation because of either short panel length or low-powered tests. Another ﬁnding with strong support in the literature is that promotions are associated with large wage increases; see Gerhart and Milkovich...
+Abstract 
+Journal Article
+Fight or Flight? Portfolio Rebalancing by Individual Investors Purchased
+Laurent E. Calvet and others
+The Quarterly Journal of Economics, Volume 124, Issue 1, February 2009, Pages 301–348, https://doi.org/10.1162/qjec.2009.124.1.301
+Published: 01 February 2009
+Abstract 
+Journal Article
+The Rise of Domestic Outsourcing and the Evolution of the German Wage Structure Purchased
+Deborah Goldschmidt and Johannes F. Schmieder
+The Quarterly Journal of Economics, Volume 132, Issue 3, August 2017, Pages 1165–1217, https://doi.org/10.1093/qje/qjx008
+Published: 21 April 2017
+Abstract  
+Supplementary data
+Journal Article
+Decision Making Under the Gambler’s Fallacy: Evidence from Asylum Judges, Loan Officers, and Baseball Umpires Open Access
+Daniel L. Chen and others
+The Quarterly Journal of Economics, Volume 131, Issue 3, August 2016, Pages 1181–1242, https://doi.org/10.1093/qje/qjw017
+Published: 24 March 2016
+Abstract  
+Supplementary data
+Journal Article
+Socially Optimal Districting: A Theoretical and Empirical Exploration Purchased
+Stephen Coate and Brian Knight
+The Quarterly Journal of Economics, Volume 122, Issue 4, November 2007, Pages 1409–1471, https://doi.org/10.1162/qjec.2007.122.4.1409
+Published: 01 November 2007
+Abstract 
+Journal Article
+The Geography of Unemployment Purchased
+Adrien Bilal
+The Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, Pages 1507–1576, https://doi.org/10.1093/qje/qjad010
+Published: 23 March 2023
+... diagnostic device that informs the underlying economic mechanisms. Adapting this approach to a geographic setting is challenging. On the one hand, large repeated cross sections like the Census or the American Community Survey are ill-suited for measuring worker flows. On the other hand, surveys with a short...
+Abstract  
+Supplementary data
+[a]Should be 15. There are 16 copy and pasted in here, but one is not from QJE.

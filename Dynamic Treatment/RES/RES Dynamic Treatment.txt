@@ -1,0 +1,196 @@
+﻿Dynamic treatment effects on socio-emotional skills I Notes: This figure sh... Open Access
+in The Causal Impact of Socio-Emotional Skills Training on Educational Success
+Published: 22 February 2024
+FIGURE 7 Dynamic treatment effects on socio-emotional skills I Notes: This figure shows the treatment effect of the PATHS intervention on children's socio-emotional skills from ages 7 through 15. The dependent variable in Panel (a) is ADHD symptoms (disruptiveness and impulsiveness). The dependent
+Image
+Dynamic treatment effects on parenting practices Notes: This figure shows t...
+Dynamic treatment effects on parenting practices Notes: This figure shows t... Open Access
+in The Causal Impact of Socio-Emotional Skills Training on Educational Success
+Published: 22 February 2024
+FIGURE 9 Dynamic treatment effects on parenting practices Notes: This figure shows the treatment effect of the PATHS intervention on parenting practices from ages 7 through 11. The dependent variables are corporal punishment (Panel a), parental control and supervision (Panel b), inconsistent discipline
+Image
+Dynamic treatment effects on socio-emotional skills II Notes: This figure s...
+Dynamic treatment effects on socio-emotional skills II Notes: This figure s... Open Access
+in The Causal Impact of Socio-Emotional Skills Training on Educational Success
+Published: 22 February 2024
+FIGURE 8 Dynamic treatment effects on socio-emotional skills II Notes: This figure shows the treatment effect of the PATHS intervention on children's socio-emotional skills from ages 7 through 15. The dependent variables are non-aggressive conduct disorder (Panel a), anxiety and depressivity (Panel b
+Image
+Dynamic treatment effects on behaviour in class Notes: This figure shows th...
+Dynamic treatment effects on behaviour in class Notes: This figure shows th... Open Access
+in The Causal Impact of Socio-Emotional Skills Training on Educational Success
+Published: 22 February 2024
+FIGURE 10 Dynamic treatment effects on behaviour in class Notes: This figure shows the treatment effect of the PATHS intervention on children's behaviour at school from ages 10 through 15. The dependent variables are disturbing the lesson (Panel a), being busy with other things in class (Panel b
+Image
+TOT estimates of the dynamic effect of short-time work on log number of hou...
+TOT estimates of the dynamic effect of short-time work on log number of hou... Open Access
+in Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work
+Published: 28 December 2022
+Figure 7 Appendix C.2 . The coefficients identify the dynamic treatment effects of STW receipt in year on outcomes in years . The vertical bars indicate 95 confidence intervals based on bootstrapped standard errors.
+Journal Article
+Quick Job Entry or Long-Term Human Capital Development? The Dynamic Effects of Alternative Training SchemesGet access Arrow
+Aderonke Osikominu
+The Review of Economic Studies, Volume 80, Issue 1, January 2013, Pages 313–342, https://doi.org/10.1093/restud/rds022
+Published: 18 May 2012
+... on subsequent employment spells. More recently, Abbring and van den Berg (2003a) develop an econometric framework to jointly analyze dynamically assigned programs and the probability of survival in a baseline state. They prove identification of dynamic treatment effects that depend on observed covariates...
+Abstract  
+Supplementary data
+Journal Article
+Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work Open Access
+Giulia Giupponi and Camille Landais
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1963–2005, https://doi.org/10.1093/restud/rdac069
+Published: 28 December 2022
+... Appendix C.2 . The coefficients identify the dynamic treatment effects of STW receipt in year on outcomes in years . The vertical bars indicate 95 confidence intervals based on bootstrapped standard errors. ...
+Abstract  
+Supplementary data
+Journal Article
+Job Displacement, Unemployment Benefits and Domestic Violence Open Access
+Sonia Bhalotra and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3649–3681, https://doi.org/10.1093/restud/rdaf004
+Published: 08 July 2025
+... large severance payments and are less likely to be liquidity constrained. 4 Turning to the effects of unemployment benefits, the model generates dynamic treatment effects that depend upon the relative play of the two mechanisms. The income mechanism alone suggests that benefits reduce DV...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+A More Credible Approach to Parallel TrendsGet access Arrow
+Ashesh Rambachan and Jonathan Roth
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2555–2591, https://doi.org/10.1093/restud/rdad018
+Published: 15 February 2023
+Abstract  
+Supplementary data
+Journal Article
+The Causal Impact of Socio-Emotional Skills Training on Educational Success Open Access
+Giuseppe Sorrenti and others
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 506–552, https://doi.org/10.1093/restud/rdae018
+Published: 22 February 2024
+...Dynamic treatment effects on socio-emotional skills I Notes: This figure shows the treatment effect of the PATHS intervention on children's socio-emotional skills from ages 7 through 15. The dependent variable in Panel (a) is ADHD symptoms (disruptiveness and impulsiveness). The dependent...
+Abstract  
+Supplementary data
+Journal Article
+Asymptotic Least Squares Estimators for Dynamic GamesGet access Arrow
+Martin Pesendorfer and Philipp Schmidt-Dengler
+The Review of Economic Studies, Volume 75, Issue 3, July 2008, Pages 901–928, https://doi.org/10.1111/j.1467-937X.2008.00496.x
+Published: 01 July 2008
+Abstract  
+Supplementary data
+Journal Article
+An Instrumental Variable Approach to Dynamic ModelsGet access Arrow
+Steven T Berry and Giovanni Compiani
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1724–1758, https://doi.org/10.1093/restud/rdac061
+Published: 08 September 2022
+... but do not affect today’s decision conditional on the current state. More recently, Heckman, Humphries and Veramendi (2016) study identification and estimation of dynamic treatment effects allowing for time-invariant unobserved heterogeneity. In the dynamic panel context, Honoré and Tamer (2006) make...
+Abstract  
+Supplementary data
+Journal Article
+Revisiting Event-Study Designs: Robust and Efficient Estimation Open Access
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3253–3285, https://doi.org/10.1093/restud/rdae007
+Published: 06 February 2024
+... testing the assumptions about pre-trends from the estimation of dynamic treatment effects under those assumptions. Second, implicit assumptions of homogeneous treatment effects embedded in static DiD regressions like ( 1 ) may lead to estimands that put negative weights on some long-run treatment effects...
+Abstract  
+Supplementary data
+Journal Article
+Simple Transaction Models, Information and ComputingGet access Arrow
+Richard Stone
+The Review of Economic Studies, Volume 19, Issue 2, 1951, Pages 67–84, https://doi.org/10.2307/2295735
+Published: 01 July 1951
+... are only available in sufficient detail in a limited number of cases. Furthermore, these data are usually only available in a form which permits of a static analysis. A dynamic treatment will thus usually have to rely on the analysis of time series, but in this case it will have to be kept extremely...
+Journal Article
+Semiparametric Inference in Dynamic Binary Choice ModelsGet access Arrow
+A. Norets and X. Tang
+The Review of Economic Studies, Volume 81, Issue 3, July 2014, Pages 1229–1262, https://doi.org/10.1093/restud/rdt050
+Published: 15 December 2013
+Abstract  
+Supplementary data
+Journal Article
+Is the Social Safety Net a Long-Term Investment? Large-Scale Evidence From the Food Stamps ProgramGet access Arrow
+Martha J Bailey and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1291–1330, https://doi.org/10.1093/restud/rdad063
+Published: 08 June 2023
+... literature has not settled upon a single solution to this problem, a common recommendation is to rely on an event-study (rather than pooled differences-in-differences), which allows for the possibility of dynamic treatment effects and limits the set of units that can act as comparisons for the treatment...
+Abstract  
+Supplementary data
+Journal Article
+Fines and Financial WellbeingGet access Arrow
+Steven Mello
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3340–3374, https://doi.org/10.1093/restud/rdae111
+Published: 21 November 2024
+Abstract  
+Supplementary data
+Journal Article
+Quasi-Experimental Shift-Share Research DesignsGet access Arrow
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 181–213, https://doi.org/10.1093/restud/rdab030
+Published: 08 June 2021
+Abstract  
+Supplementary data
+Journal Article
+Investing in Influence: Investors, Portfolio Firms, and Political Giving Open Access
+Marianne Bertrand and others
+The Review of Economic Studies, rdag010, https://doi.org/10.1093/restud/rdag010
+Published: 24 January 2026
+Abstract  
+Supplementary data
+Journal Article
+Exploiting Growth Opportunities: The Role of Internal Labour MarketsGet access Arrow
+Giacinta Cestone and others
+The Review of Economic Studies, Volume 91, Issue 5, October 2024, Pages 2676–2716, https://doi.org/10.1093/restud/rdad094
+Published: 21 September 2023
+Abstract  
+Supplementary data
+Are Executives in Short Supply? Evidence from Death Events Open Access
+Julien Sauvagnat and Fabiano Schivardi
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 519–559, https://doi.org/10.1093/restud/rdad027
+Published: 24 February 2023
+Abstract  
+Supplementary data
+Journal Article
+The Effects of Partial Employment Protection Reforms: Evidence from ItalyGet access Arrow
+Diego Daruich and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 2880–2942, https://doi.org/10.1093/restud/rdad012
+Published: 10 February 2023
+Abstract  
+Supplementary data
+Journal Article
+Property Rights, Land Misallocation, and Agricultural Efficiency in ChinaGet access Arrow
+Amalavoyal Chari and others
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1831–1862, https://doi.org/10.1093/restud/rdaa072
+Published: 05 November 2020
+Abstract  
+Supplementary data
+Journal Article
+Taxes Depress Corporate Borrowing: Evidence from Private FirmsGet access Arrow
+Ivan T Ivanov and others
+The Review of Economic Studies, rdaf094, https://doi.org/10.1093/restud/rdaf094
+Published: 10 November 2025
+... , and k ≥ 0 corresponds to dates after the event, with k ≥ + 4 representing 4 or more years after the event. The dummy variables 1 { K i t = k } are leads and lags of the event indicator, so the corresponding dynamic treatment effects are given by c ¯ k...
+Abstract  
+Supplementary data
+Journal Article
+Understanding the City Size Wage GapGet access Arrow
+Nathaniel Baum-Snow and Ronni Pavan
+The Review of Economic Studies, Volume 79, Issue 1, January 2012, Pages 88–127, https://doi.org/10.1093/restud/rdr022
+Published: 19 August 2011
+Abstract  
+Supplementary data
+Journal Article
+Optimal Environmental Targeting in the Amazon RainforestGet access Arrow
+Juliano Assunção and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1608–1641, https://doi.org/10.1093/restud/rdac064
+Published: 04 October 2022
+Abstract  
+Supplementary data
+Journal Article
+State Building in a Diverse SocietyGet access Arrow
+Ruth Carlitz and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3704–3740, https://doi.org/10.1093/restud/rdae116
+Published: 20 December 2024
+Abstract  
+Supplementary data
+Journal Article
+The Value of Unemployment InsuranceGet access Arrow
+Camille Landais and Johannes Spinnewijn
+The Review of Economic Studies, Volume 88, Issue 6, November 2021, Pages 3041–3085, https://doi.org/10.1093/restud/rdaa086
+Published: 20 September 2021
+Abstract  
+Supplementary data

@@ -1,0 +1,1561 @@
+﻿The Macroeconomics of Sticky Prices with Generalized Hazard Functions Purchased
+Fernando Alvarez and others
+The Quarterly Journal of Economics, Volume 137, Issue 2, May 2022, Pages 989–1038, https://doi.org/10.1093/qje/qjab042
+Published: 08 November 2021
+...} v(x) = u^{\prime }(0) \frac{\sigma ^2}{2r} + \int _0^{x} u(z) dz \ \ \text{ for } x\in [0, X]. \end{equation} $$ The setup nests a broad class of sticky-price models where the firm’s pricing decision is represented by a symmetric generalized hazard function Λ(x). The symmetry arises because...
+Abstract  
+Supplementary data
+Journal Article
+Experimental Estimates of Education Production Functions Purchased
+Alan B. Krueger
+The Quarterly Journal of Economics, Volume 114, Issue 2, May 1999, Pages 497–532, https://doi.org/10.1162/003355399556052
+Published: 01 May 1999
+...Alan B. Krueger EXPERIMENTAL ESTIMATES OF EDUCATION PRODUCTION FUNCTIONS* ALAN B. KRUEGER This paper analyzes data on 11,600 students and their teachers who were randomly assigned to different size...
+Abstract 
+Journal Article
+Inflation Persistence Purchased
+Jeff Fuhrer and George Moore
+The Quarterly Journal of Economics, Volume 110, Issue 1, February 1995, Pages 127–159, https://doi.org/10.2307/2118513
+Published: 01 February 1995
+... and output. In particular, the Phelps- Taylor specification implies far too little inflation persistence. We present a new contracting model, in which agents are concerned with relative real wages, that is data-consistent. In a specification that nests both models, we resoundingly reject...
+Abstract 
+Journal Article
+The Race Between Education, Technology, and the Minimum Wage Purchased
+Jonathan Vogel
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 1857–1899, https://doi.org/10.1093/qje/qjaf014
+Published: 18 February 2025
+... considered theoretically and empirically in a wide class of aggregate production functions, from the canonical model, which features a CES aggregate production function combining only two skill groups, to nested CES models featuring many skill groups as in Card and Lemieux (2001 ), and beyond. Of course...
+Abstract  
+Supplementary data
+Journal Article
+Catering to Investors Through Security Design: Headline Rate and Complexity Purchased
+Claire Célérier and Boris Vallée
+The Quarterly Journal of Economics, Volume 132, Issue 3, August 2017, Pages 1469–1508, https://doi.org/10.1093/qje/qjx007
+Published: 28 February 2017
+... at households: retail structured products. These products typically offer a high return under their best-case scenario—the headline rate—that is nested in a complex payoff formula. Using a text analysis of the payoff formulas of the 55,000 products issued in Europe from 2002 to 2010, we measure product headline...
+Abstract  
+Supplementary data
+Journal Article
+Measuring Aggregate Price Indices with Taste Shocks: Theory and Evidence for CES Preferences Purchased
+Stephen J Redding and David E Weinstein
+The Quarterly Journal of Economics, Volume 135, Issue 1, February 2020, Pages 503–560, https://doi.org/10.1093/qje/qjz031
+Published: 30 September 2019
+... sector including many varieties). In Section III , we extend our analysis to accommodate multiple CES nests and more flexible functional forms. Although both interpretations are valid, a key building block for the existing exact price index for CES preferences (the Sato-Vartia price index for varieties...
+Abstract  
+Supplementary data
+Journal Article
+Structural Estimation Under Misspecification: Theory and Implications for Practice Purchased
+Isaiah Andrews and others
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 1801–1855, https://doi.org/10.1093/qje/qjaf018
+Published: 21 March 2025
+... shifters) that causally affect D but not Y. The nesting model respects the researcher’s assumptions about which variables causally affect the outcome (see Figure I ) and which are exogenous, but may disagree with the researcher’s specified functional form for the outcome. Our analysis...
+Abstract  
+Supplementary data
+Journal Article
+Nash-Cournot or Lindahl Behavior?: An Empirical Test for the NATO Allies Purchased
+Todd Sandler and James C. Murdoch
+The Quarterly Journal of Economics, Volume 105, Issue 4, November 1990, Pages 875–894, https://doi.org/10.2307/2937877
+Published: 01 November 1990
+... for a public good. One method derives its demand equations from maximizing a representative individual's utility function subject to the relevant budget constraint and to the constancy of the other individuals' public good contributions (i.e., the Nash-Cournot zero conjectural variation constraint). 1...
+Abstract 
+Journal Article
+Quantifying the Sources of Firm Heterogeneity Purchased
+Colin J. Hottman and others
+The Quarterly Journal of Economics, Volume 131, Issue 3, August 2016, Pages 1291–1364, https://doi.org/10.1093/qje/qjw012
+Published: 03 March 2016
+... appeal, with most of the remainder due to product scope. These results suggest that most of what economists call differences in revenue productivity reflects differences in appeal (e.g., quality or taste) rather than cost. Our framework uses a nested constant elasticity of substitution (CES) utility...
+Abstract  
+Supplementary data
+Journal Article
+Imperfect Risk Sharing and the Business Cycle Purchased
+David Berger and others
+The Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, Pages 1765–1815, https://doi.org/10.1093/qje/qjad013
+Published: 17 March 2023
+... be equivalently represented as a representative-agent economy with wedges. These wedges are functions of households’ consumption shares and relative wages, and they identify the key cross-sectional moments that govern the impact of households’ heterogeneity on aggregate variables. We measure the wedges using U.S...
+Abstract  
+Supplementary data
+Journal Article
+Imports, Exports, and Earnings Inequality: Measures of Exposure and Estimates of Incidence Open Access
+Rodrigo Adão and others
+The Quarterly Journal of Economics, Volume 137, Issue 3, August 2022, Pages 1553–1614, https://doi.org/10.1093/qje/qjac012
+Published: 02 March 2022
+... ), and ( 20 ) to substitute for domestic expenditure, factor cost shares, and domestic prices, we obtain the following characterization of relative domestic factor demand. All domestic consumers have the same nested CES utility function over the goods produced by domestic firms in different sectors...
+Abstract  
+Supplementary data
+Journal Article
+Productivity and Misallocation in General Equilibrium Purchased
+David Rezza Baqaee and Emmanuel Farhi
+The Quarterly Journal of Economics, Volume 135, Issue 1, February 2020, Pages 105–163, https://doi.org/10.1093/qje/qjz030
+Published: 24 September 2019
+... model with nested CES production and consumption functions with an arbitrary number of nests, input-output patterns, returns to scale, factors of production, and elasticities to show this dependence; the more general results are in Online Appendix H . In Section V , we use these results...
+Abstract  
+Supplementary data
+Journal Article
+The Tradeoff Between Wages and Employment in Trade Union Objectives Purchased
+John H. Pencavel
+The Quarterly Journal of Economics, Volume 99, Issue 2, May 1984, Pages 215–231, https://doi.org/10.2307/1885523
+Published: 01 May 1984
+... for real wages. This function has the appealing feature of nesting some interesting special cases. For instance, consider X = —1. Then the objective function may be written as follows: U (w 1p , L) = log (w /p — y) + (1— 11) log L, and if, furthermore, IL = 0.5 and y equals the competitive...
+Abstract 
+Journal Article
+Transition Losses of Partially Mobile Industry-Specific Capital Purchased
+Don Fullerton
+The Quarterly Journal of Economics, Volume 98, Issue 1, February 1983, Pages 107–125, https://doi.org/10.2307/1885569
+Published: 01 February 1983
+... working forty hours. Consumer demands are based on budget con- strained maximization of the nested CES utility function: 22 15 (6) U = U[11(ri . xicil. In the first stage, consumers save some income for future consumption Cf and allocate the rest to a subutility...
+Abstract 
+Journal Article
+Interdependent Utilities, Charity, and Pareto Optimality: Comment Purchased
+Albert L. Danielsen
+The Quarterly Journal of Economics, Volume 89, Issue 3, August 1975, Pages 477–481, https://doi.org/10.2307/1885266
+Published: 01 August 1975
+... the satisfaction derived from the consumption of economic goods by those other than the reference individual is a welcome addition to the literature. Such a model will take its place among the genus that includes time, club size, and sharing relations in the individual utility function; it may even...
+Abstract 
+Journal Article
+The Refugee’s Dilemma: Evidence from Jewish Migration out of Nazi Germany Purchased
+Johannes Buggle and others
+The Quarterly Journal of Economics, Volume 138, Issue 2, May 2023, Pages 1273–1345, https://doi.org/10.1093/qje/qjad001
+Published: 12 January 2023
+... of migrating to all destinations according to the exodus effect. To allow for an integrated framework, we specify our model of migration as a two-step nested logit: a lower model explains destination choices and yields a gravity equation of city-to-country migration, and an upper model explains the decision...
+Abstract  
+Supplementary data
+Journal Article
+The Unequal Gains from Product Innovations: Evidence from the U.S. Retail Sector Purchased
+Xavier Jaravel
+The Quarterly Journal of Economics, Volume 134, Issue 2, May 2019, Pages 715–783, https://doi.org/10.1093/qje/qjy031
+Published: 04 December 2018
+... for an extreme form of substitution. The CES and nested CES price indexes are widely used price indexes derived from the corresponding utility functions. I use three nests in nested CES: departments, product groups, and product modules. The mathematical formulas for each of these price indexes are standard...
+Abstract  
+Supplementary data
+Journal Article
+Measurement Error, Legalized Abortion, and the Decline in Crime: A Response to Foote and Goetz Purchased
+John J. Donohue and Steven D. Levitt
+The Quarterly Journal of Economics, Volume 123, Issue 1, February 2008, Pages 425–440, https://doi.org/10.1162/qjec.2008.123.1.425
+Published: 01 February 2008
+... more general functional forms (i.e., controlling for state-speciﬁc trends) that nest the one used by Foote and 2. The same omission of the state-year interactions is also repeated in the bottom two rows of Table 1 of Donohue and Levitt (2004), which used the same code as the original paper...
+Abstract 
+Journal Article
+Capital Allocation and Productivity in South Europe Purchased
+Gita Gopinath and others
+The Quarterly Journal of Economics, Volume 132, Issue 4, November 2017, Pages 1915–1967, https://doi.org/10.1093/qje/qjx024
+Published: 20 June 2017
+... the constraint (16) from the requirement that firms do not default in equilibrium. In this microfoundation, the Ψ(.) function denotes an increasing and convex cost that firms incur from the disruption of their productive capacity if they decide to default. The constraint (16) nests the standard model...
+Abstract  
+Supplementary data
+Journal Article
+The Global Decline of the Labor Share Purchased
+Loukas Karabarbounis and Brent Neiman
+The Quarterly Journal of Economics, Volume 129, Issue 1, February 2014, Pages 61–103, https://doi.org/10.1093/qje/qjt032
+Published: 24 October 2013
+... of this explanation for welfare and macroeconomic dynamics. At least since the work of Kaldor (1957) , the stability of the labor share of income has been a fundamental feature of macroeconomic models, with broad implications for the shape of the production function, inequality, and macroeconomic dynamics. We…
+
+
+Measuring Monetary Policy Purchased
+Ben S. Bernanke and Ilian Mihov
+The Quarterly Journal of Economics, Volume 113, Issue 3, August 1998, Pages 869–902, https://doi.org/10.1162/003355398555775
+Published: 01 August 1998
+... restrictions on a set of variables relevant to the market for commercial bank reserves. Our method has several advantages over previous ap- proaches. First, because our speciﬁcation nests the best known quantitative indicators of monetary policy used recently in VAR modeling, including all those...
+Abstract 
+Journal Article
+Managing Expectations: Instruments Versus Targets Purchased
+George-Marios Angeletos and Karthik A Sastry
+The Quarterly Journal of Economics, Volume 136, Issue 4, November 2021, Pages 2467–2532, https://doi.org/10.1093/qje/qjaa045
+Published: 16 December 2020
+... enough. In our abstract model, a policy maker interacts with a continuum of small private agents. Each agent’s optimal action is an increasing function of their expectations of a policy instrument, τ, and an economic outcome, Y. The latter, in turn, depends on the agents’ average action...
+Abstract  
+Supplementary data
+Journal Article
+Choice Simplification: A Theory of Mental Budgeting and Naive Diversification Open Access
+Botond Kőszegi and Filip Matějka
+The Quarterly Journal of Economics, Volume 135, Issue 2, May 2020, Pages 1153–1207, https://doi.org/10.1093/qje/qjz043
+Published: 03 January 2020
+... nests of products ( Fosgerau, Melo, and Shum 2017 ), on different dimensions of the state space ( Pomatto, Strack, and Tamuz 2019 ), and for nearby versus distant states ( Morris and Yang 2016 ), and Caplin and Dean (2015) study a broader class of cost functions called posterior separable...
+Abstract 
+Journal Article
+Immigration, Skill Mix, and Capital Skill Complementarity Purchased
+Ethan Lewis
+The Quarterly Journal of Economics, Volume 126, Issue 2, May 2011, Pages 1029–1069, https://doi.org/10.1093/qje/qjr011
+Published: 01 May 2011
+... on wages (Card 2009, discussed below). Nested constant elasticity of substitution (CES) specifications provide a flexible way to model production in general and have become a common way to model capital-skill complementarity. Even limiting oneself to nested CES production functions there are a variety...
+Abstract 
+Journal Article
+Welfare and Output With Income Effects and Taste Shocks Purchased
+David R Baqaee and Ariel Burstein
+The Quarterly Journal of Economics, Volume 138, Issue 2, May 2023, Pages 769–834, https://doi.org/10.1093/qje/qjac042
+Published: 11 November 2022
+... (taking into account that prices are endogenous to choices). A recent and related paper is Redding and Weinstein (2020) , who also study welfare changes with taste shocks and nonhomotheticities. Their approach depends on untestable assumptions about cardinal properties of utility functions. On the other...
+Abstract  
+Supplementary data
+Journal Article
+Sweat Equity in U.S. Private Business Purchased
+Anmol Bhandari and Ellen R McGrattan
+The Quarterly Journal of Economics, Volume 136, Issue 2, May 2021, Pages 727–781, https://doi.org/10.1093/qje/qjaa041
+Published: 16 December 2020
+... the quantitative role of including owner time in production and sweat capital accumulation for the study of business taxation. Specifically, we compare the predictions of lowering taxes on incomes of privately and publicly held businesses in our baseline model with those of a nested model in which owner time...
+Abstract  
+Supplementary data
+Journal Article
+Optimal Spatial Policies, Geography, and Sorting Purchased
+Pablo D Fajgelbaum and Cecile Gaubert
+The Quarterly Journal of Economics, Volume 135, Issue 2, May 2020, Pages 959–1036, https://doi.org/10.1093/qje/qjaa001
+Published: 06 January 2020
+... out government policies that tax and redistribute income across locations. When transfers of resources between locations are allowed, the result and intuition described above no longer hold, as welfare is no longer a constant elasticity function of city size. 10 © The Author(s) 2020...
+Abstract  
+Supplementary data
+Journal Article
+The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel Purchased
+Ryan Kim
+The Quarterly Journal of Economics, Volume 136, Issue 1, February 2021, Pages 563–619, https://doi.org/10.1093/qje/qjaa025
+Published: 08 July 2020
+... This article adopts the nested CES utility function in Hottman, Redding, and Weinstein (2016) to build the firm-group-specific price index from the ACNielsen Homescan Panel database. 21 The utility-based price index has two main advantages over other indices; the index is consistent...
+Abstract  
+Supplementary data
+Journal Article
+Measuring Welfare by Matching Households across Time Purchased
+David R Baqaee and others
+The Quarterly Journal of Economics, Volume 139, Issue 1, February 2024, Pages 533–573, https://doi.org/10.1093/qje/qjad038
+Published: 05 September 2023
+... the terms of the Oxford University Press, Standard Journals Publication Model ( https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model ) Abstract The money metric utility function is an essential tool for calculating welfare-relevant growth and inflation. We...
+Abstract  
+Supplementary data
+Journal Article
+The Diffusion of Development Purchased
+Enrico Spolaore and Romain Wacziarg
+The Quarterly Journal of Economics, Volume 124, Issue 2, May 2009, Pages 469–529, https://doi.org/10.1162/qjec.2009.124.2.469
+Published: 01 May 2009
+... to the diffusion of development from the world technological frontier, implying that income differences should be a function of relative genetic distance from the frontier. The empirical evidence strongly supports this barriers interpretation. I. INTRODUCTION What...
+Abstract 
+Journal Article
+Monetary Policy by Committee: Consensus, Chairman Dominance, or Simple Majority? Purchased
+Alessandro Riboni and Francisco J. Ruge-Murcia
+The Quarterly Journal of Economics, Volume 125, Issue 1, February 2010, Pages 363–416, https://doi.org/10.1162/qjec.2010.125.1.363
+Published: 01 February 2010
+... lead to decisions that are more extreme than the average of the individual positions (see Sobel [2006 13. To see that the function (2) nests the quadratic case, take the limit of U j (πt)asμ j → 0 and use L’Hopital’sˆ rule twice. 14. We use this modeling strategy because, except...
+Abstract 
+Journal Article
+Exact Aggregation and a Representative Consumer Purchased
+Arthur Lewbel
+The Quarterly Journal of Economics, Volume 104, Issue 3, August 1989, Pages 621–633, https://doi.org/10.2307/2937813
+Published: 01 August 1989
+...-derived demand system having Engel curves that are linear in income and one function of income. Such Engel curves are convenient for empirical work because they can be estimated using ordinary least squares, have the ordinary linear model nested within them, and are parsimonious (see, e.g., Leser...
+Journal Article
+Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approach* Purchased
+Gauti B. Eggertsson and Paul Krugman
+The Quarterly Journal of Economics, Volume 127, Issue 3, August 2012, Pages 1469–1513, https://doi.org/10.1093/qje/qjs023
+Published: 24 July 2012
+... gets a constant endowment Y each period. They have log utility functions: where β( s ) = β > β( b )—that is, the two types of individuals differ only in their rates of time preference. We assume initially that borrowing and lending take the form of risk-free bonds...
+Abstract  
+Supplementary data
+Journal Article
+On the Nature of Capital: Investment, Intangible Assets, and the Pecuniary Magnate Purchased
+Thorstein Veblen
+The Quarterly Journal of Economics, Volume 23, Issue 1, November 1908, Pages 104–136, https://doi.org/10.2307/1883967
+Published: 01 November 1908
+..., and basis, 111.-Summary of analysis of assets, 115.-Tangible and intangible 8.8I!Iets distinct, but mutually convertible, 116.-Dependence of all assets on industrial production, 122.-Non-capitalizable income from assets, 125.-Place and function of the "Pecuniary Magnate," 126.-uTimeless" gains from...
+Abstract 
+Journal Article
+Equality of Resources Implies Equality of Welfare Purchased
+John E. Roemer
+The Quarterly Journal of Economics, Volume 101, Issue 4, November 1986, Pages 751–784, https://doi.org/10.2307/1884177
+Published: 01 November 1986
+.... As an illustration, consider the problem of Andrea and Bob, who have utility functions u and v on an n dimensional commodity space. The aggregate commodity endowment is X- , which the re- source-egalitarian planner must divide between Andrea and Bob. Imagine that welfare, as reported by the utility functions...
+Abstract 
+Journal Article
+EDITOR'S CHOICE
+The Return to Protectionism Purchased
+Pablo D Fajgelbaum and others
+The Quarterly Journal of Economics, Volume 135, Issue 1, February 2020, Pages 1–55, https://doi.org/10.1093/qje/qjz036
+Published: 28 November 2019
+...) corresponding to an HS-10 level of aggregation. Within the nest of imported products, varieties are differentiated by country of origin. The United States trades with I countries (collected in the set and indexed by country i). The CES utility functions and price indexes are presented...
+Abstract  
+Supplementary data
+Journal Article
+On Diversity Purchased
+Martin L. Weitzman
+The Quarterly Journal of Economics, Volume 107, Issue 2, May 1992, Pages 363–405, https://doi.org/10.2307/2118476
+Published: 01 May 1992
+...Martin L. Weitzman © 1992 by the President and Fellows of Harvard College 1992 Abstract An oft-repeated goal in many contexts is the “preservation of diversity.” But what is the diversity function to be optimized? This paper shows how a reasonable measure of the “value of diversity...
+Abstract 
+Journal Article
+The Contribution of Changing Energy and Import Prices to Changing Average Labor Productivity: A Profit Formulation for Canada Purchased
+Dean C. Mountain
+The Quarterly Journal of Economics, Volume 100, Issue 3, August 1985, Pages 651–675, https://doi.org/10.2307/1884373
+Published: 01 August 1985
+... slowdown in Canada. In addition to contributions of such traditional variables as changes in capital intensity and quality of labor, this study quantifies contributions of higher energy and changing import prices to productivity changes. A Taylor series ap- proximation to a restricted profit function...
+Abstract 
+Journal Article
+Can Union Labor Ever Cost Less? Purchased
+Steven G. Allen
+The Quarterly Journal of Economics, Volume 102, Issue 2, May 1987, Pages 347–373, https://doi.org/10.2307/1885067
+Published: 01 May 1987
+... of substitution (cr) equal one if (3, = 0. The homogeneity hypothesis is nested within the homotheticity hypoth- esis, but both are unrelated to the unitary elasticity of substitution hypothesis. The translog variable profit function is written as (3) ln ao + E ai ln ± 0.5 E E ln ln Pi...
+Abstract 
+Journal Article
+Aggregation and the Estimation of Quality Change: Application to U.S. Import Prices Purchased
+Marco Errico and Danial Lashkari
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 3283–3335, https://doi.org/10.1093/qje/qjaf032
+Published: 13 August 2025
+... or indirectly additive. Homothetic with a single aggregator (HSA). This system is characterized by an aggregator function , which is implicitly defined by the value of h that satisfies . Definition 1 for the HA demand nests many well-known income-invariant demand systems commonly...
+Abstract  
+Supplementary data
+Identifying Prediction Mistakes in Observational Data Purchased
+Ashesh Rambachan
+The Quarterly Journal of Economics, Volume 139, Issue 3, August 2024, Pages 1665–1711, https://doi.org/10.1093/qje/qjae013
+Published: 28 May 2024
+... not observe these interactions. The decision maker’s choices may therefore differ from the predictive model not because she is making systematic prediction mistakes but because she has preferences that differ from the model’s objective function or observes information that is unavailable to the model. While...
+Abstract  
+Supplementary data
+Journal Article
+The Establishment-Level Behavior of Vacancies and Hiring Purchased
+Steven J. Davis and others
+The Quarterly Journal of Economics, Volume 128, Issue 2, May 2013, Pages 581–622, https://doi.org/10.1093/qje/qjt002
+Published: 23 March 2013
+... and extend our analysis in other ways, we consider a generalized matching function defined over unemployed workers, job vacancies, and “recruiting intensity” per vacancy (shorthand for the effect of other instruments). As we show, the corresponding hiring technology implies a tight relationship linking...
+Abstract  
+Supplementary data
+Journal Article
+Measuring the Effects of Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach Purchased
+Ben S. Bernanke and others
+The Quarterly Journal of Economics, Volume 120, Issue 1, February 2005, Pages 387–422, https://doi.org/10.1162/0033553053327452
+Published: 01 February 2005
+... in simulated forecast- ing exercises. Bernanke and Boivin [2003] show that the use of estimated factors can improve the estimation of the Fed’s policy reaction function. If a small number of estimated factors effectively summarize large amounts of information about the economy, then a natural...
+Abstract 
+Journal Article
+Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory Purchased
+Richard Clarida and others
+The Quarterly Journal of Economics, Volume 115, Issue 1, February 2000, Pages 147–180, https://doi.org/10.1162/003355300554692
+Published: 01 February 2000
+... CLARIDA JORDI GALI´ MARK GERTLER We estimate a forward-looking monetary policy reaction function for the postwar United States economy, before and after Volcker’s appointment as Fed...
+Abstract 
+Journal Article
+Market Imperfections, Labor Management, and Earnings Differentials in a Developing Country: Theory and Evidence from Yugoslavia Purchased
+Saul Estrin and others
+The Quarterly Journal of Economics, Volume 103, Issue 3, August 1988, Pages 465–478, https://doi.org/10.2307/1885540
+Published: 01 August 1988
+....' In this way, we seek to evaluate the importance of capital rents as compared with rents from product and labor market misallocations as sources of Yugoslav income differentials. We first use the data set from Vanek and Jovicic's [1975] study and then estimate more flexible functional forms on a broader...
+Abstract 
+Journal Article
+Instantaneous Gratification Purchased
+Christopher Harris and David Laibson
+The Quarterly Journal of Economics, Volume 128, Issue 1, February 2013, Pages 205–248, https://doi.org/10.1093/qje/qjs051
+Published: 06 December 2012
+... of stationary differential equations that characterize the current- and continuation-value functions. We call the resulting model the present-future model or PF model. This continuous time discount function nests exponential discounting: either set , so that the future never arrives; or set , so...
+Abstract  
+Supplementary data
+Journal Article
+Misallocation in the Market for Inputs: Enforcement and the Organization of Production Purchased
+Johannes Boehm and Ezra Oberfield
+The Quarterly Journal of Economics, Volume 135, Issue 4, November 2020, Pages 2007–2058, https://doi.org/10.1093/qje/qjaa020
+Published: 16 June 2020
+... (2019) , Osotimehin and Popov (2020) , Baqaee and Farhi (2020) , Bigio and La’O (2020) , and Boehm (forthcoming) . These papers typically posit industry-level production functions and use industry-level data. Our approach of identifying wedges from factor shares (in our case, intermediate-input...
+Abstract  
+Supplementary data
+Journal Article
+Charity and Progress Purchased
+Edward Cummings
+The Quarterly Journal of Economics, Volume 12, Issue 1, October 1897, Pages 27–41, https://doi.org/10.2307/1882307
+Published: 01 October 1897
+... for the scepticism of those of faltering faith among their flocks. Such, then, are two of the conflicting accounts which men who speak as having the authority of science give of the function of philanthropy in progress. To one party it is the symptom of decay, the evidence that the dilemma 32 QUARTERLY...
+Journal Article
+Ants, Rationality, and Recruitment Purchased
+Alan Kirman
+The Quarterly Journal of Economics, Volume 108, Issue 1, February 1993, Pages 137–156, https://doi.org/10.2307/2118498
+Published: 01 February 1993
+... insect colonies. EXPERIMENTAL EVIDENCE: THE PUZZLE In recent articles Deneuboug et al. [1987a] and Pasteels et al. [1987a] describe the following experiment. Two identical food sources were placed equidistant from an ants' nest and were kept constantly replenished so...
+Abstract 
+Journal Article
+Behavioral Hazard in Health Insurance Purchased
+Katherine Baicker and others
+The Quarterly Journal of Economics, Volume 130, Issue 4, November 2015, Pages 1623–1667, https://doi.org/10.1093/qje/qjv029
+Published: 15 July 2015
+...Katherine Baicker; Sendhil Mullainathan; Joshua Schwartzstein Three examples of behavioral biases that our formulation nests are presented here and summarized in Table I : present bias, symptom salience, and false beliefs. 10 This framework nests behavioral models where people...
+Abstract  
+Supplementary data
+Journal Article
+Distributional Growth Accounting: Education and the Reduction of Global Poverty, 1980–2019 Purchased
+Amory Gethin
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2571–2618, https://doi.org/10.1093/qje/qjaf033
+Published: 22 July 2025
+.... To incorporate supply effects on these groups, I introduce nests in the CES production function (following Goldin and Katz 2007 ; Fernández and Messina 2018 ): Given the diversity of policies and specifications found across studies, it is difficult to draw conclusions about the exact sources of variations...
+Abstract  
+Supplementary data
+Journal Article
+Teacher Quality in Educational Production: Tracking, Decay, and Student Achievement Purchased
+Jesse Rothstein
+The Quarterly Journal of Economics, Volume 125, Issue 1, February 2010, Pages 175–214, https://doi.org/10.1162/qjec.2010.125.1.175
+Published: 01 February 2010
+... of the educational production function and the assignment of students to classrooms. In this paper, I develop falsiﬁcation tests for three widely used VAM speciﬁcations, based on the idea that future teachers cannot inﬂuence students’ past achievement. In data from North Carolina, each of the VAMs...
+Abstract 
+Journal Article
+Option Valuation of Claims on Real Assets: The Case of Offshore Petroleum Leases Purchased
+James L. Paddock and others
+The Quarterly Journal of Economics, Volume 103, Issue 3, August 1988, Pages 479–508, https://doi.org/10.2307/1885541
+Published: 01 August 1988
+... valuation tool, however, the prob- lems associated with number 5 above remain. IV. TRACT VALUATION BY THE OPTION VALUATION APPROACH As was discussed in Section II, valuing a lease involves valuing the cash flows from a three-stage process. These stages form a nested set of options and each...
+Abstract 
+Journal Article
+Political Centralization and Government Accountability Purchased
+Federico Boffa and others
+The Quarterly Journal of Economics, Volume 131, Issue 1, February 2016, Pages 381–422, https://doi.org/10.1093/qje/qjv035
+Published: 28 September 2015
+... is a decreasing and convex function of the share of informed voters, because voter information improves monitoring but also reduces the appeal of holding office. As a result, information heterogeneity pushes toward centralization to reduce rent extraction. Taste heterogeneity pulls instead toward decentralization...
+Abstract  
+Supplementary data
+Journal Article
+What do Consumers Consider Before They Choose? Identification from Asymmetric Demand Responses Open Access
+Jason Abaluck and Abi Adams-Prassl
+The Quarterly Journal of Economics, Volume 136, Issue 3, August 2021, Pages 1611–1663, https://doi.org/10.1093/qje/qjab008
+Published: 13 March 2021
+...} + \delta |C) = s_{j}^{\star }(\mathbf {p} |C). \nonumber \end{align*}$$ Standard additive random utility models (ARUMs) imply choice probabilities that satisfy these conditions, including the nested and mixed logit models. For example, the following indirect utility function is consistent with Assumption 1...
+Abstract  
+Supplementary data
+Journal Article
+Measuring Welfare and Inequality with Incomplete Price Information Purchased
+David Atkin and others
+The Quarterly Journal of Economics, Volume 139, Issue 1, February 2024, Pages 419–475, https://doi.org/10.1093/qje/qjad037
+Published: 06 September 2023
+... functional-form assumptions (e.g., quality-adjusting prices or accounting for variety gains). We instead propose and implement a new approach that uses rich but widely available expenditure survey microdata—and in particular does not require observing reliable price data for all consumption categories...
+Abstract  
+Supplementary data
+Journal Article
+Allocative Efficiency: The Role of Human Capital Purchased
+Wallace E. Huffman
+The Quarterly Journal of Economics, Volume 91, Issue 1, February 1977, Pages 59–79, https://doi.org/10.2307/1883138
+Published: 01 February 1977
+...—comparing the posterior odds pertaining to alternative models. See A. Zellner and M. S. Geisel, "Analysis of Distributed Lag Models with Application to Consumption Function Estimation," Econometrica, XXX\'III (Nov. 1970), 865-88. 15. For experimentation using nested hypotheses, the estimator...
+Abstract 
+Journal Article
+Dollar Dominance and the Transmission of Monetary Policy Open Access
+Michael McLeay and Silvana Tenreyro
+The Quarterly Journal of Economics, Volume 141, Issue 1, February 2026, Pages 605–666, https://doi.org/10.1093/qje/qjaf043
+Published: 22 September 2025
+... of substitution (CES) demand functions, where demand curves will be concave. The main conclusions are not affected by these simplifications. We examine the case of a monopolist producer who sets the (sticky) price in a dominant currency (the dollar), as in typical DCP frameworks. This is illustrated in Figure I...
+Abstract  
+Supplementary data
+Journal Article
+Growth in the Shadow of Expropriation Purchased
+Mark Aguiar and Manuel Amador
+The Quarterly Journal of Economics, Volume 126, Issue 2, May 2011, Pages 651–697, https://doi.org/10.1093/qje/qjr015
+Published: 28 June 2011
+... assume that capitalists do not enter the government's objective function, defined below. This assumption is convenient in that the government has no hard-wired qualms about expropriating capital income and transferring it to its preferred constituency. This assumption is not crucial to the results and we...
+Abstract  
+Supplementary data
+Journal Article
+The Geography of Unemployment Purchased
+Adrien Bilal
+The Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, Pages 1507–1576, https://doi.org/10.1093/qje/qjad010
+Published: 23 March 2023
+... with cumulative distribution function Fℓ on a connected support , with continuous density . Thus, a location is characterized by its productivity ℓ rather than its particular name. 20 There is a unit measure of infinitely lived, homogeneous workers. Their preferences over...
+Abstract  
+Supplementary data
+Are Output Fluctuations Transitory? Purchased
+John Y. Campbell and N. Gregory Mankiw
+The Quarterly Journal of Economics, Volume 102, Issue 4, November 1987, Pages 857–880, https://doi.org/10.2307/1884285
+Published: 01 November 1987
+... persistence? The answer is again, no. This result is discussed below. ARE OUTPUT FLUCTUATIONS TRANSITORY? 861 Impulse Response Functions We model the change in log GNP as a stationary ARMA process. That is, (1) (AL) AY, = O(L) Et , where 0(L) = 1 — — 021...
+Abstract 
+Journal Article
+The Optimal Distribution of Income Purchased
+Ray C. Fair
+The Quarterly Journal of Economics, Volume 85, Issue 4, November 1971, Pages 551–579, https://doi.org/10.2307/1882268
+Published: 01 November 1971
+... functions and parameters in the model are formulated. The approach followed in Section III is to make at least two of the sets of assumptions extreme enough in both directions so that the real world situation appears likely to be bounded by them. In Section IV the results of solving the model under...
+Abstract 
+Journal Article
+Are Inflationary Shocks Regressive? A Feasible Set Approach Purchased
+Felipe Del Canto and others
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2685–2747, https://doi.org/10.1093/qje/qjaf028
+Published: 09 June 2025
+... constraints. We combine estimated impulse response functions with micro-data on household consumption bundles, asset holdings, and labor income for different U.S. households. We find that inflationary oil shocks are regressive, but monetary expansions are progressive, and there is substantial heterogeneity...
+Abstract  
+Supplementary data
+Journal Article
+Dynamic Games with Asymmetric Information: A Framework for Empirical Work* Purchased
+Chaim Fershtman and Ariel Pakes
+The Quarterly Journal of Economics, Volume 127, Issue 4, November 2012, Pages 1611–1661, https://doi.org/10.1093/qje/qjs025
+Published: 19 November 2012
+... variables of producers would typically include indexes of their cost function, qualities of the goods they market, and so on, whereas in a durable good market those of consumers would include their current holdings of various goods and the household’s demographic characteristics. Neither a player’s “payoff...
+Abstract 
+Journal Article
+Professor Knight on Limits to the Use of Capital Purchased
+David McCord Wright
+The Quarterly Journal of Economics, Volume 58, Issue 3, May 1944, Pages 331–358, https://doi.org/10.2307/1882845
+Published: 01 May 1944
+... of society could operate the completed sticks, and in this way the output per head of consumer's goods (cocoanuts) would be maintained. Again, new and ever more efficient labor-saving types of sticks might be invented, which would make possible a reorgani- zation of production functions generally. Should...
+Abstract 
+Journal Article
+Search Frictions and Efficiency in Decentralized Transport Markets Purchased
+Giulia Brancaccio and others
+The Quarterly Journal of Economics, Volume 138, Issue 4, November 2023, Pages 2451–2503, https://doi.org/10.1093/qje/qjad023
+Published: 27 May 2023
+...: these conditions, which are known to characterize efficiency in search models with homogeneous agents, require that in each location the surplus share of each side is equal to the corresponding elasticity of the matching function. Second, search frictions generate “composition externalities.” These stem from...
+Abstract  
+Supplementary data
+Journal Article
+In Defense of Monopoly Purchased
+K. E. Boulding
+The Quarterly Journal of Economics, Volume 59, Issue 4, August 1945, Pages 524–542, https://doi.org/10.2307/1883294
+Published: 01 August 1945
+... to be modified substantially today, in view of the universal support in agricultural circles for restrictive legislation, for agricultural cartels, and for governmental assistance. The support of monopoly in principle, and not merely as a means for feathering one's own nest, is undoubtedly an expression...
+Abstract 
+Journal Article
+The Tariff, 1929–30 Purchased
+F. W. Taussig
+The Quarterly Journal of Economics, Volume 44, Issue 2, February 1930, Pages 175–204, https://doi.org/10.2307/1885247
+Published: 01 February 1930
+... is for the application of some unifying principle, more particularly that of equalizing cost of production. Both are connected with the creation and functioning of a Tariff Commission. The present Tariff Commission, when established in 1916, was an agency solely for clarification. It was to be a "fact...
+Abstract 
+Journal Article
+Overreaction in Expectations: Evidence and Theory Purchased
+Hassan Afrouzi and others
+The Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, Pages 1713–1764, https://doi.org/10.1093/qje/qjad009
+Published: 06 March 2023
+..., which are not observable to the econometrician in survey data. Second, we know and can specify the DGP, whereas the DGP is difficult for the econometrician to pin down in survey data. Finally, we can also control forecasters’ payoff functions, whereas forecasters could have considerations other than...
+Abstract  
+Supplementary data
+Journal Article
+Economic Growth at a Maximal Rate Purchased
+Tjalling C. Koopmans
+The Quarterly Journal of Economics, Volume 78, Issue 3, August 1964, Pages 355–394, https://doi.org/10.2307/1879473
+Published: 01 August 1964
+.... 1962), pp. 94-101. 7. J. R. Hicks, "Prices and the Turnpike, I, The Story of a Mare's Nest," Review of Economic Studies, XXVIII (Feb. 1961), 77-88. 8. K. Inada, "Some Structural Characteristics of Turnpike Theorems," mimeo., undated. 9. Lionel W. McKenzie, "The Dorfman-Samuelson-Solow...
+Abstract 
+Journal Article
+Correlation Made Simple: Applications to Salience and Regret Theory Purchased
+Giacomo Lanzani
+The Quarterly Journal of Economics, Volume 137, Issue 2, May 2022, Pages 959–987, https://doi.org/10.1093/qje/qjab041
+Published: 08 November 2021
+...) , Sugden (1993) , and Quiggin (1994) . Recently, Diecidue and Somasundaram (2017) significantly improve the regret model’s previous representation, providing an axiomatization that delivers a continuous regret function on an arbitrary finite state space. Their main conceptual contribution is to single...
+Abstract  
+Supplementary data
+Journal Article
+Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient? Purchased
+Mark R Jacobsen and others
+The Quarterly Journal of Economics, Volume 138, Issue 3, August 2023, Pages 1907–1976, https://doi.org/10.1093/qje/qjad016
+Published: 17 March 2023
+Abstract  
+Supplementary data
+Journal Article
+Competition among Exchanges Purchased
+Tano Santos and Jose A. Scheinkman
+The Quarterly Journal of Economics, Volume 116, Issue 3, August 2001, Pages 1027–1061, https://doi.org/10.1162/00335530152466304
+Published: 01 August 2001
+..., their model and ours cannot be nested. COMPETITION AMONG EXCHANGES 1045 FIGURE II The plot shows the optimal collateral rate, under full information, as a function of the default penalty. There are three regions. In region A the full...
+Abstract 
+Journal Article
+A Cue-Theory of Consumption Purchased
+David Laibson
+The Quarterly Journal of Economics, Volume 116, Issue 1, February 2001, Pages 81–119, https://doi.org/10.1162/003355301556356
+Published: 01 February 2001
+.... This paper documents and explains the existence of such a dynamic utility function, using psychological evidence. The paper then models the choices of a rational decision maker who has cue-contingent habit formation. The decision-maker can manipu• late the dynamic pairing of cues and behavior as well...
+Abstract 
+Journal Article
+Preventives Versus Treatments Purchased
+Michael Kremer and Christopher M. Snyder
+The Quarterly Journal of Economics, Volume 130, Issue 3, August 2015, Pages 1167–1239, https://doi.org/10.1093/qje/qjv012
+Published: 25 March 2015
+... the consumer. Clay, Sibley, and Srinagesh (1992) and especially Miravete (1996) are closest to our work. Our application to disease risk calls for a specific mapping from ex ante private values into ex post types, whereas Miravete considers general functional forms for the mapping. The specificity...
+Abstract  
+Supplementary data
+Journal Article
+Paying for Health Insurance: The Trade-Off between Competition and Adverse Selection Purchased
+David M. Cutler and Sarah J. Reber
+The Quarterly Journal of Economics, Volume 113, Issue 2, May 1998, Pages 433–466, https://doi.org/10.1162/003355398555649
+Published: 01 May 1998
+.... To formalize this relationship, we express latent demand for the PPO (denoted PPO*) as a function of the effective out-of- e pocket price of the PPO (P OOP and other covariates (X): ϭ␥ e ϩ ⌫ (4) PPO*it ln (P OOP,it) Xit...
+Abstract 
+Journal Article
+Neoclassical Theory and the Optimizing Peasant: An Econometric Analysis of Market Family Labor Supply in a Developing Country Purchased
+Mark R. Rosenzweig
+The Quarterly Journal of Economics, Volume 94, Issue 1, February 1980, Pages 31–55, https://doi.org/10.2307/1884603
+Published: 01 February 1980
+.... The household is assumed to act as if it maximized a monotonic twice-continuously differentiable, strictly concave household utility function, as in (1): 34 QUARTERLY JOURNAL OF ECONOMICS (1) UN = g (X N,M N,FN ;EZ,EF1), where UN is the utility...
+Abstract 
+Journal Article
+Procyclical Productivity: Increasing Returns or Cyclical Utilization? Purchased
+Susanto Basu
+The Quarterly Journal of Economics, Volume 111, Issue 3, August 1996, Pages 719–751, https://doi.org/10.2307/2946670
+Published: 01 August 1996
+... in order to judge the plausibility of these new business- cycle models. This paper presents a new method for detecting changes in the utilization of capital and labor that are not directly observed, in a framework that nests increasing returns and technology shocks as alternative possibilities...
+Abstract 
+Journal Article
+New Pricing Models, Same Old Phillips Curves? Purchased
+Adrien Auclert and others
+The Quarterly Journal of Economics, Volume 139, Issue 1, February 2024, Pages 121–186, https://doi.org/10.1093/qje/qjad041
+Published: 05 September 2023
+... for x > 0 and vice versa. These assumptions nest the standard case of a normal distribution. In each period, the firm faces a quadratic loss function equal to , and has to pay an extra fixed cost ξit to change its price. The fixed cost is random, ξit ∈ {0, ξ...
+Abstract  
+Supplementary data
+Journal Article
+Measuring the Unequal Gains from Trade Purchased
+Pablo D. Fajgelbaum and Amit K. Khandelwal
+The Quarterly Journal of Economics, Volume 131, Issue 3, August 2016, Pages 1113–1180, https://doi.org/10.1093/qje/qjw013
+Published: 14 March 2016
+...-independent generalized preferences defined by Muellbauer (1975) . The latter are defined by the indirect utility function (7) where a ( p ) ?> and b ( p ) ?> are price aggregators and F [ · ] ?> is a well-behaved increasing function. The AIDS...
+Abstract
+Complementary Information and Learning Traps Purchased
+Annie Liang and Xiaosheng Mu
+The Quarterly Journal of Economics, Volume 135, Issue 1, February 2020, Pages 389–448, https://doi.org/10.1093/qje/qjz033
+Published: 09 October 2019
+... a necessary and sufficient condition for long-run efficiency, which nests the environment considered in Liang, Mu, and Syrgkanis (2017 , 2019) . In environments that do not satisfy this condition, we demonstrate that in contrast, learning traps may obtain. Our main results demonstrate that in some...
+Abstract  
+Supplementary data
+Journal Article
+EDITOR'S CHOICE
+Working over Time: Dynamic Inconsistency in Real Effort Tasks Purchased
+Ned Augenblick and others
+The Quarterly Journal of Economics, Volume 130, Issue 3, August 2015, Pages 1067–1115, https://doi.org/10.1093/qje/qjv020
+Published: 06 May 2015
+... date, t , is the present. The parameter β captures the degree of present bias, while the parameter δ captures long-run discounting. β = 1 nests the standard model of exponential discounting. The utility function is assumed to be concave, α < 1...
+Abstract  
+Supplementary data
+Journal Article
+An Interplant Test of the Efficiency Wage Hypothesis Purchased
+Peter Cappelli and Keith Chauvin
+The Quarterly Journal of Economics, Volume 106, Issue 3, August 1991, Pages 769–787, https://doi.org/10.2307/2937926
+Published: 01 August 1991
+... calculated as the number of dismissals/the number of workers for the year 1982. Given standardized discipline policies within the firm, the rate of disciplinary dismissals should reflect the incidence of shirking at each plant which should in turn be a function of the utility associated...
+Abstract 
+Journal Article
+EDITOR'S CHOICE
+Systemic Discrimination Among Large U.S. Employers Purchased
+Patrick Kline and others
+The Quarterly Journal of Economics, Volume 137, Issue 4, November 2022, Pages 1963–2036, https://doi.org/10.1093/qje/qjac024
+Published: 11 June 2022
+...) shows the results of fitting a linear probability model for employer contact as a function of race, sex, age, club membership, and pronouns, controlling for associate degrees, region indicators, and wave indicators. Consistent with the mean differences in Table I , Black applications are contacted 2.1...
+Abstract  
+Supplementary data
+Journal Article
+Subgame-Perfect Implementation Under Information Perturbations* Purchased
+Philippe Aghion and others
+The Quarterly Journal of Economics, Volume 127, Issue 4, November 2012, Pages 1843–1881, https://doi.org/10.1093/qje/qjs026
+Published: 05 November 2012
+... when the contracting parties have private information ex post about the state of nature θ. Our results are not a straightforward application of those on the robustness of refinements of Nash equilibrium because we consider a smaller class of perturbations. While FKL consider several nested classes...
+Abstract  
+Supplementary data
+Journal Article
+Optimal Fiscal Policy with Redistribution Purchased
+Iván Werning
+The Quarterly Journal of Economics, Volume 122, Issue 3, August 2007, Pages 925–967, https://doi.org/10.1162/qjec.122.3.925
+Published: 01 August 2007
+... functions consistent with balanced-growth (used by Chari, Christiano, and Kehoe [1994] and others) and provide closed-form expressions for the sensitivity of the tax rate to shocks. Although tax rates are not perfectly constant in this case, my analysis suggests that the results with separable...
+Abstract 
+Journal Article
+Optimal Price Setting With Observation and Menu Costs Purchased
+Fernando E. Alvarez and others
+The Quarterly Journal of Economics, Volume 126, Issue 4, November 2011, Pages 1909–1960, https://doi.org/10.1093/qje/qjr043
+Published: 01 November 2011
+.... Next, we turn to the discussion of when price plans are optimal. There are two extreme cases nested in our parametrization that imply infinitely many adjustments between observations. First, let the adjustment cost ψ ↓ 0 . In this case the firm will be adjusting infinitely often between...
+Abstract  
+Supplementary data
+Journal Article
+Property Rights over Marital Transfers Purchased
+Siwan Anderson and Chris Bidner
+The Quarterly Journal of Economics, Volume 130, Issue 3, August 2015, Pages 1421–1484, https://doi.org/10.1093/qje/qjv014
+Published: 26 May 2015
+... to our article, these contributions either take the marriage market as exogenous (in the sense that transfers in the marriage market are determined by an exogenous function of bride and groom characteristics) or abstract from it altogether. The marriage payment feature of dowry is the focus of Becker...
+Abstract  
+Supplementary data
+Journal Article
+Increasing Returns, Industrialization, and Indeterminacy of Equilibrium Purchased
+Kiminori Matsuyama
+The Quarterly Journal of Economics, Volume 106, Issue 2, May 1991, Pages 617–650, https://doi.org/10.2307/2937949
+Published: 01 May 1991
+...)lM, where XM and 1M are the output and the employment of a firm.' The average (and marginal) productivity of labor is positively related to the size of the sector: h (Lm ) > 0. 7 The aggregate production function is given by X m = h(Lm)Lm. Take the agricultural good as a numeraire, and let q...
+Abstract 
+Journal Article
+The Future of Railway Control Purchased
+R. F. McWilliams
+The Quarterly Journal of Economics, Volume 38, Issue 1, November 1923, Pages 31–53, https://doi.org/10.2307/1885768
+Published: 01 November 1923
+... for a limited term the operation of an agreement made in 1904 with the C. P. R., by which that railway, in consideration of assistance in the construction of the Crow's Nest Pass branch through the Rocky Mountains, agreed to maxi- mum limits on the rates to be charged on the principal products...
+Abstract 
+Journal Article
+Psychological Factors and Stock Option Exercise Purchased
+Chip Heath and others
+The Quarterly Journal of Economics, Volume 114, Issue 2, May 1999, Pages 601–627, https://doi.org/10.1162/003355399556089
+Published: 01 May 1999
+... may change (and therefore their risk attitude may change) depending on whether they are above or below a reference point. The notion of a reference point is most commonly associated with Kahneman and Tversky’s [1979] value function. The value function has...
+Abstract 
+Journal Article
+The More We Die, The More We Sell? A Simple Test of the Home-Market Effect Purchased
+Arnaud Costinot and others
+The Quarterly Journal of Economics, Volume 134, Issue 2, May 2019, Pages 843–894, https://doi.org/10.1093/qje/qjz003
+Published: 21 January 2019
+...}}{P_{j}}\right)\text{,} \end{equation} where D(·) is a strictly decreasing function; depends on the prices of drugs targeting disease n in country j, as described below; Dj and Pj are endogenous country-specific demand shifters...
+Abstract  
+Supplementary data
+Journal Article
+Intergenerational Transfers and Liquidity Constraints Purchased
+Donald Cox
+The Quarterly Journal of Economics, Volume 105, Issue 1, February 1990, Pages 187–217, https://doi.org/10.2307/2937825
+Published: 01 February 1990
+... a simple two-period model comprised of two individ- uals, a parent and child. The parent cares about the child's well-being. His objective function is // (1) U = Ui(Cp1,171(Cki)) + U2( + p)l, where = parent's utility in period i, i = 1,2, = child's...
+Abstract 
+Journal Article
+EDITOR'S CHOICE
+The Economics of Spatial Mobility: Theory and Evidence Using Smartphone Data Purchased
+Yuhei Miyauchi and others
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2507–2570, https://doi.org/10.1093/qje/qjaf038
+Published: 08 August 2025
+... on specific functional-form assumptions for trade costs ( Allen and Arkolakis 2022 ) or limiting parameter values ( Oberfield et al. 2024 ). In comparison, our method is typically more computationally intensive, because it involves Monte Carlo simulation. 2 But an advantage is that we...
+Abstract  
+Supplementary data
+Journal Article
+Revealed Beliefs and the Marriage Market Return to Education Open Access
+Alison Andrew and Abi Adams
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 2107–2162, https://doi.org/10.1093/qje/qjaf020
+Published: 15 April 2025
+... discrete-choice model with stochastic payoffs to a terminal action. The framework can capture the core features of Rajasthani parents’ decisions concerning the schooling and marriage of daughters. The framework also nests a large class of optimal-stopping problems and can be applied beyond this context. We...
+Abstract  
+Supplementary data
+Journal Article
+Putting Quantitative Models to the Test: An Application to the U.S.-China Trade War Purchased
+Rodrigo Adão and others
+The Quarterly Journal of Economics, Volume 140, Issue 2, May 2025, Pages 1471–1524, https://doi.org/10.1093/qje/qjae041
+Published: 29 November 2024
+... of f is to start from a considerably lower-dimensional, microfounded model where consumers maximize utility, typically of the nested constant elasticity of substitution (CES) form, firms maximize their profits, with production functions also typically of the nested CES form, and markets clear. 10...
+Abstract  
+Supplementary data
+Journal Article
+ACCEPTED MANUSCRIPT
+Complete Pass-Through in Levels Purchased
+Kunal Sangani
+The Quarterly Journal of Economics, qjag014, https://doi.org/10.1093/qje/qjag014
+Published: 25 February 2026
+... constant percentage markups in response to an industrywide cost shock. This applies to the standard constant elasticity of substitution (CES) preferences as well as to richer demand systems designed to account for incomplete pass-through, such as Kimball (1995) preferences, nested CES preferences (Atkeson...
+Abstract  
+Supplementary data
+Journal Article
+Population in Preindustrial England: An Econometric Analysis Purchased
+Ronald Lee
+The Quarterly Journal of Economics, Volume 87, Issue 4, November 1973, Pages 581–607, https://doi.org/10.2307/1882026
+Published: 01 November 1973
+... to changes in land, capital, or technology. A crude test for a steady shift may be 5. The estimated relation confounds the labor demand function 'and the short-run supply function. Thus, suppose that a single output Y is produced from inputs L (labor) and K (land and other nonlabor inputs) according...
+Abstract 
+Journal Article
+Schumpeter's History of Economic Analysis Purchased
+Lionel Robbins
+The Quarterly Journal of Economics, Volume 69, Issue 1, February 1955, Pages 1–22, https://doi.org/10.2307/1884847
+Published: 01 February 1955
+.... Cournot was certainly a highly talented man whose formulations of the demand function and the theory of monopoly were contributions of absolutely first class importance. But let us apply the good Aus- trian test of the so-called loss principle. Suppose the theoretical con- tributions of Ricardo...
+Abstract 
+Journal Article
+Corporate Control and Capitalism Purchased
+Shorey Peterson
+The Quarterly Journal of Economics, Volume 79, Issue 1, February 1965, Pages 1–24, https://doi.org/10.2307/1880509
+Published: 01 February 1965
+... people's money." Much later, but in like vein, D. H. Robertson thought it almost "Capitalism's Golden Rule" that "where the risk lies, there the control lies also," since, with this linking of functions, "the power of making decisions will be most wisely exercised" and "risk will be most bravely...
+Abstract
+Population in Preindustrial England: An Econometric Analysis Purchased
+Ronald Lee
+The Quarterly Journal of Economics, Volume 87, Issue 4, November 1973, Pages 581–607, https://doi.org/10.2307/1882026
+Published: 01 November 1973
+... to changes in land, capital, or technology. A crude test for a steady shift may be 5. The estimated relation confounds the labor demand function 'and the short-run supply function. Thus, suppose that a single output Y is produced from inputs L (labor) and K (land and other nonlabor inputs) according...
+Abstract 
+Journal Article
+Optimal Defaults and Active Decisions Purchased
+Gabriel D. Carroll and others
+The Quarterly Journal of Economics, Volume 124, Issue 4, November 2009, Pages 1639–1674, https://doi.org/10.1162/qjec.2009.124.4.1639
+Published: 01 November 2009
+... fund). But even a well-chosen de- fault may be undesirable if agents’ optimal choices are highly heterogeneous. For example, in a ﬁrm whose workforce includes young, cash-strapped single parents and older employees who need to quickly build a retirement nest egg, one 401(k) savings rate isn’t...
+Abstract 
+Journal Article
+ACCEPTED MANUSCRIPT
+Insuring peace: Index-based livestock insurance, droughts, and conflict Purchased
+Kai Gehring and Paul Schaudt
+The Quarterly Journal of Economics, qjag005, https://doi.org/10.1093/qje/qjag005
+Published: 02 February 2026
+... conventional livestock insurance is infeasible. IBLI triggers payouts for specific pre-defined index threshold conditions based on a livestock loss function (Chantarat et al. 2013), which is based on rangeland conditions that are proxied by the Natural Deviation in Vegetation Index (NDVI). Thus, it bypasses...
+Abstract  
+Supplementary data
+Journal Article
+Inference on Winners Purchased
+Isaiah Andrews and others
+The Quarterly Journal of Economics, Volume 139, Issue 1, February 2024, Pages 305–358, https://doi.org/10.1093/qje/qjad043
+Published: 18 September 2023
+... the problem of optimal selection, and more generally optimal ranking, from a decision-theoretic perspective, examining potential loss functions and recommending a nonparametric empirical Bayes approach. By contrast, our analysis takes the rule used to select the “winner” as given and conducts inference...
+Abstract  
+Supplementary data
+Journal Article
+Expectations as Endowments: Evidence on Reference-Dependent Preferences from Exchange and Valuation Experiments Purchased
+Keith M. Marzilli Ericson and Andreas Fuster
+The Quarterly Journal of Economics, Volume 126, Issue 4, November 2011, Pages 1879–1907, https://doi.org/10.1093/qje/qjr034
+Published: 25 October 2011
+... the properties of the Kahneman-Tversky value function. For simplicity, we follow Section IV of KR (2006) and assume μ to be a piecewise linear function with a kink at 0 that captures loss aversion: μ ( x ) = ηx for x > 0 and μ ( x...
+Abstract  
+Supplementary data
+Journal Article
+Ownership and Control in Outsourcing to China: Estimating the Property-Rights Theory of the Firm Purchased
+Robert C. Feenstra and Gordon H. Hanson
+The Quarterly Journal of Economics, Volume 120, Issue 2, May 2005, Pages 729–761, https://doi.org/10.1093/qje/120.2.729
+Published: 01 May 2005
+... linear function P (1 e1), P 0, 0 e1 1, so that more search effort e1 lowers the input price. The cost of input process- ⅐ Ϫ Ͼ Յ Յ ing in period 2 is given by A (1 e2), A 0, 0 e2 1, so that effort e2 devoted to processing lower costs...
+Abstract 
+Journal Article
+Coalitional Rationalizability Purchased
+Attila Ambrus
+The Quarterly Journal of Economics, Volume 121, Issue 3, August 2006, Pages 903–929, https://doi.org/10.1162/qjec.121.3.903
+Published: 01 August 2006
+... functions. Assume ʦ Ϫ ϭϫ ᭙ ʦ that Si is ﬁnite for every i I. Let S i jʦI/͕i͖Sj, i I, and let Ϫ ϭϫ ᭙ ʚ ʦ Ϫ ϭ S J jʦI/J Sj, J I. Similarly, for a generic s S, let s i ϫ ᭙ ʦ Ϫ ϭϫ ᭙ ʚ...
+Abstract 
+Journal Article
+Skilled Labor-Augmenting Technical Progress in U. S. Manufacturing Purchased
+James A. Kahn and Jong-Soo Lim
+The Quarterly Journal of Economics, Volume 113, Issue 4, November 1998, Pages 1281–1308, https://doi.org/10.1162/003355398555810
+Published: 01 November 1998
+... it At ), p e where Yit is value added, K it is structures plant K it is u equipment, N it is the employment of unskilled workers at the s ﬁrm, and N it the employment of skilled workers. In the second case, the production function...
+Abstract 
+Journal Article
+Systemic Discrimination: Theory and Measurement Open Access
+J Aislinn Bohren and others
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 1743–1799, https://doi.org/10.1093/qje/qjaf022
+Published: 01 May 2025
+... discrimination in other fields, how it nests common notions of discrimination in the economics literature, the sources of systemic discrimination, and the relationship between systemic and statistical discrimination. Second, this example highlights how it may be difficult to address such systemic forms...
+Abstract  
+Supplementary data
+Journal Article
+Hours and Wages Purchased
+Alexander Bick and others
+The Quarterly Journal of Economics, Volume 137, Issue 3, August 2022, Pages 1901–1962, https://doi.org/10.1093/qje/qjac005
+Published: 21 January 2022
+... a dynamic panel analysis of PSID data. The kinked relationship between earnings and hours plays a key role in generating both the concentration of hours at 40 and the nonmonotonicity in the wage-hours profile. Moreover, the large mass of people who are located at a kink in the earnings function are much...
+Abstract  
+Supplementary data
+Journal Article
+Present Bias Amplifies the Household Balance-Sheet Channels of Macroeconomic Policy Open Access
+Peter Maxted and others
+The Quarterly Journal of Economics, Volume 140, Issue 1, February 2025, Pages 691–743, https://doi.org/10.1093/qje/qjae026
+Published: 10 September 2024
+..., and they have the option to adjust their mortgage discretely. Introducing notation for these policy functions, let denote a household’s consumption policy in state . Mortgage adjustment consists of two nested decisions. First, conditional on adjustment the household chooses its new mortgage level...
+Abstract  
+Supplementary data
+Journal Article
+Diversification Through Trade Purchased
+Francesco Caselli and others
+The Quarterly Journal of Economics, Volume 135, Issue 1, February 2020, Pages 449–502, https://doi.org/10.1093/qje/qjz028
+Published: 19 September 2019
+...) in the utility function we can solve for the sectoral labor allocation: (5) $$\begin{equation} L_{nt}^{\,j}=\arg \max E_{t-1}\left[ \log \left( \frac{\sum _{j=1}^{\,J}w_{nt}^{\,j}L_{nt}^{\,j}}{P_{nt}}\right) \right] ,s.t.:\sum _{j=1}^{\,J}L_{nt}^{\,j}=L_{nt}, \end{equation}$$ where Et...
+Abstract 
+Journal Article
+Comparative Advantage and Optimal Trade Policy Purchased
+Arnaud Costinot and others
+The Quarterly Journal of Economics, Volume 130, Issue 2, May 2015, Pages 659–702, https://doi.org/10.1093/qje/qjv007
+Published: 03 February 2015
+... utility and arbitrary neoclassical production functions. In all extensions we demonstrate that our techniques remain well suited to analyzing optimal trade policy and show that our main insights are robust. Perhaps surprisingly, given the leap in generality, our main prediction—that optimal trade taxes...
+Abstract  
+Supplementary data
+Journal Article
+Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm Purchased
+Andrea Ichino and Giovanni Maggi
+The Quarterly Journal of Economics, Volume 115, Issue 3, August 2000, Pages 1057–1090, https://doi.org/10.1162/003355300554890
+Published: 01 August 2000
+... differential. In Section IV we present a stylized theoretical model that nests the four main candidate hypotheses. In Section V we present our analysis of the full sample of workers. In Section VI we present the analysis based on the subsample of movers. In Section VII we examine two more hypotheses...
+Abstract 
+Journal Article
+Consumption Commitments and Risk Preferences Purchased
+Raj Chetty and Adam Szeidl
+The Quarterly Journal of Economics, Volume 122, Issue 2, May 2007, Pages 831–877, https://doi.org/10.1162/qjec.122.2.831
+Published: 01 May 2007
+... at all times (food). Agents face wealth shocks after making a housing commitment. Under weak conditions, agents follow an (S,s) policy over housing: they move only if there is a large unexpected change in wealth. We focus on characterizing the value function over wealth for agents with a commitment...
+Abstract 
+Journal Article
+“The Nature and Significance of Economic Science” in Recent Discussion Purchased
+R. W. Souter
+The Quarterly Journal of Economics, Volume 47, Issue 3, May 1933, Pages 377–413, https://doi.org/10.2307/1883978
+Published: 01 May 1933
+... allowed themselves to be hypnotized by the mathematical apparatus of demand and supply functions, and the spurious compulsion, resulting from a basic lack of understanding of its significance in terms of reality, which this apparatus exercises over many minds. Assume a Crusoe economy in " stationary...
+Abstract 
+Journal Article
+Quantifying the Gap Between Equilibrium and Optimum under Monopolistic Competition Purchased
+Kristian Behrens and others
+The Quarterly Journal of Economics, Volume 135, Issue 4, November 2020, Pages 2299–2360, https://doi.org/10.1093/qje/qjaa017
+Published: 14 May 2020
+... the mass of workers in sector j, with . Firms can differ by productivity, within and between sectors. We denote by Gj the continuously differentiable cumulative distribution function from which firms draw their marginal labor requirement, m, after entering sector...
+Abstract  
+Supplementary data
+Journal Article
+Time-Inconsistent Preferences and Social Security Purchased
+Ayşe İmrohoroğlu and others
+The Quarterly Journal of Economics, Volume 118, Issue 2, May 2003, Pages 745–784, https://doi.org/10.1162/003355303321675509
+Published: 01 May 2003
+... preferences. In addition to incorporating quasi-hyperbolic discounting, our model nests the retrospective form of time inconsistency analyzed by Feldstein [1985] and extends his framework to include a wider range of beneﬁts and costs of social security. In order to examine the role of social security...
+Abstract 
+Journal Article
+Women's Liberation: What's in It for Men? Purchased
+Matthias Doepke and Michèle Tertilt
+The Quarterly Journal of Economics, Volume 124, Issue 4, November 2009, Pages 1541–1591, https://doi.org/10.1162/qjec.2009.124.4.1541
+Published: 01 November 2009
+... of the utilities of their sons Um and daughters U f . The utility function of an adult i with spouse −i is given by #2; #3; #5; + #5; #5; #5; Um U f (1) U (c , c− , n, U , U ) = u(c...
+Abstract 
+Journal Article
+Excess Volatility: Beyond Discount Rates Purchased
+Stefano Giglio and Bryan Kelly
+The Quarterly Journal of Economics, Volume 133, Issue 1, February 2018, Pages 71–127, https://doi.org/10.1093/qje/qjx034
+Published: 26 August 2017
+... yields, commodities, and inflation. We define as “standard” any model in which cash flows and asset prices are linear functions of common factors. This type of model is pervasive in financial economics because of its convenience in delivering closed-form pricing solutions in a wide range of valuation...
+Abstract  
+Supplementary data
+Does Social Security Privatization Produce Efficiency Gains? Purchased
+Shinichi Nishiyama and Kent Smetters
+The Quarterly Journal of Economics, Volume 122, Issue 4, November 2007, Pages 1677–1719, https://doi.org/10.1162/qjec.2007.122.4.1677
+Published: 01 November 2007
+... I t t t + , − τ w + − }≥ #2; , trLS,t(s)) trSS,t(s)) P,t( teh) trSS,t(s) c amin,t(s) a = 0ifi = 20, a ≥ 0ifi ≥ 65, where the utility function, ui takes the Cobb-Douglas form nested within a time-separable isoelastic...
+Abstract 
+Journal Article
+Ranking Firms Using Revealed Preference Purchased
+Isaac Sorkin
+The Quarterly Journal of Economics, Volume 133, Issue 3, August 2018, Pages 1331–1393, https://doi.org/10.1093/qje/qjy001
+Published: 17 January 2018
+.... 16 Figure I Change in Firm Pay Related to Probability of an Earnings Cut These figures show the probability of an earnings cut as a function of the change in firm-level pay for workers who switch annual dominant jobs. The earnings are the annualized earnings in the last year at the previous...
+Abstract  
+Supplementary data
+Journal Article
+Skill Purchased
+Anna Bezanson
+The Quarterly Journal of Economics, Volume 36, Issue 4, August 1922, Pages 626–645, https://doi.org/10.2307/1884754
+Published: 01 August 1922
+..., and has come down to us almost unharmed. But in places where nearly all furniture is made by hand, there is much monotonous weary work, without interest or initiative. Thus a visitor to the GrOdener Tal, in Tyrol, may find a nest of artists whose wooden statuary is sought for the adorn- ment...
+Abstract 
+Journal Article
+Risk, Returns, and Multinational Production Purchased
+José L. Fillat and Stefania Garetto
+The Quarterly Journal of Economics, Volume 130, Issue 4, November 2015, Pages 2027–2073, https://doi.org/10.1093/qje/qjv031
+Published: 04 September 2015
+.../exiting the market, which differs across firms. To generate heterogeneity in stock market returns, we nest the heterogeneous firms framework into an aggregate endowment economy, in the spirit of consumption-based asset pricing models à la Lucas (1978) . Risk-averse consumers own shares of the firms...
+Abstract  
+Supplementary data
+Journal Article
+EDITOR'S CHOICE
+The Rise of Market Power and the Macroeconomic Implications Purchased
+Jan De Loecker and others
+The Quarterly Journal of Economics, Volume 135, Issue 2, May 2020, Pages 561–644, https://doi.org/10.1093/qje/qjz041
+Published: 23 January 2020
+... of an increase in average market power, which can account for a number of secular trends in the past four decades, most notably the declining labor and capital shares as well as the decrease in labor market dynamism. Thriving competition between firms is a central tenet of a well-functioning economy...
+Abstract  
+Supplementary data
+Journal Article
+Expectations, Life Expectancy, and Economic Behavior Purchased
+Daniel S. Hamermesh
+The Quarterly Journal of Economics, Volume 100, Issue 2, May 1985, Pages 389–408, https://doi.org/10.2307/1885388
+Published: 01 May 1985
+... by broad occupation and education category. 8 B. Consistency of Shape As one method of examining . the shape of the subjective dis- tributions, we fit the Weibull survival function, 8. Data on mortality by occupation...
+Abstract 
+Journal Article
+Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence Purchased
+Santiago Hermo and others
+The Quarterly Journal of Economics, Volume 137, Issue 4, November 2022, Pages 2309–2361, https://doi.org/10.1093/qje/qjac022
+Published: 19 April 2022
+...(·) is a scalar-valued differentiable function that may vary over time, for example due to changes in production technology. In each period t, a worker i earns his marginal product wit, which is given by $$\begin{align*} w_{it} & =F_{t}\left(\mathbf {X}_{t}\right)-F_{t...
+Abstract  
+Supplementary data
+Journal Article
+Buffer-Stock Saving and the Life Cycle/Permanent Income Hypothesis Purchased
+Christopher D. Carroll
+The Quarterly Journal of Economics, Volume 112, Issue 1, February 1997, Pages 1–55, https://doi.org/10.1162/003355397555109
+Published: 01 February 1997
+... preference rate or to high expected income growth. 3. Prudence, in Kimball’s sense of having a utility function with a positive third derivative, is not by itself sufﬁcient to generate buffer-stock saving. The utility function must also exhibit Decreasing Absolute Prudence, as does the Con- stant...
+Abstract 
+Journal Article
+Estimating Cross-Country Differences in Product Quality* Purchased
+Juan Carlos Hallak and Peter K. Schott
+The Quarterly Journal of Economics, Volume 126, Issue 1, February 2011, Pages 417–474, https://doi.org/10.1093/qje/qjq003
+Published: 01 February 2011
+..., or select 2-digit SITC manufacturing industries. The theoretical framework presented here focuses on sector s . There are K countries, indexed by superscript k . Preferences are represented by a two-tier utility function that incorporates consumer love of variety. 8 The upper...
+Abstract  
+Supplementary data
+Journal Article
+Distortions in Production Networks Purchased
+Saki Bigio and Jennifer La’O
+The Quarterly Journal of Economics, Volume 135, Issue 4, November 2020, Pages 2187–2253, https://doi.org/10.1093/qje/qjaa018
+Published: 18 May 2020
+... to the equilibrium of the static, prototypical, representative firm, representative household economy à la Chari, Kehoe, and McGrattan (2007) . The equilibrium of the benchmark prototype economy is characterized by two equations: a constant-returns-to-scale aggregate production function and an intratemporal...
+Abstract  
+Supplementary data
+Journal Article
+Evidence on Job Search Models from a Survey of Unemployed Workers in Germany Purchased
+Stefano DellaVigna and others
+The Quarterly Journal of Economics, Volume 137, Issue 2, May 2022, Pages 1181–1232, https://doi.org/10.1093/qje/qjab039
+Published: 28 October 2021
+Abstract  
+Supplementary data
+Journal Article
+Negotiating a Better Future: How Interpersonal Skills Facilitate Intergenerational Investment Purchased
+Nava Ashraf and others
+The Quarterly Journal of Economics, Volume 135, Issue 2, May 2020, Pages 1095–1151, https://doi.org/10.1093/qje/qjz039
+Published: 09 January 2020
+.... Although girls in Zambia recognize the extent to which they are reliant on their parents, they may not realize the extent to which their parents’ utility is dependent on them. Thus, girls have a nascent form of power that is rarely emphasized. By influencing the household welfare function, girls have...
+Abstract  
+Supplementary data
+Journal Article
+Unionization and Productivity: Micro-Econometric Evidence Purchased
+Kim B. Clark
+The Quarterly Journal of Economics, Volume 95, Issue 4, December 1980, Pages 613–639, https://doi.org/10.2307/1885484
+Published: 01 December 1980
+... are found in Section V. I. AN ANALYTICAL FRAMEWORK The theoretical description of the production process used in this paper is quite simple. Output is treated as a function of capital and labor input, where capital is presumably adjusted for the effects of depreciation, and labor...
+Abstract 
+Journal Article
+Migration and Wage Effects of Taxing Top Earners: Evidence from the Foreigners’ Tax Scheme in Denmark Purchased
+Henrik Jacobsen Kleven and others
+The Quarterly Journal of Economics, Volume 129, Issue 1, February 2014, Pages 333–378, https://doi.org/10.1093/qje/qjt033
+Published: 11 December 2013
+... in the next section, this form of duration dependence creates a discrete jump in marginal lifetime tax liability with respect to duration of stay in Denmark at the three-year cutoff and hence a kink in the lifetime budget set as a function of duration. The scheme imposes three key...
+Abstract  
+Supplementary data
+Journal Article
+The Response of Drug Expenditure to Nonlinear Contract Design: Evidence from Medicare Part D Purchased
+Liran Einav and others
+The Quarterly Journal of Economics, Volume 130, Issue 2, May 2015, Pages 841–899, https://doi.org/10.1093/qje/qjv005
+Published: 08 February 2015
+... a function of a few crude demographics like sex. The bunching in response to the kink presumably reflects individuals forgoing or postponing prescriptions that they would otherwise have filled. 12 An attractive feature of our setting is that unlike in the classic labor supply setting...
+Abstract  
+Supplementary data
+Journal Article
+Take-Up and Targeting: Experimental Evidence from SNAP Purchased
+Amy Finkelstein and Matthew J Notowidigdo
+The Quarterly Journal of Economics, Volume 134, Issue 3, August 2019, Pages 1505–1556, https://doi.org/10.1093/qje/qjz013
+Published: 02 May 2019
+...). \end{align*} We assume a utilitarian social welfare function. Social welfare is therefore the sum of private welfare minus social costs. The social costs of the program include the “mechanical” program costs (B per applicant) and any fiscal externalities from individuals’ application choices...
+Abstract  
+Supplementary data
+Journal Article
+Organizational Structure and Pricing: Evidence from a Large U.S. Airline Purchased
+Ali Hortaçsu and others
+The Quarterly Journal of Economics, Volume 139, Issue 2, May 2024, Pages 1149–1199, https://doi.org/10.1093/qje/qjad051
+Published: 27 September 2023
+... the probability of a price change (0–1), conditional on the magnitude of the opportunity cost (OC) change. The probability is calculated as the fitted values of a logistic regression of a polynomial expansion of degree four of the change in OCs on an indicator function of the price changing. In Figure IV , Panel...
+Abstract  
+Supplementary data
+Journal Article
+Loss Aversion and Seller Behavior: Evidence from the Housing Market Purchased
+David Genesove and Christopher Mayer
+The Quarterly Journal of Economics, Volume 116, Issue 4, November 2001, Pages 1233–1260, https://doi.org/10.1162/003355301753265561
+Published: 01 November 2001
+... that there are three essential compo- nents that help explain how individuals make choices under uncertainty. First, gains and losses are examined relative to a reference point. Second, the value function is steeper for losses than for equivalently sized gains. Third, the marginal value of gains or losses...
+Abstract 
+Journal Article
+The Macro Effects of Unemployment Benefit Extensions: a Measurement Error Approach Purchased
+Gabriel Chodorow-Reich and others
+The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 227–279, https://doi.org/10.1093/qje/qjy018
+Published: 20 August 2018
+... and nonlinear functions of the unemployment rate measurement error. The responses of labor market variables remain similar to our baseline estimates, reflecting the fact that this aspect of the revision process contributes very little to the variation in the unemployment rate measurement error. Furthermore, we...
+Abstract  
+Supplementary data
+Journal Article
+Frédéric Le Play Purchased
+H. Higgs
+The Quarterly Journal of Economics, Volume 4, Issue 4, July 1890, Pages 408–433, https://doi.org/10.2307/1881745
+Published: 01 July 1890
+... the metalliferous mines; and they were delighted to learn from the director-generalof the Hartz mines that the technical processes of the work were only a secondary detail of his functions, his main duty being to look after the welfare of the operatives. "Cependant," says Le Play, "nons ne reusaimee point…
+Indebted Demand Purchased
+Atif Mian and others
+The Quarterly Journal of Economics, Volume 136, Issue 4, November 2021, Pages 2243–2307, https://doi.org/10.1093/qje/qjab007
+Published: 09 March 2021
+... bound. At that point, our economy is in a debt-driven liquidity trap, or debt trap, which is a well-defined stable steady state of our economy. The function v(a) represents a crucial aspect of this model. It characterizes the relationship between wealth of a dynasty and its saving rate...
+Abstract  
+Supplementary data
+Journal Article
+Evaluating Public Programs with Close Substitutes: The Case of Head Start Purchased
+Patrick Kline and Christopher R. Walters
+The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1795–1848, https://doi.org/10.1093/qje/qjw027
+Published: 11 July 2016
+... are identified and propose a two-step control function estimator that exploits heterogeneity in the response to Head Start offers across sites and demographic groups to infer relationships between unobserved factors driving preschool enrollment and potential outcomes. The estimator is shown to pass a variety...
+Abstract  
+Supplementary data
+Journal Article
+Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from the Labor Market Purchased
+David Card and others
+The Quarterly Journal of Economics, Volume 122, Issue 4, November 2007, Pages 1511–1560, https://doi.org/10.1162/qjec.2007.122.4.1511
+Published: 01 November 2007
+... of the 95% conﬁdence interval. We interpret our reduced-form ﬁndings through a job search model that nests several commonly used models of household be- havior. In particular, we construct a sample moment based on the relative effects of severance pay and beneﬁt extensions that can be used...
+Abstract 
+Journal Article
+Global Production with Export Platforms Purchased
+Felix Tintelnot
+The Quarterly Journal of Economics, Volume 132, Issue 1, February 2017, Pages 157–209, https://doi.org/10.1093/qje/qjw037
+Published: 13 October 2016
+... and obtain intuitive, closed-form expressions for the output at each of the firm's plants. A firm's output is a function of the locations of its plants, the productivity of each plant, the input costs in the plants’ host countries, and the market potential of the plants’ host countries. Furthermore...
+Abstract  
+Supplementary data
+Journal Article
+Revisiting the German Wage Structure Purchased
+Christian Dustmann and others
+The Quarterly Journal of Economics, Volume 124, Issue 2, May 2009, Pages 843–881, https://doi.org/10.1162/qjec.2009.124.2.843
+Published: 01 May 2009
+..., whereas the share of the high-skilled increased at a roughly linear rate from 4.7% in 1975 to 14.8% in 2004. Using a nested constant elasticity of substitution (CES) production framework based on that of Goldin and Katz (2007b, 2008), we show that ﬂuctuations in relative supply explain the evolution...
+Abstract  
+Supplementary data
+Journal Article
+Monopoly and the Distribution of Wealth Purchased
+William S. Comanor and Robert H. Smiley
+The Quarterly Journal of Economics, Volume 89, Issue 2, May 1975, Pages 177–194, https://doi.org/10.2307/1884423
+Published: 01 May 1975
+.... As a result, these households probably have made a larger share of excess payments due to monopoly than is accounted for by these estimates. 17. Franco Modigliani and Richard Brumberg, "Utility Analysis and the Consumption Function: An Interpretation of Cross-Section Data," Post- Keynesian...
+Abstract 
+Journal Article
+Natural Selection and the Origin of Economic Growth Purchased
+Oded Galor and Omer Moav
+The Quarterly Journal of Economics, Volume 117, Issue 4, November 2002, Pages 1133–1191, https://doi.org/10.1162/003355302320935007
+Published: 01 November 2002
+...-1870 rose to an annual rate of 1.0 percent, along with an impressive increase in education.' During this time in- terval, the Malthusian mechanism linking higher income to higher population growth continued to function. Fertility rates increased in most of Western Europe until the second half...
+Abstract 
+Journal Article
+Debt Maturity Structure and Liquidity Risk Purchased
+Douglas W. Diamond
+The Quarterly Journal of Economics, Volume 106, Issue 3, August 1991, Pages 709–737, https://doi.org/10.2307/2937924
+Published: 01 August 1991
+... p dvd]is p u. lenders, implies that r1 = [R — Section V nests the various short- and long-term alternatives in a single model, by viewing the maturity structure choice as 5. The old lenders can be the same people as the new lenders. 716 QUARTERLY JOURNAL OF ECONOMICS...
+Abstract 
+Journal Article
+Can Falling Supply Explain the Rising Return to College for Younger Men? A Cohort-Based Analysis Purchased
+David Card and Thomas Lemieux
+The Quarterly Journal of Economics, Volume 116, Issue 2, May 2001, Pages 705–746, https://doi.org/10.1162/00335530151144140
+Published: 01 May 2001
+... FIGURE I Estimated College-High School Wage Differentials for Younger and Older Men CAN FALLING SUPPLY EXPLAIN THE RISING RETURN? 707 capital earnings function.2 Currently, however, the college pre- mium is highest for men in their early thirties. As shown in the other panels...
+Abstract 
+Journal Article
+Movers and Shakers Purchased
+Robert Akerlof and Richard Holden
+The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1849–1874, https://doi.org/10.1093/qje/qjw021
+Published: 12 June 2016
+... of which is entrepreneurship. Founding a business often requires moving and shaking. One can think of real estate developers such as Zeckendorf as a type of entrepreneur. A number of ideas have been advanced regarding entrepreneurs’ function. Schumpeter...
+Abstract  
+Supplementary data
+Journal Article
+Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Unobservables Purchased
+Stacy Berg Dale and Alan B. Krueger
+The Quarterly Journal of Economics, Volume 117, Issue 4, November 2002, Pages 1491–1527, https://doi.org/10.1162/003355302320935089
+Published: 01 November 2002
+... of the schools to which each student applied, as well as the average SAT score of the school the student actually attended, the student's own SAT score, and other variables. The second ap- proach is nested in the first estimator. Conditions under which these estimators provide unbiased estimates...
+Abstract 
+Journal Article
+Inflation Dynamics and Time-Varying Volatility: New Evidence and an Ss Interpretation Purchased
+Joseph Vavra
+The Quarterly Journal of Economics, Volume 129, Issue 1, February 2014, Pages 215–258, https://doi.org/10.1093/qje/qjt027
+Published: 26 September 2013
+.... In particular, it assumes a particularly simple aggregate shock process, which means the model generates price change dispersion that is moderately too countercyclical and fails to generate hump-shaped impulse response functions (IRFs). However, I enrich the aggregate shock process and show that the insights...
+Abstract  
+Supplementary data
+Journal Article
+The Evolution of Market Power in the U.S. Automobile Industry Purchased
+Paul L E Grieco and others
+The Quarterly Journal of Economics, Volume 139, Issue 2, May 2024, Pages 1201–1253, https://doi.org/10.1093/qje/qjad047
+Published: 18 September 2023
+... to these papers, this article uses household-level data on purchases, demographics, and second choices to estimate a demand specification with rich heterogeneity and employs standard instrumental variable identification strategies. This study also compares its markup estimates with production function–based...
+Abstract  
+Supplementary data
+Journal Article
+ACCEPTED MANUSCRIPT
+Disaggregated Economic Accounts Open Access
+Asger Andersen and others
+The Quarterly Journal of Economics, qjag010, https://doi.org/10.1093/qje/qjag010
+Published: 11 February 2026
+Abstract  
+Supplementary data
+Journal Article
+Genetic Variation in Preferences for Giving and Risk Taking Purchased
+David Cesarini and others
+The Quarterly Journal of Economics, Volume 124, Issue 2, May 2009, Pages 809–842, https://doi.org/10.1162/qjec.2009.124.2.809
+Published: 01 May 2009
+... correlations. Such an examination serves two purposes. A number of authors (Loehlin 1965; Goldberger 1977, 1979), have noted that moving from a crude comparison of correlations to a full-ﬂedged variance decomposition requires making some strong independence and functional form assumptions. A ﬁrst purpose...
+Abstract  
+Supplementary data
+Journal Article
+A Theory of Fairness, Competition, and Cooperation Purchased
+Ernst Fehr and Klaus M. Schmidt
+The Quarterly Journal of Economics, Volume 114, Issue 3, August 1999, Pages 817–868, https://doi.org/10.1162/003355399556151
+Published: 01 August 1999
+... outcomes that differ in the distribution of payoffs between the subject and a comparison person. On the basis of these ordinal rankings, the authors estimate how relative material payoffs enter the person’s utility function. The results show that subjects exhibit a strong...
+Abstract 
+Journal Article
+The Brookings Inquiry into Income Distribution and Progress Purchased
+Arthur F. Burns
+The Quarterly Journal of Economics, Volume 50, Issue 3, May 1936, Pages 476–523, https://doi.org/10.2307/1882613
+Published: 01 May 1936
+... to be an instance where the rule requiring adjustment for seasonality is not applied. Another serious shortcoming of the assumptions that underlie the Brookings estimates is their lack of theoretical unity. These assumptions, as we have already shown, pre- suppose the price system as it now functions...
+Journal Article
+Are Durable Goods Consumers Forward-Looking? Evidence from College Textbooks Purchased
+Judith Chevalier and Austan Goolsbee
+The Quarterly Journal of Economics, Volume 124, Issue 4, November 2009, Pages 1853–1884, https://doi.org/10.1162/qjec.2009.124.4.1853
+Published: 01 November 2009
+... in market m are #2; j = Pj D(Nm, Lj , Pj , P− j , L− j ) − C(Lj , D where D refers to the demand function, P is the price chosen for the textbook, L is the quality, and P− j and L− j are the prices and qualities of other textbooks currently existing in the market. Nm is the aggregate number...
+Abstract 
+Journal Article
+Household Time Use among Older Couples: Evidence and Implications for Labor Supply Parameters Purchased
+Richard Rogerson and Johanna Wallenius
+The Quarterly Journal of Economics, Volume 134, Issue 2, May 2019, Pages 1079–1120, https://doi.org/10.1093/qje/qjy032
+Published: 05 December 2018
+... a single budget equation and a home production function in which the two time inputs are imperfectly substitutable. We derive a relationship that links relative changes in home production and leisure time of the two members to two key elasticity parameters: the elasticity of substitution between the two...
+Abstract  
+Supplementary data
+Journal Article
+Memory and Probability Purchased
+Pedro Bordalo and others
+The Quarterly Journal of Economics, Volume 138, Issue 1, February 2023, Pages 265–311, https://doi.org/10.1093/qje/qjac031
+Published: 29 August 2022
+...-dependent similarity function ( Tversky 1977 ), meaning that the similarity of an experience to a hypothesis is higher if that experience is less likely in alternative hypotheses. We use a standard similarity function and obtain this effect as a special case of the broader role of interference in recall...
+Abstract  
+Supplementary data
+Memory and Probability Purchased
+Pedro Bordalo and others
+The Quarterly Journal of Economics, Volume 138, Issue 1, February 2023, Pages 265–311, https://doi.org/10.1093/qje/qjac031
+Published: 29 August 2022
+...-dependent similarity function ( Tversky 1977 ), meaning that the similarity of an experience to a hypothesis is higher if that experience is less likely in alternative hypotheses. We use a standard similarity function and obtain this effect as a special case of the broader role of interference in recall...
+Abstract  
+Supplementary data
+Journal Article
+EDITOR'S CHOICE
+When Should You Adjust Standard Errors for Clustering? Purchased
+Alberto Abadie and others
+The Quarterly Journal of Economics, Volume 138, Issue 1, February 2023, Pages 1–35, https://doi.org/10.1093/qje/qjac038
+Published: 06 October 2022
+... errors. In this article, we develop a new framework for cluster adjustments to standard errors that nests the clustered sampling framework (e.g., Arellano 1987 ) as a limiting case. The new framework suggests novel standard error formulas that can substantially improve over robust and cluster standard...
+Abstract  
+Supplementary data
+Journal Article
+Relational Contracts and the Theory of the Firm Purchased
+George Baker and others
+The Quarterly Journal of Economics, Volume 117, Issue 1, February 2002, Pages 39–84, https://doi.org/10.1162/003355302753399445
+Published: 01 February 2002
+...: the vector of ϭ actions has two components, a (a1,a2), and the production functions q(a) and p(a) are q͑a͒ ϭ q1a1 ϩ q2a2, and p͑a͒ ϭ p1a1 ϩ p2a2, Ն where q1, q2, p1, p2 0. This example nests...
+Abstract 
+Journal Article
+Insurance Versus Moral Hazard in Income-Contingent Student Loan Repayment Purchased
+Tim de Silva
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2851–2905, https://doi.org/10.1093/qje/qjaf036
+Published: 04 August 2025
+... are not immediately generalizable to the United States. Online Appendix A.3 discusses which differences are most likely to influence the effectiveness of income-contingent repayment in the United States. In addition to the presence of administrative data, policy variation, and a repayment function that generates...
+Abstract  
+Supplementary data
+Journal Article
+Bottom-Up Markup Fluctuations Open Access
+Ariel T Burstein and others
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2619–2684, https://doi.org/10.1093/qje/qjaf029
+Published: 19 June 2025
+... of the cyclical properties of markups in the French data at the firm, sector, and aggregate levels. To model in a tractable way the determination and aggregation of markups in an economy featuring a large but finite number of sectors with a discrete number of firms, we use a nested constant elasticity...
+Abstract  
+Supplementary data
+Journal Article
+Marriage Institutions and Sibling Competition: Evidence from South Asia* Purchased
+Tom S. Vogl
+The Quarterly Journal of Economics, Volume 128, Issue 3, August 2013, Pages 1017–1072, https://doi.org/10.1093/qje/qjt011
+Published: 04 July 2013
+... of the empirical application focuses on the effect of having a younger sister on marriage outcomes. Because the transition function for an elder daughter differs from that of an only daughter solely through the cost of delaying a younger sister, we gain insight into comparative statics on the younger sister effect...
+Abstract  
+Supplementary data
+Journal Article
+News Shocks in Open Economies: Evidence from Giant Oil Discoveries Purchased
+Rabah Arezki and others
+The Quarterly Journal of Economics, Volume 132, Issue 1, February 2017, Pages 103–155, https://doi.org/10.1093/qje/qjw030
+Published: 13 November 2016
+.... 4 There are two sectors in the economy: an oil sector and a nonoil sector. The nonoil goods sector uses capital, K1, and labor, N1, with a constant returns to scale Cobb-Douglas production function of their inputs: (2) \begin{equation} {Y_{1,t...
+Abstract  
+Supplementary data
+Journal Article
+Computing Inequality: Have Computers Changed the Labor Market? Purchased
+David H. Autor and others
+The Quarterly Journal of Economics, Volume 113, Issue 4, November 1998, Pages 1169–1213, https://doi.org/10.1162/003355398555874
+Published: 01 November 1998
+... of changes in the relative wages and relative quantities by education from 1940 to 1996. We use a simple two-factor framework in which we assume an inelastic (predetermined) short-run relative supply function and a downward sloping relative demand function. Information on changes in the log ratio...
+Abstract 
+Journal Article
+The Growing Importance of Social Skills in the Labor Market Purchased
+David J. Deming
+The Quarterly Journal of Economics, Volume 132, Issue 4, November 2017, Pages 1593–1640, https://doi.org/10.1093/qje/qjx022
+Published: 06 June 2017
+...\right)l_{j}\left(i\right), \end{equation} where yj(i) specifies the production function for task i as worker j’s cognitive skill Aj (still taking the factor-augmenting form) times a task-specific productivity parameter...
+Abstract  
+Supplementary data
+Journal Article
+The Assessment Gap: Racial Inequalities in Property Taxation Purchased
+Carlos F Avenancio-León and Troup Howard
+The Quarterly Journal of Economics, Volume 137, Issue 3, August 2022, Pages 1383–1434, https://doi.org/10.1093/qje/qjac009
+Published: 04 February 2022
+... a jurisdiction. The fact that spatial inequality lands disproportionately on minority residents is a function of residential segregation—Black and Hispanic residents face, on average, different neighborhood characteristics than white residents ( Massey and Denton 1993 ; Cutler, Glaeser, and Vigdor 1999...
+Abstract  
+Supplementary data
+Journal Article
+Forward and Spot Exchange Rates in a Multi-Currency World Purchased
+Tarek A Hassan and Rui C Mano
+The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 397–450, https://doi.org/10.1093/qje/qjy026
+Published: 25 October 2018
+... the same source and forward premia calculated using covered interest parity from interbank interest rate data, which are available for longer time horizons for some currencies. Our data set nests the data used in recent studies on currency returns, including Lustig, Roussanov, and Verdelhan (2011...
+Abstract  
+Supplementary data
+Journal Article
+Supply Chain Disruptions: Evidence from the Great East Japan Earthquake Purchased
+Vasco M Carvalho and others
+The Quarterly Journal of Economics, Volume 136, Issue 2, May 2021, Pages 1255–1321, https://doi.org/10.1093/qje/qjaa044
+Published: 10 December 2020
+... then outline a general equilibrium model of production networks in the spirit of Long and Plosser (1983) and Acemoglu et al. (2012) to theoretically capture the role of interfirm linkages as a shock propagation mechanism. In the model, firms use a nested constant-elasticity-of-substitution (CES) production...
+Abstract 
+Journal Article
+International Trade Puzzles: A Solution Linking Production and Preferences Purchased
+Justin Caron and others
+The Quarterly Journal of Economics, Volume 129, Issue 3, August 2014, Pages 1501–1552, https://doi.org/10.1093/qje/qju010
+Published: 09 May 2014
+... the same role as the “inward multilateral trade resistance index” as in Anderson and van Wincoop (2003) : (8) This is actually closely related to the price index, as in Eaton and Kortum (2002) : (9) with where Γ denotes the gamma function. 9 Finally, two other market clearing...
+Abstract  
+Supplementary data
+Journal Article
+Investment and Demand Uncertainty Purchased
+Luigi Guiso and Giuseppe Parigi
+The Quarterly Journal of Economics, Volume 114, Issue 1, February 1999, Pages 185–227, https://doi.org/10.1162/003355399555981
+Published: 01 February 1999
+...-neutral competitive ﬁrm. Given constant returns to scale in production, the marginal value product of capital is a convex function of the uncertain price faced by the ﬁrm, so that by Jensen inequality greater uncertainty raises the marginal valuation of one...
+Abstract 
+Journal Article
+Private School Vouchers and Student Achievement: An Evaluation of the Milwaukee Parental Choice Program Purchased
+Cecilia Elena Rouse
+The Quarterly Journal of Economics, Volume 113, Issue 2, May 1998, Pages 553–602, https://doi.org/10.1162/003355398555685
+Published: 01 May 1998
+... similar. Given a (within-sample) standard deviation of about nineteen percentile points on the math test, this suggests effect sizes on the order of 0.08␴–0.12␴ per year, or 0.32␴–0.48␴ over four years, which are quite large for education production functions. I do not estimate statistically...
+Abstract 
+Journal Article
+School Choice with Consent Purchased
+Onur Kesten
+The Quarterly Journal of Economics, Volume 125, Issue 3, August 2010, Pages 1297–1348, https://doi.org/10.1162/qjec.2010.125.3.1297
+Published: 01 August 2010
+... in any given school choice problem and neutralizing their adverse effect on the outcome. Such a task becomes rather cumbersome and challenging as the problem size gets large, because the DA algorithm may then contain multiple chains nested in one another. Interestingly, for example, 8...
+Abstract 
+Journal Article
+Do Liquidation Values Affect Financial Contracts? Evidence from Commercial Loan Contracts and Zoning Regulation Purchased
+Efraim Benmelech and others
+The Quarterly Journal of Economics, Volume 120, Issue 3, August 2005, Pages 1121–1154, https://doi.org/10.1093/qje/120.3.1121
+Published: 01 August 2005
+... historic districts, we interact our redeployability measure with the historic designation and ﬁnd that redeployabil- ity has an even greater effect on loan terms in historic areas. Finally, since the current price of the property should be a function of liquidation value, we also show that more...
+Abstract 
+Journal Article
+The Demand for Monitoring Technologies: The Case of Trucking Purchased
+Thomas N. Hubbard
+The Quarterly Journal of Economics, Volume 115, Issue 2, May 2000, Pages 533–560, https://doi.org/10.1162/003355300554845
+Published: 01 May 2000
+... are principal- agent relationships. Drivers maximize utility, which is a decreas- ing function of effort and an increasing function of income and nonpecuniary beneﬁts. Carriers maximize proﬁts. Drivers affect when they arrive at destinations and the cost of the haul by how they operate trucks. Costs...
+Abstract 
+Journal Article
+Globalization, Trade Imbalances, and Labor Market Adjustment Purchased
+Rafael Dix-Carneiro and others
+The Quarterly Journal of Economics, Volume 138, Issue 2, May 2023, Pages 1109–1171, https://doi.org/10.1093/qje/qjac043
+Published: 02 January 2023
+... rate as . Both variables are expressed as a fraction of the labor force , measured as the sum of employed and unemployed workers in sector k in country i at time t. In every period, the fraction of the labor force that matches with a firm is determined by a function...
+Abstract  
+Supplementary data
+Journal Article
+Choosing How to Choose: Self-Stable Majority Rules and Constitutions Purchased
+Salvador Barbera and Matthew O. Jackson
+The Quarterly Journal of Economics, Volume 119, Issue 3, August 2004, Pages 1011–1048, https://doi.org/10.1162/0033553041502207
+Published: 01 August 2004
+... in cases where simple majority would not be. Koray [2000] is an important predecessor to ours on the subject of a choice of voting rules. Koray outlines a method for viewing social choice functions themselves as alternatives, so that one can ask whether a social choice function always selects...
+Abstract
+The Liquidity Premium of Near-Money Assets* Purchased
+Stefan Nagel
+The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1927–1971, https://doi.org/10.1093/qje/qjw028
+Published: 11 July 2016
+... into the felicity function in equation (1) . Furthermore, because the model does not feature any intermediation frictions, one can abstract from institutional details of how liquid assets are held by households. For example, households’ T-bill holdings do not necessarily have to represent direct holdings. One...
+Abstract  
+Supplementary data
+Journal Article
+The Impact of Public School Choice: Evidence from Los Angeles’s Zones of Choice Purchased
+Christopher Campos and Caitlin Kearns
+The Quarterly Journal of Economics, Volume 139, Issue 2, May 2024, Pages 1051–1093, https://doi.org/10.1093/qje/qjad052
+Published: 10 October 2023
+... learning that directly affects test scores. Last, we assume that school quality is an increasing concave function of the level of effort ej, αj = f(ej). The continuing exodus of students from the district and increasing community pressure...
+Abstract  
+Supplementary data
+Journal Article
+Labor Supply Shocks, Native Wages, and the Adjustment of Local Employment Purchased
+Christian Dustmann and others
+The Quarterly Journal of Economics, Volume 132, Issue 1, February 2017, Pages 435–483, https://doi.org/10.1093/qje/qjw032
+Published: 10 October 2016
+... functions than equation (1) , such as functions that distinguish many skill groups (see, e.g., Dustmann, Frattini, and Preston 2013 ) or allow for a third nest within skill groups (see, e.g., Card and Lemieux 2001 ; Borjas 2003 ). From the labor supply function ( 3 ), it follows that (4) \begin...
+Abstract  
+Supplementary data
+Journal Article
+Investing in Infants: the Lasting Effects of Cash Transfers to New Families Purchased
+Andrew Barr and others
+The Quarterly Journal of Economics, Volume 137, Issue 4, November 2022, Pages 2539–2583, https://doi.org/10.1093/qje/qjac023
+Published: 20 April 2022
+Abstract  
+Supplementary data
+Journal Article
+Sources of Geographic Variation in Health Care: Evidence From Patient Migration Purchased
+Amy Finkelstein and others
+The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1681–1726, https://doi.org/10.1093/qje/qjw023
+Published: 19 July 2016
+... marginal costs P C ′ ( ) . Each of these nests a variety of factors that have been fleshed out in more detail in the literature. For example, differences in u ˜ ′ ( ) capture heterogeneous beliefs about appropriate or effective treatment, such as the “cowboy” or “comforter...
+Abstract  
+Supplementary data
+Journal Article
+National Institutions and Subnational Development in Africa Purchased
+Stelios Michalopoulos and Elias Papaioannou
+The Quarterly Journal of Economics, Volume 129, Issue 1, February 2014, Pages 151–213, https://doi.org/10.1093/qje/qjt029
+Published: 19 December 2013
+... (mainly regarding the role of local chiefs) endured after independence and had long-lasting effects. Our research nests and advances over several strands of the literature that examine the political economy of contemporary comparative development. First, an influential body of research asserts...
+Abstract  
+Supplementary data
+Journal Article
+The Global Race for Talent: Brain Drain, Knowledge Transfer, and Growth Purchased
+Marta Prato
+The Quarterly Journal of Economics, Volume 140, Issue 1, February 2025, Pages 165–238, https://doi.org/10.1093/qje/qjae040
+Published: 28 November 2024
+... production function . The evolution of talent, z, is endogenous due to interactions and learning, so I denote as the endogenous distribution of innovation bundles produced at time t. Inventors can improve their initial talent level, z, by learning from other inventors...
+Abstract  
+Supplementary data
+Journal Article
+Preference for the Workplace, Investment in Human Capital, and Gender Purchased
+Matthew Wiswall and Basit Zafar
+The Quarterly Journal of Economics, Volume 133, Issue 1, February 2018, Pages 457–507, https://doi.org/10.1093/qje/qjx035
+Published: 26 August 2017
+... of the K job characteristics. The X vector of job characteristics is described below and we consider several different functional forms. We assume beliefs about future job utility Hi(·) in equation...
+Abstract  
+Supplementary data
+Journal Article
+The Political Economy of Deforestation in the Tropics* Purchased
+Robin Burgess and others
+The Quarterly Journal of Economics, Volume 127, Issue 4, November 2012, Pages 1707–1754, https://doi.org/10.1093/qje/qjs034
+Published: 19 November 2012
+... concessions), and the Conservation and Protection zones (where all logging is strictly illegal). To interpret the empirical results, it is useful to derive a more explicit formula for the relationship between the quantity of deforestation and the number of districts. To do so, we need to posit a functional...
+Abstract  
+Supplementary data
+Journal Article
+The Illusion of Sustainability Purchased
+Michael Kremer and Edward Miguel
+The Quarterly Journal of Economics, Volume 122, Issue 3, August 2007, Pages 1007–1065, https://doi.org/10.1162/qjec.122.3.1007
+Published: 01 August 2007
+... the drugs. The model nests four types of peer effects proposed in the existing literature. Others’ adoption can (i) inﬂuence own adoption through the disease en- vironment, (ii) directly enter the utility function through a pure imitation effect, (iii) provide information about how to effectively use...
+Abstract 
+Journal Article
+The Political Economy of Hatred Purchased
+Edward L. Glaeser
+The Quarterly Journal of Economics, Volume 120, Issue 1, February 2005, Pages 45–86, https://doi.org/10.1162/0033553053327434
+Published: 01 February 2005
+... of search, s, differs among members of the in-group. The distribution of s is characterized by density function h(s) and cumulative distribution H(s). The beneﬁts of learning the truth will check politicians’ ability to spread lies about the out-group (all propositions are proved in the Appendix...
+Abstract 
+Journal Article
+Dominant Currencies: How Firms Choose Currency Invoicing and Why it Matters Purchased
+Mary Amiti and others
+The Quarterly Journal of Economics, Volume 137, Issue 3, August 2022, Pages 1435–1493, https://doi.org/10.1093/qje/qjac004
+Published: 21 January 2022
+...-order approximation to the general profit function Πi(·), the optimal currency choice in equation (3) is equivalent to  , minimizing the variance of the desired price expressed in currency ℓ,  . The optimal currency of pricing ℓ ensures the minimal variation in the desired...
+Abstract  
+Supplementary data
+Journal Article
+Worker Beliefs About Outside Options Purchased
+Simon Jäger and others
+The Quarterly Journal of Economics, Volume 139, Issue 3, August 2024, Pages 1505–1556, https://doi.org/10.1093/qje/qjae001
+Published: 10 January 2024
+Abstract  
+Supplementary data
+Journal Article
+EDITOR'S CHOICE
+A Unified Welfare Analysis of Government Policies Open Access
+Nathaniel Hendren and Ben Sprung-Keyser
+The Quarterly Journal of Economics, Volume 135, Issue 3, August 2020, Pages 1209–1318, https://doi.org/10.1093/qje/qjaa006
+Published: 05 March 2020
+... to measure the welfare impact of a government policy change under consideration. We define social welfare, W, by the weighted sum of individual utilities, $$\begin{equation*} W=\sum _{i}\psi _{i}U_{i}, \end{equation*}$$ where Ui is individual i’s utility function...
+Abstract  
+Supplementary data
+Journal Article
+International and Domestic Commodities and the Theory of Prices Purchased
+L. B. Zapoleon
+The Quarterly Journal of Economics, Volume 45, Issue 3, May 1931, Pages 409–459, https://doi.org/10.2307/1883898
+Published: 01 May 1931
+... of the markets, particularly in the staple products. The sys- tem of distribution does not function smoothly. More important are the disturbances in transportation, cor- ners, cartels, dumping, price-fixing agreements, and quarantines, and a variety of other obstructions to the free play of the price...
+Abstract 
+Journal Article
+How do Different Exporters React to Exchange Rate Changes? Purchased
+Nicolas Berman and others
+The Quarterly Journal of Economics, Volume 127, Issue 1, February 2012, Pages 437–492, https://doi.org/10.1093/qje/qjr057
+Published: 19 January 2012
+.... This endogenous and heterogeneous pricing-to-market property of the Melitz and Ottaviano (2008) model is shown in Appendix I . Atkeson and Burstein (2008) provide a model with Cournot competitors, faced with a nested CES demand over several sectors. Critically, they assume that the elasticity of substitution...
+Abstract  
+Supplementary data
+Journal Article
+Better Schools, Less Crime? Purchased
+David J. Deming
+The Quarterly Journal of Economics, Volume 126, Issue 4, November 2011, Pages 2063–2115, https://doi.org/10.1093/qje/qjr036
+Published: 11 October 2011
+..., increased school quality would reduce crime absent any impact of changing peer composition. I show that the net effect of school choice was to distribute high-risk youth more evenly across schools than what would have happened with neighborhood school assignment. Available evidence on the functional form...
+Abstract  
+Supplementary data
+Journal Article
+The Macroeconomic Consequences of Exchange Rate Depreciations Purchased
+Masao Fukui and others
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 3015–3065, https://doi.org/10.1093/qje/qjaf039
+Published: 06 October 2025
+... rate variation, the relative response of all macroeconomic outcomes (output, consumption, net exports, etc.) for peggers versus floaters are functions only of the relative response of the real interest rate and the real exchange rate. In other words, the relative response of real interest rates...
+Abstract  
+Supplementary data
+Journal Article
+Do You Know that I Know that You Know…? Higher-Order Beliefs in Survey Data Purchased
+Olivier Coibion and others
+The Quarterly Journal of Economics, Volume 136, Issue 3, August 2021, Pages 1387–1446, https://doi.org/10.1093/qje/qjab005
+Published: 30 January 2021
+Abstract  
+Supplementary data
+Journal Article
+Stories, Statistics, and Memory Open Access
+Thomas Graeber and others
+The Quarterly Journal of Economics, Volume 139, Issue 4, November 2024, Pages 2181–2225, https://doi.org/10.1093/qje/qjae020
+Published: 11 June 2024
+... is and the stated belief is . The ignorance belief is denoted by . We define a general updating rule as a function taking the ignorance belief and an information set I and yielding a posterior belief . We assume that if the DM does not have access to additional information, the posterior...
+Abstract  
+Supplementary data
+Wealth Taxation and Wealth Accumulation: Theory and Evidence From Denmark Purchased
+Katrine Jakobsen and others
+The Quarterly Journal of Economics, Volume 135, Issue 1, February 2020, Pages 329–388, https://doi.org/10.1093/qje/qjz032
+Published: 09 October 2019
+Abstract  
+Supplementary data
+Journal Article
+Sequential Bargaining in the Field: Evidence from Millions of Online Bargaining Interactions Purchased
+Matthew Backus and others
+The Quarterly Journal of Economics, Volume 135, Issue 3, August 2020, Pages 1319–1361, https://doi.org/10.1093/qje/qjaa003
+Published: 03 February 2020
+Abstract  
+Supplementary data
+Journal Article
+Land Security and Mobility Frictions Open Access
+Tasso Adamopoulos and others
+The Quarterly Journal of Economics, Volume 139, Issue 3, August 2024, Pages 1941–1987, https://doi.org/10.1093/qje/qjae010
+Published: 20 March 2024
+... of land insecurity versus a catchall of other labor-mobility barriers in a rich, empirically grounded model that nests individual and family selection. The rare individual and household micro-level data we have for China facilitate this investigation, the identification of the two types of barriers...
+Abstract  
+Supplementary data
+Journal Article
+Do Higher Prices for New Goods Reflect Quality Growth or Inflation? Purchased
+Mark Bils
+The Quarterly Journal of Economics, Volume 124, Issue 2, May 2009, Pages 637–675, https://doi.org/10.1162/qjec.2009.124.2.637
+Published: 01 May 2009
+Abstract 
+Journal Article
+Mortality Effects and Choice Across Private Health Insurance Plans Purchased
+Jason Abaluck and others
+The Quarterly Journal of Economics, Volume 136, Issue 3, August 2021, Pages 1557–1610, https://doi.org/10.1093/qje/qjab017
+Published: 06 May 2021
+Abstract  
+Supplementary data
+Journal Article
+How Americans Respond to Idiosyncratic and Exogenous Changes in Household Wealth and Unearned Income Purchased
+Mikhail Golosov and others
+The Quarterly Journal of Economics, Volume 139, Issue 2, May 2024, Pages 1321–1395, https://doi.org/10.1093/qje/qjad053
+Published: 23 October 2023
+... studies use variation in take-home pay that arises either from tax reforms or from changes in observed earnings or wages. However, it is often not clear that these changes allow one to separately identify income and substitution effects without strong assumptions on functional form and the distribution...
+Abstract  
+Supplementary data
+Journal Article
+ACCEPTED MANUSCRIPT
+The Future in Mind: Aspirations and Long-Term Outcomes in Rural Ethiopia Purchased
+Tanguy Bernard and others
+The Quarterly Journal of Economics, qjag002, https://doi.org/10.1093/qje/qjag002
+Published: 19 January 2026
+Abstract  
+Supplementary data
+Journal Article
+The Diffusion of New Technologies Purchased
+Aakash Kalyani and others
+The Quarterly Journal of Economics, Volume 140, Issue 2, May 2025, Pages 1299–1365, https://doi.org/10.1093/qje/qjaf002
+Published: 17 January 2025
+..., Natraj, and Van Reenen 2014 ; Song et al. 2019 ). The nearly universal approach in this literature is to infer an increase in the demand for skilled labor over time from changes in observed wage differentials—in effect, documenting a change in the economy's aggregate production function. Our work...
+Abstract  
+Supplementary data

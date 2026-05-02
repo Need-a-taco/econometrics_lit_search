@@ -1,0 +1,1330 @@
+﻿Revisiting Event-Study Designs: Robust and Efficient Estimation Open Access
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3253–3285, https://doi.org/10.1093/restud/rdae007
+Published: 06 February 2024
+... propensity to consume is between 8 and 11% in the first quarter—about half as large as benchmark estimates used to calibrate macroeconomic models—and predominantly occurs in the first month after the rebate. Difference-in-differences Efficiency Marginal propensity to consume Event studies are one...
+Abstract  
+Supplementary data
+Image
+Event-study coefficient     for employment, estimated using the event-study...
+Event-study coefficient for employment, estimated using the event-study...Get access Arrow
+in A More Credible Approach to Parallel Trends
+Published: 15 February 2023
+Fig. 6. Event-study coefficient for employment, estimated using the event-study specification in (20).
+Image
+Event-study estimate of reduction in maximum benefit duration on separation...
+Event-study estimate of reduction in maximum benefit duration on separation...Get access Arrow
+in Unemployment Insurance Reforms and Labour Market Dynamics
+Published: 25 March 2025
+Figure 6. Event-study estimate of reduction in maximum benefit duration on separation rates Notes: Coefficient estimates from event study regression of separation rate on change in maximum unemployment benefit duration (equation (1)). Treatment intensity of changes in maximum benefit duration is assigned
+Image
+Event-study analysis: effects on pay dispersion around the benchmark Notes:...
+Event-study analysis: effects on pay dispersion around the benchmark Notes:...Get access Arrow
+in What’s My Employee Worth? The Effects of Salary Benchmarking
+Published: 01 October 2025
+Figure 3. Event-study analysis: effects on pay dispersion around the benchmark Notes: Point estimates with 90% confidence intervals in brackets, using standard errors clustered at the firm-position-month level. (A) and (C) are based off one regression for Searched and Non-Searched positions, while
+Image
+Event Study: CAR of high CT issuer (top tercile) relative to low CT issuer ...
+Event Study: CAR of high CT issuer (top tercile) relative to low CT issuer ...Get access Arrow
+in Regulating Carry Trades: Evidence from Foreign Currency Borrowing of Corporations in India
+Published: 09 September 2024
+Fig. 8. Event Study: CAR of high CT issuer (top tercile) relative to low CT issuer (bottom tercile) Notes: The figure shows the CAR for high CT issuer stocks relative to low CT issuer stocks, for three event dates, from 5 days prior to the event date to 5 days after. 19 June 2013 is a date on which
+Image
+Event study estimates for default outcomes Notes: Each figure reports event...
+Event study estimates for default outcomes Notes: Each figure reports event...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 2. Event study estimates for default outcomes Notes: Each figure reports event study estimates, obtained via the Callaway and Sant’Anna (2021) approach, as well as 95% confidence intervals based on design-based standard errors from Roth and Sant’Anna (2023) , for the denoted outcome. Sample
+Image
+Event study estimates for long-run outcomes Notes: This figure reports even...
+Event study estimates for long-run outcomes Notes: This figure reports even...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 5. Event study estimates for long-run outcomes Notes: This figure reports event study estimates obtained from the primary (Callaway and Sant’Anna, 2021) specification (circles) as well as from a specification based on Sun and Abraham (2021) which compares only those cited in 2011–2 (“early
+Image
+Visits to  craigslist.org —Event Study Notes: Pre-treatment placebos and dy...
+Visits to craigslist.org —Event Study Notes: Pre-treatment placebos and dy... Open Access
+in The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist
+Published: 06 May 2024
+Figure 4. Visits to craigslist.org —Event Study Notes: Pre-treatment placebos and dynamic effects of the entry of a local CL website on the (ihs-transformed) number of visits to craigslist.org . The graph presents coefficients and 95% confidence intervals based on the D I D M estimator
+Image
+Event study coefficient estimates of the effect of the bison’s slaughter on...
+Event study coefficient estimates of the effect of the bison’s slaughter on...Get access Arrow
+in The Slaughter of the Bison and Reversal of Fortunes on the Great Plains
+Published: 30 May 2023
+Figure 2. Event study coefficient estimates of the effect of the bison’s slaughter on height-for-age Z-scores Notes: This figure plots coefficient estimates from event study specifications where the dependent variable is the 2006 World Health Organization’s height-for-age Z-score. Coefficient estimates
+Image
+Event study different mortgage rates. Upper left: 3 months. Upper right: 1 ...
+Event study different mortgage rates. Upper left: 3 months. Upper right: 1 ...Get access Arrow
+in Negative Nominal Interest Rates and the Bank Lending Channel
+Published: 05 September 2023
+Figure. A.7. Event study different mortgage rates. Upper left: 3 months. Upper right: 1 year. Lower left: 3 years. Lower right: 5 years
+Image
+Newspapers—event study  Notes: The figure plots 2SLS coefficients (with cor...
+Newspapers—event study Notes: The figure plots 2SLS coefficients (with cor...Get access Arrow
+in Racial Diversity and Racial Policy Preferences: The Great Migration and Civil Rights
+Published: 06 May 2022
+Figure 6 Newspapers—event study Notes: The figure plots 2SLS coefficients (with corresponding 95 intervals) on the 1940–60 change in the Black population share in county-week level regressions where the dependent variable is a dummy equal to one if any mention about the lynching of a Black individual
+Image
+Firm sales and conflict exposure, event study Notes: This figure displays t...
+Firm sales and conflict exposure, event study Notes: This figure displays t...Get access Arrow
+in Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine’s War
+Published: 11 September 2025
+Figure 3. Firm sales and conflict exposure, event study Notes: This figure displays the results of estimating equation (1) and explores the impact of the conflict on firm sales by whether a firm had prior trade ties with the conflict areas. The sample is restricted to firms outside the conflict areas
+Image
+Event study from switches in state government party control (a) Events duri...
+Event study from switches in state government party control (a) Events duri...Get access Arrow
+in Policy Diffusion and Polarization across U.S. States
+Published: 25 September 2025
+Figure 9. Event study from switches in state government party control (a) Events during 1990–2020 and (b) Events during 1950–89 Notes: This figure shows the event-study estimates around a switch to unified party control of state government. The purple triangles show the difference in the probability
+Image
+Event Study: Dynamic Effect on Victory and Exit Rates  Notes: This figure d...
+Event Study: Dynamic Effect on Victory and Exit Rates Notes: This figure d...Get access Arrow
+in Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45
+Published: 16 December 2021
+Event Study: Dynamic Effect on Victory and Exit Rates Notes: This figure displays the time-varying coefficients for the event study estimated in Equation 3 . We provide 95% confidence intervals in grey and 90% intervals in black. Panel A shows the exponentiated coefficients for the exit rates
+Image
+Simulating the great financial crisis  Notes: Event study analysis of finan...
+Simulating the great financial crisis Notes: Event study analysis of finan...Get access Arrow
+in Bewley Banks
+Published: 28 August 2025
+Figure 11. Simulating the great financial crisis Notes: Event study analysis of financial crisis events based on a long simulation of the baseline economy and of the representative-bank benchmark. An event is defined as a decline in aggregate output triggered by an aggregate TFP shock falling below
+Image
+Base wages and worker’s earnings: event study Notes: This figure shows the ...
+Base wages and worker’s earnings: event study Notes: This figure shows the ... Open Access
+in The Cost of Wage Rigidity
+Published: 16 February 2023
+Figure. 7. Base wages and worker’s earnings: event study Notes: This figure shows the coefficients β s (solid line), together with the 95% confidence intervals (dashed line), obtained by estimating equation (3.2). The coefficients are multiplied by 100 for ease of interpretation. In panel
+Image
+Event-study coefficients     for log profits, estimated using the event-stu...
+Event-study coefficients for log profits, estimated using the event-stu...Get access Arrow
+in A More Credible Approach to Parallel Trends
+Published: 15 February 2023
+Fig. 4. Event-study coefficients for log profits, estimated using the event-study specification in (19).
+Image
+ITT event-study and spline estimates of effects of Food Stamps, by age of c...
+ITT event-study and spline estimates of effects of Food Stamps, by age of c...Get access Arrow
+in Is the Social Safety Net a Long-Term Investment? Large-Scale Evidence From the Food Stamps Program
+Published: 08 June 2023
+FIGURE 4 ITT event-study and spline estimates of effects of Food Stamps, by age of cohort when the program launched Notes: These graphs plot event-study and spline estimates using the specifications in equations (1) and (2), respectively, for each of our six main outcomes. The event-study estimates
+Image
+Event-study analysis: the effects on salary levels Notes: Point estimates w...
+Event-study analysis: the effects on salary levels Notes: Point estimates w...Get access Arrow
+in What’s My Employee Worth? The Effects of Salary Benchmarking
+Published: 01 October 2025
+Figure 5. Event-study analysis: the effects on salary levels Notes: Point estimates with 90% confidence intervals in brackets, using robust standard errors. (A) and (C) are based off one regression for Searched and Non-Searched positions, while (A) presents the estimates for each position type and (C
+Image
+Firm and investor PAC giving: Event study This figure shows how the associa...
+Firm and investor PAC giving: Event study This figure shows how the associa... Open Access
+in Investing in Influence: Investors, Portfolio Firms, and Political Giving
+Published: 24 January 2026
+Figure 1. Firm and investor PAC giving: Event study This figure shows how the association between firm and investor PAC giving changes during congressional cycles around the acquisition. Specifically, it plots the estimated coefficients β s in regression equation (3): 1 ( F i r m ′ s
+ITT event-study and spline estimates of effects of Food Stamps, by age of c...Get access Arrow
+in Is the Social Safety Net a Long-Term Investment? Large-Scale Evidence From the Food Stamps Program
+Published: 08 June 2023
+FIGURE 3 ITT event-study and spline estimates of effects of Food Stamps, by age of cohort when the program launched. Panel A. Composite Index, event-study estimates. Panel B. Composite Index, four-part spline Notes: The two panels plot event-study and linear spline estimates (equations 1 and 2
+Image
+Restaurant event-study estimates of minimum wage employment effect in high-...
+Restaurant event-study estimates of minimum wage employment effect in high-...Get access Arrow
+in Minimum Wage Employment Effects and Labour Market Concentration
+Published: 08 September 2023
+Figure. 12. Restaurant event-study estimates of minimum wage employment effect in high-concentration labour markets (no. of establishment proxy) Notes: The figure presents an equivalent figure to Figure  9 but now for limited service restaurant industry employment. Specifically, the coefficients are event
+Image
+Event study estimates by baseline credit access Notes: Each figure reports ...
+Event study estimates by baseline credit access Notes: Each figure reports ...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 3. Event study estimates by baseline credit access Notes: Each figure reports event study estimates, obtained via the Callaway and Sant’Anna (2021) approach, as well as 95% confidence intervals based on design-based standard errors from Roth and Sant’Anna (2023) , for the denoted outcome. Event
+Image
+Event study estimates by traffic court disposition Notes: Each figure repor...
+Event study estimates by traffic court disposition Notes: Each figure repor...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 8. Event study estimates by traffic court disposition Notes: Each figure reports event study estimates, obtained via the Callaway and Sant’Anna (2021) approach, as well as 95% confidence intervals based on design-based standard errors from Roth and Sant’Anna (2023) , for collections balances
+Image
+Probability that hired worker is female: event study results Notes: This fi...
+Probability that hired worker is female: event study results Notes: This fi... Open Access
+in Gender Preferences in Job Vacancies and Workplace Gender Diversity
+Published: 21 August 2024
+Fig. 4. Probability that hired worker is female: event study results Notes: This figure reports the estimation results for models of the event that a newly hired worker is female. Coefficients of the interaction term between year and indicators for vacancies classified as male or female PGP are reported
+Image
+Event Study  Notes: The figure illustrates the reform’s estimated effects o...
+Event Study Notes: The figure illustrates the reform’s estimated effects o... Open Access
+in Women in the Courtroom: Technology and Justice
+Published: 01 August 2025
+Figure 2. Event Study Notes: The figure illustrates the reform’s estimated effects on the gender differential in winning chances over time, spanning from six quarters before its introduction ( τ = − 6 , … , − 1 , 0 ) to eight quarters and beyond afterwards ( τ = 1 , … , 8 ). Dots
+Image
+Event study of key variables centred on the crisis year.  Notes: This figur...
+Event study of key variables centred on the crisis year. Notes: This figur...Get access Arrow
+in Bank Capital Redux: Solvency, Liquidity, and Crisis
+Published: 08 August 2020
+Figure 4 Event study of key variables centred on the crisis year. Notes: This figure presents the path of key variables around financial crises. Year corresponds to a systemic financial crisis. The values of the respective ratio are scaled to equal in year in the first three panels
+Image
+Reduced-form event-study results for IMR—municipalities in the Brazilian Ce...
+Reduced-form event-study results for IMR—municipalities in the Brazilian Ce...Get access Arrow
+in Down the River: Glyphosate Use in Agriculture and Birth Outcomes of Surrounding Populations
+Published: 06 February 2023
+Fig. 3. Reduced-form event-study results for IMR—municipalities in the Brazilian Center-West and South Regions, 2000–10 Notes: This plot displays the result of a reduced-form specification in which IMR is regressed on the potential gain in productivity in the area upstream from each municipality
+Image
+Event-study estimates of quota effect by cause-of-death category Notes: Thi...
+Event-study estimates of quota effect by cause-of-death category Notes: Thi...Get access Arrow
+in How the Other Half Died: Immigration and Mortality in U.S. Cities
+Published: 17 March 2023
+Figure. 4. Event-study estimates of quota effect by cause-of-death category Notes: This figure shows the event-study estimates of the effect of quota exposure on log mortality rates based on estimation equation (3) by general cause-of-death category: all deaths (a), infectious (b), external (c), and non
+Image
+Event-study estimates of quota effect on mortality in rural counties Notes:...
+Event-study estimates of quota effect on mortality in rural counties Notes:...Get access Arrow
+in How the Other Half Died: Immigration and Mortality in U.S. Cities
+Published: 17 March 2023
+Figure. 6. Event-study estimates of quota effect on mortality in rural counties Notes: This figure shows the event-study estimates of the effect of quota exposure on log mortality rates based on estimation equation (3) for rural counties. We include controls for county age structure, county fixed effects
+Image
+Event study on the introduction of the Zakat Levy  Notes: The figure plots ...
+Event study on the introduction of the Zakat Levy Notes: The figure plots ...Get access Arrow
+in Liquidity Risk and Long-Term Finance: Evidence from a Natural Experiment
+Published: 23 September 2021
+Event study on the introduction of the Zakat Levy Notes: The figure plots the coefficients from the lead-and-lag estimation in equation (11). The dependent variables refer to loan characteristics received by firm from bank during the quarter-year , . Loan characteristics include
+Image
+Event Study, Number of Active Days  Notes: This figure is based on the same...
+Event Study, Number of Active Days Notes: This figure is based on the same...Get access Arrow
+in Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45
+Published: 16 December 2021
+Event Study, Number of Active Days Notes: This figure is based on the same specification as Figure 4 , Panel B, with a different outcome variable: number of active days, i.e., number of days with at least one victory. We provide 95% confidence intervals in grey and 90% intervals in black.
+Image
+Event Study, Ratio of Exits to Active Days  Notes: This figure is based on ...
+Event Study, Ratio of Exits to Active Days Notes: This figure is based on ...Get access Arrow
+in Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45
+Published: 16 December 2021
+Event Study, Ratio of Exits to Active Days Notes: This figure is based on the same specification as Figure 4 , Panel B, with a different outcome variable: ratio of exits per active days, where active days are days with at least one victory. The sample only includes months with at least one
+Image
+Event study figures  Notes: Coefficients are plotted along with 95    confi...
+Event study figures Notes: Coefficients are plotted along with 95 confi...Get access Arrow
+in The Impact of Car Pollution on Infant and Child Health: Evidence from Emissions Cheating
+Published: 16 February 2022
+Figure 5 Event study figures Notes: Coefficients are plotted along with 95 confidence intervals on the interactions of year dummies with counties’ 2015 share of cheating diesel (dots) and “cheating” gas (hollow circles). The same controls as in the baseline regressions are included. Cheating diesel
+Image
+Event study graph of the effect of school lunch exposure on income  Notes: ...
+Event study graph of the effect of school lunch exposure on income Notes: ... Open Access
+in Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform
+Published: 11 May 2021
+Figure 3 Event study graph of the effect of school lunch exposure on income Notes: The figure plots estimates and 95% confidence intervals from an event study regression. In the graph, years of exposure coincide with cohorts. Zero years of exposure is the omitted reference category and corresponds
+Image
+Event-study results. Relationship between Increased Racial Diversity of Pro...
+Event-study results. Relationship between Increased Racial Diversity of Pro... Open Access
+in The Effect of Provider Diversity on Racial Health Disparities: Evidence from the Military
+Published: 01 October 2025
+Figure 3 Event-study results. Relationship between Increased Racial Diversity of Providers and Changes in Racial Health Disparities in Prevention Adherence Measures in Years Leading up to and Following Patient Move Notes: each point estimate depicted is from a different regression, where the dependent
+Image
+RMB borrowing costs: (a) time series of borrowing costs and (b) event study...
+RMB borrowing costs: (a) time series of borrowing costs and (b) event study... Open Access
+in Jumpstarting an International Currency
+Published: 27 February 2026
+Figure 6. RMB borrowing costs: (a) time series of borrowing costs and (b) event study around swap agreements Notes: Panel (a) presents time series plots of the 3-month RMB SHIBOR rate, the 3-month HIBOR rate, and the average of the synthetic RMB borrowing costs we compute for countries in our sample
+Image
+Event study on bank-level mortgage rates Notes: This figure compares the ac...
+Event study on bank-level mortgage rates Notes: This figure compares the ac...Get access Arrow
+in Negative Nominal Interest Rates and the Bank Lending Channel
+Published: 05 September 2023
+Figure. 6. Event study on bank-level mortgage rates Notes: This figure compares the actual and predicted pass-through for the two last policy rate cuts in our sample (repo rare reduced to − 0.35 and repo reduced to − 0.5 ). The interest rates are weighted average of 3 months, 1, 3, and 5 year
+Image
+Event-study estimates of minimum wage employment effect in low-concentratio...
+Event-study estimates of minimum wage employment effect in low-concentratio...Get access Arrow
+in Minimum Wage Employment Effects and Labour Market Concentration
+Published: 08 September 2023
+Figure. 8. Event-study estimates of minimum wage employment effect in low-concentration cashier occupational labour markets Notes: The figure reports the event-study estimates of α and ρ derived from the first event-study specification in Section 4.2 when using the sample of locations where cashier
+Image
+Event-study estimate of minimum wage employment effect in high-concentratio...
+Event-study estimate of minimum wage employment effect in high-concentratio...Get access Arrow
+in Minimum Wage Employment Effects and Labour Market Concentration
+Published: 08 September 2023
+Figure. 9. Event-study estimate of minimum wage employment effect in high-concentration cashier occupational labour markets Notes: The figure reports the event-study estimates of α and ρ derived from the first event-study specification in Section 4.2 when using the sample of locations where cashier
+Restaurant event-study estimates of minimum wage employment effect in low-c...Get access Arrow
+in Minimum Wage Employment Effects and Labour Market Concentration
+Published: 08 September 2023
+Figure. 11. Restaurant event-study estimates of minimum wage employment effect in low-concentration labour markets (no. of establishment proxy) Notes: The figure presents an equivalent figure to Figure  8 but now for limited service restaurant industry employment. Specifically, the coefficients are event
+Image
+Impact of the reform on firms Notes: This figure presents the event study c...
+Impact of the reform on firms Notes: This figure presents the event study c...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. 3. Impact of the reform on firms Notes: This figure presents the event study coefficients from the firm-level specification described in equation (2). Panel (a) shows estimates on the fraction of employees under a temporary contract. Panel (b) reports effects on log firm size. Panel (c) shows
+Image
+Validation of pseudo-event study approach Notes: This figure validates the ...
+Validation of pseudo-event study approach Notes: This figure validates the ... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 3. Validation of pseudo-event study approach Notes: This figure validates the pseudo-event study approach against an actual event study approach using panel data. Figure  3 A–E consider selected countries, comparing pseudo-event studies of first child birth (solid lines) to actual event studies
+Image
+Event study estimates by baseline credit access and estimated income Notes:...
+Event study estimates by baseline credit access and estimated income Notes:...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 4. Event study estimates by baseline credit access and estimated income Notes: Each figure reports event study estimates, obtained via the Callaway and Sant’Anna (2021) approach for the denoted outcome. Event studies are estimated separately for subgroups of motorists based on baseline credit card
+Image
+Event study estimates by baseline payroll status Notes: Each figure reports...
+Event study estimates by baseline payroll status Notes: Each figure reports...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 6. Event study estimates by baseline payroll status Notes: Each figure reports event study estimates, obtained via the Callaway and Sant’Anna (2021) approach, as well as 95% confidence intervals based on design-based standard errors from Roth and Sant’Anna (2023) , for collections balances
+Image
+(a): Event study for effect of mayoral appointment on vote shares, triple-d...
+(a): Event study for effect of mayoral appointment on vote shares, triple-d...Get access Arrow
+in Rank Effects in Bargaining: Evidence from Government Formation
+Published: 29 January 2019
+Figure 6 (a): Event study for effect of mayoral appointment on vote shares, triple-differences; (b) Event study for effect of mayoral appointment on vote shares, by party rank. Notes : Whiskers represent 95% confidence intervals based on standard errors clustered at the municipality level. Sample
+Image
+Event study plots: (a)    1  (    Rpayment    i  ,  t    &gt;  0  )    and ...
+Event study plots: (a) 1 ( Rpayment i , t > 0 ) and ... Open Access
+in Jumpstarting an International Currency
+Published: 27 February 2026
+Figure 5. Event study plots: (a) 1 ( Rpayment i , t > 0 ) and (b) Rshare i , t Notes: Event study plots using the methodology of Borusyak et al. (2024) . Panel (a) presents event study plots between horizons − 18/+24 months for the specification in column (4
+Image
+Event study of average HER effect on mover sample 
+Event study of average HER effect on mover sampleGet access Arrow
+in Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field Experiments
+Published: 20 February 2026
+Figure 3. Event study of average HER effect on mover sample
+Image
+Leverage event studies, enactment dates. This figure plots the coefficients...
+Leverage event studies, enactment dates. This figure plots the coefficients...Get access Arrow
+in Taxes Depress Corporate Borrowing: Evidence from Private Firms
+Published: 10 November 2025
+Figure 1. Leverage event studies, enactment dates. This figure plots the coefficients from Online Appendix Table B1 , which contain estimates from firm-year panel regressions of the evolution of firm leverage around the enactment of state corporate income tax cuts. The data are our subsamples of small
+Image
+Leverage event studies: public firms, enactment dates. This figure plots th...
+Leverage event studies: public firms, enactment dates. This figure plots th...Get access Arrow
+in Taxes Depress Corporate Borrowing: Evidence from Private Firms
+Published: 10 November 2025
+Figure 3. Leverage event studies: public firms, enactment dates. This figure plots the coefficients from Online Appendix Table B3 , which contain estimates from firm-year panel regressions of the evolution of long-term firm leverage around the enactment dates of state corporate income tax changes
+Image
+Child penalties by continent Notes: This figure presents event studies of f...
+Child penalties by continent Notes: This figure presents event studies of f... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 4. Child penalties by continent Notes: This figure presents event studies of first child birth by continent. Each panel shows an event study of the impact of first child, depicted by the vertical line, on the employment rate of men (grey series) and women (black series). The series depict
+Image
+Event Studies by Pilot Quality  Notes: This figure replicates the results s...
+Event Studies by Pilot Quality Notes: This figure replicates the results s...Get access Arrow
+in Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45
+Published: 16 December 2021
+Event Studies by Pilot Quality Notes: This figure replicates the results shown in Figure 4 by quality sub samples. We provide 95% confidence intervals in grey and 90% intervals in black. Panel A shows the coefficients on exit rates for the bottom 80% of the quality distribution and the top 20
+Image
+Family penalties by country. Joint event studies of first marriage and firs...
+Family penalties by country. Joint event studies of first marriage and firs... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 13. Family penalties by country. Joint event studies of first marriage and first child Notes: This figure presents stacked event studies of first marriage and first child in selected countries. These are based on the joint event study specification (5). Each panel shows an event study of the impact
+Image
+Leverage event studies, effective dates. This figure plots the coefficients...
+Leverage event studies, effective dates. This figure plots the coefficients...Get access Arrow
+in Taxes Depress Corporate Borrowing: Evidence from Private Firms
+Published: 10 November 2025
+Figure 2. Leverage event studies, effective dates. This figure plots the coefficients from Online Appendix Table B2 , which contain estimates from firm-year panel regressions of the evolution of firm leverage around the effective dates of state corporate income tax cuts. The data are our subsamples of small
+Image
+Investment event studies, enactment dates. This figure plots the coefficien...
+Investment event studies, enactment dates. This figure plots the coefficien...Get access Arrow
+in Taxes Depress Corporate Borrowing: Evidence from Private Firms
+Published: 10 November 2025
+Figure 4. Investment event studies, enactment dates. This figure plots the coefficients from Table B4 , which contain estimates from firm-year panel regressions of the evolution of firm investment around the enactment of state corporate income tax cuts. The data are our subsamples of small (Panels A and C
+Image
+Event studies.  Notes: This figure plots the average share of earmarks, cit...
+Event studies. Notes: This figure plots the average share of earmarks, cit... Open Access
+in Innovation and Top Income Inequality
+Published: 01 June 2018
+Figure 6 Event studies. Notes: This figure plots the average share of earmarks, citations to university patents and all citations at different times around the appointment of a senator in the appropriation committee. All measures have been residualized on a state-specific time trend. Sample is restricted
+Image
+Child penalties in Asian countries Notes: This figure presents event studie...
+Child penalties in Asian countries Notes: This figure presents event studie... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 6. Child penalties in Asian countries Notes: This figure presents event studies of first child birth for a selection of Asian countries. Each panel shows an event study of the impact of first child, depicted by the vertical line, on the employment rate of men (grey series) and women (black series
+Image
+Event studies around divorce Notes: The figures display the evolution of wo...
+Event studies around divorce Notes: The figures display the evolution of wo...Get access Arrow
+in Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and Welfare
+Published: 07 November 2024
+Figure 3. Event studies around divorce Notes: The figures display the evolution of work hours (A), wages (B), assets (C), and household income net of maintenance (D) around divorce. Displayed are normalised coefficient estimates from event-study specification (1). The event-study regressions are run
+Image
+Event studies of household spending around moving  Notes: The figure shows ...
+Event studies of household spending around moving Notes: The figure shows ...Get access Arrow
+in Housing Market Responses to Transaction Taxes: Evidence From Notches and Stimulus in the U.K.
+Published: 24 June 2017
+Figure 12 Event studies of household spending around moving Notes : The figure shows the estimated coefficients on spending by movers in different years from two estimates of our event study specification (14) along with their 95% confidence intervals. The event study compares log spending
+Image
+Main newspaper outcomes—Event studies Notes: Pre-treatment placebos and dyn...
+Main newspaper outcomes—Event studies Notes: Pre-treatment placebos and dyn... Open Access
+in The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist
+Published: 06 May 2024
+Figure 5a. Main newspaper outcomes—Event studies Notes: Pre-treatment placebos and dynamic effects of the entry of a local CL website on newspaper outcomes. The graphs present coefficients and 95% confidence intervals based on the D I D M estimator proposed in de Chaisemartin and D’Haultfoeuille
+Leverage event studies, effective dates. This figure plots the coefficients...Get access Arrow
+in Taxes Depress Corporate Borrowing: Evidence from Private Firms
+Published: 10 November 2025
+Figure 2. Leverage event studies, effective dates. This figure plots the coefficients from Online Appendix Table B2 , which contain estimates from firm-year panel regressions of the evolution of firm leverage around the effective dates of state corporate income tax cuts. The data are our subsamples of small
+Image
+Investment event studies, enactment dates. This figure plots the coefficien...
+Investment event studies, enactment dates. This figure plots the coefficien...Get access Arrow
+in Taxes Depress Corporate Borrowing: Evidence from Private Firms
+Published: 10 November 2025
+Figure 4. Investment event studies, enactment dates. This figure plots the coefficients from Table B4 , which contain estimates from firm-year panel regressions of the evolution of firm investment around the enactment of state corporate income tax cuts. The data are our subsamples of small (Panels A and C
+Journal Article
+FEATURED
+A More Credible Approach to Parallel TrendsGet access Arrow
+Ashesh Rambachan and Jonathan Roth
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2555–2591, https://doi.org/10.1093/restud/rdad018
+Published: 15 February 2023
+.... 2023 This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model ( https://academic.oup.com/pages/standard-publication-reuse-rights ) Abstract This paper proposes tools for robust inference in difference-in-differences and event-study...
+Abstract  
+Supplementary data
+Journal Article
+The U.S., Economic News, and the Global Financial CycleGet access Arrow
+Christoph E Boehm and T Niklas Kroner
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 215–249, https://doi.org/10.1093/restud/rdaf020
+Published: 04 April 2025
+... on global financial conditions. Global financial cycle Macroeconomic announcements International spillovers Stock returns VIX Monetary policy High-frequency event study The global financial cycle appears in co-movements of gross flows, asset prices, leverage, and credit creation, which are all...
+Abstract  
+Supplementary data
+Journal Article
+The Child Penalty Atlas Open Access
+Henrik Kleven and others
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3174–3207, https://doi.org/10.1093/restud/rdae104
+Published: 24 October 2024
+... from 134 countries. The estimation of child penalties is based on pseudo-event studies of first child birth using cross-sectional data. The pseudo-event studies are validated against true event studies using panel data for a subset of countries. Most countries display clear and sizable child penalties...
+Abstract  
+Supplementary data
+Journal Article
+Fines and Financial WellbeingGet access Arrow
+Steven Mello
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3340–3374, https://doi.org/10.1093/restud/rdae111
+Published: 21 November 2024
+... divided by the number of residents) against binned means of neighbourhood characteristics. n = 908 zip codes. Taking advantage of this unique panel of credit reports, I leverage staggered variation in the timing of traffic stops with an event study approach. To address the various identification...
+Abstract  
+Supplementary data
+Image
+Placebo analysis Notes: This figure presents results from a placebo event s...
+Placebo analysis Notes: This figure presents results from a placebo event s...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. C4. Placebo analysis Notes: This figure presents results from a placebo event study analysis at the firm level. We start by setting a fake year of the reform (2006). We then consider firms as treated based on the year where their dominant CCNL was renewed following the passage of this fake reform
+Image
+Effect of the Reform on Medium-Term Specialty Choice: Conditional Logit Eve...
+Effect of the Reform on Medium-Term Specialty Choice: Conditional Logit Eve...Get access Arrow
+in Hours Constraints, Occupational Choice, and Gender: Evidence from Medical Residents
+Published: 21 July 2022
+Figure 7 Effect of the Reform on Medium-Term Specialty Choice: Conditional Logit Event Study Source : AMA Physician Masterfile, Baldwin Jr et al. (2003) . Notes : This figure plots the average marginal effects associated with the coefficients from the conditional logit event study. The sample is USMG
+Image
+Effect of the Reform on Initial Specialty Choice: Conditional Logit Event S...
+Effect of the Reform on Initial Specialty Choice: Conditional Logit Event S...Get access Arrow
+in Hours Constraints, Occupational Choice, and Gender: Evidence from Medical Residents
+Published: 21 July 2022
+Figure 8 Effect of the Reform on Initial Specialty Choice: Conditional Logit Event Study Source : GME Census Track, Baldwin Jr et al. (2003) . Notes : This figure plots the average marginal effects associated with the coefficients from the conditional logit event study. The sample is USMG
+Image
+Historical child penalties in other countries Notes: This figure presents e...
+Historical child penalties in other countries Notes: This figure presents e... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 18. Historical child penalties in other countries Notes: This figure presents event studies of first child birth using historical data from different high-income countries. Each panel shows an event study of the impact of first child, depicted by the vertical line, on the employment rate of men (grey
+Image
+Child penalties in African countries Notes: This figure presents event stud...
+Child penalties in African countries Notes: This figure presents event stud... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 8. Child penalties in African countries Notes: This figure presents event studies of first child birth for a selection of African countries. Each panel shows an event study of the impact of first child, depicted by the vertical line, on the employment rate of men (grey series) and women (black
+Image
+Marriage penalties. A case study of Brazil and China Notes: This figure pre...
+Marriage penalties. A case study of Brazil and China Notes: This figure pre... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 12. Marriage penalties. A case study of Brazil and China Notes: This figure presents event studies of first marriage in Brazil and China. Each panel shows an event study of the impact of marriage, depicted by the vertical line, on the employment rate of men (grey series) and women (black series
+Image
+Child penalties in European countries Notes: This figure presents event stu...
+Child penalties in European countries Notes: This figure presents event stu... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 5. Child penalties in European countries Notes: This figure presents event studies of first child birth for a selection of European countries. Each panel shows an event study of the impact of first child, depicted by the vertical line, on the employment rate of men (grey series) and women (black
+Image
+Child penalties in Latin American countries Notes: This figure presents eve...
+Child penalties in Latin American countries Notes: This figure presents eve... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 7. Child penalties in Latin American countries Notes: This figure presents event studies of first child birth for a selection of Latin American countries. Each panel shows an event study of the impact of first child, depicted by the vertical line, on the employment rate of men (grey series
+Image
+Estimated difference in restaurant minimum wage employment effect in areas ...
+Estimated difference in restaurant minimum wage employment effect in areas ...Get access Arrow
+in Minimum Wage Employment Effects and Labour Market Concentration
+Published: 08 September 2023
+Figure. 13. are event-study estimates of λ and σ derived from the second event-study specification in Section 4.2 when defining high and low labour market concentration levels using our alternative proxy for concentration, the number of establishments in the industry. High versus low concentration compares the bottom
+Image
+Executive exits and firm ROA in thin versus thick labour markets—stacked ev...
+Executive exits and firm ROA in thin versus thick labour markets—stacked ev... Open Access
+in Are Executives in Short Supply? Evidence from Death Events
+Published: 24 February 2023
+Figure. 4. Executive exits and firm ROA in thin versus thick labour markets—stacked event-study approach. (a) Thin markets and (b) Thick markets Notes: This Figure presents stacked event-study estimates of return on assets in the two event years before and five event years after the occurrence of a deceased
+Image
+Estimated difference in minimum wage employment effect in areas with high v...
+Estimated difference in minimum wage employment effect in areas with high v...Get access Arrow
+in Minimum Wage Employment Effects and Labour Market Concentration
+Published: 08 September 2023
+Figure. 10. Estimated difference in minimum wage employment effect in areas with high versus low concentration in the cashier occupational labour market Notes: The figure reports the event-study estimates of λ and σ derived from the second event-study specification in Section 4.2 when defining high and low
+Image
+Within-person, within-employer transition from temporary to permanent contr...
+Within-person, within-employer transition from temporary to permanent contr...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. 5. Within-person, within-employer transition from temporary to permanent contract Notes: Panel (a) reports the event study coefficients from equation (5) where the outcome is log daily wages of a worker in her primary job in year t . In this regression, the event is defined as the year in which
+Journal Article
+Minimum Wage Employment Effects and Labour Market ConcentrationGet access Arrow
+José Azar and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 1843–1883, https://doi.org/10.1093/restud/rdad091
+Published: 08 September 2023
+... are event-study estimates of λ and σ derived from the second event-study specification in Section 4.2 when defining high and low labour market concentration levels using our alternative proxy for concentration, the number of establishments in the industry. High versus low concentration compares the bottom...
+Abstract  
+Supplementary data
+Journal Article
+The Effects of Partial Employment Protection Reforms: Evidence from ItalyGet access Arrow
+Diego Daruich and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 2880–2942, https://doi.org/10.1093/restud/rdad012
+Published: 10 February 2023
+...Placebo analysis Notes: This figure presents results from a placebo event study analysis at the firm level. We start by setting a fake year of the reform (2006). We then consider firms as treated based on the year where their dominant CCNL was renewed following the passage of this fake reform...
+Abstract  
+Supplementary data
+Dynamic specifications and pre-trends: (A) without disbursement method FEs ... Open Access
+in Revisiting Event-Study Designs: Robust and Efficient Estimation
+Published: 06 February 2024
+Figure 2. Dynamic specifications and pre-trends: (A) without disbursement method FEs and (B) with disbursement method FEs Notes: Panel A reports estimates of the response of spending to tax rebate receipts and pre-trend coefficients, using specification (10) with a = 8 and without binning (“Conventi
+Image
+Under-identification of the fully dynamic specification: (A) without disbur...
+Under-identification of the fully dynamic specification: (A) without disbur... Open Access
+in Revisiting Event-Study Designs: Robust and Efficient Estimation
+Published: 06 February 2024
+Figure 5. Under-identification of the fully dynamic specification: (A) without disbursement method FEs and (B) with disbursement method FEs Notes: This figure reports MPX and pre-trend estimates and 95% confidence bands for specification (10) with all leads and lags of the tax receipt included, except for t
+Image
+Under-identification of fully dynamic specification Notes: This figure show...
+Under-identification of fully dynamic specification Notes: This figure show... Open Access
+in Revisiting Event-Study Designs: Robust and Efficient Estimation
+Published: 06 February 2024
+Figure 1. Under-identification of fully dynamic specification Notes: This figure shows the evolution of outcomes over seven periods for two units (or cohorts), for the illustrative example of Section 3.2 . Vertical lines mark the periods in which the two units are first treated.
+Image
+Short-term bias in weights for binned specifications Notes: This figure rep...
+Short-term bias in weights for binned specifications Notes: This figure rep... Open Access
+in Revisiting Event-Study Designs: Robust and Efficient Estimation
+Published: 06 February 2024
+Figure 3. Short-term bias in weights for binned specifications Notes: This figure reports the cumulative weight that the monthly binned OLS estimator of the quarterly MPX from Table  2 , with or without disbursement methods FEs, places on the true effects at each horizon h = 0 , … , 11 weeks sin
+Image
+Long-run MPXs, conventional specifications versus robust imputation estimat...
+Long-run MPXs, conventional specifications versus robust imputation estimat... Open Access
+in Revisiting Event-Study Designs: Robust and Efficient Estimation
+Published: 06 February 2024
+Figure 4. Long-run MPXs, conventional specifications versus robust imputation estimator: (A) conventional binned estimates, (B) conventional dynamic estimates, and (C) robust imputation estimates Notes: Panels A–C plot MPX coefficients and 95% confidence bands using the same specifications as in Table  2 .
+Image
+Alternative robust MPX estimates and in-sample efficiency: (A) point estima...
+Alternative robust MPX estimates and in-sample efficiency: (A) point estima... Open Access
+in Revisiting Event-Study Designs: Robust and Efficient Estimation
+Published: 06 February 2024
+Figure 6. Alternative robust MPX estimates and in-sample efficiency: (A) point estimates and confidence intervals and (B) confidence interval lengths, relative to the imputation estimator Notes: Panel A shows the estimates and 95% confidence bands for the average MPXs by week since rebate using three robus
+Image
+Number of entrants in event time Notes: This figure displays the event stud...
+Number of entrants in event time Notes: This figure displays the event stud...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. D3. Number of entrants in event time Notes: This figure displays the event study coefficients from a version of equation (1). where the dependent variable corresponds to the logarithm of the number of new entrants in a given (LLM × year) cell. The model controls for the share of female workers
+Image
+Comparison to previously reported estimates of life events  Notes: This fig...
+Comparison to previously reported estimates of life events Notes: This fig... Open Access
+in Long-Run Effects of Lottery Wealth on Psychological Well-Being
+Published: 12 February 2020
+Figure 7 -being (5–17 years after the event). In the upper panel, well-being is Mental Health and in the lower panel, it is Overall LS . See Supplementary Appendix for details on the event-study estimates.
+Journal Article
+Is the Social Safety Net a Long-Term Investment? Large-Scale Evidence From the Food Stamps ProgramGet access Arrow
+Martha J Bailey and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1291–1330, https://doi.org/10.1093/restud/rdad063
+Published: 08 June 2023
+...) , Almond et al. (2011) , and Hoynes et al. (2016) , who exploit the county-by-county rollout of Food Stamps in the 1960s and 1970s. 2 We estimate event-study, linear spline, and difference-in-difference (DD) models that rely on variation in the availability of the Food Stamps...
+Abstract  
+Supplementary data
+Image
+Model fit Notes: The figures display mean data moments and simulated model ...
+Model fit Notes: The figures display mean data moments and simulated model ...Get access Arrow
+in Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and Welfare
+Published: 07 November 2024
+Figure 5. ) The evolution of ever-divorced couples as a fraction of the total population over time (elapsed since first marriage). (C, D) Present coefficients estimated from event studies around divorce for wages and work hours. Note that one model period equals 3 years, i.e. the model only generates variation
+Image
+Estimated total costs of citations Notes: This figure reports estimated ave...
+Estimated total costs of citations Notes: This figure reports estimated ave...Get access Arrow
+in Fines and Financial Wellbeing
+Published: 21 November 2024
+Figure 7. Estimated total costs of citations Notes: This figure reports estimated average total costs of citations in the event study sample ( n = 525,646 ), taking into account statutory sanctions and the post-citation choices of motorists based on the traffic court dispositions data. Panel
+Image
+Dynamic effects of short-time work on workers’ outcomes by firms’ pre-crisi...
+Dynamic effects of short-time work on workers’ outcomes by firms’ pre-crisi... Open Access
+in Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work
+Published: 28 December 2022
+Figure 9 Dynamic effects of short-time work on workers’ outcomes by firms’ pre-crisis level of labour productivity Notes: The graphs report the estimated coefficients of event study regressions for different outcomes and different event-year definitions at the worker level. The estimation and event-year
+Image
+(a and b) Conflict of interest in Rotten Tomatoes (News Corp. 2006–09)  Not...
+(a and b) Conflict of interest in Rotten Tomatoes (News Corp. 2006–09) Not...Get access Arrow
+in Does Conflict of Interest Lead to Biased Coverage? Evidence from Movie Reviews
+Published: 02 February 2017
+Figure 10 the estimated coefficients from an event study regression of the freshness score in Rotten Tomatoes on the quantitative score, outlet fixed effects, and year fixed effects interacted with an indicator for a 20th Century Fox movie (dark lines) and year fixed effects interacted with an indicator for matching
+Image
+Effect of adverse events on pretrial release. A. All Judges, B. By Judge Pe...
+Effect of adverse events on pretrial release. A. All Judges, B. By Judge Pe...Get access Arrow
+in Algorithmic Recommendations and Human Discretion
+Published: 15 September 2025
+Figure 8. Effect of adverse events on pretrial release. A. All Judges, B. By Judge Performance Notes: This figure plots event-study estimates of hearing a case involving a defendant arrested for a serious violent felony while on pretrial release. Panel A reports results for all 62 judges in our sample
+Image
+The allocation of credit during credit booms. (a) Sectoral breakdown of agg...
+The allocation of credit during credit booms. (a) Sectoral breakdown of agg...Get access Arrow
+in Credit Allocation and Macroeconomic Fluctuations
+Published: 04 December 2023
+Figure 4. The allocation of credit during credit booms. (a) Sectoral breakdown of aggregate credit expansion. (b) Non-tradable, tradable, and household sectors Notes: This figure plots an event study of the cumulative change in private credit-to-GDP around credit booms, broken down by sectors. Panel
+Image
+Child penalties in the U.S., 1880–2020 Notes: This figure illustrates the e...
+Child penalties in the U.S., 1880–2020 Notes: This figure illustrates the e... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 17. Child penalties in the U.S., 1880–2020 Notes: This figure illustrates the evolution of child penalties in the U.S. between 1880 and 2020. Panels A–C present event studies of the impact of first child birth, depicted by the vertical line, on the employment rate of men (grey series) and women
+Image
+Heatmap of child penalties Notes: This figure presents a heatmap of child p...
+Heatmap of child penalties Notes: This figure presents a heatmap of child p... Open Access
+in The Child Penalty Atlas
+Published: 24 October 2024
+Figure 9. in the “No Penalty” category. Countries for which we do not have data fall in the “No Data” category. The event studies of child birth used to estimate child penalties for all 134 countries in our dataset are provided in Appendix Figure A.5 .
+Image
+Decomposition of the increase in the temporary jobs destruction rate Notes:...
+Decomposition of the increase in the temporary jobs destruction rate Notes:...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. D1. Decomposition of the increase in the temporary jobs destruction rate Notes: This figure presents estimates from equation (1) on the sample of temporary jobs that in year t already existed for two years or more. Each bar represents the event study coefficient θ 3 on a different
+Image
+Building states by bargaining with rebels: the benefits (A) times series an...
+Building states by bargaining with rebels: the benefits (A) times series an...Get access Arrow
+in Monopoly of Taxation Without a Monopoly of Violence: The Weak State’s Trade-Offs From Taxation
+Published: 28 May 2024
+Figure 8. Building states by bargaining with rebels: the benefits (A) times series and (B) event study: effect on violence Notes: (A) presents the fraction of villages that are controlled by the Congolese army, nonstate armed groups, as well as the fraction of villages where a conquest attempt takes place
+Image
+Estimated consumption dynamics around start of unemployment spell  Notes: T...
+Estimated consumption dynamics around start of unemployment spell Notes: T...Get access Arrow
+in The Value of Unemployment Insurance
+Published: 20 September 2021
+Estimated consumption dynamics around start of unemployment spell Notes: The figure reports event study estimates of household annual consumption around the time when a household member loses her job. Coefficients and confidence intervals come from specification (19) run on the sample of treated
+Reported assets fall upon offshore entity incorporation if wealth is taxed ...Get access Arrow
+in Behavioural Responses to Wealth Taxation: Evidence from Colombia
+Published: 19 July 2024
+Fig. 9. Reported assets fall upon offshore entity incorporation if wealth is taxed Notes: This figure presents the β k coefficients from event-study specification (6), separately for whether the offshore entity is incorporated in a year when reported assets determine wealth tax liability (i.e
+Image
+Effect of competitors' leave eligibility on focal fathers' log earnings: Ev...
+Effect of competitors' leave eligibility on focal fathers' log earnings: Ev... Open Access
+in Competition and Career Advancement
+Published: 13 October 2023
+Figure 6 Effect of competitors' leave eligibility on focal fathers' log earnings: Event study Notes: This figure displays the event year specific effects of the share of leave-eligible competitors on log earnings of focal fathers, estimated from a variant of equation (4), where the share of competitors
+Image
+Estimated consumption dynamics around start of unemployment spell  Notes: T...
+Estimated consumption dynamics around start of unemployment spell Notes: T...Get access Arrow
+in The Value of Unemployment Insurance
+Published: 20 September 2021
+Estimated consumption dynamics around start of unemployment spell Notes: The figure reports event study estimates of household annual consumption around the time when a household member loses her job. Coefficients and confidence intervals come from specification (19) run on the sample of treated
+Image
+Additional robustness checks Notes: In this figure, we confront our baselin...
+Additional robustness checks Notes: In this figure, we confront our baselin...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. C3. Additional robustness checks Notes: In this figure, we confront our baseline event study estimates from equation (1) displayed in Figure  2 —and reprinted here under the “Baseline Effects” label—with alternative estimates designed to address various concerns. “Alternative Year of Implementation
+Image
+Robustness of the baseline estimates Notes: In this figure, we confront our...
+Robustness of the baseline estimates Notes: In this figure, we confront our...Get access Arrow
+in The Effects of Partial Employment Protection Reforms: Evidence from Italy
+Published: 10 February 2023
+Fig. C1. Robustness of the baseline estimates Notes: In this figure, we confront our baseline event study estimates from the two-way fixed effects specification of equation (1) displayed in Figure  2 —and reprinted here under the “Baseline TWFE Effects” label—with alternative approaches designed to deal
+Image
+The use of offshore entities is correlated with the wealth tax. (a) Colombi...
+The use of offshore entities is correlated with the wealth tax. (a) Colombi...Get access Arrow
+in Behavioural Responses to Wealth Taxation: Evidence from Colombia
+Published: 19 July 2024
+Fig. 7. countries. Colombians stand out in their use of offshore entities, even relative to larger and wealthier countries. Supplementary Material, Figure A.11 compares Colombia’s series against 31 other Latin American and OECD countries using year and country fixed effects in an event-study regression
+Journal Article
+Taxes Depress Corporate Borrowing: Evidence from Private FirmsGet access Arrow
+Ivan T Ivanov and others
+The Review of Economic Studies, rdaf094, https://doi.org/10.1093/restud/rdaf094
+Published: 10 November 2025
+... held, bank-dependent firms in the United States since 2011. The data set contains not only loan details but also firm-level accounting information. Using the Y-14 data to conduct simple event studies, we investigate how state corporate income tax cuts affect leverage. We focus on tax cuts because tax...
+Abstract  
+Supplementary data
+Image
+Kimia II campaign and FDLR violence, for FDLR state villages and the rest (...
+Kimia II campaign and FDLR violence, for FDLR state villages and the rest (...Get access Arrow
+in Monopoly of Taxation Without a Monopoly of Violence: The Weak State’s Trade-Offs From Taxation
+Published: 28 May 2024
+Figure 4. Kimia II campaign and FDLR violence, for FDLR state villages and the rest (A) Times Series and (B) Event Study Notes: (A) presents the times-series of the fraction of villages for which the following indicators take value 1 whether the FDLR perpetrates a violent operation (independently
+Image
+Dynamic effects of short-time work on workers’ outcomes  Notes: The graphs ...
+Dynamic effects of short-time work on workers’ outcomes Notes: The graphs ... Open Access
+in Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work
+Published: 28 December 2022
+Figure 8 Dynamic effects of short-time work on workers’ outcomes Notes: The graphs report the estimated coefficients of event study regressions for different outcomes and different event-year definitions at the worker level. All estimates are relative to event-year and are scaled by the average level
+Journal Article
+Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and WelfareGet access Arrow
+Hanno Foerster
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3029–3066, https://doi.org/10.1093/restud/rdae105
+Published: 07 November 2024
+...-spouses, the number of (biological) children that a couple has together, the children’s age and whom the children stay with if a couple divorces. I complement these data with information on home production hours and individual consumption from the DTUS. I conduct event-study regressions to document...
+Abstract  
+Supplementary data
+Journal Article
+Policy Diffusion and Polarization across U.S. StatesGet access Arrow
+Stefano DellaVigna and Woojin Kim
+The Review of Economic Studies, rdaf070, https://doi.org/10.1093/restud/rdaf070
+Published: 25 September 2025
+... of the growing importance of party control, we estimate an event study of switches from divided state governments to unified state governments (that is, the governor and the majority in both state houses belong to the same party). We detect no impact in the earlier decades, but in the last two decades...
+Abstract  
+Supplementary data
+Journal Article
+How the Other Half Died: Immigration and Mortality in U.S. CitiesGet access Arrow
+Philipp Ager and others
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 1–44, https://doi.org/10.1093/restud/rdad035
+Published: 17 March 2023
+... Figure A.11 shows that our main results are robust to alternative ways of predicting post-quota counterfactual immigration. Figure. 4. Event-study estimates of quota effect by cause-of-death category Notes: This figure shows the event-study estimates of the effect of quota exposure on log...
+Abstract  
+Supplementary data
+Journal Article
+How Quantitative Easing Works: Evidence on the Refinancing ChannelGet access Arrow
+Marco Di Maggio and others
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1498–1528, https://doi.org/10.1093/restud/rdz060
+Published: 11 December 2019
+... shocks that might also affect households’ decisions. For traction, most of the literature has used event studies of short-run asset-price changes immediately surrounding central bank policy announcements. Given that the origination process takes time, estimating effects on debt issuance requires...
+Abstract  
+Supplementary data
+Journal Article
+What’s My Employee Worth? The Effects of Salary BenchmarkingGet access Arrow
+Zoë Cullen and others
+The Review of Economic Studies, rdaf083, https://doi.org/10.1093/restud/rdaf083
+Published: 01 October 2025
+... conducted a series of empirical tests to check exogeneity. For example, we conduct an event study analysis to test for differences in pre-trends between the treatment and control groups. We assign each new hire to one of three categories. Searched positions correspond to the 5,266 unique hires...
+Abstract  
+Supplementary data
+Journal Article
+Regulating Carry Trades: Evidence from Foreign Currency Borrowing of Corporations in IndiaGet access Arrow
+Viral V Acharya and Siddharth Vij
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2071–2107, https://doi.org/10.1093/restud/rdae089
+Published: 09 September 2024
+... to allow access only to safer firms. We also confirm this risk reduction via macroprudential policy using the event study methodology. The taper tantrum episode of Summer 2013 was an unexpected negative shock to the exchange rate and equity markets ( Chari et al., 2021 ) during a time when capital...
+Abstract  
+Supplementary data
+Journal Article
+Jumpstarting an International Currency Open Access
+Saleem Bahaj and Ricardo Reis
+The Review of Economic Studies, rdag011, https://doi.org/10.1093/restud/rdag011
+Published: 27 February 2026
+..., and when we consider only trade finance payments received, the coefficient is statistically significant (see Appendix  Table A4 ). Figure  5 (a) shows an event study plot for the specification in column (4), which has all the covariates. Most of the effect is in the vicinity of the signing of the swap line...
+Abstract  
+Supplementary data
+Journal Article
+Housing Market Responses to Transaction Taxes: Evidence From Notches and Stimulus in the U.K.Get access Arrow
+Michael Carlos Best and Henrik Jacobsen Kleven
+The Review of Economic Studies, Volume 85, Issue 1, January 2018, Pages 157–193, https://doi.org/10.1093/restud/rdx032
+Published: 24 June 2017
+Abstract  
+Supplementary data
+Journal Article
+Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45Get access Arrow
+Philipp Ager and others
+The Review of Economic Studies, Volume 89, Issue 5, October 2022, Pages 2257–2292, https://doi.org/10.1093/restud/rdab085
+Published: 16 December 2021
+... and fixed effects models in the full sample of all pilots. We build on this preliminary evidence by implementing an event-study framework in a trimmed sample of similar pilots based on Coarsened Exact Matching (following Iacus, King, and Porro, 2012 ): Both exit and victory rates increase sharply after...
+Abstract  
+Supplementary data
+Journal Article
+Monopoly of Taxation Without a Monopoly of Violence: The Weak State’s Trade-Offs From TaxationGet access Arrow
+Soeren J Henn and others
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 1126–1156, https://doi.org/10.1093/restud/rdae036
+Published: 28 May 2024
+...Kimia II campaign and FDLR violence, for FDLR state villages and the rest (A) Times Series and (B) Event Study Notes: (A) presents the times-series of the fraction of villages for which the following indicators take value 1 whether the FDLR perpetrates a violent operation (independently...
+Abstract  
+Supplementary data
+Journal Article
+The Returns to Nursing: Evidence from a Parental-Leave ProgramGet access Arrow
+Benjamin U Friedrich and Martin B Hackmann
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2308–2343, https://doi.org/10.1093/restud/rdaa082
+Published: 28 January 2021
+.... 23 Event study regression analysis We then estimate the effect of exposure on outcomes by year as follows: (2) $$\begin{align} Y_{ct}^{s} & =\sum_{t=1987}^{1992}\lambda_{t}^{s}\cdot I_t \cdot Exposure_{c}^{s}+\sum_{t=1994}^{2000}\lambda_{t}^{s}\cdot I_t \cdot Exposure_{c}^{s...
+Abstract  
+Supplementary data
+The Returns to Nursing: Evidence from a Parental-Leave ProgramGet access Arrow
+Benjamin U Friedrich and Martin B Hackmann
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2308–2343, https://doi.org/10.1093/restud/rdaa082
+Published: 28 January 2021
+.... 23 Event study regression analysis We then estimate the effect of exposure on outcomes by year as follows: (2) $$\begin{align} Y_{ct}^{s} & =\sum_{t=1987}^{1992}\lambda_{t}^{s}\cdot I_t \cdot Exposure_{c}^{s}+\sum_{t=1994}^{2000}\lambda_{t}^{s}\cdot I_t \cdot Exposure_{c}^{s...
+Abstract  
+Supplementary data
+Journal Article
+Worker Mobility in Production NetworksGet access Arrow
+Marvin Cardoza and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3682–3703, https://doi.org/10.1093/restud/rdae114
+Published: 27 December 2024
+... other movers. We use an event-study specification to estimate the earnings dynamics of workers who move between buyers and suppliers relative to other movers. Workers moving between buyers and suppliers and those moving to other firms have similar pre-move trends in earnings, mitigating the concern...
+Abstract  
+Supplementary data
+Journal Article
+Investing in Influence: Investors, Portfolio Firms, and Political Giving Open Access
+Marianne Bertrand and others
+The Review of Economic Studies, rdag010, https://doi.org/10.1093/restud/rdag010
+Published: 24 January 2026
+...-acquisition that is analogous to the convergence we document for PAC donations. One concern with our approach thus far is that it focuses on large and discrete purchases for cases in which the investor’s stake is initially zero. While this firm-investor pair “event study” approach has an intuitive appeal...
+Abstract  
+Supplementary data
+Journal Article
+Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform Open Access
+Petter Lundborg and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 876–908, https://doi.org/10.1093/restud/rdab028
+Published: 11 May 2021
+... the program was introduced. We address several threats to our empirical design. We show that pre-treatment trends are parallel across early, mid, and late adopters of the reform and our event-study estimates show that the effects of the program arise for exposed, but not for unexposed, cohorts. Further, our...
+Abstract  
+Supplementary data
+Journal Article
+Hours Constraints, Occupational Choice, and Gender: Evidence from Medical ResidentsGet access Arrow
+Melanie Wasserman
+The Review of Economic Studies, Volume 90, Issue 3, May 2023, Pages 1535–1568, https://doi.org/10.1093/restud/rdac042
+Published: 21 July 2022
+... paths over time. Although this assumption is not directly testable, I probe its validity in a few ways. First, I examine the sorting patterns in the years leading up to the reform through estimation of an event study version of equation ( 3 ), with medical school graduates/first-year residency entrants...
+Abstract  
+Supplementary data
+Journal Article
+Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work Open Access
+Giulia Giupponi and Camille Landais
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1963–2005, https://doi.org/10.1093/restud/rdac069
+Published: 28 December 2022
+Abstract  
+Supplementary data
+Journal Article
+Are Executives in Short Supply? Evidence from Death Events Open Access
+Julien Sauvagnat and Fabiano Schivardi
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 519–559, https://doi.org/10.1093/restud/rdad027
+Published: 24 February 2023
+... is significantly larger (−1.8 percentage points). Dynamic specifications show the absence of any pre-trend and that, in thin markets, ROA returns to its pre-death level only 4 years after the death event. These results are confirmed when using a stacked event study approach, which accounts for the possibility...
+Abstract  
+Supplementary data
+Journal Article
+Negative Nominal Interest Rates and the Bank Lending ChannelGet access Arrow
+Gauti B Eggertsson and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2201–2275, https://doi.org/10.1093/restud/rdad085
+Published: 05 September 2023
+... its lower bound. A key question in the debate surrounding negative interest rates is whether they have detrimental effects on banks net worth. We conclude the empirical section by conducting an event study using equity values for publicly listed Swedish banks. In contrast to policy rate cuts in normal...
+Abstract 
+Journal Article
+Data-intensive Innovation and the State: Evidence from AI Firms in ChinaGet access Arrow
+Martin Beraja and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1701–1723, https://doi.org/10.1093/restud/rdac056
+Published: 13 August 2022
+... for unobserved time-varying sources of selection into data-rich contracts, it is reassuring that our event-study estimates show no differential software production prior to receipt of a data-rich contract, suggesting software production among firms receiving data-rich and data-scarce contracts would have...
+Abstract  
+Supplementary data
+Journal Article
+Unemployment Insurance Reforms and Labour Market DynamicsGet access Arrow
+Benjamin Hartung and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 517–555, https://doi.org/10.1093/restud/rdaf019
+Published: 25 March 2025
+... from the cut in maximum benefit duration in an event study. We consider workers younger than 45 and workers 45 to 49. We assign each age group the reform-induced log changes of maximum unemployment benefit duration from the pre- to the post-reform period Δ log ( D m a x ) , so...
+Abstract  
+Supplementary data
+Journal Article
+Gender Preferences in Job Vacancies and Workplace Gender Diversity Open Access
+David Card and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2437–2471, https://doi.org/10.1093/restud/rdae085
+Published: 21 August 2024
+Abstract  
+Supplementary data
+Journal Article
+The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist Open Access
+Milena Djourelova and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1738–1772, https://doi.org/10.1093/restud/rdae049
+Published: 06 May 2024
+... and year. Figure  4 shows an event-study for this effect, estimated following the method proposed by de Chaisemartin and D’Haultfoeuille (2020) . The figure presents first-difference placebos for the pre-entry period, and cumulative dynamic effects (corresponding to long differences relative to t...
+Abstract  
+Supplementary data
+Journal Article
+Women in the Courtroom: Technology and Justice Open Access
+Heng Chen and others
+The Review of Economic Studies, rdaf066, https://doi.org/10.1093/restud/rdaf066
+Published: 01 August 2025
+... gradually increased after the reform’s introduction, we expect to observe a progressive strengthening of the reform’s impact, rather than an abrupt, discontinuous change. To investigate, we employ an event study model and exploit the variation in the timing of the reform across prefectures (i.e...
+Abstract  
+Supplementary data
+Journal Article
+What Drives Demand for State-Run Lotteries? Evidence and Welfare Implications Free
+Benjamin B Lockwood and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2578–2623, https://doi.org/10.1093/restud/rdae086
+Published: 21 August 2024
+... in the jackpot over time. In California, lower prizes also roll over if they are not won, and winning the second prize is unlikely enough that it rolls over regularly. We identify the effect of ticket prices on demand from event studies of when Mega Millions and Powerball separately increased their prices from...
+Abstract  
+Supplementary data
+Journal Article
+Contract Terms, Employment Shocks, and Default in Credit CardsGet access Arrow
+Sara G Castellanos and others
+The Review of Economic Studies, rdaf079, https://doi.org/10.1093/restud/rdaf079
+Published: 24 September 2025
+...— Keys and Wang (2019) study anchoring on minimum payments using an event-study design, while d’Astous and Shore (2017) use a difference-in-differences approach on a non-experimental change in minimum payments (both in the U.S.). 7 Fourth, a substantial literature has focussed...
+Abstract  
+Supplementary data
+Journal Article
+Behavioural Responses to Wealth Taxation: Evidence from ColombiaGet access Arrow
+Juliana Londoño-Vélez and Javier Ávila-Mahecha
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2624–2655, https://doi.org/10.1093/restud/rdae076
+Published: 19 July 2024
+... their assets to tax havens. Employing an event-study design, we demonstrate that individuals who incorporate offshore entities in years when wealth is taxed subsequently report fewer assets to Colombian authorities, indicating a strategy of concealing assets in hard-to-track entities to minimise the impact...
+Abstract  
+Supplementary data
+Journal Article
+On “Trade Induced Technical Change: The Impact of Chinese Imports on Innovation, IT, and Productivity”Get access Arrow
+Douglas L Campbell and Karsten Mau
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2555–2559, https://doi.org/10.1093/restud/rdab037
+Published: 25 July 2021
+...-in-difference event study diagram for two of the main data samples used by BDvR (the baseline sample and a longer one). BDvR used the removal of textile quotas upon China’s WTO entry as a proxy or IV for intensifying competition. We compare the evolution of patents in textile sectors in which the quotas...
+Abstract 
+Journal Article
+Algorithmic Recommendations and Human DiscretionGet access Arrow
+Victoria Angelova and others
+The Review of Economic Studies, rdaf084, https://doi.org/10.1093/restud/rdaf084
+Published: 15 September 2025
+Abstract  
+Supplementary data
+Journal Article
+Liquidity Risk and Long-Term Finance: Evidence from a Natural ExperimentGet access Arrow
+M Ali Choudhary and Nicola Limodio
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1278–1313, https://doi.org/10.1093/restud/rdab065
+Published: 23 September 2021
+Abstract  
+Supplementary data
+Journal Article
+Corruption and FirmsGet access Arrow
+Emanuele Colonnelli and Mounu Prem
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 695–732, https://doi.org/10.1093/restud/rdab040
+Published: 25 July 2021
+...-relevant reduced-form impact of the audits, and explore the economic mechanisms at play. The context we study is unique in that anti-corruption audits are randomized across municipalities over time. The design of the program therefore lends itself to a municipality-level event-study estimation method...
+Abstract  
+Supplementary data
+Exploiting Growth Opportunities: The Role of Internal Labour MarketsGet access Arrow
+Giacinta Cestone and others
+The Review of Economic Studies, Volume 91, Issue 5, October 2024, Pages 2676–2716, https://doi.org/10.1093/restud/rdad094
+Published: 21 September 2023
+Abstract  
+Supplementary data
+Journal Article
+Using Stock Price Information to Regulate FirmsGet access Arrow
+Antoine Faure-Grimaud
+The Review of Economic Studies, Volume 69, Issue 1, January 2002, Pages 169–190, https://doi.org/10.1111/1467-937X.00202
+Published: 01 January 2002
+... andMarch 1995. Indeed, the event study of Dnes et al. (1998) shows that during the 20 days around the regulator's August decision alone, the RECs outperformed the market by 20%, a statistically sig• nificant increase, and kept outperforming it steadily until March. Part of the latter rise was also...
+Abstract 
+Journal Article
+Quasi-Experimental Shift-Share Research DesignsGet access Arrow
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 181–213, https://doi.org/10.1093/restud/rdab030
+Published: 08 June 2021
+... research designs, including work by Borusyak and Jaravel (2017) , Goodman-Bacon (2018) , Sun and Abraham (2021) , and Callaway and Sant’Anna (2021) for event study designs; de Chaisemartin and D’Haultfoeuille (2020) for two-way fixed effects regressions; Sloczyński (2021) for regressions...
+Abstract  
+Supplementary data
+Journal Article
+Rank Effects in Bargaining: Evidence from Government FormationGet access Arrow
+Thomas Fujiwara and Carlos Sanz
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1261–1295, https://doi.org/10.1093/restud/rdz004
+Published: 29 January 2019
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+The Slaughter of the Bison and Reversal of Fortunes on the Great PlainsGet access Arrow
+Donn L Feir and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1634–1670, https://doi.org/10.1093/restud/rdad060
+Published: 30 May 2023
+... of bison-reliant nations would have been the same as nations that were not bison-reliant were it not for the bison’s slaughter. While we cannot formally test this parallel trends assumption, we can evaluate its validity using an event study framework that interacts each 5-year birth cohort...
+Abstract  
+Supplementary data
+Journal Article
+Does Pricing Carbon Mitigate Climate Change? Firm-Level Evidence from the European Union Emissions Trading System Open Access
+Jonathan Colmer and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1625–1660, https://doi.org/10.1093/restud/rdae055
+Published: 24 May 2024
+Abstract  
+Supplementary data
+Journal Article
+Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field ExperimentsGet access Arrow
+Alec Brandon and others
+The Review of Economic Studies, rdag012, https://doi.org/10.1093/restud/rdag012
+Published: 20 February 2026
+... of the HER, we investigate the underlying dynamics with an event study analysis of the mover sample. Our analysis divides time into six-month intervals in the baseline, comparison, and move periods. Each estimate is normalized by the level of control group electricity consumption in the baseline period (see...
+Abstract  
+Supplementary data
+Journal Article
+Trauma at School: The Impacts of Shootings on Students’ Human Capital and Economic OutcomesGet access Arrow
+Marika Cabral and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 327–365, https://doi.org/10.1093/restud/rdaf027
+Published: 10 June 2025
+... at the shooting and control schools within each match group in the absence of a shooting. To assess the validity of this assumption, we compare raw trends in outcomes between shooting and control schools. In addition, we estimate event study specifications of the following form: (2) Y i s g t...
+Abstract  
+Supplementary data
+Journal Article
+Landing the First Job: The Value of Intermediaries in Online HiringGet access Arrow
+Christopher T. Stanton and Catherine Thomas
+The Review of Economic Studies, Volume 83, Issue 2, April 2016, Pages 810–854, https://doi.org/10.1093/restud/rdv042
+Published: 17 September 2015
+... that inexperienced affiliates are at least 75% more likely to find any work; they find jobs after less search time and effort; and they earn initial hourly wages that are 20% higher than observably similar non-affiliates. An event study that examines the behaviour of a subset of workers who switch into agency...
+Abstract  
+Supplementary data
+Journal Article
+Long-Run Effects of Lottery Wealth on Psychological Well-Being Open Access
+Erik Lindqvist and others
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2703–2726, https://doi.org/10.1093/restud/rdaa006
+Published: 12 February 2020
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Provider Diversity on Racial Health Disparities: Evidence from the Military Open Access
+Michael Frakes and Jonathan Gruber
+The Review of Economic Studies, rdaf072, https://doi.org/10.1093/restud/rdaf072
+Published: 01 October 2025
+... event-study estimation strategy, it differs from their primary strategy, which had included non-movers to help identify place effects. As highlighted in Frakes et al. (2023a) , a moving-based strategy that excludes non-movers has the advantage of not needing to assume place effects...
+Abstract  
+Supplementary data
+Journal Article
+Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine’s WarGet access Arrow
+Vasily Korovkin and others
+The Review of Economic Studies, rdaf080, https://doi.org/10.1093/restud/rdaf080
+Published: 11 September 2025
+..., as described in Appendix B . These sharp declining patterns are confirmed in the event-study graphs displayed in Figure  A.2 , which show that an average firm reduced its share of sales to (purchases from) the conflict areas by approximately 12 (8) percentage points by 2016—the almost entire aggregate shares...
+Abstract  
+Supplementary data
+Journal Article
+The Impact of Car Pollution on Infant and Child Health: Evidence from Emissions CheatingGet access Arrow
+Diane Alexander and Hannes Schwandt
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 2872–2910, https://doi.org/10.1093/restud/rdac007
+Published: 16 February 2022
+... as counties with high cheating diesel shares. We further analyse the “reversed experiment” of Volkswagen buying back cheating cars during the post-scandal period, provide shift-share instruments for the cheating diesel rollout, and show event studies as well as balancing regressions. Our study is the first...
+Abstract  
+Supplementary data
+Journal Article
+Down the River: Glyphosate Use in Agriculture and Birth Outcomes of Surrounding PopulationsGet access Arrow
+Mateus Dias and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 2943–2981, https://doi.org/10.1093/restud/rdad011
+Published: 06 February 2023
+Abstract  
+Supplementary data
+Journal Article
+The Mortality Cost of Political ConnectionsGet access Arrow
+Raymond Fisman and Yongxiang Wang
+The Review of Economic Studies, Volume 82, Issue 4, October 2015, Pages 1346–1382, https://doi.org/10.1093/restud/rdv020
+Published: 15 May 2015
+...) for a survey, Harrison and Kacperczyk (2009) for a recent analysis of social responsibility and long-run returns, and Hamilton (1995) for an event study of environmental responsibility and market returns). A separate stream of research focuses on social responsibility as an outcome variable. Papers...
+Abstract  
+Supplementary data
+Journal Article
+Racial Diversity and Racial Policy Preferences: The Great Migration and Civil RightsGet access Arrow
+Alvaro Calderon and others
+The Review of Economic Studies, Volume 90, Issue 1, January 2023, Pages 165–200, https://doi.org/10.1093/restud/rdac026
+Published: 06 May 2022
+... of the name of the victim and the place of the lynching. By conducting a series of event studies, we document that, in the weeks following a lynching, northern local newspapers were more likely to report the episode in counties that had received more African Americans in previous years. A second, possibly...
+Abstract  
+Supplementary data
+Journal Article
+Market Structure and Extortion: Evidence from 50,000 Extortion PaymentsGet access Arrow
+Zach Y Brown and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1595–1624, https://doi.org/10.1093/restud/rdae057
+Published: 23 May 2024
+... have affected competition long before or after the pact (e.g. the 2012 truce). Nevertheless, we show event-study estimates and conduct robustness exercises using extortion data from before June 2015. The coefficient of interest in equation ( 4 ), β, is interpreted as the change...
+Abstract  
+Supplementary data
+Journal Article
+Latent Heterogeneity in the Marginal Propensity to ConsumeGet access Arrow
+Daniel Lewis and others
+The Review of Economic Studies, rdaf102, https://doi.org/10.1093/restud/rdaf102
+Published: 18 February 2026
+... al. (2024) have argued that specifications like ( 1 ) may fail to identify (functions of) treatment effects in event studies with staggered treatment, particularly in the presence of heterogeneity, due to “forbidden comparisons” between newly treated and previously treated units. In practice, we...
+Abstract  
+Supplementary data
+Journal Article
+Economic Integration and the Transmission of DemocracyGet access Arrow
+Marco Tabellini and Giacomo Magistretti
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2765–2792, https://doi.org/10.1093/restud/rdae083
+Published: 09 August 2024
+... two separate sources of variation. First, estimating event studies around the first large increase in predicted economic integration with democracies, we observe a gradual, but persistent improvement in baseline autocracies’ democracy score. Second, we study the effects of (instrumented...
+Abstract  
+Supplementary data
+Journal Article
+Property Rights, Land Misallocation, and Agricultural Efficiency in ChinaGet access Arrow
+Amalavoyal Chari and others
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1831–1862, https://doi.org/10.1093/restud/rdaa072
+Published: 05 November 2020
+... the underidentification problem that arises in event studies without such a control group ( Borusyak and Jaravel, 2017 ). The specification in equation 4.2 above allows us to test the identification assumption that the timing of the implementation of the reform in each province is exogenous to our outcomes of interest...
+Abstract  
+Supplementary data
+Credit Allocation and Macroeconomic FluctuationsGet access Arrow
+Karsten Müller and Emil Verner
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3645–3676, https://doi.org/10.1093/restud/rdad112
+Published: 04 December 2023
+... during credit booms? Figure  4 presents an event study of the average cumulative increase in credit-to-GDP during major booms and breaks this down by sectors. Panel (a) plots the contribution of individual corporate sectors and the household sector to the total increase in private credit-to-GDP, while...
+Abstract  
+Supplementary data
+Journal Article
+Does Conflict of Interest Lead to Biased Coverage? Evidence from Movie ReviewsGet access Arrow
+Stefano Dellavigna and Johannes Hermle
+The Review of Economic Studies, Volume 84, Issue 4, October 2017, Pages 1510–1550, https://doi.org/10.1093/restud/rdx002
+Published: 02 February 2017
+Abstract  
+Supplementary data
+Journal Article
+Bewley BanksGet access Arrow
+Rustam Jamilov and Tommaso Monacelli
+The Review of Economic Studies, rdaf062, https://doi.org/10.1093/restud/rdaf062
+Published: 28 August 2025
+... failures. For one, we employ the event-study approach that is popular in the open-economy macroeconomics literature ( Calvo et al., 2006 ; Mendoza, 2010 ), simulate the model for a large number of periods, and identify crisis events as incidents of aggregate output falling below a certain...
+Abstract  
+Supplementary data
+Journal Article
+Time Consistency and Duration of Government Debt: A Model of Quantitative EasingGet access Arrow
+Saroj Bhattarai and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1759–1799, https://doi.org/10.1093/restud/rdac063
+Published: 07 September 2022
+Abstract  
+Supplementary data
+Journal Article
+Financial Fragility in Small Open Economies: Firm Balance Sheets and the Sectoral StructureGet access Arrow
+Yannick Kalantzis
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 1194–1222, https://doi.org/10.1093/restud/rdv011
+Published: 06 March 2015
+...-tradable sector relative to that of the tradable sector—the non-tradable to tradable (N-to-T) ratio—increases above its trend in the first few years of an episode of large capital inflows. Figure 1 a summarizes an event study using yearly data on 40 countries between 1970 and 2010. In this sample, 47...
+Abstract  
+Supplementary data
+Journal Article
+Religion, Education, and the State Open Access
+Samuel Bazzi and others
+The Review of Economic Studies, rdaf071, https://doi.org/10.1093/restud/rdaf071
+Published: 26 September 2025
+...). Robust standard errors are clustered by village in panels (c) and (d). We provide further evidence of this trend break in Figures 2 and 3 , which plot event studies showing the dynamic response to the state’s primary school expansion. Figure  2 allows β in Equation ( 1 ) to vary by semi...
+Abstract  
+Supplementary data
+Journal Article
+Wealth Taxation and Household Saving: Evidence from Assessment Discontinuities in NorwayGet access Arrow
+Marius A K Ring
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3375–3402, https://doi.org/10.1093/restud/rdae100
+Published: 15 October 2024
+Abstract  
+Supplementary data
+Journal Article
+Information and Bargaining through Agents: Experimental Evidence from Mexico’s Labour Courts Open Access
+Joyce Sadka and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3677–3711, https://doi.org/10.1093/restud/rdae003
+Published: 01 February 2024
+Abstract  
+Supplementary data
+Journal Article
+Racial Discrimination and the Social Contract: Evidence from U.S. Army Enlistment During WWIIGet access Arrow
+Nancy Qian and Marco Tabellini
+The Review of Economic Studies, Volume 93, Issue 2, March 2026, Pages 1261–1295, https://doi.org/10.1093/restud/rdaf038
+Published: 22 May 2025
+Abstract  
+Supplementary data
+Journal Article
+How Do Inheritances Shape Wealth Inequality? Theory and Evidence from Sweden Open Access
+Arash Nekoei and David Seim
+The Review of Economic Studies, Volume 90, Issue 1, January 2023, Pages 463–498, https://doi.org/10.1093/restud/rdac016
+Published: 31 March 2022
+... an inheritance. We thus demean each outcome with the control-group mean so that heir ’s outcome at time is , where is the control-group mean of at time . We then estimate the following event-study equation: (7) $$\begin{equation} \hat{y}_{i,t}=\gamma_{i}+\sum_{k}\beta_{k}I_{t-\sigma(i...
+Abstract  
+Supplementary data
+Journal Article
+The Aggregate Implications of Mergers and AcquisitionsGet access Arrow
+Joel M David
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1796–1830, https://doi.org/10.1093/restud/rdaa077
+Published: 12 November 2020
+... from indirect equilibrium adjustments in market prices, features that are new to my study. There is a large body of work focusing on measuring the gains and split from merger using event-study analysis of financial market data and a smaller number of papers that investigate gains by examining the pre...
+Abstract  
+Supplementary data
+Journal Article
+Patent Term, Innovation, and the Role of Technology Disclosure ExternalitiesGet access Arrow
+Fabio Bertolotti
+The Review of Economic Studies, rdag005, https://doi.org/10.1093/restud/rdag005
+Published: 19 January 2026
+Abstract  
+Supplementary data
+Journal Article
+The Cost of Wage Rigidity Open Access
+Ester Faia and Vincenzo Pezone
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 301–339, https://doi.org/10.1093/restud/rdad020
+Published: 16 February 2023
+Abstract  
+Supplementary data
+Journal Article
+Job Displacement, Unemployment Benefits and Domestic Violence Open Access
+Sonia Bhalotra and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3649–3681, https://doi.org/10.1093/restud/rdaf004
+Published: 08 July 2025
+Abstract  
+Supplementary data
+Journal Article
+Devaluations, Deposit Dollarization, and Household HeterogeneityGet access Arrow
+Francesco Ferrante and Nils Gornemann
+The Review of Economic Studies, rdaf109, https://doi.org/10.1093/restud/rdaf109
+Published: 24 December 2025
+... intermediaries or one without heterogeneous households would fail to capture these dynamics. In the first part of the paper, we provide novel empirical results suggesting that deposit dollarization makes emerging economies more vulnerable during a devaluation. First, we use an event-study analysis to show...
+Abstract  
+Supplementary data
+Journal Article
+Disease Control and Inequality Reduction: Evidence from a Tuberculosis Testing and Vaccination CampaignGet access Arrow
+Aline Bütikofer and Kjell G Salvanes
+The Review of Economic Studies, Volume 87, Issue 5, October 2020, Pages 2087–2125, https://doi.org/10.1093/restud/rdaa022
+Published: 16 June 2020
+Abstract  
+Supplementary data
+Journal Article
+Feedback and Learning: The Causal Effects of Reversals on Judicial Decision-Making Open Access
+Manudeep Bhuller and Henrik Sigstad
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2359–2397, https://doi.org/10.1093/restud/rdae073
+Published: 25 June 2024
+... reversals that result in a sentence reduction (increase). Exploring the time-series profile of trial judges’ decisions around reversals, we further document patterns consistent with mean reversion in decision-making, which would invalidate inference based on event-study designs. By contrast, IV estimates do...
+Abstract  
+Supplementary data
+Journal Article
+How Responsive Are Wages to Firm-Specific Changes in Labour Demand? Evidence from Idiosyncratic Export Demand ShocksGet access Arrow
+Andrew Garin and Filipe Silvério
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1671–1710, https://doi.org/10.1093/restud/rdad069
+Published: 12 July 2023
+Abstract  
+Supplementary data
+Journal Article
+Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labour Market Outcomes in NorwayGet access Arrow
+Marianne Bertrand and others
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 191–239, https://doi.org/10.1093/restud/rdy032
+Published: 21 June 2018
+Abstract  
+Supplementary data
+Journal Article
+Innovation and Top Income Inequality Open Access
+Philippe Aghion and others
+The Review of Economic Studies, Volume 86, Issue 1, January 2019, Pages 1–45, https://doi.org/10.1093/restud/rdy027
+Published: 01 June 2018
+Abstract  
+Supplementary data
+Labour Unrest and the Quality of Production: Evidence from the Construction Equipment Resale MarketGet access Arrow
+Alexandre Mas
+The Review of Economic Studies, Volume 75, Issue 1, January 2008, Pages 229–258, https://doi.org/10.1111/j.1467-937X.2007.00461.x
+Published: 01 January 2008
+... is the econometrician's advantage over the firm that I exploit. The event studied in this paper is a well-known confrontation that occurred between the United Auto Workers (UAW) and Caterpillar through the better part of the 1990's. The dispute, which began when the UAW contract with Caterpillar expired in September 1991...
+Abstract  
+Supplementary data
+Journal Article
+Bank Capital Redux: Solvency, Liquidity, and CrisisGet access Arrow
+Òscar Jordà and others
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 260–286, https://doi.org/10.1093/restud/rdaa040
+Published: 08 August 2020
+... of the capital ratio was above/below the median. Figure 4 Event study of key variables centred on the crisis year. Notes: This figure presents the path of key variables around financial crises. Year corresponds to a systemic financial crisis. The values of the respective ratio are scaled to equal...
+Abstract  
+Supplementary data
+Journal Article
+Balance Sheet Effects, Bailout Guarantees and Financial CrisesGet access Arrow
+Martin Schneider and Aaron Tornell
+The Review of Economic Studies, Volume 71, Issue 3, July 2004, Pages 883–913, https://doi.org/10.1111/j.1467-937X.2004.00308.x
+Published: 01 July 2004
+... in several papers. 3 Here we illustrate them through an event study on a set of 11 frequently studied countries over the period 1980–1999. The countries are Argentina, Brazil, Chile, Finland, Indonesia, Korea, Malaysia, Mexico, Philippines, Sweden and Thailand. During the typical crisis, the real...
+Abstract 
+Journal Article
+Competition and Career Advancement Open Access
+Julian V Johnsen and others
+The Review of Economic Studies, Volume 91, Issue 5, October 2024, Pages 2954–2980, https://doi.org/10.1093/restud/rdad099
+Published: 13 October 2023
+... competitors sets a focal father on a different earnings path compared to a focal father with a low share of leave-eligible competitors. Figure 6 Effect of competitors' leave eligibility on focal fathers' log earnings: Event study Notes: This figure displays the event year specific effects...
+Abstract  
+Supplementary data
+Journal Article
+Strategic Liquidity Supply and Security DesignGet access Arrow
+Bruno Biais and Thomas Mariotti
+The Review of Economic Studies, Volume 72, Issue 3, July 2005, Pages 615–649, https://doi.org/10.1111/j.1467-937X.2005.00345.x
+Published: 01 July 2005
+... component of the small trade spread arising in screening models of market microstructure ( Glosten, 1994 ) and in line with event studies documenting a drop in the market perception of the value of a firm when sales of securities are announced (see, for instance, Mikkelson and Partch (1986) ). While...
+Abstract 
+Journal Article
+Monetary Policy and Birth Rates: The Effect of Mortgage Rate Pass-Through on FertilityGet access Arrow
+Fergus Cumming and Lisa Dettling
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 229–258, https://doi.org/10.1093/restud/rdad034
+Published: 04 March 2023
+..., fade to zero within three months, and remain near zero through the end of the first year. These magnitudes are quantitatively comparable to those we estimated in the first part of the paper and the time series pattern is nearly identical to the pattern identified in the individual-level event study...
+Abstract  
+Supplementary data
+Journal Article
+Real Options and Risk DynamicsGet access Arrow
+Dirk Hackbarth and Timothy Johnson
+The Review of Economic Studies, Volume 82, Issue 4, October 2015, Pages 1449–1482, https://doi.org/10.1093/restud/rdv021
+Published: 15 May 2015
+... lagged medium-term returns and future returns. The phenomenon of “post-event drift” is the tendency in long-horizon event studies of returns to continue in the same direction as the instantaneous reaction to significant firm-specific news, e.g . months or even quarters of abnormal outperformance...
+Abstract  
+Supplementary data
+Journal Article
+Firm Inattention and the Efficacy of Monetary Policy: A Text-Based ApproachGet access Arrow
+Wenting Song and Samuel Stern
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3438–3469, https://doi.org/10.1093/restud/rdae102
+Published: 23 October 2024
+... using an event-study design that exploits high-frequency variation in firms’ market values around FOMC announcements. This test requires combining our prevalence attention measure with daily CRSP stock prices, quarterly Compustat firm financials ( CCM 2020 ), and high-frequency monetary shocks...
+Abstract  
+Supplementary data
+Journal Article
+Culture and the Historical Fertility TransitionGet access Arrow
+Brian Beach and W Walker Hanlon
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1669–1700, https://doi.org/10.1093/restud/rdac059
+Published: 30 August 2022
+Abstract  
+Supplementary data
+Journal Article
+Attention Utility: Evidence from Individual Investors Open Access
+Edika Quispe-Torreblanca and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 664–696, https://doi.org/10.1093/restud/rdaf028
+Published: 26 May 2025
+... of the individual’s imperfectly correlated portfolio. Our research design uses an event study of login activity in the days following the purchase of a new stock. We show that recently acquired stocks which make gains lead to increased account logins on subsequent days compared to stocks that make losses. This effect...
+Abstract  
+Supplementary data
+Journal Article
+Haste or Waste? Peer Pressure and Productivity in the Emergency DepartmentGet access Arrow
+David Silver
+The Review of Economic Studies, Volume 88, Issue 3, May 2021, Pages 1385–1417, https://doi.org/10.1093/restud/rdaa054
+Published: 28 August 2020
+Abstract  
+Supplementary data
+Journal Article
+Tax Advantages and Imperfect Competition in Auctions for Municipal BondsGet access Arrow
+Daniel Garrett and others
+The Review of Economic Studies, Volume 90, Issue 2, March 2023, Pages 815–851, https://doi.org/10.1093/restud/rdac035
+Published: 16 June 2022
+Abstract  
+Supplementary data
+Journal Article
+Institutions, Comparative Advantage, and the Environment Open Access
+Joseph S Shapiro
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 4152–4193, https://doi.org/10.1093/restud/rdaf012
+Published: 27 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Surviving Childhood: Effects of Removing a Child From HomeGet access Arrow
+Ronja Helénsdotter
+The Review of Economic Studies, Volume 93, Issue 2, March 2026, Pages 1001–1037, https://doi.org/10.1093/restud/rdaf044
+Published: 11 June 2025
+... for removed and non-removed children. All in all, Figure  2 illustrates that it is difficult to use event studies to estimate the causal effects of removal in this context. The aim is to estimate the causal effect of removal on child outcomes. Consider the model: (2) Y i , c , t = β R i...
+Abstract  
+Supplementary data
+Journal Article
+Market Power in Coal Shipping and Implications for U.S. Climate PolicyGet access Arrow
+Louis Preonas
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2508–2537, https://doi.org/10.1093/restud/rdad090
+Published: 07 September 2023
+Abstract  
+Supplementary data
+Journal Article
+Managerial Quality and Productivity DynamicsGet access Arrow
+Achyuta Adhvaryu and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1569–1607, https://doi.org/10.1093/restud/rdac062
+Published: 08 September 2022
+Abstract  
+Supplementary data
+Journal Article
+Organized Crime, Violence, and Politics Open Access
+Alberto Alesina and others
+The Review of Economic Studies, Volume 86, Issue 2, March 2019, Pages 457–499, https://doi.org/10.1093/restud/rdy036
+Published: 27 July 2018
+.... One additional political homicide in a given municipality during the electoral period brings on average a 2.4 percentage point decrease in the vote share of the Left in the same municipality, and a similar effect in neighbouring municipalities. These findings are consistent with event-study evidence...
+Abstract  
+Supplementary data

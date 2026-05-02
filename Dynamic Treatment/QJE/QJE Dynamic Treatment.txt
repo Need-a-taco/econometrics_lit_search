@@ -1,0 +1,170 @@
+﻿The Value of School Facility Investments: Evidence from a Dynamic Regression Discontinuity Design Purchased
+Stephanie Riegg Cellini and others
+The Quarterly Journal of Economics, Volume 125, Issue 1, February 2010, Pages 215–261, https://doi.org/10.1162/qjec.2010.125.1.215
+Published: 01 February 2010
+... expenditures passed and failed by narrow mar- gins. We extend this traditional regression discontinuity approach to identify the dynamic treatment effects of bond authorization on local housing prices, student achievement, and district composition. Our results indicate that California school districts...
+Abstract 
+Journal Article
+Micro MPCs and Macro Counterfactuals: The Case of the 2008 Rebates Purchased
+Jacob D Orchard and others
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 2001–2052, https://doi.org/10.1093/qje/qjaf015
+Published: 21 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Evolution vs. Creationism in the Classroom: The Lasting Effects of Science Education Open Access
+Benjamin W Arold
+The Quarterly Journal of Economics, Volume 139, Issue 4, November 2024, Pages 2331–2375, https://doi.org/10.1093/qje/qjae019
+Published: 14 June 2024
+... without never-treated states, the CS estimator uses not-yet-treated students as controls. To alleviate concerns about the multicollinearity of dynamic treatment effects and time fixed effects ( Borusyak, Jaravel, and Spiess forthcoming ), I bin both endpoints, which allows for separate identification even...
+Abstract  
+Supplementary data
+Journal Article
+What Drives Risky Prescription Opioid Use? Evidence From Migration Purchased
+Amy Finkelstein and others
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 3133–3189, https://doi.org/10.1093/qje/qjaf037
+Published: 07 August 2025
+... flexibility is motivated by the dynamics of the setting. Second, we show in the next section that the addiction channel naturally generates dynamic treatment effects that can be estimated with an event-study empirical design. We view the tight connection between a model of state dependence with binary states...
+Abstract  
+Supplementary data
+Journal Article
+The Effects of Police Violence on Inner-City Students Purchased
+Desmond Ang
+The Quarterly Journal of Economics, Volume 136, Issue 1, February 2021, Pages 115–168, https://doi.org/10.1093/qje/qjaa027
+Published: 09 September 2020
+Abstract  
+Supplementary data
+Journal Article
+The Effects of School Spending on Educational and Economic Outcomes: Evidence from School Finance Reforms Purchased
+C. Kirabo Jackson and others
+The Quarterly Journal of Economics, Volume 131, Issue 1, February 2016, Pages 157–218, https://doi.org/10.1093/qje/qjv036
+Published: 01 October 2015
+... , d = Q p p e . Accordingly, the coefficients for the two-way interactions, α T , Q p p e , map out the dynamic treatment effects (across birth cohorts from the same school district) of the first court-ordered SFR on log average school-age school spending...
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Minimum Wages on Low-Wage Jobs Purchased
+Doruk Cengiz and others
+The Quarterly Journal of Economics, Volume 134, Issue 3, August 2019, Pages 1405–1454, https://doi.org/10.1093/qje/qjz014
+Published: 02 May 2019
+Abstract  
+Supplementary data
+Journal Article
+What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S. Purchased
+Barbara Biasi and others
+The Quarterly Journal of Economics, Volume 140, Issue 3, August 2025, Pages 2329–2379, https://doi.org/10.1093/qje/qjaf013
+Published: 18 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Open Market Operations, Interest Rates, and Deposit Growth Purchased
+Richard G. Davis
+The Quarterly Journal of Economics, Volume 79, Issue 3, August 1965, Pages 431–454, https://doi.org/10.2307/1882707
+Published: 01 August 1965
+... of economic theory. Meigs's dynamic treatment of the relationship between open market operations and changes in the money supply represents a significant advance over earlier work, and the strong appeal of his model as a clarifying formalization of the problem places monetary economists greatly...
+Abstract 
+Journal Article
+Medicaid and Mortality: New Evidence From Linked Survey and Administrative Data Purchased
+Sarah Miller and others
+The Quarterly Journal of Economics, Volume 136, Issue 3, August 2021, Pages 1783–1829, https://doi.org/10.1093/qje/qjab004
+Published: 30 January 2021
+Abstract  
+Supplementary data
+Journal Article
+Earthquakes, Religion, and Transition to Self-Government in Italian Cities Purchased
+Marianna Belloc and others
+The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1875–1926, https://doi.org/10.1093/qje/qjw020
+Published: 11 July 2016
+Abstract  
+Supplementary data
+Journal Article
+Flexible Wages, Bargaining, and the Gender Gap Purchased
+Barbara Biasi and Heather Sarsons
+The Quarterly Journal of Economics, Volume 137, Issue 1, February 2022, Pages 215–266, https://doi.org/10.1093/qje/qjab026
+Published: 16 August 2021
+Abstract  
+Supplementary data
+Journal Article
+Economic Consequences of Kinship: Evidence From U.S. Bans on Cousin Marriage Purchased
+Arkadev Ghosh and others
+The Quarterly Journal of Economics, Volume 138, Issue 4, November 2023, Pages 2559–2606, https://doi.org/10.1093/qje/qjad018
+Published: 27 May 2023
+Abstract  
+Supplementary data
+Journal Article
+Inflammatory Political Campaigns and Racial Bias in Policing Purchased
+Pauline Grosjean and others
+The Quarterly Journal of Economics, Volume 138, Issue 1, February 2023, Pages 413–463, https://doi.org/10.1093/qje/qjac037
+Published: 21 September 2022
+Abstract  
+Supplementary data
+Journal Article
+Generative AI at Work Open Access
+Erik Brynjolfsson and others
+The Quarterly Journal of Economics, Volume 140, Issue 2, May 2025, Pages 889–942, https://doi.org/10.1093/qje/qjae044
+Published: 04 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Strict Id Laws Don’t Stop Voters: Evidence from a U.S. Nationwide Panel, 2008–2018 Purchased
+Enrico Cantoni and Vincent Pons
+The Quarterly Journal of Economics, Volume 136, Issue 4, November 2021, Pages 2615–2660, https://doi.org/10.1093/qje/qjab019
+Published: 22 May 2021
+Abstract  
+Supplementary data
+Journal Article
+Violence against Women at Work Purchased
+Abi Adams-Prassl and others
+The Quarterly Journal of Economics, Volume 139, Issue 2, May 2024, Pages 937–991, https://doi.org/10.1093/qje/qjad045
+Published: 18 September 2023
+Abstract  
+Supplementary data
+Journal Article
+Answering the Call of Automation: How the Labor Market Adjusted to Mechanizing Telephone Operation Purchased
+James Feigenbaum and Daniel P Gross
+The Quarterly Journal of Economics, Volume 139, Issue 3, August 2024, Pages 1879–1939, https://doi.org/10.1093/qje/qjae005
+Published: 26 February 2024
+Abstract  
+Supplementary data
+Journal Article
+Traditional Institutions in Modern Times: Dowries as Pensions When Sons Migrate Purchased
+Natalie Bau and others
+The Quarterly Journal of Economics, Volume 141, Issue 1, February 2026, Pages 205–262, https://doi.org/10.1093/qje/qjaf041
+Published: 13 August 2025
+Abstract  
+Supplementary data
+Journal Article
+Conviction, Incarceration, and Recidivism: Understanding the Revolving Door Purchased
+John Eric Humphries and others
+The Quarterly Journal of Economics, Volume 140, Issue 4, November 2025, Pages 2907–2962, https://doi.org/10.1093/qje/qjaf040
+Published: 07 August 2025
+Abstract  
+Supplementary data
+3G Internet and Confidence in Government Purchased
+Sergei Guriev and others
+The Quarterly Journal of Economics, Volume 136, Issue 4, November 2021, Pages 2533–2613, https://doi.org/10.1093/qje/qjaa040
+Published: 16 December 2020
+Abstract  
+Supplementary data
+Journal Article
+How Americans Respond to Idiosyncratic and Exogenous Changes in Household Wealth and Unearned Income Purchased
+Mikhail Golosov and others
+The Quarterly Journal of Economics, Volume 139, Issue 2, May 2024, Pages 1321–1395, https://doi.org/10.1093/qje/qjad053
+Published: 23 October 2023
+Abstract  
+Supplementary data
+Journal Article
+The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya Purchased
+Johannes Haushofer and Jeremy Shapiro
+The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1973–2042, https://doi.org/10.1093/qje/qjw025
+Published: 19 July 2016
+Abstract  
+Supplementary data
+Journal Article
+ACCEPTED MANUSCRIPT
+Trust and Innovation Within the Firm: Evidence from Matched CEO-Firm Data Purchased
+Kieu-Trang Nguyen
+The Quarterly Journal of Economics, qjag013, https://doi.org/10.1093/qje/qjag013
+Published: 26 February 2026
+Abstract  
+Supplementary data

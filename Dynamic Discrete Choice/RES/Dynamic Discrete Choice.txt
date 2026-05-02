@@ -1,0 +1,453 @@
+﻿Estimation of Dynamic Discrete Choice Models in Continuous Time with an Application to Retail CompetitionGet access Arrow
+Peter Arcidiacono and others
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 889–931, https://doi.org/10.1093/restud/rdw012
+Published: 28 March 2016
+... first develops a general framework for estimating and solving dynamic discrete choice models in continuous time that is computationally light and readily applicable to dynamic games. In the proposed framework, players face a standard dynamic discrete choice problem at decision times that occur...
+Abstract  
+Supplementary data
+Journal Article
+On the Iterated Estimation of Dynamic Discrete Choice GamesGet access Arrow
+Federico A Bugni and Jackson Bunting
+The Review of Economic Studies, Volume 88, Issue 3, May 2021, Pages 1031–1073, https://doi.org/10.1093/restud/rdaa032
+Published: 25 June 2020
+... Press, Standard Journals Publication Model ( https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model ) Abstract We study the first-order asymptotic properties of a class of estimators of the structural parameters in dynamic discrete choice games. We...
+Abstract 
+Journal Article
+Temporal-Difference Estimation of Dynamic Discrete Choice ModelsGet access Arrow
+Karun Adusumilli and Dita Eckardt
+The Review of Economic Studies, rdaf081, https://doi.org/10.1093/restud/rdaf081
+Published: 11 September 2025
+... to achieve parametric rates of convergence. Monte Carlo simulations confirm the properties of our algorithms in practice. Dynamic discrete choice models Dynamic discrete games Temporal-Difference learning Reinforcement Learning Recent years have seen a number of important developments in the field...
+Abstract  
+Supplementary data
+Journal Article
+Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic ModelGet access Arrow
+Rafael Araujo and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 72–105, https://doi.org/10.1093/restud/rdaf031
+Published: 22 May 2025
+...-efficient forest cover—i.e. when farmers internalize the social cost of carbon. We propose a dynamic discrete choice land-use model and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. The business-as-usual scenario implies an inefficient release...
+Abstract  
+Supplementary data
+Journal Article
+Identification of Time-Inconsistent Models: The Case of Insecticide-Treated Nets Open Access
+Aprajit Mahajan and others
+The Review of Economic Studies, rdag018, https://doi.org/10.1093/restud/rdag018
+Published: 04 March 2026
+... models. We formulate a dynamic discrete choice model in an unobservedly heterogeneous population of possibly time-inconsistent agents. We provide conditions under which all population type probabilities and preferences for both time-consistent and sophisticated agents are point-identified and sharp set...
+Abstract  
+Supplementary data
+Journal Article
+Efficient and Convergent Sequential Pseudo-Likelihood Estimation of Dynamic Discrete GamesGet access Arrow
+Adam Dearing and Jason R Blevins
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 981–1021, https://doi.org/10.1093/restud/rdae050
+Published: 14 May 2024
+... for dynamic discrete choice games of incomplete information. k-EPL considers the joint behaviour of multiple players simultaneously, as opposed to individual responses to other agents’ equilibrium play. This, in addition to reframing the problem from conditional choice probability (CCP) space...
+Abstract 
+Journal Article
+Immigration, Wages, and Education: A Labour Market Equilibrium Structural ModelGet access Arrow
+Joan Llull
+The Review of Economic Studies, Volume 85, Issue 3, July 2018, Pages 1852–1896, https://doi.org/10.1093/restud/rdx053
+Published: 18 September 2017
+... estimating a labour market equilibrium dynamic discrete choice model on U.S. micro-data for 1967–2007. Individuals adjust to immigration by changing education, participation, and/or occupation. Adjustments are heterogeneous: 4.2–26.2% of prime-aged native males change their careers; of them, some switch...
+Abstract  
+Supplementary data
+Journal Article
+Welfare Effects of Dynamic Matching: An Empirical AnalysisGet access Arrow
+Valentin Verdier and Carson Reeling
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 1008–1037, https://doi.org/10.1093/restud/rdab048
+Published: 30 September 2021
+... the importance of heterogeneity across participants and across allocated resources for determining the efficiency of a dynamic allocation mechanism. Market design One-sided matching Dynamic matching Dynamic discrete choice models D47 D61 H42 C51 C33 Government agencies are frequently tasked...
+Abstract  
+Supplementary data
+Journal Article
+Semiparametric Inference in Dynamic Binary Choice ModelsGet access Arrow
+A. Norets and X. Tang
+The Review of Economic Studies, Volume 81, Issue 3, July 2014, Pages 1229–1262, https://doi.org/10.1093/restud/rdt050
+Published: 15 December 2013
+... of the observed states. Dynamic discrete choice models Markov decision processes semiparametric inference identification Bayesian estimation MCMC C25 C35 C33 C14 C11 We show that in our framework the model can be reparameterized so that the observed state transition probabilities, the actual CCPs...
+Abstract  
+Supplementary data
+Journal Article
+A Simulation Estimator for Dynamic Models of Discrete ChoiceGet access Arrow
+V. Joseph Hotz and others
+The Review of Economic Studies, Volume 61, Issue 2, April 1994, Pages 265–289, https://doi.org/10.2307/2297981
+Published: 01 April 1994
+... models of optimal retirement or sterilization choice have this property. 2. This lack of terminating actions also greatly increases the complexity of the maximum likelihood strateg• ies as it entails integrating over all future paths. HOTZ et al. DYNAMIC DISCRETE CHOICE...
+Abstract 
+Journal Article
+An Instrumental Variable Approach to Dynamic ModelsGet access Arrow
+Steven T Berry and Giovanni Compiani
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1724–1758, https://doi.org/10.1093/restud/rdac061
+Published: 08 September 2022
+... literature, the shocks are then typically assumed to also be private information. 2 Under these assumptions, the dynamic policy function is often point-identified “directly from the data.” For instance, in the case of dynamic discrete choice models, estimating the policy boils down to estimation...
+Abstract  
+Supplementary data
+Journal Article
+Asymptotic Efficiency of Semiparametric Two-step GMMGet access Arrow
+Daniel Ackerberg and others
+The Review of Economic Studies, Volume 81, Issue 3, July 2014, Pages 919–943, https://doi.org/10.1093/restud/rdu011
+Published: 14 April 2014
+Abstract  
+Supplementary data
+Image
+Asymptotic variance of the    -PML estimator and optimal    -MD estimator o...
+Asymptotic variance of the -PML estimator and optimal -MD estimator o...Get access Arrow
+in On the Iterated Estimation of Dynamic Discrete Choice Games
+Published: 25 June 2020
+Figure 6 Asymptotic variance of the -PML estimator and optimal -MD estimator of as a function of the number of iterations when . The optimal -MD estimator is computed using the optimal weighting matrix in every iteration step.
+Image
+Asymptotic variance of the    -PML estimator of     as a function of the nu...
+Asymptotic variance of the -PML estimator of as a function of the nu...Get access Arrow
+in On the Iterated Estimation of Dynamic Discrete Choice Games
+Published: 25 June 2020
+Figure 3 Asymptotic variance of the -PML estimator of as a function of the number of iterations when .
+Image
+Asymptotic variance of the    -PML estimator and optimal    -MD estimator o...
+Asymptotic variance of the -PML estimator and optimal -MD estimator o...Get access Arrow
+in On the Iterated Estimation of Dynamic Discrete Choice Games
+Published: 25 June 2020
+Figure 4 Asymptotic variance of the -PML estimator and optimal -MD estimator of as a function of the number of iterations when . The optimal -MD estimator is computed using the optimal weighting matrix in every iteration step.
+Image
+Asymptotic variance of the    -PML estimator of     as a function of the nu...
+Asymptotic variance of the -PML estimator of as a function of the nu...Get access Arrow
+in On the Iterated Estimation of Dynamic Discrete Choice Games
+Published: 25 June 2020
+Figure 1 Asymptotic variance of the -PML estimator of as a function of the number of iterations when .
+Image
+Asymptotic variance of the    -PML estimator of     as a function of the nu...
+Asymptotic variance of the -PML estimator of as a function of the nu...Get access Arrow
+in On the Iterated Estimation of Dynamic Discrete Choice Games
+Published: 25 June 2020
+Figure 2 Asymptotic variance of the -PML estimator of as a function of the number of iterations when .
+Image
+Asymptotic variance of the    -PML estimator and optimal    -MD estimator o...
+Asymptotic variance of the -PML estimator and optimal -MD estimator o...Get access Arrow
+in On the Iterated Estimation of Dynamic Discrete Choice Games
+Published: 25 June 2020
+Figure 5 Asymptotic variance of the -PML estimator and optimal -MD estimator of as a function of the number of iterations when . The optimal -MD estimator is computed using the optimal weighting matrix in every iteration step.
+Journal Article
+Mergers, Innovation, and Entry-Exit Dynamics: Consolidation of the Hard Disk Drive Industry, 1996–2016Get access Arrow
+Mitsuru Igami and Kosuke Uetake
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2672–2702, https://doi.org/10.1093/restud/rdz044
+Published: 12 September 2019
+... dynamic discrete-choice model in Section 2 provides a clear mapping from the observed choices and their associated benefits to the implied costs of these choices, which is analogous to the way Cournot FOC mapped output data and demand elasticity into implied costs. For example, if we observe many...
+Abstract  
+Supplementary data
+Journal Article
+Conditional Choice Probabilities and the Estimation of Dynamic ModelsGet access Arrow
+V. Joseph Hotz and Robert A. Miller
+The Review of Economic Studies, Volume 60, Issue 3, July 1993, Pages 497–529, https://doi.org/10.2307/2298122
+Published: 01 July 1993
+... and fertility using data from the National Fertility Survey. 1. INTRODUCTION Over the last several years there has been increasing interest in estimating structural models of dynamic discrete choice. Empirical applications have been undertaken in the areas...
+Abstract 
+Extended GravityGet access Arrow
+Eduardo Morales and others
+The Review of Economic Studies, Volume 86, Issue 6, November 2019, Pages 2668–2712, https://doi.org/10.1093/restud/rdz007
+Published: 13 February 2019
+Abstract  
+Supplementary data
+Journal Article
+Yogurts Choose Consumers? Estimation of Random-Utility Models via Two-Sided MatchingGet access Arrow
+Odran Bonnet and others
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 3085–3114, https://doi.org/10.1093/restud/rdac006
+Published: 18 February 2022
+... of product-differentiated markets; see, e.g., Berry (1994) and Berry, Levinsohn and Pakes (1995) (BLP). It also plays an important role in two-step estimation procedures for dynamic discrete-choice models 3 (including Hotz and Miller (1993) , Aguirregabiria and Mira (2002) , Bajari...
+Abstract  
+Supplementary data
+Journal Article
+Cupid’s Invisible Hand: Social Surplus and Identification in Matching ModelsGet access Arrow
+Alfred Galichon and Bernard Salanié
+The Review of Economic Studies, Volume 89, Issue 5, October 2022, Pages 2600–2629, https://doi.org/10.1093/restud/rdab090
+Published: 22 December 2021
+... are the inversion formulae of Hotz and Miller (1993) and Arcidiacono and Miller (2011) for dynamic discrete choice models; but their scope is much more restricted since they only apply to multinomial logit and to GEV models, respectively. In contrast, parts 2 and 3 provide a constructive method to identify...
+Abstract  
+Supplementary data
+Journal Article
+Asymptotic Least Squares Estimators for Dynamic GamesGet access Arrow
+Martin Pesendorfer and Philipp Schmidt-Dengler
+The Review of Economic Studies, Volume 75, Issue 3, July 2008, Pages 901–928, https://doi.org/10.1111/j.1467-937X.2008.00496.x
+Published: 01 July 2008
+... of the dynamic game. We consider a model that is closest in spirit to the original contributions in Rust (1987) , Hotz and Miller (1993) , and much of the subsequent literature based on dynamic discrete choice. We assume that every period each player privately observes a vector of pay-off shocks drawn from...
+Abstract  
+Supplementary data
+Journal Article
+Dynamic Labour Force Participation of Married Women and Endogenous Work ExperienceGet access Arrow
+Zvi Eckstein and Kenneth I. Wolpin
+The Review of Economic Studies, Volume 56, Issue 3, July 1989, Pages 375–390, https://doi.org/10.2307/2297553
+Published: 01 July 1989
+... and embedding that solution is a maximum likelihood procedure (Wolpin, 1984, 1987).2 Another way to view this paper is as providing a firmer theoretical base for the recent literature on general dynamic discrete choice models as discussed by Heckman (1981). We specify the explicit dynamic finite...
+Abstract 
+Journal Article
+Normalizations and Misspecification in Skill Formation ModelsGet access Arrow
+Joachim Freyberger
+The Review of Economic Studies, rdaf078, https://doi.org/10.1093/restud/rdaf078
+Published: 04 September 2025
+... different context, Aguirregabiria and Suzuki (2014) discuss restrictions that were considered normalizations, but are restrictive assumptions. Kalouptsidi et al. (2021) show that certain counterfactuals in dynamic discrete choice models are identified, even when the model itself is not. Rubio...
+Abstract  
+Supplementary data
+Journal Article
+Salience, Myopia, and Complex Dynamic Incentives: Evidence from Medicare Part DGet access Arrow
+Christina M Dalton and others
+The Review of Economic Studies, Volume 87, Issue 2, March 2020, Pages 822–869, https://doi.org/10.1093/restud/rdz023
+Published: 19 April 2019
+Abstract  
+Supplementary data
+Journal Article
+Assessing Racial and Educational Segmentation in Large Marriage MarketsGet access Arrow
+Edoardo Ciscato
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3788–3839, https://doi.org/10.1093/restud/rdae115
+Published: 16 December 2024
+... individual types ( i , j ) is of type k when the match is formed. Introducing a finite number of time-invariant unobserved types next to i.i.d. random shocks is a popular solution to account for selection on unobservables in dynamic discrete choice models ( Arcidiacono and Miller, 2011...
+Abstract 
+Journal Article
+An Experiment on Time Preference and Misprediction in Unpleasant TasksGet access Arrow
+Ned Augenblick and Matthew Rabin
+The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 941–975, https://doi.org/10.1093/restud/rdy019
+Published: 14 May 2018
+Abstract  
+Supplementary data
+Journal Article
+Pairwise-Difference Estimation of a Dynamic Optimization ModelGet access Arrow
+Han Hong and Matthew Shum
+The Review of Economic Studies, Volume 77, Issue 1, January 2010, Pages 273–304, https://doi.org/10.1111/j.1467-937X.2009.00576.x
+Published: 01 January 2010
+... differs from those in other papers in the literature. For example, Magnac and Thesmar (2002) , Pesendorfer and Schmidt-Dengler (2008) , and Aguirregabiria (2005) all consider dynamic discrete-choice models, and focus on the non-parametric identification of the utility functions using the observed...
+Abstract 
+Journal Article
+Non-parametric Analysis of Time-Inconsistent PreferencesGet access Arrow
+Laura Blow and others
+The Review of Economic Studies, Volume 88, Issue 6, November 2021, Pages 2687–2734, https://doi.org/10.1093/restud/rdaa089
+Published: 02 January 2021
+Abstract 
+Journal Article
+Diversification, Market Entry, and the Global Internet Backbone Open Access
+El Hadi Caoui and Andrew Steck
+The Review of Economic Studies, rdaf097, https://doi.org/10.1093/restud/rdaf097
+Published: 11 November 2025
+Abstract  
+Supplementary data
+Journal Article
+Inefficient AutomationGet access Arrow
+Martin Beraja and Nathan Zorzi
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 69–96, https://doi.org/10.1093/restud/rdae019
+Published: 22 February 2024
+... along these dimensions. First, we introduce idiosyncratic mobility shocks ( Artuç et al., 2010 ), which leads to a dynamic discrete choice for reallocation and gross flows across occupations ( Moscarini and Vella, 2008 ). Second, we add uninsured earnings risk ( Floden and Lindé, 2001 ), which...
+Abstract  
+Supplementary data
+Journal Article
+Deforestation in the Amazon: A Unified Framework for Estimation and Policy AnalysisGet access Arrow
+Eduardo Souza-Rodrigues
+The Review of Economic Studies, Volume 86, Issue 6, November 2019, Pages 2713–2744, https://doi.org/10.1093/restud/rdy070
+Published: 06 December 2018
+Abstract  
+Supplementary data
+Journal Article
+Quick Job Entry or Long-Term Human Capital Development? The Dynamic Effects of Alternative Training SchemesGet access Arrow
+Aderonke Osikominu
+The Review of Economic Studies, Volume 80, Issue 1, January 2013, Pages 313–342, https://doi.org/10.1093/restud/rds022
+Published: 18 May 2012
+Abstract  
+Supplementary data
+Journal Article
+Optimal Pricing with Costly Adjustment: Evidence from Retail-Grocery PricesGet access Arrow
+Margaret E. Slade and G.R.E.Q.A.M.
+The Review of Economic Studies, Volume 65, Issue 1, January 1998, Pages 87–107, https://doi.org/10.1111/1467-937X.00036
+Published: 01 January 1998
+... probabilities, Hand Fj,j= 1, 2, are estimated by their empirical frequencies, and F is obtained from Hand Fj. The dynamic discrete-choice model can now be estimated by generalized method of moments (GMM). Let H(kt , e) be the predicted probability that the manager changes price, given the state...
+Abstract 
+Journal Article
+The Illiquidity of Water MarketsGet access Arrow
+Javier D Donna and José-Antonio Espín-Sánchez
+The Review of Economic Studies, rdag004, https://doi.org/10.1093/restud/rdag004
+Published: 17 January 2026
+... productivity shocks that are correlated across the decisions of buying and not-buying. We incorporate this feature by decomposing the stochastic term using the distributional assumptions of the nested logit, which we embed into the dynamic discrete-choice demand model. 12 As described above...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Estimation of Discrete Games with Weak Assumptions on InformationGet access Arrow
+Lorenzo Magnolfi and Camilla Roncoroni
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 2006–2041, https://doi.org/10.1093/restud/rdac058
+Published: 17 August 2022
+Abstract  
+Supplementary data
+Journal Article
+Carbon Taxes and Climate Commitment with Non-constant Time PreferenceGet access Arrow
+Terrence Iverson and Larry Karp
+The Review of Economic Studies, Volume 88, Issue 2, March 2021, Pages 764–799, https://doi.org/10.1093/restud/rdaa048
+Published: 21 August 2020
+Abstract  
+Supplementary data
+Journal Article
+Externalities and Benefit Design in Health InsuranceGet access Arrow
+Amanda Starc and Robert J Town
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2827–2858, https://doi.org/10.1093/restud/rdz052
+Published: 25 September 2019
+Abstract  
+Supplementary data
+Understanding the City Size Wage GapGet access Arrow
+Nathaniel Baum-Snow and Ronni Pavan
+The Review of Economic Studies, Volume 79, Issue 1, January 2012, Pages 88–127, https://doi.org/10.1093/restud/rdr022
+Published: 19 August 2011
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Work Experience on Female Wages and Labour SupplyGet access Arrow
+Sumru Altuğ and Robert A. Miller
+The Review of Economic Studies, Volume 65, Issue 1, January 1998, Pages 45–85, https://doi.org/10.1111/1467-937X.00035
+Published: 01 January 1998
+.... However, characterizing the endogenous distribution of the state variables in models of dynamic discrete choice, is, in general, difficult. Our solution to this problem is based on the intuition under Pareto optimality, the logarithm of an individual's shadow value of consumption decomposes...
+Abstract 
+Journal Article
+Optimal Decision Rules When Payoffs are Partially IdentifiedGet access Arrow
+Timothy Christensen and others
+The Review of Economic Studies, rdag017, https://doi.org/10.1093/restud/rdag017
+Published: 02 March 2026
+Abstract  
+Supplementary data
+Journal Article
+An Equilibrium Analysis of the Long-Term Care Insurance MarketGet access Arrow
+Ami Ko
+The Review of Economic Studies, Volume 89, Issue 4, July 2022, Pages 1993–2025, https://doi.org/10.1093/restud/rdab075
+Published: 02 November 2021
+Abstract  
+Supplementary data
+Journal Article
+The Welfare Effects of Incentive SchemesGet access Arrow
+Adam Copeland and Cyril Monnet
+The Review of Economic Studies, Volume 76, Issue 1, January 2009, Pages 93–113, https://doi.org/10.1111/j.1467-937X.2008.00513.x
+Published: 01 January 2009
+Abstract  
+Supplementary data
+Journal Article
+Taste Variation in Discrete Choice ModelsGet access Arrow
+Andrew Chesher and J. M. C. Santos Silva
+The Review of Economic Studies, Volume 69, Issue 1, January 2002, Pages 147–168, https://doi.org/10.1111/1467-937X.00201
+Published: 01 January 2002
+Abstract 
+Journal Article
+Measuring the Value of Children by Sex and Age Using a Dynamic Programming ModelGet access Arrow
+Namkee Ahn
+The Review of Economic Studies, Volume 62, Issue 3, July 1995, Pages 361–379, https://doi.org/10.2307/2298033
+Published: 01 July 1995
+...) estimated a structural dynamic model ofcontraceptive use. Montgomery focused on imper• fect fertility control, and a revealed-preference estimation ofdesired family sizes.Structural 364 REVIEW OF ECONOMIC STUDIES models of dynamic discrete choice have also been applied to other...
+Abstract 
+Journal Article
+Identification and Estimation of Dynamic Games When Players’ Beliefs Are Not in EquilibriumGet access Arrow
+Victor Aguirregabiria and Arvind Magesan
+The Review of Economic Studies, Volume 87, Issue 2, March 2020, Pages 582–625, https://doi.org/10.1093/restud/rdz013
+Published: 06 March 2019
+Abstract  
+Supplementary data
+Journal Article
+Welfare Dependence and Self-Control: An Empirical AnalysisGet access Arrow
+Marc K. Chan
+The Review of Economic Studies, Volume 84, Issue 4, October 2017, Pages 1379–1423, https://doi.org/10.1093/restud/rdx011
+Published: 30 March 2017
+Abstract  
+Supplementary data
+Journal Article
+Estimating Strategic Models of International Treaty Formation Open Access
+Ulrich J. Wagner
+The Review of Economic Studies, Volume 83, Issue 4, October 2016, Pages 1741–1778, https://doi.org/10.1093/restud/rdv054
+Published: 20 February 2016
+Abstract  
+Supplementary data
+Journal Article
+Better Lucky Than Rich? Welfare Analysis of Automobile Licence Allocations in Beijing and ShanghaiGet access Arrow
+Shanjun Li
+The Review of Economic Studies, Volume 85, Issue 4, October 2018, Pages 2389–2428, https://doi.org/10.1093/restud/rdx067
+Published: 17 November 2017
+Abstract  
+Supplementary data
+Journal Article
+Detection and Impact of Industrial Subsidies: The Case of Chinese ShipbuildingGet access Arrow
+Myrto Kalouptsidi
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 1111–1158, https://doi.org/10.1093/restud/rdx050
+Published: 18 August 2017
+Abstract  
+Supplementary data
+Journal Article
+Industrial Policy Implementation: Empirical Evidence from China’s Shipbuilding IndustryGet access Arrow
+Panle Jia Barwick and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3611–3648, https://doi.org/10.1093/restud/rdaf011
+Published: 28 March 2025
+Abstract  
+Supplementary data
+Journal Article
+Split-panel Jackknife Estimation of Fixed-effect ModelsGet access Arrow
+Geert Dhaene and Koen Jochmans
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 991–1030, https://doi.org/10.1093/restud/rdv007
+Published: 12 February 2015
+Abstract  
+Supplementary data
+Journal Article
+Learning by Doing vs. Learning About Match Quality: Can We Tell Them Apart?Get access Arrow
+Éva Nagypál
+The Review of Economic Studies, Volume 74, Issue 2, April 2007, Pages 537–566, https://doi.org/10.1111/j.1467-937X.2007.00430.x
+Published: 01 April 2007
+... difficult to calculate, I use a simulation-based estimation method, the Efficient Method of Moments (EMM), to estimate the model using a set of moments that arise in a dynamic, discrete-choice model. To choose the moments of interest, EMM relies on the use of an auxiliary model that provides a good...
+Abstract 
+Journal Article
+Consumer Durables and Inertial Behaviour: Estimation and Aggregation of (S, s) Rules for Automobile PurchasesGet access Arrow
+Orazio P. Attanasio
+The Review of Economic Studies, Volume 67, Issue 4, October 2000, Pages 667–696, https://doi.org/10.1111/1467-937X.00149
+Published: 01 October 2000
+Journal Article
+Simple Adaptive Size-Exact Testing for Full-Vector and Subvector Inference in Moment Inequality ModelsGet access Arrow
+Gregory Cox and Xiaoxia Shi
+The Review of Economic Studies, Volume 90, Issue 1, January 2023, Pages 201–228, https://doi.org/10.1093/restud/rdac015
+Published: 15 March 2022
+... of an exporting firm’s entry cost to a new market on its previous exporting to similar markets. Due to extended gravity, the set of markets the firm exports to has important dynamic implications for future entry costs. Thus, it becomes necessary to consider a dynamic discrete choice model with the choice set...
+Abstract  
+Supplementary data
+Journal Article
+Dynamic Regulation with Firm Linkages: Evidence from TexasGet access Arrow
+Matthew Leisten and Nicholas Vreugdenhil
+The Review of Economic Studies, rdag013, https://doi.org/10.1093/restud/rdag013
+Published: 30 January 2026
+... evolution from inspection and violation histories, which would require strong assumptions to maintain tractability. The second contribution is that we build a new empirical framework to study dynamic linked regulation. The framework combines elements of the moral hazard literature and the dynamic discrete...
+Abstract  
+Supplementary data
+Journal Article
+Moment Conditions for Dynamic Panel Logit Models with Fixed Effects Open Access
+Bo E Honoré and Martin Weidner
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3112–3137, https://doi.org/10.1093/restud/rdae097
+Published: 16 October 2024
+... example that implements the above program for static binary choice panel model with idiosyncratic error distributions that generalize the logistic case in a particular way. Dano (2023) uses “transition functions” to derive moment conditions for dynamic discrete choice logit panel models. This reproduces...
+Abstract  
+Supplementary data
+Journal Article
+The Dynamics of Markups and Inventories in Retailing FirmsGet access Arrow
+Victor Aguirregabiria
+The Review of Economic Studies, Volume 66, Issue 2, April 1999, Pages 275–308, https://doi.org/10.1111/1467-937X.00088
+Published: 01 April 1999
+Abstract
+The Dynamics of Return Migration, Human Capital Accumulation, and Wage Assimilation Open Access
+Jérôme Adda and others
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 2841–2871, https://doi.org/10.1093/restud/rdac003
+Published: 12 February 2022
+... a latent state variable (host country-specific human capital ) which contributes to wage growth. Second, the model includes an autocorrelated stochastic preference shock . Both these features present a challenge for identification that we address below. Typical dynamic discrete choice models...
+Abstract  
+Supplementary data
+Journal Article
+Estimating Ethnic Preferences Using Ethnic Housing Quotas in SingaporeGet access Arrow
+Maisy Wong
+The Review of Economic Studies, Volume 80, Issue 3, July 2013, Pages 1178–1214, https://doi.org/10.1093/restud/rdt002
+Published: 03 February 2013
+Abstract  
+Supplementary data
+Journal Article
+Health, Risky Behaviour and the Value of Medical Innovation for Infectious DiseaseGet access Arrow
+Tat Y. Chan and others
+The Review of Economic Studies, Volume 83, Issue 4, October 2016, Pages 1465–1510, https://doi.org/10.1093/restud/rdv053
+Published: 29 October 2015
+... of this article is organized as follows: Section 2 introduces the data. In Section 3 , we specify a dynamic discrete choice model of sexual behaviour. In Section 4 , we discuss the estimation and identification of our model. Section 5 describes preference parameters. In Section 6 , we discuss how...
+Abstract  
+Supplementary data
+Journal Article
+The Heterogeneous Effects of Government Spending: It’s All About TaxesGet access Arrow
+Axelle Ferriere and Gaston Navarro
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 1061–1125, https://doi.org/10.1093/restud/rdae032
+Published: 02 April 2024
+Abstract

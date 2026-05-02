@@ -1,0 +1,1395 @@
+﻿Mediation and PeaceGet access Arrow
+Johannes Hörner and others
+The Review of Economic Studies, Volume 82, Issue 4, October 2015, Pages 1483–1501, https://doi.org/10.1093/restud/rdv022
+Published: 15 May 2015
+... find that this limitation is inconsequential. Despite only being capable of making unenforceable recommendations, mediators can be equally effective as arbitrators. By using recommendation strategies that do not reveal that one player is weak to a strong opponent, a mediator can effectively circumvent...
+Abstract  
+Supplementary data
+Image
+Mediation analysis Notes: This figure shows the results of our mediation an...
+Mediation analysis Notes: This figure shows the results of our mediation an... Open Access
+in The Causal Impact of Socio-Emotional Skills Training on Educational Success
+Published: 22 February 2024
+FIGURE 11 Mediation analysis Notes: This figure shows the results of our mediation analysis. Panel (a) shows the decomposition of the overall treatment effect. In Panel (a), we include socio-emotional skills, parenting practices, and behaviour in class as mediators. Panel (b) shows the decomposition
+Image
+Mediation analysis: job application workshop  Notes: This figure reports co...
+Mediation analysis: job application workshop Notes: This figure reports co...Get access Arrow
+in Anonymity or Distance? Job Search and Labour Market Exclusion in a Growing African City
+Published: 28 December 2020
+Figure 4 Mediation analysis: job application workshop Notes: This figure reports coefficient estimates and 90% confidence intervals of the impact of the job application workshop on endline 2 earnings. The first row reports the original treatment effect on endline 2 earnings. The following rows report
+Journal Article
+Communication and LearningGet access Arrow
+Luca Anderlini and others
+The Review of Economic Studies, Volume 79, Issue 2, April 2012, Pages 419–450, https://doi.org/10.1093/restud/rdr031
+Published: 10 November 2011
+... to a mediator who can work across time periods arbitrarily far apart. In this case, full learning equilibria exist. Communication Learning Dynamic strategic information transmission C70 C72 C73 D80 D83 This paper studies the strategic side of information transmission in a large group of agents...
+Abstract  
+Supplementary data
+Journal Article
+Voluntary Disclosure in Asymmetric Contests Open Access
+Christian Ewerhart and Julia Lareida
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3402–3422, https://doi.org/10.1093/restud/rdae001
+Published: 24 May 2024
+... when type distributions are too similar, contestants possess commitment power, or information is unverifiable. In fact, cheap talk will always be ignored, even if mediated by a trustworthy third party. Asymmetric contests Incomplete information Disclosure Strategic complements and substitutes...
+Abstract  
+Supplementary data
+Journal Article
+Electoral Rules and Political Selection: Theory and Evidence from a Field Experiment in AfghanistanGet access Arrow
+Andrew Beath and others
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 932–968, https://doi.org/10.1093/restud/rdw018
+Published: 12 April 2016
+... of The Review of Economic Studies Limited. 2016 Abstract Voters commonly face a choice between competent candidates and those with policy preferences similar to their own. This article explores how electoral rules, such as district magnitude, mediate this trade-off and affect the composition of representative...
+Abstract  
+Supplementary data
+Journal Article
+Long-Run Effects of Lottery Wealth on Psychological Well-Being Open Access
+Erik Lindqvist and others
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2703–2726, https://doi.org/10.1093/restud/rdaa006
+Published: 12 February 2020
+... of domain-specific aspects of life satisfaction implicate financial life satisfaction as an important mediator for the long-run increase in overall life satisfaction. Happiness well-being mental health lottery I31 I39 C31 Observational studies consistently find that happiness, life satisfaction...
+Abstract  
+Supplementary data
+Journal Article
+Property Rights and Efficiency of Voluntary Bargaining under Asymmetric InformationGet access Arrow
+Zvika Neeman
+The Review of Economic Studies, Volume 66, Issue 3, July 1999, Pages 679–691, https://doi.org/10.1111/1467-937X.00103
+Published: 01 July 1999
+... and mediated bargaining procedures that either lead to an efficient voluntary resolution to public good problems, or achieve the efficient outcome but slightly coerce the agents into participation. In this respect, we identify “efficient” property rights structures. 1 1995 6 1998 Review of Economic...
+Abstract 
+Journal Article
+Teachers’ Pay for Performance in the Long-Run: The Dynamic Pattern of Treatment Effects on Students’ Educational and Labour Market Outcomes in AdulthoodGet access Arrow
+Victor Lavy
+The Review of Economic Studies, Volume 87, Issue 5, October 2020, Pages 2322–2355, https://doi.org/10.1093/restud/rdaa002
+Published: 24 January 2020
+... with time. These gains are largely mediated by the positive effect of the program on several high school outcomes, including quantitative and qualitative gains in the high-stakes matriculation exams. Teachers’ pay for performance Outcomes in adulthood I observe these students’ outcomes every year, from...
+Abstract  
+Supplementary data
+Journal Article
+The Revelation Principle in Multistage GamesGet access Arrow
+Takuo Sugaya and Alexander Wolitzky
+The Review of Economic Studies, Volume 88, Issue 3, May 2021, Pages 1503–1540, https://doi.org/10.1093/restud/rdaa041
+Published: 03 August 2020
+...Takuo Sugaya; Alexander Wolitzky We begin with an example that illustrates how letting the mediator make advance promises to disregard players’ reports can expand the set of implementable outcomes. There are two players (in addition to the mediator) and three periods. In Period , Player...
+Abstract  
+Supplementary data
+Journal Article
+The Value of Privacy in Cartels: An Analysis of the Inner Workings of a Bidding Ring Open Access
+Kei Kawai and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 600–628, https://doi.org/10.1093/restud/rdaf023
+Published: 16 April 2025
+... bidders were instructed to bid, making it difficult for the designated losers to correctly predict and undercut the winning bid. Much of the communication between the bidders was mediated by an intermediary. While it is intuitive that keeping the designated winner’s bid secret can relax IC constraints...
+Abstract  
+Supplementary data
+Journal Article
+The Causal Impact of Socio-Emotional Skills Training on Educational Success Open Access
+Giuseppe Sorrenti and others
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 506–552, https://doi.org/10.1093/restud/rdae018
+Published: 22 February 2024
+...Mediation analysis Notes: This figure shows the results of our mediation analysis. Panel (a) shows the decomposition of the overall treatment effect. In Panel (a), we include socio-emotional skills, parenting practices, and behaviour in class as mediators. Panel (b) shows the decomposition...
+Abstract  
+Supplementary data
+Journal Article
+The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely Open Access
+Susan Athey and others
+The Review of Economic Studies, rdaf087, https://doi.org/10.1093/restud/rdaf087
+Published: 30 September 2025
+... Surrogate outcomes Surrogate score Surrogate index Mediators Propensity score Principal stratification Job training A fundamental challenge for evaluating interventions is that the primary outcomes of interest are often hard to measure. For example, researchers are often interested in the effect...
+Abstract  
+Supplementary data
+Image
+(A) Surrogacy assumption satisfied. (B) Violation of surrogacy due to direc...
+(A) Surrogacy assumption satisfied. (B) Violation of surrogacy due to direc... Open Access
+in The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely
+Published: 30 September 2025
+Figure 2. (A) Surrogacy assumption satisfied. (B) Violation of surrogacy due to direct effect (mediation setup) (C) Violation of surrogacy assumption due to unobserved confounder (IV setup)
+Journal Article
+Anonymity or Distance? Job Search and Labour Market Exclusion in a Growing African CityGet access Arrow
+Girum Abebe and others
+The Review of Economic Studies, Volume 88, Issue 3, May 2021, Pages 1279–1310, https://doi.org/10.1093/restud/rdaa057
+Published: 28 December 2020
+...Mediation analysis: job application workshop Notes: This figure reports coefficient estimates and 90% confidence intervals of the impact of the job application workshop on endline 2 earnings. The first row reports the original treatment effect on endline 2 earnings. The following rows report...
+Abstract  
+Supplementary data
+Journal Article
+Vacancy Durations and Entry Wages: Evidence from Linked Vacancy–Employer–Employee DataGet access Arrow
+Andreas I Mueller and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1807–1841, https://doi.org/10.1093/restud/rdad051
+Published: 09 May 2023
+... as DFH did for U.S. vacancies using JOLTS data. For vacancies that were filled through direct mediation of the AMS, the information on vacancy durations and characteristics can be linked to the earnings history of the worker eventually filling the vacancy. We exploit the link at the worker level...
+Abstract  
+Supplementary data
+Journal Article
+Reputational Bargaining with External Resolution Opportunities Open Access
+Mehmet Ekmekci and Hanzhe Zhang
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2472–2501, https://doi.org/10.1093/restud/rdae062
+Published: 30 May 2024
+... of the first to study reputational bargaining with interdependent values. In court, the outcome can be determined by a judge who observes the justifiability of players’ claims. In war, the outcome depends on countries’ devotion and strength. If an auditor or mediator who reveals information is invoked...
+Abstract  
+Supplementary data
+Journal Article
+Classes of Utility Functions Admitting Tyrni's Homogeneous Saving FunctionGet access Arrow
+P. J. Kalman
+The Review of Economic Studies, Volume 36, Issue 1, January 1969, Pages 122–124, https://doi.org/10.2307/2296350
+Published: 01 January 1969
+... price equalization literature [4], [7], and Vanek [8] has considered a special case of the inter• mediate-good model. More recently McKinnon [5] has discussed some of the implications of intermediate goods for international trade theory. 15 1 1968 24 6 1968 © 1969 The Economic Study Society...
+Journal Article
+The Economics and Econometrics of Gene–Environment Interplay Open Access
+Pietro Biroli and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 144–180, https://doi.org/10.1093/restud/rdaf034
+Published: 11 June 2025
+.... This paper is organized as follows. Section 2 discusses the measurement of G, distinctions between environments that act as moderators or mediators of genetic effects, the interpretation of genetic effects, and how the natural experiment of genetic inheritance can be exploited to analyse causal...
+Abstract  
+Supplementary data
+Journal Article
+The Heckscher-Ohlin Model and Traded Intermediate ProductsGet access Arrow
+Albert G. Schweinberger
+The Review of Economic Studies, Volume 42, Issue 2, April 1975, Pages 269–278, https://doi.org/10.2307/2296534
+Published: 01 April 1975
+...-traded intermediate products. In Part II a model is examined which incorporates traded inter• mediate products. PART I The traditional Heckscher-Ohlin model can be formalized as follows: aUCl +a12CZ = K…
+Journal Article
+Durable Goods Monopoly with Incomplete InformationGet access Arrow
+Lawrence M. Ausubel and Raymond J. Deneckere
+The Review of Economic Studies, Volume 59, Issue 4, September 1992, Pages 795–812, https://doi.org/10.2307/2297998
+Published: 01 September 1992
+..., for example, Gul, Sonnenschein and Wilson (1986) and Ausubel and Deneckere (1989a». 800 REVIEW OF ECONOMIC STUDIES game where players report their types to a mediator, who then directly implements trade at the times and prices specified by t( . , . ) and 1T( •, •) evaluated...
+Abstract 
+Journal Article
+On Measuring Economic InterrelatednessGet access Arrow
+J. M. Blin and Frederic Murphy
+The Review of Economic Studies, Volume 41, Issue 3, July 1974, Pages 437–440, https://doi.org/10.2307/2296761
+Published: 01 July 1974
+.... a~j> We can use the aii input-output coefficients to take this into account. Let be the (i,j) element of the product of A with itself l times. Given the technological framework reflected by the aij coefficients, after exactly ,t steps via all possible combinations of inter- mediate sectors 'h...
+Journal Article
+Financial Intermediation with Risk AversionGet access Arrow
+Martin F. Hellwig
+The Review of Economic Studies, Volume 67, Issue 4, October 2000, Pages 719–742, https://doi.org/10.1111/1467-937X.00151
+Published: 01 October 2000
+... obtain with perfect insurance as well as finance. Where indirect finance is concerned, I shall be interested in the scope for inter• mediation when intermediaries are financed by optimal incentive-compatible contracts. This scope is certainly no smaller than the scope for intermediation when...
+Abstract 
+Journal Article
+Predetermined Wages and Prices and the Impact of Expansionary Government PolicyGet access Arrow
+Russell Cooper
+The Review of Economic Studies, Volume 57, Issue 2, April 1990, Pages 205–214, https://doi.org/10.2307/2297378
+Published: 01 April 1990
+... as the source of predetermination. II. OVERVIEW OF THE MODEL To examine the interaction of wage and price indexation we specify an overlapping generations model in which: (1) money is used to link temporally separated agents and, (ii) all trades are mediated through nominal...
+Abstract 
+Journal Article
+The Value of Data RecordsGet access Arrow
+Simone Galperti and others
+The Review of Economic Studies, Volume 91, Issue 2, March 2024, Pages 1007–1038, https://doi.org/10.1093/restud/rdad044
+Published: 12 April 2023
+... ; Seim et al., 2022 ). 1 Yet, the value of personal data for a digital platform is not well understood and can be hard to assess. For example, consider an e-commerce platform that mediates the trade between one seller and many buyers. 2 For each buyer, the platform owns...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Estimation of Discrete Games with Weak Assumptions on InformationGet access Arrow
+Lorenzo Magnolfi and Camilla Roncoroni
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 2006–2041, https://doi.org/10.1093/restud/rdac058
+Published: 17 August 2022
+... of . The incentive compatibility property may be illustrated with the mediator metaphor: players receive payoff type- and signal-dependent recommendations from an omniscient mediator, and in equilibrium it is optimal for them to follow these recommendations. Whereas the product structure of BNE implies...
+Abstract  
+Supplementary data
+Journal Article
+The Schematic Representation of the Structure of ProductionGet access Arrow
+Ragnar Nurkse
+The Review of Economic Studies, Volume 2, Issue 3, June 1935, Pages 232–244, https://doi.org/10.2307/2967590
+Published: 01 June 1935
+... into original factors. The present stock of consumers' goods is the result of labour' andinter• mediate products; these intermediate products must again be resolved into labour and intermediate products, and so forth. In this process of splitting up of intermediate products we should, according...
+Journal Article
+Minimum Wage Employment Effects and Labour Market ConcentrationGet access Arrow
+José Azar and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 1843–1883, https://doi.org/10.1093/restud/rdad091
+Published: 08 September 2023
+... no explicit empirical assessment of the monopsony explanation for the limited negative employment effects of the minimum wage. In this paper, we provide the first direct test for the mediating role of labour market concentration—a key source of monopsony and oligopsony power—on the minimum wage employment...
+Abstract  
+Supplementary data
+Journal Article
+A Note on Gold Movements in the Present International Monetary SystemGet access Arrow
+F. Lutz
+The Review of Economic Studies, Volume 5, Issue 1, October 1937, Pages 66–71, https://doi.org/10.2307/2967581
+Published: 01 October 1937
+... such proposal from the American side is the restriction of the inflow of capital; another, the lowering of the price of gold. What would be the effects of the first measure? Ifit should prove possible in practice to stop the inflow of capital-which is rather doubtful-the im• mediate result would be only...
+Journal Article
+Decentralization, Externalities, and EfficiencyGet access Arrow
+Peter Klibanoff and Jonathan Morduch
+The Review of Economic Studies, Volume 62, Issue 2, April 1995, Pages 223–247, https://doi.org/10.2307/2297803
+Published: 01 April 1995
+... that firm 1 receives all of the surplus from coordination under these transfers. This may not be true in related models. For example in Appendix D we discuss the case in which firm 2, rather than a government or mediator, proposes the transfers. In that case, firm 2 captures some of the surplus...
+Abstract 
+Journal Article
+Intermediate Goods in Production Theory: The Differentiable CaseGet access Arrow
+James R. Melvin
+The Review of Economic Studies, Volume 36, Issue 1, January 1969, Pages 124–131, https://doi.org/10.2307/2296351
+Published: 01 January 1969
+... Richter and Hugo Sonnenschein who acted as readers for the thesis. 2 There is some discussion of intermediate goods in the context of neo-classical production theory in the factor price equalization literature [4], [7], and Vanek [8] has considered a special case of the inter• mediate-good model...
+Journal Article
+Optimal Depletion of an Exhaustible Resource with Research and Development towards an Alternative TechnologyGet access Arrow
+R. Davison
+The Review of Economic Studies, Volume 45, Issue 2, June 1978, Pages 355–367, https://doi.org/10.2307/2297350
+Published: 01 June 1978
+... level x, conditional on it not being available before x. Simple rearrangement of (15) gives ejC = t/JR- YK- WKt/JRjU1 19) This equation is analogous to (17) of [3], and (35) of [6], and together with (18) we im• mediately deduce ~ (log...
+Journal Article
+Specialisation and Efficiency in World ProductionGet access Arrow
+Lionel W. McKenzie
+The Review of Economic Studies, Volume 21, Issue 3, 1953, Pages 165–180, https://doi.org/10.2307/2295770
+Published: 01 January 1953
+... be proved directly in Graham's model in an elementary way. First, we define an efficient point as a vectory of primary resources consumed and goods produced such that the net output of inter• mediate products is zero and no final good can be increased in quantity within the resource limitations unless...
+Journal Article
+Effects of Free Choice Among Public SchoolsGet access Arrow
+Victor Lavy
+The Review of Economic Studies, Volume 77, Issue 3, July 2010, Pages 1164–1191, https://doi.org/10.1111/j.1467-937X.2009.00588.x
+Published: 01 July 2010
+... be viewed as mediating factors of the effect of choice. Abstract In this paper, I investigate the impact of a programme in Tel-Aviv, Israel, that terminated an existing inter-district busing integration programme and allowed students free choice among public schools. The identification is based...
+Abstract  
+Supplementary data
+Journal Article
+Planning and Plotting: A Note on TerminologyGet access Arrow
+Henry Smith
+The Review of Economic Studies, Volume 3, Issue 3, June 1936, Pages 193–200, https://doi.org/10.2307/2967627
+Published: 01 June 1936
+... of planning in a dynamic state becomes apparent. Let us recall our statement of the duties of the planner. It was to ensure that after a change in demand had taken place it should be tr im• mediately followed by a suitable redistribution of the factors of production, or by changes in the remuneration...
+Journal Article
+Ambiguities in the Sign of Excess Effective Demand by FirmsGet access Arrow
+Joaquim Silvestre
+The Review of Economic Studies, Volume 49, Issue 4, October 1982, Pages 645–651, https://doi.org/10.2307/2297293
+Published: 01 October 1982
+... to the fixprice allocation z *. The same classification criterion could be applied to the general case where inter• mediate goods are not ruled out. But, as Example 3 shows, pessimism is no longer sufficient. Indeed, it is by no means a priori clear that a (P; G; i) inducing a strong...
+Abstract 
+Journal Article
+Arms Races and NegotiationsGet access Arrow
+Sandeep Baliga and Tomas Sjöström
+The Review of Economic Studies, Volume 71, Issue 2, April 2004, Pages 351–369, https://doi.org/10.1111/0034-6527.00287
+Published: 01 April 2004
+... that a mediator may be necessary for efficiency. In our model, we can approximate first-best efficiency without a mediator when the dominant strategy types are rare. The issue of whether a mediator is useful when the dominant strategy types are not rare is an interesting topic for future work. This paper...
+Abstract 
+Journal Article
+Efficient Sequential BargainingGet access Arrow
+Lawrence M. Ausubel and Raymond J. Deneckere
+The Review of Economic Studies, Volume 60, Issue 2, April 1993, Pages 435–461, https://doi.org/10.2307/2298066
+Published: 01 April 1993
+.... the entire ex ante Pareto frontier). 1. INTRODUCTION In a remarkable paper, Myerson and Satterthwaite (1983) analyzed static bargaining with two-sided incomplete information, in direct mechanism terms. Two players simul• taneously report their valuations to a mediator...
+Abstract 
+Journal Article
+Racial Preferences in DatingGet access Arrow
+Raymond Fisman and others
+The Review of Economic Studies, Volume 75, Issue 1, January 2008, Pages 117–132, https://doi.org/10.1111/j.1467-937X.2007.00465.x
+Published: 01 January 2008
+... with a four percentage point decrease in same-race preferences. We also considered whether differences in shared interests mediate racial preferences. Previous research has identified a vast, and possibly increasing, cultural divide between races in areas such as language and leisure activities. For example...
+Abstract  
+Supplementary data
+Journal Article
+Capitalist-Worker Conflict and Involuntary UnemploymentGet access Arrow
+Martin J. Osborne
+The Review of Economic Studies, Volume 51, Issue 1, January 1984, Pages 111–127, https://doi.org/10.2307/2297708
+Published: 01 January 1984
+... which passively mediates the conflicting desires of the individuals in the economy. In the Walrasian equilibrium analysis this mediation is successful, while in the non-Walrasian models it is not. However, in both cases the basic image is of an economy in which the individuals interact passively...
+Abstract 
+Sequentially Optimal MechanismsGet access Arrow
+Vasiliki Skreta
+The Review of Economic Studies, Volume 73, Issue 4, October 2006, Pages 1085–1111, https://doi.org/10.1111/j.1467-937X.2006.00409.x
+Published: 01 October 2006
+Abstract 
+Journal Article
+Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field ExperimentsGet access Arrow
+Alec Brandon and others
+The Review of Economic Studies, rdag012, https://doi.org/10.1093/restud/rdag012
+Published: 20 February 2026
+... consumption that is mediated by habits and technology, respectively. The primary challenge in identifying our parameters of interest is that habits and technology are unobserved. This challenge can be overcome by using the post-move effect of the HER to point identify the effect of the HER on technology...
+Abstract  
+Supplementary data
+Journal Article
+Rawlsian Growth: Dynamic Programming of Capital and Wealth for Intergeneration “Maximin” JusticeGet access Arrow
+E. S. Phelps and J. G. Riley
+The Review of Economic Studies, Volume 45, Issue 1, February 1978, Pages 103–120, https://doi.org/10.2307/2297088
+Published: 01 February 1978
+..., suggests that " ties ofsentiment" ensure that a generation would like to improve the opportunities ofits successors if some satisfactory level of development has not been reached. Yet a principle ofjustice is still needed to mediate differences in desires." We show in the last section that Rawls's...
+Journal Article
+Cash Circulation in the Planned Economies of Eastern EuropeGet access Arrow
+J. Baracs
+The Review of Economic Studies, Volume 27, Issue 1, October 1959, Pages 50–57, https://doi.org/10.2307/2296050
+Published: 01 October 1959
+... of the population tend to increase the cash holdings of peasants over those of other sections of the population, particularly the employed urban population (the small scale private industrial sector occupies an inter• mediate position). The difference is brought about by various factors already discussed...
+Journal Article
+Charity as a Substitute for Reputation: Evidence from an Online MarketplaceGet access Arrow
+Daniel W. Elfenbein and others
+The Review of Economic Studies, Volume 79, Issue 4, October 2012, Pages 1441–1468, https://doi.org/10.1093/restud/rds012
+Published: 12 March 2012
+Abstract  
+Supplementary data
+Journal Article
+Dynamic Price Competition with Network EffectsGet access Arrow
+Luís Cabral
+The Review of Economic Studies, Volume 78, Issue 1, January 2011, Pages 83–111, https://doi.org/10.1093/restud/rdq007
+Published: 01 January 2011
+... of interconnection agreements, all callers are able to communicate with all other callers. However, if calls are priced differently depending on the calling parties' networks (typically with off-net calls being more expensive than on-net calls) then we have what LRT refer to as tariff-mediated network...
+Abstract  
+Supplementary data
+Journal Article
+Foreign Direct Investment and Exports with Growing DemandGet access Arrow
+Rafael Rob and Nikolaos Vettas
+The Review of Economic Studies, Volume 70, Issue 3, July 2003, Pages 629–648, https://doi.org/10.1111/1467-937X.00259
+Published: 01 July 2003
+Abstract 
+Journal Article
+The Inter-relations of Shifts in DemandGet access Arrow
+D. H. Robertson and others
+The Review of Economic Studies, Volume 12, Issue 1, 1944, Pages 71–78, https://doi.org/10.2307/2296014
+Published: 01 January 1944
+... and activity directly, and not merely through the mediation of the rate of interest; (2) a rise (fall) in the schedule of marginal productivity if capital is exhibited as raising (lowering) the rate of interest. Yet we cannot, I think, be very happy about the ticket, stamped ASYmmetry, which has...
+Journal Article
+Notes on the British Income Tax and Company ReservesGet access Arrow
+Ronald S. Edwards and Duncan Black
+The Review of Economic Studies, Volume 5, Issue 2, February 1938, Pages 114–122, https://doi.org/10.2307/2967525
+Published: 01 February 1938
+.... In actual fact, in the case of small companies it is found possible to make arrangements to avoid the loss by any individual of his" personal allowances": it often happens that profits are drawn out in the form of dividend or salaries and then returned im• mediately to the company in the form of loans...
+Journal Article
+Marginal Jobs and Job Surplus: A Test of the Efficiency of SeparationsGet access Arrow
+Simon Jäger and others
+The Review of Economic Studies, Volume 90, Issue 3, May 2023, Pages 1265–1303, https://doi.org/10.1093/restud/rdac045
+Published: 02 August 2022
+Abstract  
+Supplementary data
+Journal Article
+The Utility of Wealth and the Utility of WindfallsGet access Arrow
+J. S. Flemming
+The Review of Economic Studies, Volume 36, Issue 1, January 1969, Pages 55–66, https://doi.org/10.2307/2296342
+Published: 01 January 1969
+... 61 The alternative to this policy of waiting until K = Xb]c is to change model im• mediately which gives utility U(K): thus V(K, X) = max{ Y(K, X), U(K 9) Clearly Y(K, X) only exists if t, as defined by (7), lies between zero and (plus...
+Journal Article
+The Commonsense of the Elasticity of SubstitutionGet access Arrow
+Fritz Machlup
+The Review of Economic Studies, Volume 2, Issue 3, June 1935, Pages 202–213, https://doi.org/10.2307/2967587
+Published: 01 June 1935
+... the competition of B against A by substitutionof 5 for R. One more point can be made for the assertion of symmetry of derived sub• stitutability. If the existence of other factors, besides A and B, and the existence of other commodities, besides R, 5, and T, is assumed mediate rivalry through other...
+Journal Article
+Elasticities of Substitution and the Theory of Derived DemandGet access Arrow
+Y. Mundlak
+The Review of Economic Studies, Volume 35, Issue 2, April 1968, Pages 225–236, https://doi.org/10.2307/2296550
+Published: 01 April 1968
+... constant. It is of interest to examine this special case that constitutes an inter• mediate case between the Allen framework of one factor one price and the more general one of two factors two prices. The expressions to be examined are of the form: ( )1 = Xi-Xr...
+Journal Article
+Brokering Votes With Information Spread Via Social Networks Open Access
+Raul Duarte and others
+The Review of Economic Studies, rdaf075, https://doi.org/10.1093/restud/rdaf075
+Published: 29 August 2025
+... families, with 90% of Paraguayans registering with the same party as at least one of their parents ( Lachi and Rojas-Schaffer, 2018 ). In addition, citizens tend to affiliate with a party when they first register to vote and rarely change their affiliation thereafter. As our second mediating variable, we...
+Abstract  
+Supplementary data
+Journal Article
+Liquidity Preference and Financial IntermediationGet access Arrow
+Jayasri Dutta and Sandeep Kapur
+The Review of Economic Studies, Volume 65, Issue 3, July 1998, Pages 551–572, https://doi.org/10.1111/1467-937X.00057
+Published: 01 July 1998
+... the return which could be earned elsewhere. At this solution individuals hold their entire savings in the form ofbank deposits, all investment is mediated by the banking sector, and banks make zero profits. In sum, the optimal quantity of money is rather different if we think of M2, rather than MO...
+Abstract 
+Journal Article
+The Demand for Money and Monetary Adjustments in ChileGet access Arrow
+Allan Hynes
+The Review of Economic Studies, Volume 34, Issue 3, July 1967, Pages 285–293, https://doi.org/10.2307/2296676
+Published: 01 July 1967
+... of adjustments are independent of the speed, persons will attempt to adjust im• mediately. The lags implied by (7) therefore arise from lags of money prices in response to excess demands. Unfortunately, economic theory has little to say about the form that such adjustments should take, and the variance...
+Journal Article
+Formulation of Richardson's Model of Arms Race from a Differential Game ViewpointGet access Arrow
+M. Simaan and J. B. Cruz
+The Review of Economic Studies, Volume 42, Issue 1, January 1975, Pages 67–77, https://doi.org/10.2307/2296820
+Published: 01 January 1975
+... that a unilateral attempt on the part of one nation to deviate will not increase its objective function. In order to stress the difference with [3], this paper will concentrate on a finite horizon problem where the results of [3] are not applicable. The infinite horizon case then follows im• mediately by taking...
+Journal Article
+Some Notes on Monetary Theories of the Trade CycleGet access Arrow
+G. L. S. Shackle
+The Review of Economic Studies, Volume 1, Issue 1, October 1933, Pages 27–38, https://doi.org/10.2307/2967435
+Published: 01 October 1933
+... between costs and sale-proceeds of new intermediate products: whereas such total profits can also arise because of changes in the value of existing inter• mediate products. In Dr. Hayek's view, " total profits " can arise because existing intermediate products have increased in value on account...
+Journal Article
+A Note on J. v. Neumann's Article on “A Model of Economic Equilibrium”Get access Arrow
+D. G. Champernowne
+The Review of Economic Studies, Volume 13, Issue 1, 1945, Pages 10–18, https://doi.org/10.2307/2296112
+Published: 01 April 1945
+... of the prices of other goods: this in itself is not im• mediately helpful if we suppose the prices of all goods to be unknown. In order to understand the rule which prices must obey in equilibrium, it is useful to consider a new concept. This concept is the rate of interest possible under a given system...
+Journal Article
+Competitive Selection and Market Data: The Mixed-Index ProblemGet access Arrow
+Roger J. Bowden
+The Review of Economic Studies, Volume 59, Issue 3, July 1992, Pages 625–633, https://doi.org/10.2307/2297868
+Published: 01 July 1992
+... also from our discussion that certain kinds of market situations will be more troublesome than others. If the objects concerned are differentiated in terms of quality or attributes, then some allocative process mediated by price must distribute the objects to a set of purchasers likewise...
+Abstract
+Welfare Economics of Variable TastesGet access Arrow
+John C. Harsanyi
+The Review of Economic Studies, Volume 21, Issue 3, 1953, Pages 204–213, https://doi.org/10.2307/2295773
+Published: 01 January 1953
+... relation in general. 208 THE REVIEW OF ECONOMIC STUDIES statistically indivisible group appears to favour, or to disfavour, the proposed change, then the whole group will be regarded as favouring or disfavouring it, while in inter• mediate cases the question will be regarded...
+Journal Article
+The Stability of the Cournot Oligopoly Solution: The Effects of Speeds of Adjustment and Increasing Marginal CostsGet access Arrow
+Franklin M. Fisher
+The Review of Economic Studies, Volume 28, Issue 2, February 1961, Pages 125–135, https://doi.org/10.2307/2295710
+Published: 01 February 1961
+.... Finally, this being so, we need only concern ourselves with An. Theorem 1 thus yields im.. mediately: Theorem 3: (a) A sufficient condition for the stability of (5.1) is that K,. ...
+Journal Article
+Structural Change, Elite Capitalism, and the Emergence of Labour EmancipationGet access Arrow
+Quamrul H Ashraf and others
+The Review of Economic Studies, Volume 92, Issue 2, March 2025, Pages 808–836, https://doi.org/10.1093/restud/rdae043
+Published: 10 April 2024
+... of agricultural markets. At the highest level of administration, the Commission comprised a total of 6 agencies, each holding jurisdiction over several districts. At the lowest administrative level, county mediation agencies were staffed with two to six local officials that were elected by county assemblies...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Designing InterrogationsGet access Arrow
+Alessandro Ispano and Péter Vida
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3504–3531, https://doi.org/10.1093/restud/rdae002
+Published: 24 May 2024
+..., possibly mediated, communication (e.g.  Aumann and Hart, 2003 ; Krishna and Morgan, 2004 ; Goltsman et al., 2009 and Gottardi and Mezzetti, 2022 ). It will become handy to choose z so that this indifference condition and equation ( 4 ) extend to every m ∈ [ y c , y...
+Abstract  
+Supplementary data
+Journal Article
+Incomplete Contracts, Specific Investments, and Risk SharingGet access Arrow
+Tai-Yeong Chung
+The Review of Economic Studies, Volume 58, Issue 5, October 1991, Pages 1031–1042, https://doi.org/10.2307/2297950
+Published: 01 October 1991
+... and cuq < 0 from Assumption 1. Also observe that o"(qo) =0 when qO =0, and that o" (qo) > u* when qO = argmaxwq*(f3*,u*,w). Therefore, there exists a qO such that ue(qo)=u* by the inter• mediate value theorem. Now in order to satisfy the seller's participation constraint...
+Abstract 
+Journal Article
+Comparative Advantage and the Theory of Tariffs: A Multi-Country, Multi-Commodity ModelGet access Arrow
+Ronald W. Jones
+The Review of Economic Studies, Volume 28, Issue 3, June 1961, Pages 161–175, https://doi.org/10.2307/2295945
+Published: 01 June 1961
+... for this assumption may seem to be obtained from the fact that the prices of intermediate (and final) commodities are the same in all countries with free trade and zero transport costs. But labor coefficientsdiffer, so there is no necessity, in a world of variable production coefficients,for inter• mediate product...
+Journal Article
+Monetary and Fiscal Policy in a World of Capital MobilityGet access Arrow
+John E. Floyd
+The Review of Economic Studies, Volume 36, Issue 4, October 1969, Pages 503–517, https://doi.org/10.2307/2296473
+Published: 01 October 1969
+.... To simplify the analysis we ignore human capital. This assumption does not reverse any of the conclusions of the paper. In addition, the analysis of this paper assumes a complete absence of inter• mediate assets and government bonds from the system. Intermediate assets are liabilities for those individuals...
+Journal Article
+On the Boundedness of an Economy with ExternalitiesGet access Arrow
+Hiroaki Osana
+The Review of Economic Studies, Volume 40, Issue 3, July 1973, Pages 321–331, https://doi.org/10.2307/2296453
+Published: 01 July 1973
+.... Remark 4. Condition (LL) implies condition (LV). Proof. It is easy to see that Y(x) c Y'(x) for every x E Rim. Then the remark im• mediately follows. Remark 5. Nevertheless, I am not yet sure that condition (i) of Theorem 1 is generally weaker than condition (LL). It is obvious, however...
+Journal Article
+Fiscal Policy Simulations and Stabilization PolicyGet access Arrow
+S. G. B. Henry and Meghnad Desai
+The Review of Economic Studies, Volume 42, Issue 3, July 1975, Pages 347–359, https://doi.org/10.2307/2296849
+Published: 01 July 1975
+... detailed models. Our other qualification concerns the nature of the policy rule (2) used in the simulations. Throughout we have interpreted A as a " policy lag", but it is clear that our formulation does not distinguish between the inter• mediate lag (including the recognition, decision...
+Journal Article
+Attention Utility: Evidence from Individual Investors Open Access
+Edika Quispe-Torreblanca and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 664–696, https://doi.org/10.1093/restud/rdaf028
+Published: 26 May 2025
+... attention to bad information—losses on recently acquired stocks—leads to decreased trading activity, on both the buy and sell dimensions. Further, the effect of losses on trading is wholly mediated by reduced attention. By reducing attention to their brokerage accounts to avoid the disutility of paying...
+Abstract  
+Supplementary data
+Journal Article
+Prices and the Turnpike: I. The Story of a Mare's NestGet access Arrow
+J. R. Hicks
+The Review of Economic Studies, Volume 28, Issue 2, February 1961, Pages 77–88, https://doi.org/10.2307/2295705
+Published: 01 February 1961
+... of output at time 1. To select a particular collection, expressed by (Xl), ,ve need to know (PI); and (PI) is not yet determined. We are to take it that (Xn), the final set of quantity-ratios, or (Pn) , the final set of price-ratios, is given. The problem is to determine the inter• mediate (X)'s and (P...
+Journal Article
+Managerial Incentive Problems: A Dynamic PerspectiveGet access Arrow
+Bengt Holmström
+The Review of Economic Studies, Volume 66, Issue 1, January 1999, Pages 169–182, https://doi.org/10.1111/1467-937X.00083
+Published: 01 January 1999
+... the two kinds of capital returns are aligned. 1. INTRODUCTION It is well understood by now that informational externalities may place special demands on the organization of economic exchange. Simple price-mediated markets will frequently fail in the presence...
+Abstract 
+Journal Article
+Family Budget Data and Price-Elasticities of DemandGet access Arrow
+C. E. V. Leser
+The Review of Economic Studies, Volume 9, Issue 1, November 1941, Pages 40–57, https://doi.org/10.2307/2967637
+Published: 01 November 1941
+..., they all have an elastic demand with regard to price. The latter case seems rather improbable, the former one possible, but less likely than the inter• mediate case. TABLE 3 Income- and price-elasticities of demand, U.S., 1918-19...
+Journal Article
+Cost-benefit Rules in General EquilibriumGet access Arrow
+Robin W. Boadway
+The Review of Economic Studies, Volume 42, Issue 3, July 1975, Pages 361–374, https://doi.org/10.2307/2296850
+Published: 01 July 1975
+... misleading. For example, we have already seen in (i) above that, for a particular set of assumptions, the more general framework would indicate rjmediate markets can give inaccurate shadow pricing rules. Harberger gives the shadow rule in terms...
+Journal Article
+Identification of Endogenous Social Effects: The Reflection ProblemGet access Arrow
+Charles F. Manski
+The Review of Economic Studies, Volume 60, Issue 3, July 1993, Pages 531–542, https://doi.org/10.2307/2298123
+Published: 01 July 1993
+... norms. Gaertner (1974); Pollak (1976), Alessie and Kapteyn (1991), and Case (1991) analyzed consumer demand models in which, holding price fixed, individual demand increases with the mean demand of a reference group. While the price-mediated effect of aggregate demand on individual demand...
+Abstract 
+Journal Article
+Some Notes on Monopoly PriceGet access Arrow
+R. H. Coase
+The Review of Economic Studies, Volume 5, Issue 1, October 1937, Pages 17–31, https://doi.org/10.2307/2967577
+Published: 01 October 1937
+... of price changes on the demand curve. Assume that a monopolist wishes to raise his price from P to Pl' Then the effect on the long-run demand curve is likely to be different according to whether it is raised directly or whether it is raised from P to some inter• mediate price before raising it to P 11...
+Journal Article
+Human Capital, Female Employment, and Electricity: Evidence from the Early 20th-Century United StatesGet access Arrow
+Daniela Vidart
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 560–594, https://doi.org/10.1093/restud/rdad021
+Published: 15 February 2023
+...Daniela Vidart In this section, I present an analytical version of the model. This benchmark framework focuses on the main mechanisms mediating the scope of the productive and skill dimensions of electrification to alter female work patterns. In Section 3 , I embed these mechanisms...
+Abstract  
+Supplementary data
+Journal Article
+Arbitration with Uninformed ConsumersGet access Arrow
+Mark Egan and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3888–3923, https://doi.org/10.1093/restud/rdaf010
+Published: 18 February 2025
+Abstract  
+Supplementary data
+Journal Article
+When Less Is More: Experimental Evidence on Information Delivery During India’s Demonetisation Free
+Abhijit Banerjee and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 1884–1922, https://doi.org/10.1093/restud/rdad068
+Published: 07 July 2023
+...) when that is feasible. 7 Our results highlight meta-information’s central role in mediating the success of information campaigns and its perverse interaction with the scope of dissemination activities. Consistent with a model of image concerns, but not a frictionless model, removing common...
+Abstract  
+Supplementary data
+Journal Article
+Authority and Communication in OrganizationsGet access Arrow
+Wouter Dessein
+The Review of Economic Studies, Volume 69, Issue 4, October 2002, Pages 811–838, https://doi.org/10.1111/1467-937X.00227
+Published: 01 October 2002
+Abstract
+Geography and Agricultural Productivity: Cross-Country Evidence from Micro Plot-Level DataGet access Arrow
+Tasso Adamopoulos and Diego Restuccia
+The Review of Economic Studies, Volume 89, Issue 4, July 2022, Pages 1629–1653, https://doi.org/10.1093/restud/rdab059
+Published: 23 September 2021
+Abstract  
+Supplementary data
+Journal Article
+Creating Cohesive Communities: A Youth Camp Experiment in India Open Access
+Arkadev Ghosh and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 438–475, https://doi.org/10.1093/restud/rdaf026
+Published: 19 April 2025
+Abstract  
+Supplementary data
+Journal Article
+Exchange Rate Dynamics in a Multilateral Target ZoneGet access Arrow
+Angel Serrat
+The Review of Economic Studies, Volume 67, Issue 1, January 2000, Pages 193–211, https://doi.org/10.1111/1467-937X.00127
+Published: 01 January 2000
+... "fundamentals". These fundamentals are affected by changes in the relative supply of both currencies, and they are used as inter• mediate targets by the monetary authorities to bound the movements of the exchange rates. Different assumptions regarding how the monetary authorities intervene give...
+Abstract 
+Journal Article
+Wages and Employment under Uncertain DemandGet access Arrow
+Martin Neil Baily
+The Review of Economic Studies, Volume 41, Issue 1, January 1974, Pages 37–50, https://doi.org/10.2307/2296397
+Published: 01 January 1974
+...• for its workers. The differencein profits between the two strategies is the return to the inter• mediation. The stockholder is willing to provide the intermediation service since he can adjust his portfolio in response to the increased risk. The firm does not set a wage strategy which pushes workers...
+Journal Article
+Optimal Stabilization Policy with a Quadratic Criterion FunctionGet access Arrow
+J. K. Sengupta
+The Review of Economic Studies, Volume 37, Issue 1, January 1970, Pages 127–145, https://doi.org/10.2307/2296503
+Published: 01 January 1970
+... types of stabilization policies may be added. First, note that type 2 policy which is called the optimal feedback policy is inter• mediate between type 1 and type 3 policies, since it appears to combine some aspects of their optimizing and stabilizing characteristics. Second, consider the type 2...
+Journal Article
+The Divisibility of Time SeriesGet access Arrow
+Elmer C. Bratt
+The Review of Economic Studies, Volume 5, Issue 2, February 1938, Pages 79–92, https://doi.org/10.2307/2967522
+Published: 01 February 1938
+..., and the phase of decline is of an opposite nature. It might appear desirable, therefore, to conceive of the cycle as showing no intermediate movement. An inter• mediate movement does exist, however. Business-cycle students are familiar with the fact that no satisfactory representation eliminating...
+Journal Article
+The Intergenerational State Education and PensionsGet access Arrow
+Michele Boldrin and Ana Montes
+The Review of Economic Studies, Volume 72, Issue 3, July 2005, Pages 651–664, https://doi.org/10.1111/j.1467-937X.2005.00346.x
+Published: 01 July 2005
+... that the portion Rt+1dt corresponds to an intergenerational transfer mediated by the government. Crucially, efficient education finance today and efficient pension payments tomorrow are tied together by a rate of return restriction. These considerations lead us...
+Abstract 
+Journal Article
+The Adoption of Network Goods: Evidence from the Spread of Mobile Phones in RwandaGet access Arrow
+Daniel Björkegren
+The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 1033–1060, https://doi.org/10.1093/restud/rdy024
+Published: 28 July 2018
+Abstract  
+Supplementary data
+Journal Article
+On the Existence and Optimality of Competitive Equilibrium for a Slave EconomyGet access Arrow
+T. Bergstrom
+The Review of Economic Studies, Volume 38, Issue 1, January 1971, Pages 23–36, https://doi.org/10.2307/2296619
+Published: 01 January 1971
+... verified that if px ~ b~(p) for all x E T:!r, E~ is U.S.c. at p. Thus E~ is u.s.c. at p for all pEP. Since, by definition, Gq(p) == L E~(p)- L FZ(p), part (a) of Lemma 1 follows im- M K mediately. If Xm E Eip) for all m e M, then L pXm s L Ep). But L Ep...
+Journal Article
+The Experimental Determination of Indifference CurvesGet access Arrow
+K. R. MacCrimmon and M. Toda
+The Review of Economic Studies, Volume 36, Issue 4, October 1969, Pages 433–451, https://doi.org/10.2307/2296469
+Published: 01 October 1969
+Journal Article
+Save, Spend, or Give? A Model of Housing, Family Insurance, and Savings in Old AgeGet access Arrow
+Daniel Barczyk and others
+The Review of Economic Studies, Volume 90, Issue 5, October 2023, Pages 2116–2187, https://doi.org/10.1093/restud/rdac081
+Published: 17 December 2022
+..., with their effects being mediated by LTC risk and owner-occupied housing. Finally, our model rationalises why most, but not all, transfers to children are delayed and given as bequests: No-commitment makes a parent want to maintain control over resources for as long as possible, a tendency that is enhanced by HACC...
+Abstract  
+Supplementary data
+Journal Article
+Stabilization Policies in a Growing EconomyGet access Arrow
+Jerome L. Stein and Keizo Nagatani
+The Review of Economic Studies, Volume 36, Issue 2, April 1969, Pages 165–183, https://doi.org/10.2307/2296835
+Published: 01 April 1969
+.... Assume that the speed of response in the bond market is infinite such that the excess demand for bonds is eliminated im• mediately. Then the flow excess demand for goods per unit ofcapital (n/l) = (I!KS/K) must be equal to the flow excess supply of real balances per unit of capital. Write the flow...
+Journal Article
+Broadband Internet: An Information Superhighway to Sex Crime?Get access Arrow
+Manudeep Bhuller and others
+The Review of Economic Studies, Volume 80, Issue 4, October 2013, Pages 1237–1266, https://doi.org/10.1093/restud/rdt013
+Published: 14 April 2013
+Abstract  
+Supplementary data
+Journal Article
+Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System Open Access
+Gur Huberman and others
+The Review of Economic Studies, Volume 88, Issue 6, November 2021, Pages 3011–3040, https://doi.org/10.1093/restud/rdab014
+Published: 31 March 2021
+... transactions are not really possible, since financial institutions cannot avoid mediating disputes. The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions.” Section 6 (“Incentive”) predicts...
+Abstract  
+Supplementary data
+Journal Article
+The Life Cycle of Regulatory Agencies: Dynamic Capture and Transaction CostsGet access Arrow
+David Martimort
+The Review of Economic Studies, Volume 66, Issue 4, October 1999, Pages 929–947, https://doi.org/10.1111/1467-937X.00114
+Published: 01 October 1999
+Abstract 
+Journal Article
+The Concept of Monopoly and the Measurement of Monopoly PowerGet access Arrow
+A. P. Lerner
+The Review of Economic Studies, Volume 1, Issue 3, June 1934, Pages 157–175, https://doi.org/10.2307/2967480
+Published: 01 June 1934
+... to any inter• mediate point in the shaded area would make both individuals better off. In order to satisfy the condition of the optimum it is therefore again necessary that there should be no gap between the curves, i.e. that they should not cut. If they are smooth, it means that they are tangential...
+Journal Article
+Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45Get access Arrow
+Philipp Ager and others
+The Review of Economic Studies, Volume 89, Issue 5, October 2022, Pages 2257–2292, https://doi.org/10.1093/restud/rdab085
+Published: 16 December 2021
+..., and not mediated by the size of the common peer group. We also find that pilots do not react more strongly when another pilot from their same birthplace region gets mentioned—unless the mentioned pilot was a former peer. This helps rule out a mechanism based on social image concerns vis-à-vis individuals...
+Abstract  
+Supplementary data
+Journal Article
+Destabilizing Capital Flows amid Global InflationGet access Arrow
+Julien Bengui and Louphou Coulibaly
+The Review of Economic Studies, rdag007, https://doi.org/10.1093/restud/rdag007
+Published: 23 January 2026
+... environment were first discussed in Stiglitz (1982) , Greenwald and Stiglitz (1986) and Geanakoplos and Polemarchakis (1986) . 5 , 6 As in the aggregate demand externality literature, the externality we outline occurs in a demand-constrained setting. Yet it is primarily mediated through...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Folk Theorem in Repeated Games with Private MonitoringGet access Arrow
+Takuo Sugaya
+The Review of Economic Studies, Volume 89, Issue 4, July 2022, Pages 2201–2256, https://doi.org/10.1093/restud/rdab079
+Published: 24 November 2021
+Abstract  
+Supplementary data
+Journal Article
+Marx's Mehrwert Concept and Theory of Pure CapitalismGet access Arrow
+H. Gottlieb
+The Review of Economic Studies, Volume 18, Issue 3, 1950, Pages 164–178, https://doi.org/10.2307/2295976
+Published: 01 September 1950
+..., loco cit., 317; Harris, loco cit., 336. 6 Capital, I, 619. 168 THE REVIEW OF ECONOMIC STUDIES fidelity. The factories and workshops, the conditions of labour and methods of pro• duction are represented without any mediating process of abstracting. Nor is the labour market…
+Asset Management with Trading UncertaintyGet access Arrow
+Duncan K. Foley and Martin F. Hellwig
+The Review of Economic Studies, Volume 42, Issue 3, July 1975, Pages 327–346, https://doi.org/10.2307/2296848
+Published: 01 July 1975
+... is not employed. At any 330 REVIEW OF ECONOMIC STUDIES moment, the agent balances the marginal utility gained from spending his money im• mediately and the marginal utility of holding money into the next period. If we define the value of the programme for initial balances m...
+Journal Article
+Prices of Factors and Goods in General EquilibriumGet access Arrow
+Paul A. Samuelson
+The Review of Economic Studies, Volume 21, Issue 1, 1953, Pages 1–20, https://doi.org/10.2307/2296256
+Published: 01 January 1953
+..., as is shown in the Mathematical Appendix, the same results would follow if I supposed, with Leontief and. others, that each good requires in its production every other good as an input. Goods would then have a double function-as inputs as well as outputs, as inter• mediate as well as final goods...
+Journal Article
+Credit Access, Selection, and Incentives in a Market for Asset-Collateralized Loans: Evidence From KenyaGet access Arrow
+William Jack and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 3153–3185, https://doi.org/10.1093/restud/rdad026
+Published: 02 March 2023
+Abstract  
+Supplementary data
+Journal Article
+The Sunk-Cost Fallacy in Penny AuctionsGet access Arrow
+Ned Augenblick
+The Review of Economic Studies, Volume 83, Issue 1, January 2016, Pages 58–86, https://doi.org/10.1093/restud/rdv037
+Published: 21 July 2015
+... role in players' decisions, suggesting that players are largely focused on the sunk-costs in the current auction. Furthermore, experience largely mediates the sunk-cost fallacy. That is, the coefficient on sunk costs falls as an individual's experience rises, reaching nearly zero for the players...
+Abstract  
+Supplementary data
+Journal Article
+Using Gossips to Spread Information: Theory and Evidence from Two Randomized Controlled Trials Free
+Abhijit Banerjee and others
+The Review of Economic Studies, Volume 86, Issue 6, November 2019, Pages 2453–2490, https://doi.org/10.1093/restud/rdz008
+Published: 20 February 2019
+Abstract  
+Supplementary data
+Journal Article
+Sixty Years after the Magic Carpet Ride: The Long-Run Effect of the Early Childhood Environment on Social and Economic OutcomesGet access Arrow
+Eric D. Gould and others
+The Review of Economic Studies, Volume 78, Issue 3, July 2011, Pages 938–973, https://doi.org/10.1093/restud/rdq038
+Published: 23 February 2011
+Abstract  
+Supplementary data
+Journal Article
+Fines and Financial WellbeingGet access Arrow
+Steven Mello
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3340–3374, https://doi.org/10.1093/restud/rdae111
+Published: 21 November 2024
+Abstract  
+Supplementary data
+Journal Article
+Learning-by-Doing and Infant Industry ProtectionGet access Arrow
+S. Clemhout and H. Y. Wan
+The Review of Economic Studies, Volume 37, Issue 1, January 1970, Pages 33–56, https://doi.org/10.2307/2296497
+Published: 01 January 1970
+..., then the cumulative production set becomes nonconvex. For some external price ratio there exists more than one optimal activity ratio, each corresponding to a distinct p-path. Moreover, some" inter• mediate" activity ratio is never optimal under any external price ratio. (iii) Except...
+Journal Article
+Capital Accumulation, Employment and Price RigidityGet access Arrow
+T. de Scitovszky
+The Review of Economic Studies, Volume 8, Issue 2, February 1941, Pages 69–88, https://doi.org/10.2307/2967464
+Published: 01 February 1941
+... at their (seasonally) normal level. We can now proceed to analyse the behaviour of this simple model, first in the limiting cases of perfectly flexible and of perfectly rigid prices, and then in the more important inter• mediate cases. Flexible Prices. When all prices, including, of course, those...
+Journal Article
+Liquidity, Risk, and Occupational ChoicesGet access Arrow
+Milo Bianchi and Matteo Bobba
+The Review of Economic Studies, Volume 80, Issue 2, April 2013, Pages 491–511, https://doi.org/10.1093/restud/rds031
+Published: 09 October 2012
+.... As shown in Column (5), the data do not suggest that our effects are mediated by complementary welfare programmes. 12 Consider an individual i who is either a salaried worker or unemployed in the baseline, and let nei,t be a dummy equal to one if the individual has...
+Abstract  
+Supplementary data
+Journal Article
+Long-Run Price Elasticities of Demand for Credit: Evidence from a Countrywide Field Experiment in MexicoGet access Arrow
+Dean Karlan and Jonathan Zinman
+The Review of Economic Studies, Volume 86, Issue 4, July 2019, Pages 1704–1746, https://doi.org/10.1093/restud/rdy046
+Published: 06 September 2018
+... on the frictions that mediate adjustment from a shock to equilibrium. Specifically, they suggest, circumstantially, that informational frictions are key on both sides of the market. On the demand side, we start by casting doubt on some candidate frictions. Contractual frictions might be important in other settings...
+Abstract  
+Supplementary data
+Journal Article
+Intelligence, Errors, and Cooperation in Repeated InteractionsGet access Arrow
+Eugenio Proto and others
+The Review of Economic Studies, Volume 89, Issue 5, October 2022, Pages 2723–2767, https://doi.org/10.1093/restud/rdab095
+Published: 27 December 2021
+Abstract  
+Supplementary data
+Journal Article
+Demand Stimulus as Social Policy Open Access
+Alan J Auerbach and others
+The Review of Economic Studies, rdaf096, https://doi.org/10.1093/restud/rdaf096
+Published: 06 November 2025
+Abstract  
+Supplementary data
+Journal Article
+Global Value Chains and Trade PolicyGet access Arrow
+Emily J Blanchard and others
+The Review of Economic Studies, Volume 93, Issue 1, January 2026, Pages 181–214, https://doi.org/10.1093/restud/rdaf017
+Published: 13 March 2025
+... product differentiation mediate the relationship between GVC linkages and observed tariffs. We find results consistent with theoretical predictions: higher domestic content in foreign final goods, and higher foreign content in domestic goods, are associated with systematically lower applied bilateral...
+Abstract  
+Supplementary data
+Journal Article
+What Motivates Effort? Evidence and Expert ForecastsGet access Arrow
+Stefano DellaVigna and Devin Pope
+The Review of Economic Studies, Volume 85, Issue 2, April 2018, Pages 1029–1069, https://doi.org/10.1093/restud/rdx033
+Published: 05 June 2017
+Abstract  
+Supplementary data
+Journal Article
+How Fast do Rational Agents Learn?Get access Arrow
+Xavier Vives
+The Review of Economic Studies, Volume 60, Issue 2, April 1993, Pages 329–347, https://doi.org/10.2307/2298060
+Published: 01 April 1993
+... beliefs to correct beliefs with the mediation of agents' actions. How do agents come to form rational expectations in the presence of unknown payoff-relevant parameters? The usual answer is that agents learn to form "correct" expectations through repeated observations of market data. Taking...
+Abstract 
+Journal Article
+Repeated Play, Cooperation and Coordination: An Experimental StudyGet access Arrow
+Thomas R. Palfrey and Howard Rosenthal
+The Review of Economic Studies, Volume 61, Issue 3, July 1994, Pages 545–565, https://doi.org/10.2307/2297903
+Published: 01 July 1994
+Abstract 
+Journal Article
+Comparing the Robustness of Trading Systems to Higher-Order UncertaintyGet access Arrow
+Hyun Song Shin
+The Review of Economic Studies, Volume 63, Issue 1, January 1996, Pages 39–59, https://doi.org/10.2307/2298114
+Published: 01 January 1996
+... of this paper is to offer a set of tools which may be employed in analysing the effects of differential information in more conventional market settings where there is price-mediated trade among many traders. When unr:ea]ized states exercise an influence on the equilibrium a]]ocation...
+Abstract 
+Journal Article
+Expectations and the Dynamics of DevaluationGet access Arrow
+Stephen J. Turnovsky
+The Review of Economic Studies, Volume 47, Issue 4, July 1980, Pages 679–704, https://doi.org/10.2307/2296936
+Published: 01 July 1980
+Journal Article
+Rationing in the U.S.S.R.Get access Arrow
+E. M. Chossudowsky
+The Review of Economic Studies, Volume 8, Issue 3, June 1941, Pages 143–165, https://doi.org/10.2307/2967599
+Published: 01 June 1941
+The Economic Geography of Global WarmingGet access Arrow
+José-Luis Cruz and Esteban Rossi-Hansberg
+The Review of Economic Studies, Volume 91, Issue 2, March 2024, Pages 899–939, https://doi.org/10.1093/restud/rdad042
+Published: 05 April 2023
+... warming. Section 5 discusses the role of the different forms of adaptation in mediating the harmful effects of global warming. Section 6 analyses the effect of a number of environmental policies. Section 7 concludes. An Online Appendix includes details of our data, derivations, robustness checks...
+Abstract  
+Supplementary data
+Journal Article
+State Building in a Diverse SocietyGet access Arrow
+Ruth Carlitz and others
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3704–3740, https://doi.org/10.1093/restud/rdae116
+Published: 20 December 2024
+Abstract  
+Supplementary data
+Journal Article
+Transhumant Pastoralism, Climate Change, and Conflict in Africa Open Access
+Eoin F McGuirk and Nathan Nunn
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 404–441, https://doi.org/10.1093/restud/rdae027
+Published: 12 March 2024
+Abstract  
+Supplementary data
+Journal Article
+Roman Transport Network Connectivity and Economic IntegrationGet access Arrow
+Matthias Flückiger and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 774–810, https://doi.org/10.1093/restud/rdab036
+Published: 10 July 2021
+... Empire increases current-day economic activity. Again, persistence in access to the road network is identified as the main mediating factor. We complement these findings by considering all modes of transport in the Roman network—including waterborne transport—and documenting that, in addition to levels...
+Abstract  
+Supplementary data
+Journal Article
+A Conversational War of AttritionGet access Arrow
+Moritz Meyer-ter-Vehn and others
+The Review of Economic Studies, Volume 85, Issue 3, July 2018, Pages 1897–1935, https://doi.org/10.1093/restud/rdx073
+Published: 07 December 2017
+Abstract  
+Supplementary data
+Journal Article
+Long-Term Effects of Childhood Nutrition: Evidence from a School Lunch Reform Open Access
+Petter Lundborg and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 876–908, https://doi.org/10.1093/restud/rdab028
+Published: 11 May 2021
+Abstract  
+Supplementary data
+Journal Article
+Labour Force Participation: Timing and PersistenceGet access Arrow
+Kim B. Clark and Lawrence H. Summers
+The Review of Economic Studies, Volume 49, Issue 5, December 1982, Pages 825–844, https://doi.org/10.2307/2297190
+Published: 01 December 1982
+... is mediated. That work experience during the war affected attitudes is evident in a 1944 survey conducted by the United Auto Workers. lO Half of the women surveyed, who had never worked in a factory before the war, professed a desire to continue in a factory after the war. Over 85% desired to remain...
+Abstract 
+Journal Article
+Minorities and Endogenous SegregationGet access Arrow
+Jan Eeckhout
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 31–53, https://doi.org/10.1111/j.1467-937X.2006.00368.x
+Published: 01 January 2006
+Abstract 
+Journal Article
+Provision of Public Goods: Fully Implementing the Core through Private ContributionsGet access Arrow
+Mark Bagnoli and Barton L. Lipman
+The Review of Economic Studies, Volume 56, Issue 4, October 1989, Pages 583–601, https://doi.org/10.2307/2297502
+Published: 01 October 1989
+... authority for their use. 3 For example, the way these games are usually described is that the agents send messages to a social planner or mediator who chooses the social decision based on the messages. In addition, these games often use seemingly artificial devices to guarantee efficiency. One...
+Abstract 
+Journal Article
+Changes in Social Network Structure in Response to Exposure to Formal Credit Markets Free
+Abhijit Banerjee and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1331–1372, https://doi.org/10.1093/restud/rdad065
+Published: 27 June 2023
+... in Karnataka means that whatever dynamics underpin the behavioural response by individuals must allow for these “non-monotone” effects. Moreover, the fact that LLs and LLLs drop comparably to their counterparts suggests the presence of a large externality mediated by something other than...
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Wealth on Worker ProductivityGet access Arrow
+Jan Eeckhout and Alireza Sepahsalari
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1584–1633, https://doi.org/10.1093/restud/rdad059
+Published: 17 July 2023
+... problem, a hedonic price schedule mediates the competition by heterogenous agents on both sides of the market. In the assignment game, that price is the wage schedule. Here, this equilibrium object reveals the tightness of each submarket, which in turn is determined by the wage. Like in the sorting...
+Abstract  
+Supplementary data
+Journal Article
+Refugee Migration and Electoral OutcomesGet access Arrow
+Christian Dustmann and others
+The Review of Economic Studies, Volume 86, Issue 5, October 2019, Pages 2035–2091, https://doi.org/10.1093/restud/rdy047
+Published: 04 September 2018
+... further. The large variation due to random assignment enables further exploration of channels that mediate the possible effect(s) of immigration on voting behaviour by interacting changes in refugee shares with municipal characteristics measured in the year preceding policy implementation. Rather than...
+Abstract  
+Supplementary data
+Journal Article
+Identifying the Costs of a Public Health Success: Arsenic Well Water Contamination and Productivity in BangladeshGet access Arrow
+Mark M Pitt and others
+The Review of Economic Studies, Volume 88, Issue 5, October 2021, Pages 2479–2526, https://doi.org/10.1093/restud/rdaa087
+Published: 24 December 2020
+... and also mediate the effects of arsenic ingestion via arsenic metabolism and excretion, affect arsenic concentrations in the body, given exposure to arsenic via water sources (impounded in the household fixed effect). For these estimates to be credible based on the short-period information on food intakes...
+Abstract  
+Supplementary data
+Journal Article
+The Design of Teacher Assignment: Theory and EvidenceGet access Arrow
+Julien Combe and others
+The Review of Economic Studies, Volume 89, Issue 6, November 2022, Pages 3154–3222, https://doi.org/10.1093/restud/rdac002
+Published: 02 February 2022
+... to their families did not obtain a new assignment, many of them for several consecutive years. Due to this lack of mobility, the Mediator of the French Ministry of Education (2015) , responsible for resolving conflicts between the Ministry and teachers, receives approximately 700 complaints from primary...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+U.S. Monetary Policy and the Global Financial Cycle Open Access
+Silvia Miranda-Agrippino and Hélène Rey
+The Review of Economic Studies, Volume 87, Issue 6, November 2020, Pages 2754–2776, https://doi.org/10.1093/restud/rdaa019
+Published: 08 May 2020
+... global factor in international risky asset prices that explains over 20% of the variance in the data. With a global Bayesian VAR, we then study the international transmission of U.S. monetary policy that is mediated through the reaction of asset prices, of global credit and capital inflows...
+Abstract  
+Supplementary data
+Journal Article
+Input Price Shocks and the Slowdown in Economic Growth: The Case of U.K. ManufacturingGet access Arrow
+Michael Bruno and Jeffrey Sachs
+The Review of Economic Studies, Volume 49, Issue 5, December 1982, Pages 679–705, https://doi.org/10.2307/2297185
+Published: 01 December 1982
+... reflects a growth slowdown in capital and labour inputs, as well as an apparent decline in total factor productivity (TFP) growth. Unfortunately, there is no published volume index of inter• mediate inputs, so that we were forced to create our own variable. For a number of reasons (see Data...
+Abstract 
+Journal Article
+Ballot Position, Choice Fatigue, and Voter BehaviourGet access Arrow
+Ned Augenblick and Scott Nicholson
+The Review of Economic Studies, Volume 83, Issue 2, April 2016, Pages 460–480, https://doi.org/10.1093/restud/rdv047
+Published: 14 December 2015
+... that the majority of the effects of choice fatigue occur in general elections (where the coefficient is 0.163). This is perhaps not surprising if, as described in Brockington (2003) , primary voters are more motivated than general election voters and high motivation mediates the effects of choice fatigue. Finally...
+Abstract  
+Supplementary data
+Journal Article
+Do Population Control Policies Induce More Human Capital Investment? Twins, Birth Weight and China's “One-Child” PolicyGet access Arrow
+Mark R. Rosenzweig and Junsen Zhang
+The Review of Economic Studies, Volume 76, Issue 3, July 2009, Pages 1149–1174, https://doi.org/10.1111/j.1467-937X.2009.00563.x
+Published: 01 July 2009
+... not, however, indicate how birth-weight effects are mediated, if at all, by parental resource allocation behaviour, which as shown in Section 2 can influence the direction of differences in twins effects on outcomes between twins and non-twins within the family, and can determine whether twinning effects...
+Abstract 
+Journal Article
+Cheap Talk in the Classroom: How Biased Grading at School Explains Gender Differences in Achievements, Career Choices and WagesGet access Arrow
+Lydia Mechtenberg
+The Review of Economic Studies, Volume 76, Issue 4, October 2009, Pages 1431–1459, https://doi.org/10.1111/j.1467-937X.2009.00551.x
+Published: 01 October 2009
+... prophecies due to biased grading, Jussim (1989) reports: “Teacher perceptions of performance had no direct effects on achievement, but they did have indirect effects mediated by students' self-concept of ability and teacher perceptions of effort and talent (…)” (p. 475). Thus, the results “were consistent...
+Abstract 
+Journal Article
+Moral Universalism and the Structure of IdeologyGet access Arrow
+Benjamin Enke and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1934–1962, https://doi.org/10.1093/restud/rdac066
+Published: 28 September 2022
+Abstract  
+Supplementary data
+Moral Universalism and the Structure of IdeologyGet access Arrow
+Benjamin Enke and others
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1934–1962, https://doi.org/10.1093/restud/rdac066
+Published: 28 September 2022
+Abstract  
+Supplementary data
+Journal Article
+On Transparency in OrganizationsGet access Arrow
+Philippe Jehiel
+The Review of Economic Studies, Volume 82, Issue 2, April 2015, Pages 736–761, https://doi.org/10.1093/restud/rdu040
+Published: 08 December 2014
+Abstract 
+Journal Article
+Ability Peer Effects in University: Evidence from a Randomized ExperimentGet access Arrow
+Adam S Booij and others
+The Review of Economic Studies, Volume 84, Issue 2, April 2017, Pages 547–578, https://doi.org/10.1093/restud/rdw045
+Published: 14 September 2016
+... in tracked groups have more positive interaction with other students and are more involved with their studies than low-GPA students in mixed groups. The survey responses give no support for teachers as a mediating factor; their teaching is not adjusted to the ability composition of tutorial groups...
+Abstract  
+Supplementary data
+Journal Article
+Contracting Productivity GrowthGet access Arrow
+Patrick Francois and Joanne Roberts
+The Review of Economic Studies, Volume 70, Issue 1, January 2003, Pages 59–85, https://doi.org/10.1111/1467-937X.00237
+Published: 01 January 2003
+Abstract 
+Journal Article
+Household Division and Rural Economic GrowthGet access Arrow
+Andrew D. Foster and Mark R. Rosenzweig
+The Review of Economic Studies, Volume 69, Issue 4, October 2002, Pages 839–869, https://doi.org/10.1111/1467-937X.00228
+Published: 01 October 2002
+Journal Article
+Estimating the Elasticity of Intertemporal Substitution Using Mortgage NotchesGet access Arrow
+Michael Carlos Best and others
+The Review of Economic Studies, Volume 87, Issue 2, March 2020, Pages 656–690, https://doi.org/10.1093/restud/rdz025
+Published: 29 May 2019
+.... The translation between the two parameters is mediated by additional (endogenous) variables that can vary widely across borrower populations. 4 Third, we contribute to the recent bunching literature in public economics (as reviewed by Kleven, 2016 ). Most of this literature has focused on static...
+Abstract  
+Supplementary data
+Journal Article
+Knowledge Spillovers through Networks of ScientistsGet access Arrow
+Paolo Zacchia
+The Review of Economic Studies, Volume 87, Issue 4, July 2020, Pages 1989–2018, https://doi.org/10.1093/restud/rdz033
+Published: 29 May 2019
+Abstract  
+Supplementary data
+Journal Article
+Dissecting the Effect of Credit Supply on Trade: Evidence from Matched Credit-Export DataGet access Arrow
+Daniel Paravisini and others
+The Review of Economic Studies, Volume 82, Issue 1, January 2015, Pages 333–359, https://doi.org/10.1093/restud/rdu028
+Published: 23 September 2014
+... is correlated with: (1) demand heterogeneity within a product-destination (e.g., product quality), or (2) other non-credit firm-level shocks (e.g., firm's direct dependence on foreign funding, not mediated by banks). We discuss and test the validity of these assumptions in Subsection 4.6...
+Abstract  
+Supplementary data
+Journal Article
+Climate and the Emergence of Global Income DifferencesGet access Arrow
+Thomas Barnebeck Andersen and others
+The Review of Economic Studies, Volume 83, Issue 4, October 2016, Pages 1334–1363, https://doi.org/10.1093/restud/rdw006
+Published: 23 February 2016
+Abstract  
+Supplementary data
+Journal Article
+Self-enforcing Agreements and Forward Induction ReasoningGet access Arrow
+Emiliano Catonini
+The Review of Economic Studies, Volume 88, Issue 2, March 2021, Pages 610–642, https://doi.org/10.1093/restud/rdaa051
+Published: 25 August 2020
+... the outcome set they induce. Thus, they provide to the analyst (or a mediator) all possible predictions (and an implementation strategy) under the non-binding agreements motivation, abstracting away from the foundations of self-enforceability. In particular, after a standard elimination procedure (extensive...
+Abstract  
+Supplementary data
+Journal Article
+Robust Collusion with Private InformationGet access Arrow
+David A. Miller
+The Review of Economic Studies, Volume 79, Issue 2, April 2012, Pages 778–811, https://doi.org/10.1093/restud/rdr035
+Published: 28 September 2011
+... pay-off relevant information. In practice, EPIC gives each firm the incentive to share its information without first trying to infer what its collaborators may have learned. For instance, there is no need for them to communicate through a disinterested mediator; they can speak face-to-face and in any...
+Abstract 
+Journal Article
+Information and Bargaining through Agents: Experimental Evidence from Mexico’s Labour Courts Open Access
+Joyce Sadka and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3677–3711, https://doi.org/10.1093/restud/rdae003
+Published: 01 February 2024
+... and Matthews (2016) review randomized evaluations in the U.S. legal system, finding only 50 studies conducted between 1963 and 2015. Most of these examine mediation and alternative dispute resolution, though a handful evaluate programs that affect the use of lawyers. There are likewise few legal experiments...
+Abstract  
+Supplementary data
+Journal Article
+Electoral TurnoversGet access Arrow
+Benjamin Marx and others
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3306–3339, https://doi.org/10.1093/restud/rdae108
+Published: 13 November 2024
+Abstract  
+Supplementary data
+Journal Article
+How Do Digital Advertising Auctions Impact Product Prices?Get access Arrow
+Dirk Bergemann and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2330–2358, https://doi.org/10.1093/restud/rdae087
+Published: 20 August 2024
+...-product listings. By contrast, the pricing of display advertising by third-party publishers such as nytimes.com or wsj.com, which is often mediated by the digital platforms, has recently seen a transition from second-price auctions to first-price auctions. 10 In what follows, we focus...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Voluntary Disclosure and Personalized PricingGet access Arrow
+S Nageeb Ali and others
+The Review of Economic Studies, Volume 90, Issue 2, March 2023, Pages 538–571, https://doi.org/10.1093/restud/rdac033
+Published: 23 July 2022
+... of better matching. Finally, our analysis is germane to current technological solutions that enable greater consumer control. Pressure from regulators and consumers has led major platforms to search for richer ways to mediate the disclosure and use of user information. As of Q4 2021, Google has begun...
+Abstract  
+Supplementary data
+Journal Article
+Reputation in Long-Run RelationshipsGet access Arrow
+Alp E. Atakan and Mehmet Ekmekci
+The Review of Economic Studies, Volume 79, Issue 2, April 2012, Pages 451–480, https://doi.org/10.1093/restud/rdr037
+Published: 28 September 2011
+Abstract 
+Journal Article
+Stochastic Search EquilibriumGet access Arrow
+Giuseppe Moscarini and Fabien Postel-Vinay
+The Review of Economic Studies, Volume 80, Issue 4, October 2013, Pages 1545–1581, https://doi.org/10.1093/restud/rdt012
+Published: 14 April 2013
+... affect the law of motion of the state variables, a property not yet addressed by the theory of Monotone Comparative Statics ( Topkis, 1998 ). 3 The continuous reallocation of employment across firms, sectors and occupations, mediated by various kinds of frictions, is a powerful source...
+Abstract  
+Supplementary data
+Journal Article
+Natural Amenities, Neighbourhood Dynamics, and Persistence in the Spatial Distribution of IncomeGet access Arrow
+Sanghoon Lee and Jeffrey Lin
+The Review of Economic Studies, Volume 85, Issue 1, January 2018, Pages 663–694, https://doi.org/10.1093/restud/rdx018
+Published: 27 March 2017
+Abstract  
+Supplementary data
+Journal Article
+War Signals: A Theory of Trade, Trust, and ConflictGet access Arrow
+Dominic Rohner and others
+The Review of Economic Studies, Volume 80, Issue 3, July 2013, Pages 1114–1147, https://doi.org/10.1093/restud/rdt003
+Published: 05 February 2013
+Abstract  
+Supplementary data
+Journal Article
+The Darwinian Returns to ScaleGet access Arrow
+David Rezza Baqaee and others
+The Review of Economic Studies, Volume 91, Issue 3, May 2024, Pages 1373–1405, https://doi.org/10.1093/restud/rdad061
+Published: 09 June 2023
+... different residual demand curves. Equation ( 1 ) also makes clear that the demand for a variety is determined by the ratio of its price, p θ , to the price aggregator, P. Hence, the price aggregator P mediates competition between each variety and all other available goods. Outside...
+Abstract  
+Supplementary data
+Gang Rule: Understanding and Countering Criminal GovernanceGet access Arrow
+Christopher Blattman and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1497–1531, https://doi.org/10.1093/restud/rdae079
+Published: 05 September 2024
+Abstract  
+Supplementary data
+Journal Article
+Trade, Firms, and Wages: Theory and EvidenceGet access Arrow
+Mary Amiti and Donald R. Davis
+The Review of Economic Studies, Volume 79, Issue 1, January 2012, Pages 1–36, https://doi.org/10.1093/restud/rdr016
+Published: 22 August 2011
+Abstract  
+Supplementary data
+Journal Article
+Imagining the Future: Memory, Simulation, and Beliefs Open Access
+Pedro Bordalo and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1532–1563, https://doi.org/10.1093/restud/rdae070
+Published: 27 June 2024
+Abstract  
+Supplementary data
+Journal Article
+The Aggregate Implications of Mergers and AcquisitionsGet access Arrow
+Joel M David
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1796–1830, https://doi.org/10.1093/restud/rdaa077
+Published: 12 November 2020
+... the real interest rate. Throughout, I study a stationary equilibrium in which aggregate variables remain constant. 12 The merger process is mediated by search and matching frictions. Firms engage in costly and potentially time consuming search for prospective partners. Upon meeting, the parties...
+Abstract  
+Supplementary data
+Journal Article
+The Effect of Provider Diversity on Racial Health Disparities: Evidence from the Military Open Access
+Michael Frakes and Jonathan Gruber
+The Review of Economic Studies, rdaf072, https://doi.org/10.1093/restud/rdaf072
+Published: 01 October 2025
+Abstract  
+Supplementary data
+Journal Article
+External Validity in a Stochastic World: Evidence from Low-Income CountriesGet access Arrow
+Mark R Rosenzweig and Christopher Udry
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 343–381, https://doi.org/10.1093/restud/rdz021
+Published: 26 March 2019
+... differentially across farmers. We take advantage of the fact that the ICRISAT dataset has detailed information on soil properties—soil colour, depth, etc.—that not only affect agricultural profits directly but also mediate how rainfall variation affects profits. Therefore, we follow the literature (e.g...
+Abstract  
+Supplementary data
+Journal Article
+Skill-Biased Structural ChangeGet access Arrow
+Francisco J Buera and others
+The Review of Economic Studies, Volume 89, Issue 2, March 2022, Pages 592–625, https://doi.org/10.1093/restud/rdab035
+Published: 30 July 2021
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Estimating Intergenerational and Assortative Processes in Extended Family DataGet access Arrow
+M Dolores Collado and others
+The Review of Economic Studies, Volume 90, Issue 3, May 2023, Pages 1195–1227, https://doi.org/10.1093/restud/rdac060
+Published: 10 December 2022
+Abstract  
+Supplementary data
+Journal Article
+Slum Upgrading and Long-Run Urban Development: Evidence from IndonesiaGet access Arrow
+Mariaflavia Harari and Maisy Wong
+The Review of Economic Studies, rdaf090, https://doi.org/10.1093/restud/rdaf090
+Published: 15 October 2025
+Abstract  
+Supplementary data
+Journal Article
+Do Female Officers Improve Law Enforcement Quality? Effects on Crime Reporting and Domestic ViolenceGet access Arrow
+Amalia R Miller and Carmit Segal
+The Review of Economic Studies, Volume 86, Issue 5, October 2019, Pages 2220–2247, https://doi.org/10.1093/restud/rdy051
+Published: 18 September 2018
+Abstract  
+Supplementary data
+Journal Article
+Gender Preferences in Job Vacancies and Workplace Gender Diversity Open Access
+David Card and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2437–2471, https://doi.org/10.1093/restud/rdae085
+Published: 21 August 2024
+... differs from some other job information systems (such as the one studied by Kuhn and Shen 2013 ) in the direct role played by AMS staff, even though most applications are from job seekers directly rather than mediated by AMS caseworkers. 10 Nevertheless, as we show below, the agreement rate...
+Abstract  
+Supplementary data
+Journal Article
+Gifts of the Immigrants, Woes of the Natives: Lessons from the Age of Mass MigrationGet access Arrow
+Marco Tabellini
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 454–486, https://doi.org/10.1093/restud/rdz027
+Published: 06 May 2019
+Abstract  
+Supplementary data
+Journal Article
+Does Advertising Serve as a Signal? Evidence from a Field Experiment in Mobile SearchGet access Arrow
+Navdeep S Sahni and Harikesh S Nair
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1529–1564, https://doi.org/10.1093/restud/rdz053
+Published: 08 October 2019
+... the mediation of such omitted variables. Evidence for correlations between observed metrics of quality—like peer ratings, consumer reports or time spent at the firm—with advertising actions, thus present a weaker test of the theory (e.g. see Archibald et al. 1983 ; Kwoka 1984 ; Caves...
+Abstract  
+Supplementary data
+Journal Article
+Risk Premium Shocks Can Create Inefficient RecessionsGet access Arrow
+Sebastian Di Tella and Robert Hall
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1335–1369, https://doi.org/10.1093/restud/rdab049
+Published: 25 September 2021
+Abstract 
+Journal Article
+Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACAGet access Arrow
+Pietro Tebaldi
+The Review of Economic Studies, Volume 92, Issue 1, January 2025, Pages 586–620, https://doi.org/10.1093/restud/rdae020
+Published: 22 February 2024
+... , θ ) ) d G m t ( z , θ ) . Equation ( 4 ) highlights how changes in base premiums do not affect enrolment directly, since the effect on premiums paid by consumers is mediated by the term ∂ P ℓ ( b m t , z ) ∂ b k m t . This captures...
+Abstract  
+Supplementary data
+Journal Article
+The Design of Ambiguous MechanismsGet access Arrow
+Alfredo di Tillio and others
+The Review of Economic Studies, Volume 84, Issue 1, January 2017, Pages 237–276, https://doi.org/10.1093/restud/rdw051
+Published: 18 October 2016
+... functions. Instead, they explore which social choice rules the designer can implement if he engages the agents in a dynamic communication game that he mediates by transforming messages in an ambiguous way. By injecting uncertainty in the exchange of messages between the agents, the principal can manipulate...
+Abstract 
+Journal Article
+The U.K. as a Technological Follower: Higher Education Expansion and the College Wage Premium Open Access
+Richard Blundell and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 142–180, https://doi.org/10.1093/restud/rdab034
+Published: 20 July 2021
+... on mediation through relative skill supply shifts, it should act as a common force showing up in the same way in all developed countries. In contrast, differential movements in the combination of educational attainment and skill based wage differentials across countries is taken as evidence of the impact...
+Abstract  
+Supplementary data
+Journal Article
+Historical Antisemitism, Ethnic Specialization, and Financial DevelopmentGet access Arrow
+Francesco D’Acunto and others
+The Review of Economic Studies, Volume 86, Issue 3, May 2019, Pages 1170–1206, https://doi.org/10.1093/restud/rdy021
+Published: 18 April 2018
+Abstract  
+Supplementary data
+Journal Article
+Demographics and AutomationGet access Arrow
+Daron Acemoglu and Pascual Restrepo
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 1–44, https://doi.org/10.1093/restud/rdab031
+Published: 10 June 2021
+... that the relationship between demographic change and robot adoption is not mediated by and is robust to controlling for changes in educational attainment and female labour force participation. The effects we estimate are sizable. Aging alone explains about 35% of the cross-country variation in robot adoption. A 10...
+Abstract  
+Supplementary data
+Journal Article
+The Origins and Control of Forest Fires in the Tropics Open Access
+Clare Balboni and others
+The Review of Economic Studies, rdaf088, https://doi.org/10.1093/restud/rdaf088
+Published: 06 October 2025
+Abstract  
+Supplementary data
+Demographics and AutomationGet access Arrow
+Daron Acemoglu and Pascual Restrepo
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 1–44, https://doi.org/10.1093/restud/rdab031
+Published: 10 June 2021
+... that the relationship between demographic change and robot adoption is not mediated by and is robust to controlling for changes in educational attainment and female labour force participation. The effects we estimate are sizable. Aging alone explains about 35% of the cross-country variation in robot adoption. A 10...
+Abstract  
+Supplementary data
+Journal Article
+The Origins and Control of Forest Fires in the Tropics Open Access
+Clare Balboni and others
+The Review of Economic Studies, rdaf088, https://doi.org/10.1093/restud/rdaf088
+Published: 06 October 2025
+Abstract  
+Supplementary data
+Journal Article
+Institutions, Comparative Advantage, and the Environment Open Access
+Joseph S Shapiro
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 4152–4193, https://doi.org/10.1093/restud/rdaf012
+Published: 27 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Feedback and Learning: The Causal Effects of Reversals on Judicial Decision-Making Open Access
+Manudeep Bhuller and Henrik Sigstad
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2359–2397, https://doi.org/10.1093/restud/rdae073
+Published: 25 June 2024
+... ). 7 Such correlations between higher and lower level court decisions could, however, be driven by omitted variables or be mediated through other channels than the appeal process. 8 In fact, Klein and Hume ( 2003 ) found that the US Courts of Appeals do not depart more from...
+Abstract  
+Supplementary data
+Journal Article
+Are Executives in Short Supply? Evidence from Death Events Open Access
+Julien Sauvagnat and Fabiano Schivardi
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 519–559, https://doi.org/10.1093/restud/rdad027
+Published: 24 February 2023
+Abstract  
+Supplementary data
+Journal Article
+Confining the Coase Theorem: Contracting, Ownership, and Free-RidingGet access Arrow
+Tore Ellingsen and Elena Paltseva
+The Review of Economic Studies, Volume 83, Issue 2, April 2016, Pages 547–586, https://doi.org/10.1093/restud/rdw001
+Published: 18 February 2016
+Abstract 
+Journal Article
+Default Effects And Follow-On Behaviour: Evidence From An Electricity Pricing ProgramGet access Arrow
+Meredith Fowlie and others
+The Review of Economic Studies, Volume 88, Issue 6, November 2021, Pages 2886–2934, https://doi.org/10.1093/restud/rdab018
+Published: 12 April 2021
+... features of consumer behaviour (such as inattention) that could rationalize a default effect. Bernheim et al. (2015) and Blumenstock et al. (2018) go one step further and mediate between several different explanations for the default effect. Our work extends this line of inquiry...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Identifying Network Ties from Panel Data: Theory and an Application to Tax Competition Open Access
+Áureo de Paula and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2691–2729, https://doi.org/10.1093/restud/rdae088
+Published: 03 September 2024
+... open up the study of social interactions to realms where social network data does not exist. In our case, we consider the definition of the network as the one that mediates, together with the variables x i t , the outcome process y i t according to equation ( 1 ). The identified...
+Abstract  
+Supplementary data
+Journal Article
+Labour Market Frictions, Firm Growth, and International TradeGet access Arrow
+Pablo D Fajgelbaum
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1213–1260, https://doi.org/10.1093/restud/rdz063
+Published: 24 December 2019
+Abstract 
+Journal Article
+Motivational RatingsGet access Arrow
+Johannes Hörner and Nicolas S Lambert
+The Review of Economic Studies, Volume 88, Issue 4, July 2021, Pages 1892–1935, https://doi.org/10.1093/restud/rdaa070
+Published: 09 November 2020
+.... Furthermore, in Pei (2016) , the intermediary is not a mediator in the game-theoretic sense but a strategic player with her own payoff that she maximizes in the Markov perfect equilibrium. Even closer to our work, Rodina (2017) elegantly shows that transparency maximizes incentives under general conditions...
+Abstract  
+Supplementary data
+Journal Article
+From Polygyny to Serial Monogamy: A Unified Theory of Marriage InstitutionsGet access Arrow
+David De La Croix and Fabio Mariani
+The Review of Economic Studies, Volume 82, Issue 2, April 2015, Pages 565–607, https://doi.org/10.1093/restud/rdv001
+Published: 07 January 2015
+Abstract  
+Supplementary data
+Journal Article
+How the Other Half Died: Immigration and Mortality in U.S. CitiesGet access Arrow
+Philipp Ager and others
+The Review of Economic Studies, Volume 91, Issue 1, January 2024, Pages 1–44, https://doi.org/10.1093/restud/rdad035
+Published: 17 March 2023
+Abstract  
+Supplementary data
+Journal Article
+Wealth Inequality and Asset PricesGet access Arrow
+Matthieu Gomez
+The Review of Economic Studies, Volume 92, Issue 6, November 2025, Pages 3924–3967, https://doi.org/10.1093/restud/rdaf008
+Published: 28 February 2025
+Abstract  
+Supplementary data
+Journal Article
+Left-Digit Bias at LyftGet access Arrow
+John A List and others
+The Review of Economic Studies, Volume 90, Issue 6, November 2023, Pages 3186–3237, https://doi.org/10.1093/restud/rdad014
+Published: 18 February 2023
+... to a meaningful restriction on behavior consistent with the model. Specifically, implicit in the above formulation is that the effect of left-digit bias is entirely mediated through its effect on perceptions of price. To see why this restricts the set of possible data consistent with the model, we assume...
+Abstract 
+Journal Article
+A Theory of Strategic Uncertainty and Cultural DiversityGet access Arrow
+Willemien Kets and Alvaro Sandroni
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 287–333, https://doi.org/10.1093/restud/rdaa037
+Published: 08 August 2020
+... is a measure of the regime’s strength. So, it is a best response for a player to attack if he assigns probability at least to the attack being successful (i.e.  ). The following result shows that the effects of diversity are mediated by the regime’s strength : Proposition 3.3 [Sociocultural...
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Global Imbalances and Policy Wars at the Zero Lower BoundGet access Arrow
+Ricardo J Caballero and others
+The Review of Economic Studies, Volume 88, Issue 6, November 2021, Pages 2570–2621, https://doi.org/10.1093/restud/rdab015
+Published: 15 March 2021
+Abstract  
+Supplementary data
+Journal Article
+Trade and Inequality: From Theory to EstimationGet access Arrow
+Elhanan Helpman and others
+The Review of Economic Studies, Volume 84, Issue 1, January 2017, Pages 357–405, https://doi.org/10.1093/restud/rdw025
+Published: 29 June 2016
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Firm Dynamics, On-the-Job Search, and Labor Market Fluctuations Open Access
+Michael W L Elsby and Axel Gottfries
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1370–1419, https://doi.org/10.1093/restud/rdab054
+Published: 08 September 2021
+... their cumulative sum by , and its increment . 6 It follows that the firm’s employment evolves according to the law of motion (2) $$ \begin{align}\label{eq2} \mbox{d}n = \mbox{d}H - \mbox{d}S - \delta n\mbox{d}t.\end{align}$$ Firms’ hires are mediated through vacancies. The firm faces a vacancy...
+Abstract  
+Supplementary data
+Journal Article
+Negative Nominal Interest Rates and the Bank Lending ChannelGet access Arrow
+Gauti B Eggertsson and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2201–2275, https://doi.org/10.1093/restud/rdad085
+Published: 05 September 2023
+Abstract

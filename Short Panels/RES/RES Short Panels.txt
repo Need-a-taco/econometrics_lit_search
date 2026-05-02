@@ -1,0 +1,402 @@
+﻿Estimating Distributed Lags in Short Panels with an Application to the Specification of Depreciation Patterns and Capital Stock ConstructsGet access Arrow
+Ariél Pakes and Zvi Griliches
+The Review of Economic Studies, Volume 51, Issue 2, April 1984, Pages 243–262, https://doi.org/10.2307/2297690
+Published: 01 April 1984
+...Ariél Pakes; Zvi Griliches 9 1982 10 1983 © 1984 The Society for Economic Analysis Limited 1984 Abstract This paper considers the problem of estimating distributed lags in short panels. Though the N time series contained in a panel may allow for relatively precise estimates...
+Abstract 
+Journal Article
+Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000Get access Arrow
+Stéphane Bonhomme and Jean-Marc Robin
+The Review of Economic Studies, Volume 76, Issue 1, January 2009, Pages 63–92, https://doi.org/10.1111/j.1467-937X.2008.00521.x
+Published: 01 January 2009
+... consider a series of short panel datasets Sj, j = 1,…, J, with many individual observations. Each subpanel Sj records individual log earnings yit and individual attributes...
+Abstract 
+Journal Article
+The Effect of Work Experience on Female Wages and Labour SupplyGet access Arrow
+Sumru Altuğ and Robert A. Miller
+The Review of Economic Studies, Volume 65, Issue 1, January 1998, Pages 45–85, https://doi.org/10.1111/1467-937X.00035
+Published: 01 January 1998
+... aggregate shocks are present. It provides a set of conditions for making statistical inferences about agents' expectations of their correlated future choices, from a short panel. Under the assumption that observed allocations are Pareto optimal, a dynamic model of female labour supply and participation...
+Abstract 
+Journal Article
+Orthogonal Parameters and Panel DataGet access Arrow
+Tony Lancaster
+The Review of Economic Studies, Volume 69, Issue 3, July 2002, Pages 647–666, https://doi.org/10.1111/1467-937X.t01-1-00025
+Published: 01 July 2002
+...Tony Lancaster 8 3 2000 22 10 2001 Copyright © 2002 Ltd. 2002 Abstract This paper describes a class of consistent estimators for short panels with fixed effects. The method is to find an orthogonal reparametrization of the fixed effects and then to integrate...
+Abstract 
+Journal Article
+Estimating Intertemporal Allocation Parameters using Synthetic Residual EstimationGet access Arrow
+Sule Alan and Martin Browning
+The Review of Economic Studies, Volume 77, Issue 4, October 2010, Pages 1231–1261, https://doi.org/10.1111/j.1467-937X.2010.00607.x
+Published: 01 October 2010
+... of both exact and approximate Euler equations in the case when we have short panels and noisy consumption data. We apply SRE to two panels drawn from the Panel Study of Income Dynamics (PSID) and estimate the joint distribution of the discount factor and the elasticity of intertemporal substitution. We...
+Abstract  
+Supplementary data
+Image
+Data description, by calendar year and by year of entry in the panel 
+Data description, by calendar year and by year of entry in the panelGet access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 2 Data description, by calendar year and by year of entry in the panel
+Image
+Parameter estimates for subpanel 1990–1992 
+Parameter estimates for subpanel 1990–1992Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 3 Parameter estimates for subpanel 1990–1992
+Image
+Average returns to education and experience 
+Average returns to education and experienceGet access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 4 Average returns to education and experience
+Image
+Fit of the marginal distributions of log earnings levels (subpanel 1990–199...
+Fit of the marginal distributions of log earnings levels (subpanel 1990–199...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 5 Fit of the marginal distributions of log earnings levels (subpanel 1990–1992)
+Image
+Fit of the marginal distribution of log earnings residuals (subpanel 1990–1...
+Fit of the marginal distribution of log earnings residuals (subpanel 1990–1...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 6 Fit of the marginal distribution of log earnings residuals (subpanel 1990–1992)
+Image
+Variance of log PVs of employees' earnings as a proportion of the variance ...
+Variance of log PVs of employees' earnings as a proportion of the variance ...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 8 Variance of log PVs of employees' earnings as a proportion of the variance of log PVs of workers' income in the whole sample (replacement ratio = 60% and discount rate = 5%)
+Image
+Longer-run income inequality for replacement ratios of 40% and 80% (whole s...
+Longer-run income inequality for replacement ratios of 40% and 80% (whole s...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 11 Longer-run income inequality for replacement ratios of 40% and 80% (whole sample)
+Image
+Parameter estimates for subpanel 1990–1992, model with Gaussian margins and...
+Parameter estimates for subpanel 1990–1992, model with Gaussian margins and...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 7 Parameter estimates for subpanel 1990–1992, model with Gaussian margins and Gaussian copula
+Image
+Fit of 1990–1991 transition probabilities across earnings quintiles 
+Fit of 1990–1991 transition probabilities across earnings quintilesGet access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 1 Fit of 1990–1991 transition probabilities across earnings quintiles
+Image
+Distribution of unobserved heterogeneity, ηi, for different values of K, th...
+Distribution of unobserved heterogeneity, ηi, for different values of K, th...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 1 Distribution of unobserved heterogeneity, η i , for different values of K , the number of support points
+Image
+Density of εit for subpanel 1990–1992 
+Density of εit for subpanel 1990–1992Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 2 Density of ε it for subpanel 1990–1992
+Image
+Oaxaca decomposition of the deterministic component of the variance of log ...
+Oaxaca decomposition of the deterministic component of the variance of log ...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 4 Oaxaca decomposition of the deterministic component of the variance of log earnings (reference = 1990–1992)
+Image
+Fit of 1990–1992 transition probabilities across earnings quintiles 
+Fit of 1990–1992 transition probabilities across earnings quintilesGet access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 5 Fit of 1990–1992 transition probabilities across earnings quintiles
+Image
+Model fit, subpanels 1990–1992 to 2000–2002 
+Model fit, subpanels 1990–1992 to 2000–2002Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 7 Model fit, subpanels 1990–1992 to 2000–2002
+Image
+Longer-run income inequality with no unemployment risk (whole sample, repla...
+Longer-run income inequality with no unemployment risk (whole sample, repla...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 12 Longer-run income inequality with no unemployment risk (whole sample, replacement ratio = 60% and discount rate = 5%)
+Counterfactual longer-run income inequality under full Gaussianity (replace...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 13 Counterfactual longer-run income inequality under full Gaussianity (replacement ratio = 60%, and discount rate = 5%)
+Image
+Decomposition of the cross-sectional variance of log earnings, subpanels 19...
+Decomposition of the cross-sectional variance of log earnings, subpanels 19...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 3 Decomposition of the cross-sectional variance of log earnings, subpanels 1990–1992 to 2000–2002
+Image
+Longer-run inequality for various horizons, 1990–2000 (replacement ratio = ...
+Longer-run inequality for various horizons, 1990–2000 (replacement ratio = ...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Table 6 Longer-run inequality for various horizons, 1990–2000 (replacement ratio = 60%, discount rate = 5%)
+Image
+Decomposition of log PV variance as a function of the horizon in 1990 (repl...
+Decomposition of log PV variance as a function of the horizon in 1990 (repl...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 9 Decomposition of log PV variance as a function of the horizon in 1990 (replacemnt ratio of 60% and discount rate of 5%)
+Image
+Longer-run income inequality (replacement ratio = 60% and discount rate = 5...
+Longer-run income inequality (replacement ratio = 60% and discount rate = 5...Get access Arrow
+in Assessing the Equalizing Force of Mobility Using Short Panels: France, 1990–2000
+Published: 01 January 2009
+Figure 10 Longer-run income inequality (replacement ratio = 60% and discount rate = 5%)
+Journal Article
+IndexGet access Arrow
+The Review of Economic Studies, Volume 51, Issue 4, October 1984, Pages 701–703, https://doi.org/10.2307/restud/51.4.701
+Published: 01 October 1984
+... 509 Osborne, M. J. Capitalist-Worker Conflict and Involuntary Unemployment III Ostroy, J. M. (see Jones, R. A.) Pakes, A. and Griliches, Z. Estimating Distributed Lags in Short Panels with an Application to the Specification of Depreciation Patterns and Capital Stock Constructs...
+Journal Article
+Estimation with Aggregate ShocksGet access Arrow
+Jinyong Hahn and others
+The Review of Economic Studies, Volume 87, Issue 3, May 2020, Pages 1365–1398, https://doi.org/10.1093/restud/rdz016
+Published: 17 April 2019
+... that the variables in are collected from a short panel, in which case the vector consists of several ’s, where the subscript denotes the period in which is observed. Even when is collected from a single cross section and hence , it is sometimes useful to explicitly report the time period...
+Abstract  
+Supplementary data
+Journal Article
+Testing for Autocorrelation in Dynamic Random Effects ModelsGet access Arrow
+Manuel Arellano
+The Review of Economic Studies, Volume 57, Issue 1, January 1990, Pages 127–134, https://doi.org/10.2307/2297546
+Published: 01 January 1990
+... autocovariances and dummy variables. Asymptotic efficiency exploiting covariance restrictions can also be attained using a GLS estimator. 1. INTRODUCTION AND PRELIMINARIES A popular method of estimation for linear models from short panels including lags of the dependent...
+Abstract 
+Journal Article
+Split-panel Jackknife Estimation of Fixed-effect ModelsGet access Arrow
+Geert Dhaene and Koen Jochmans
+The Review of Economic Studies, Volume 82, Issue 3, July 2015, Pages 991–1030, https://doi.org/10.1093/restud/rdv007
+Published: 12 February 2015
+... capture the unobserved heterogeneity in the data. Hospido (2012) and Carro and Traferri (2012) present empirical applications using models with multivariate fixed effects. The incidental-parameter problem is most severe in short panels. Fortunately, in recent decades longer data sets are becoming...
+Abstract  
+Supplementary data
+Journal Article
+Revisiting Event-Study Designs: Robust and Efficient Estimation Open Access
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3253–3285, https://doi.org/10.1093/restud/rdae007
+Published: 06 February 2024
+... treatment effects to the error terms. 1 Our inference results apply under mild conditions in short panels. Advancing the existing literature on DiD estimation with staggered adoption, we also provide conditions for consistency and inference that extend to panels where the number of time periods...
+Abstract  
+Supplementary data
+Journal Article
+Demand and Welfare Analysis in Discrete Choice Models with Social Interactions Open Access
+Debopam Bhattacharya and others
+The Review of Economic Studies, Volume 91, Issue 2, March 2024, Pages 748–784, https://doi.org/10.1093/restud/rdad053
+Published: 11 May 2023
+Abstract  
+Supplementary data
+Journal Article
+Estimating Production Functions Using Inputs to Control for UnobservablesGet access Arrow
+James Levinsohn and Amil Petrin
+The Review of Economic Studies, Volume 70, Issue 2, April 2003, Pages 317–341, https://doi.org/10.1111/1467-937X.00246
+Published: 01 April 2003
+... will tend to overestimate f31 and fik will usually underestimate 13k. For short panels we think these last two cases may be most relevant, as between-firm variation often plays a dominant role in identification, and capital and labour tend to be highly correlated in this dimension. Within...
+Abstract 
+Journal Article
+Identification and Panel Data Models with Endogenous RegressorsGet access Arrow
+Alok Bhargava
+The Review of Economic Studies, Volume 58, Issue 1, January 1991, Pages 129–140, https://doi.org/10.2307/2298050
+Published: 01 January 1991
+... application of the methods proposed in the paper using a very short panel (T = 2) and note that for the general form of correlation, the estimator (7) again provides efficient estimates of the parameters on redefining the coefficient matrix A. 4. AN APPLICATION TO THE DATA FROM...
+Abstract 
+Journal Article
+Deforestation in the Amazon: A Unified Framework for Estimation and Policy AnalysisGet access Arrow
+Eduardo Souza-Rodrigues
+The Review of Economic Studies, Volume 86, Issue 6, November 2019, Pages 2713–2744, https://doi.org/10.1093/restud/rdy070
+Published: 06 December 2018
+...) . Typically, existing studies estimate reduced-form parameters of farmers’ land use choice models using short panel data, exploiting variables with a high degree of variation across time, such as prices or revenues. Different empirical approaches identify farmers’ short-run or long-run responses, depending...
+Abstract  
+Supplementary data
+Journal Article
+Dynamic Labour Force Participation of Married Women and Endogenous Work ExperienceGet access Arrow
+Zvi Eckstein and Kenneth I. Wolpin
+The Review of Economic Studies, Volume 56, Issue 3, July 1989, Pages 375–390, https://doi.org/10.2307/2297553
+Published: 01 July 1989
+.... Several estimation strategies have been suggested in this case. With the usual caveat concerning "consistency" in short panels, it is possible to estimate a separate taste parameter for each individual, i.e. fixed effects (Heckman (1981 A random effects discrete mixture approach as discussed...
+Abstract 
+Journal Article
+Immigration, Wages, and Education: A Labour Market Equilibrium Structural ModelGet access Arrow
+Joan Llull
+The Review of Economic Studies, Volume 85, Issue 3, July 2018, Pages 1852–1896, https://doi.org/10.1093/restud/rdx053
+Published: 18 September 2017
+Abstract  
+Supplementary data
+Journal Article
+Identifying Sorting—In TheoryGet access Arrow
+Jan Eeckhout and Philipp Kircher
+The Review of Economic Studies, Volume 78, Issue 3, July 2011, Pages 872–906, https://doi.org/10.1093/restud/rdq034
+Published: 04 March 2011
+Abstract 
+Journal Article
+Claim Timing and Ex Post Adverse SelectionGet access Arrow
+Marika Cabral
+The Review of Economic Studies, Volume 84, Issue 1, January 2017, Pages 1–44, https://doi.org/10.1093/restud/rdw022
+Published: 27 June 2016
+Abstract  
+Supplementary data
+Journal Article
+Political Competition, Policy and Growth: Theory and Evidence from the USGet access Arrow
+Timothy Besley and others
+The Review of Economic Studies, Volume 77, Issue 4, October 2010, Pages 1329–1352, https://doi.org/10.1111/j.1467-937X.2010.00606.x
+Published: 01 October 2010
+... period. We regress average annual growth in state personal income over the two 20-year periods against the same covariates as in Tables 5 and 6 (measured as averages over each period). In this extremely short panel, we are unable to include state-fixed effects, as this would substantially bias...
+Abstract  
+Supplementary data
+Journal Article
+Farther on down the Road: Transport Costs, Trade and Urban Growth in Sub-Saharan AfricaGet access Arrow
+Adam Storeygard
+The Review of Economic Studies, Volume 83, Issue 3, July 2016, Pages 1263–1295, https://doi.org/10.1093/restud/rdw020
+Published: 23 April 2016
+..., with relatively little topcoding but relatively high quality income data for a short panel of regions. China has panel GDP data for two relevant types of subnational regions: cities proper and prefectures. 8 Columns 4 and 5 in Table 1 show, at the city proper and prefecture level, respectively...
+Abstract  
+Supplementary data
+International Trade and Currency ExchangeGet access Arrow
+Hélène Rey
+The Review of Economic Studies, Volume 68, Issue 2, April 2001, Pages 443–464, https://doi.org/10.1111/1467-937X.00176
+Published: 01 April 2001
+... found a negative correlation between bid-ask spreads and predetermined volumes exchanged on a given market (Bessembinder (1994), Hartmann (1998) use time series data; Black (1991), Hartmann (1998) use short panels). For a more detailed discussion of the evidence see Portes and Rey (1998). 6...
+Abstract 
+Journal Article
+Estimating the Costs of Standardization: Evidence from the Movie IndustryGet access Arrow
+El Hadi Caoui
+The Review of Economic Studies, Volume 90, Issue 2, March 2023, Pages 597–633, https://doi.org/10.1093/restud/rdac036
+Published: 29 June 2022
+Abstract  
+Supplementary data
+Journal Article
+Back to Basics: Basic Research Spillovers, Innovation Policy, and GrowthGet access Arrow
+Ufuk Akcigit and others
+The Review of Economic Studies, Volume 88, Issue 1, January 2021, Pages 1–43, https://doi.org/10.1093/restud/rdaa061
+Published: 13 October 2020
+Abstract  
+Supplementary data
+Journal Article
+R&D and Productivity: Estimating Endogenous ProductivityGet access Arrow
+Ulrich Doraszelski and Jordi Jaumandreu
+The Review of Economic Studies, Volume 80, Issue 4, October 2013, Pages 1338–1383, https://doi.org/10.1093/restud/rdt011
+Published: 22 March 2013
+Abstract  
+Supplementary data
+Journal Article
+FEATURED
+Identifying Network Ties from Panel Data: Theory and an Application to Tax Competition Open Access
+Áureo de Paula and others
+The Review of Economic Studies, Volume 92, Issue 4, July 2025, Pages 2691–2729, https://doi.org/10.1093/restud/rdae088
+Published: 03 September 2024
+Abstract  
+Supplementary data
+Journal Article
+Author IndexGet access Arrow
+The Review of Economic Studies, Volume 56, Issue 4, October 1989, Pages 1–27, https://doi.org/10.1093/restud/56.4.1
+Published: 01 October 1989
+Journal Article
+Political Cycles in OECD EconomiesGet access Arrow
+Alberto Alesina and Nouriel Roubini
+The Review of Economic Studies, Volume 59, Issue 4, September 1992, Pages 663–688, https://doi.org/10.2307/2297992
+Published: 01 September 1992
+Abstract 
+Journal Article
+Market Share, Market Value and Innovation in a Panel of British Manufacturing FirmsGet access Arrow
+Richard Blundell and others
+The Review of Economic Studies, Volume 66, Issue 3, July 1999, Pages 529–554, https://doi.org/10.1111/1467-937X.00097
+Published: 01 July 1999
+... develop an estimator in which the pre-sample information on innovations replaces the unobservable firm fixed effect. The estimation problem is one of missing data in which we have a long panel for innovations but only a short panel for the explanatory regressors. Our proposed estimator works provided...
+Abstract 
+Journal Article
+Monetary Policy when Households have Debt: New Evidence on the Transmission MechanismGet access Arrow
+James Cloyne and others
+The Review of Economic Studies, Volume 87, Issue 1, January 2020, Pages 102–129, https://doi.org/10.1093/restud/rdy074
+Published: 03 January 2019
+... to be more problematic, if anything, for the U.K. survey data which consist of repeated cross-sections, than for the U.S. survey data where, given the short panel dimension, we already consider only those households who have not changed housing tenure status between interviews. The risk of group transitions...
+Abstract  
+Supplementary data
+Journal Article
+Does Income Inequality Lead to Consumption Inequality? Evidence and TheoryGet access Arrow
+Dirk Krueger and Fabrizio Perri
+The Review of Economic Studies, Volume 73, Issue 1, January 2006, Pages 163–193, https://doi.org/10.1111/j.1467-937X.2006.00373.x
+Published: 01 January 2006
+Abstract  
+Supplementary data
+Journal Article
+Household Intertemporal Behaviour: A Collective Characterization and a Test of CommitmentGet access Arrow
+Maurizio Mazzocco
+The Review of Economic Studies, Volume 74, Issue 3, July 2007, Pages 857–895, https://doi.org/10.1111/j.1467-937X.2007.00447.x
+Published: 01 July 2007
+Abstract 
+Journal Article
+ACCEPTED MANUSCRIPT
+Education and the Margins of Cyclical Adjustment in the Labor MarketGet access Arrow
+Cynthia L Doniger
+The Review of Economic Studies, rdag002, https://doi.org/10.1093/restud/rdag002
+Published: 30 January 2026
+... with an individual fixed effect to implement a correction via a control function approach in that data. Further, since the variables are directly observable, no correction for generated regressors is required (Wooldridge, 2002). 16 ACCEPTED MANUSCRIPT Since the SIPP are short panels, the proposed proxies...
+Abstract  
+Supplementary data
+Journal Article
+Quasi-Experimental Shift-Share Research DesignsGet access Arrow
+Kirill Borusyak and others
+The Review of Economic Studies, Volume 89, Issue 1, January 2022, Pages 181–213, https://doi.org/10.1093/restud/rdab030
+Published: 08 June 2021
+... zero for ), the instrument can be rewritten as , mirroring the cross-sectional case. With this relabelling, standard intuitions for panel consistency readily translate into shift-share designs. In short panels or repeated cross-sections (i.e. with fixed ), the SSIV estimator can...
+Abstract  
+Supplementary data
+Journal Article
+Which Investors Matter for Equity Valuations and Expected Returns?Get access Arrow
+Ralph S J Koijen and others
+The Review of Economic Studies, Volume 91, Issue 4, July 2024, Pages 2387–2424, https://doi.org/10.1093/restud/rdad083
+Published: 21 August 2023
+... and similar magnitude to those for market-to-book equity. This finding supports the assumption in Equation ( 3 ) that expected profitability is a function of firm characteristics. Nevertheless, we caution that expected profitability is challenging to estimate accurately in a short panel. In Section 8 , we...
+Abstract  
+Supplementary data
+Journal Article
+The Real Effects of Monetary Expansions: Evidence from a Large-scale Historical ExperimentGet access Arrow
+Nuno Palma
+The Review of Economic Studies, Volume 89, Issue 3, May 2022, Pages 1593–1627, https://doi.org/10.1093/restud/rdab042
+Published: 25 September 2021
+Abstract  
+Supplementary data
+Journal Article
+Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom?Get access Arrow
+David Atkin and others
+The Review of Economic Studies, rdaf077, https://doi.org/10.1093/restud/rdaf077
+Published: 30 August 2025
+Abstract  
+Supplementary data
+Journal Article
+The Lifetime Costs of Bad HealthGet access Arrow
+Mariacristina De Nardi and others
+The Review of Economic Studies, Volume 92, Issue 3, May 2025, Pages 1987–2026, https://doi.org/10.1093/restud/rdae080
+Published: 09 August 2024
+... to the objective underlying health, but the short panel dimension of the MEPS offers limited opportunities to study its long-term dynamics. Importantly, Blundell et al. (2023) point out that properly accounting for ex-ante differences across individuals is a more important modelling issue than...
+Abstract  
+Supplementary data
+Journal Article
+Subsidizing Labour Hoarding in Recessions: The Employment and Welfare Effects of Short-time Work Open Access
+Giulia Giupponi and Camille Landais
+The Review of Economic Studies, Volume 90, Issue 4, July 2023, Pages 1963–2005, https://doi.org/10.1093/restud/rdac069
+Published: 28 December 2022
+Abstract  
+Supplementary data
+Journal Article
+Tax Policy and Lumpy Investment Behaviour: Evidence from China’s VAT ReformGet access Arrow
+Zhao Chen and others
+The Review of Economic Studies, Volume 90, Issue 2, March 2023, Pages 634–674, https://doi.org/10.1093/restud/rdac027
+Published: 08 June 2022
+Abstract  
+Supplementary data
+Journal Article
+Religion, Education, and the State Open Access
+Samuel Bazzi and others
+The Review of Economic Studies, rdaf071, https://doi.org/10.1093/restud/rdaf071
+Published: 26 September 2025
+Abstract  
+Supplementary data

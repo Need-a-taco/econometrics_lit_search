@@ -1,0 +1,287 @@
+﻿The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely Open Access
+Susan Athey and others
+The Review of Economic Studies, rdaf087, https://doi.org/10.1093/restud/rdaf087
+Published: 30 September 2025
+..., this is often addressed by using short-term outcomes as so-called “surrogates” for the outcome of interest, e.g. tumour size as a surrogate for mortality in cancer studies. We build on this literature by combining multiple, possibly qualitatively distinct, short-term outcomes (e.g. short-run...
+Abstract  
+Supplementary data
+Journal Article
+Parable and Realism in Capital Theory: The Surrogate Production FunctionGet access Arrow
+Paul A. Samuelson
+The Review of Economic Studies, Volume 29, Issue 3, June 1962, Pages 193–206, https://doi.org/10.2307/2295954
+Published: 01 June 1962
+Journal Article
+Some Notes on the Surrogate Production FunctionGet access Arrow
+James McIntosh
+The Review of Economic Studies, Volume 39, Issue 4, September 1972, Pages 505–510, https://doi.org/10.2307/2296520
+Published: 01 September 1972
+...James McIntosh Some Notes on the Surrogate Production Function 1,2 JAMES McINTOSH London School of Economics If factor intensities are the same in all sectors at all factor-price ratios...
+Image
+(a) Surrogacy assumption satisfied. (b) Multiple surrogates. (c) Multiple s...
+(a) Surrogacy assumption satisfied. (b) Multiple surrogates. (c) Multiple s... Open Access
+in The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely
+Published: 30 September 2025
+Figure 1. (a) Surrogacy assumption satisfied. (b) Multiple surrogates. (c) Multiple surrogates, Scenario 1. (d) Multiple surrogates, Scenario 2
+Image
+Sensitivity to choices of surrogates 
+Sensitivity to choices of surrogates Open Access
+in The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely
+Published: 30 September 2025
+Figure 4. Sensitivity to choices of surrogates
+Journal Article
+Technical Change and the Measurement of Capital and OutputGet access Arrow
+Peter A. Diamond
+The Review of Economic Studies, Volume 32, Issue 4, October 1965, Pages 289–298, https://doi.org/10.2307/2295836
+Published: 01 October 1965
+... and sufficient condition for the existence of a surrogate capital stock is that technical change be solely capital augmenting. Assuming the existence of a surrogate capital stock, the annual rate of technical progress is calculated for the postwar U.S. economy. The bias of this estimate arising from...
+Journal Article
+The Structure of the Cost of Capital under UncertaintyGet access Arrow
+A. Beja
+The Review of Economic Studies, Volume 38, Issue 3, July 1971, Pages 359–368, https://doi.org/10.2307/2296388
+Published: 01 July 1971
+...;) as surrogate market probabilities. This fails, however, because the markets' weights vee;) need not (and generally will not) satisfy a basic requirement of a probability measure, namely that for any t and T {T>t) n n if U e~ = e{ then L...
+Journal Article
+Heterogeneous Capital, the Production Function and the Theory of DistributionGet access Arrow
+P. Garegnani
+The Review of Economic Studies, Volume 37, Issue 3, July 1970, Pages 407–436, https://doi.org/10.2307/2296729
+Published: 01 July 1970
+... back" to a system which had already been in use for low levels of r. It is convenient however to postpone these matters, and make some further assumptions which-while necessary for a discussion of Samuelson's surrogate pro• duction function-will allow us to meet traditional theory on the more...
+Journal Article
+IndexGet access Arrow
+The Review of Economic Studies, Volume 29, Issue 4, October 1962, Pages i–iv, https://doi.org/10.1093/restud/29.4.i
+Published: 01 October 1962
+... Symposium. p. 258. Samuelson (P. A Parable and Realism in Capital Theory: The Surrogate Produc- tion Function. p. 193. Samuelson (P. A Comment on the Production Function Symposium. p. 251. Saposnik (R.) with Quirk (J. P Admissibility and Measurable Utility Functions. p.140. Solow (R. M Note...
+Journal Article
+A Measure of CapitalGet access Arrow
+Graham Pyatt
+The Review of Economic Studies, Volume 30, Issue 3, October 1963, Pages 195–202, https://doi.org/10.2307/2296320
+Published: 01 October 1963
+.... This measure is defined in section III below. In many respects it is analogous to the surrogate capital variable defined by Samuelson in [2], but does not depend on equilibrium market conditions or any particular theory of income distribution for its existence. In section IV the equivalence between the neo...
+Journal Article
+The Portfolio Balance Theory of the Expected Rate of Change of Prices: CommentGet access Arrow
+James H. Scott
+The Review of Economic Studies, Volume 40, Issue 4, October 1973, Pages 579–580, https://doi.org/10.2307/2296591
+Published: 01 October 1973
+..., given his surrogate for the expected rate ofinflation, to yield E(b~) = E(a E(b!) = E(ar); and E(bi) = E(bn = E(an, where the * denotes a least squares estimate, and E is the expectations operator. This result holds for any arbitrary K, added and subtracted in equation (5...
+Journal Article
+IndexGet access Arrow
+The Review of Economic Studies, Volume 39, Issue 4, September 1972, Pages i–iii, https://doi.org/10.2307/restud/39.4.i
+Published: 01 September 1972
+... Indicators for Col- lective Consumption 385 Mas-Colell, A. and Sonnenschein, H. General Possibility Theorems for Group Decisions 185 Mclntosh, J. Some Notes on the Surrogate Production Function...
+Journal Article
+Marginal Productivity and the MacroEconomic Theories of Distribution: Reply to Pasinetti and RobinsonGet access Arrow
+P. Samuelson and F. Modigliani
+The Review of Economic Studies, Volume 33, Issue 4, October 1966, Pages 321–330, https://doi.org/10.2307/2974429
+Published: 01 October 1966
+... changing curvatures and along it there may be reswitching effects of the Cohen-Sraffa type, shifts toward lower capital-output ratios as the profit rate falls, and any kind of Wicksell effects. No singular equal-factor-intensity assumptions are made that might validate any surrogate capital concepts...
+Journal Article
+Information Reliability and a Theory of Financial IntermediationGet access Arrow
+Ram T. S. Ramakrishnan and Anjan V. Thakor
+The Review of Economic Studies, Volume 51, Issue 3, July 1984, Pages 415–432, https://doi.org/10.2307/2297431
+Published: 01 July 1984
+... reliability is not directly observable. Hence, some performance surrogate must be used. The surrogate is often 416 REVIEW OF ECONOMIC STUDIES reputation-based; the intermediary's performance is assessed on the basis of how well its predictions did relative to observed events...
+Abstract 
+Journal Article
+A Model of Wage-Price InflationGet access Arrow
+J. D. Sargan
+The Review of Economic Studies, Volume 47, Issue 1, 1980, Pages 97–112, https://doi.org/10.2307/2297105
+Published: 01 January 1980
+... of prices with various alternative assumptions as to suitable surrogate variables. The aieL) are various lag operator polynomials of relatively low order. The equation is intended to allow various alternative sets of variables to be tested as explanations of the rate of change of the wage rate index...
+Journal Article
+An Asymptotic Theory of Growth Under UncertaintyGet access Arrow
+Robert C. Merton
+The Review of Economic Studies, Volume 42, Issue 3, July 1975, Pages 375–393, https://doi.org/10.2307/2296851
+Published: 01 July 1975
+... of the paper is to develop additional properties of the steady• state distribution beyond those of existence and uniqueness, we choose to work in con• tinuous time and restructure the discrete time stochastic process for population size as a diffusion process. 1 The" surrogate "random variable...
+Journal Article
+Fundamental Duality Relations in the Pure Theory of Capital and GrowthGet access Arrow
+M. Bruno
+The Review of Economic Studies, Volume 36, Issue 1, January 1969, Pages 39–53, https://doi.org/10.2307/2296341
+Published: 01 January 1969
+... propositions on surrogate capital• namely the conditions under which one is allowed to aggregate heterogenous capital into " jelly". These hold generally only in one of two very special cases-in a one-sector model or in a golden rule steady state. 1 Hebrew University, Jerusalem...
+Journal Article
+The Child Penalty Atlas Open Access
+Henrik Kleven and others
+The Review of Economic Studies, Volume 92, Issue 5, October 2025, Pages 3174–3207, https://doi.org/10.1093/restud/rdae104
+Published: 24 October 2024
+... to individuals observed without children: we do not observe if and when they will have children and therefore do not know their place in negative event time, t < 0 . The key idea of our approach is to create, for individuals observed with children, surrogate observations at negative event times through...
+Abstract  
+Supplementary data
+Journal Article
+State Preference and the Riskless Interest Rate: A Markov Model of Capital MarketsGet access Arrow
+Avraham Beja
+The Review of Economic Studies, Volume 46, Issue 3, July 1979, Pages 435–446, https://doi.org/10.2307/2297012
+Published: 01 July 1979
+... on these is suggested in the above discussion of the "composite individual": if 1t is taken as surrogate for the investors' probability assessments, then the Bu's are a corollary surrogate for their marginal utilities for money under the various contingencies. The theorem shows how differences between the interest...
+Journal Article
+The Econometrics of Growth and Underdevelopment: A Test of the Dual HypothesesGet access Arrow
+James McIntosh
+The Review of Economic Studies, Volume 45, Issue 2, June 1978, Pages 285–298, https://doi.org/10.2307/2297344
+Published: 01 June 1978
+... leaving e approximately constant. The wage equation is obtained by replacing k of equation (17) ofMcIntosh (1975) by KM/E and assuming a(w), the desired rz capital labour ratio in manufacturing is equal to f3w • Notice also that because (7) is a surrogate…
+Notes on the Determinateness of the Utility Function: IIGet access Arrow
+Harro Bernardelli
+The Review of Economic Studies, Volume 2, Issue 1, October 1934, Pages 69–75, https://doi.org/10.2307/2967553
+Published: 01 October 1934
+... Meinong (" Uber das Weber-Fechnersche Gesetz," in Gesammelten Abhandlungen zur Gegenstamdstheorie, Vol. II) calls this kind of measurement" surrogative Messung." 2 In the case of intensive magnitudes the term" unlikeness" is used in order to avoid the term" difference," since" difference II suggests...
+Journal Article
+On the Service Flow from LabourGet access Arrow
+Roger Craine
+The Review of Economic Studies, Volume 40, Issue 1, January 1973, Pages 39–46, https://doi.org/10.2307/2296738
+Published: 01 January 1973
+... that helps bring empirical results into closer agreement with theoretical models for any type of production function. We separate manhours, the surrogate for labour in most empirical studies into two heterogeneous com• ponents, " men" and hours. Feldstein [9] hypothesized that increases in average...
+Journal Article
+The Explanation of Productivity ChangeGet access Arrow
+D. W. Jorgenson and Z. Griliches
+The Review of Economic Studies, Volume 34, Issue 3, July 1967, Pages 249–283, https://doi.org/10.2307/2296675
+Published: 01 July 1967
+Journal Article
+A Life Cycle Model of Female Labour SupplyGet access Arrow
+James J. Heckman and Thomas E. Macurdy
+The Review of Economic Studies, Volume 47, Issue 1, 1980, Pages 47–74, https://doi.org/10.2307/2297103
+Published: 01 January 1980
+... computed fixed effect "Tobit" model is proposed and implemented on panel data and its statistical properties are discussed. The fixed effects considered in this paper have a sound economic interpretation and serve as surrogates for a host of relevant omitted variables which govern life cycle choices...
+Journal Article
+The Factor-Price Frontier, Duality and Joint ProductionGet access Arrow
+Edwin Burmeister and Kiyoshi Kuga
+The Review of Economic Studies, Volume 37, Issue 1, January 1970, Pages 11–19, https://doi.org/10.2307/2296494
+Published: 01 January 1970
+... Review. [6] Morishima, M. Equilibrium, Stability and Growth (Oxford, 1964). [7] Samuelson, P. A. "Parable and Realism in Capital Theory: The Surrogate Pro• duction Function ", ReviewofEconomic Studies, 29 (1962), 193-206. [8] Samuelson, P. A. "Wages and Interest: A Modern Dissection...
+Journal Article
+Investment and the Optimal Idleness of CapitalGet access Arrow
+Gordon C. Winston and Thomas O. McCoy
+The Review of Economic Studies, Volume 41, Issue 3, July 1974, Pages 419–428, https://doi.org/10.2307/2296759
+Published: 01 July 1974
+... increasing the incentive for high capital utilization. Since labour is being used in this paper as a surrogate for any other input with a rhythmic price pattern, we can say most generally that, for elasticities less than one, a higher relative capital price reduces the importance in costs...
+Journal Article
+The Demand for Money and Monetary Adjustments in ChileGet access Arrow
+Allan Hynes
+The Review of Economic Studies, Volume 34, Issue 3, July 1967, Pages 285–293, https://doi.org/10.2307/2296676
+Published: 01 July 1967
+..., not measurable for Chile and thus a surrogate must be constructed. One procedure is to infer from measured income the community's estimate ofits permanent income. The latter is defined as the level of consumption that can be maintained while keeping wealth constant. Empirically, permanent income can...
+Journal Article
+Consumer Misperceptions, Product Failure and Producer LiabilityGet access Arrow
+Michael Spence
+The Review of Economic Studies, Volume 44, Issue 3, October 1977, Pages 561–572, https://doi.org/10.2307/2296908
+Published: 01 October 1977
+... now to the use of liability as an instrument. One could carry through the exercise of maximizing U" with respect to m subject to condition (12) as a constraint. But the results would not be interesting. In setting the single instrument m, one would have to trade off (i) providing surrogate...
+Journal Article
+The Short-run Demand for Workers and Hours: A Recursive ModelGet access Arrow
+R. A. Hart and T. Sharot
+The Review of Economic Studies, Volume 45, Issue 2, June 1978, Pages 299–309, https://doi.org/10.2307/2297345
+Published: 01 June 1978
+... involved the construction and estimation of employment equations the composition of which is derived primarily from an (inverted) short-run production function. The choice of statistical surrogate for employment has strong implications for the structure of the estimating equations and yet, remarkably...
+Journal Article
+The Pasinetti Paradox in Neoclassical and More General ModelsGet access Arrow
+Paul A. Samuelson and Franco Modigliani
+The Review of Economic Studies, Volume 33, Issue 4, October 1966, Pages 269–301, https://doi.org/10.2307/2974425
+Published: 01 October 1966
+...,? namely, 1 Heterogeneity of capital goods can, under certain special assumptions like those underlying surrogate capital models, be introduced without necessarily vitiating the results. 2 The assumption of constant returns to scale is essential both to Pasinetti's and our own analysis...
+Journal Article
+Technical Change and Capital from the Point of View of the DualGet access Arrow
+R. E. Hall
+The Review of Economic Studies, Volume 35, Issue 1, January 1968, Pages 35–46, https://doi.org/10.2307/2974405
+Published: 01 January 1968
+... with Continuous First Derivatives", Bulletin of the American Mathematical Society, 53 (1947), 343-350. [9J Leontief, W. W. "Introduction to a Theory of the Internal Structure of Functional Relationships", Econometrica, 15 (1947), 361-373. [10J Samuelson, P. A. "Parable and Realism: The Surrogate...
+Journal Article
+Empirical Tests for the Existence of Group Utility FunctionsGet access Arrow
+Perry Shapiro and Steven Braithwait
+The Review of Economic Studies, Volume 46, Issue 4, October 1979, Pages 653–665, https://doi.org/10.2307/2297033
+Published: 01 October 1979
+.... In reference to the LES, it has been suggested by Parks and Barten (1973) as well as Muellbauer (1974) that the Ii be made a linear function of such variables. Barten (1964) has shown that this is equivalent to the characteristic measures acting as surrogate prices in the demand system. Such a demand system...
+Journal Article
+Dynamic Duopoly: Prices and QuantitiesGet access Arrow
+Jean-Pierre Benoit and Vijay Krishna
+The Review of Economic Studies, Volume 54, Issue 1, January 1987, Pages 23–35, https://doi.org/10.2307/2297443
+Published: 01 January 1987
+.... These levels can subsequently be adjusted from one period to the next, although not arbitrarily. In anyone period, firms engage in price competition given the capacity levels at the beginning of the period. Throughout, we view capacity as a surrogate for a long run quantity decision which is relatively...
+Abstract 
+Journal Article
+Matching and Bargaining in Dynamic MarketsGet access Arrow
+K. G. Binmore and M. J. Herrero
+The Review of Economic Studies, Volume 55, Issue 1, January 1988, Pages 17–31, https://doi.org/10.2307/2297527
+Published: 01 January 1988
+... in each period. The super-efficient search technology with c ~ +00 acts as a surrogate for such an auctioneer. However, this is not the result obtained by Rubinstein and Wolinsky (1985) for the frictionless version oftheir steady-state market. The reason is that, to maintain the market...
+Journal Article
+Estimation of a Vintage Capital Model for Electricity GeneratingGet access Arrow
+Hugh R. Wills
+The Review of Economic Studies, Volume 45, Issue 3, October 1978, Pages 495–510, https://doi.org/10.2307/2297251
+Published: 01 October 1978
+... will act as a surrogate for the omitted attributes and the coefficient on the variable will be biased upwards. However, the fact that this bias is able to overwhelm the substitution effect indicates that very little substitution of the traditional kind occurred in the sample. This could be caused...
+Journal Article
+Traditional Capital TheoryGet access Arrow
+Dan Usher
+The Review of Economic Studies, Volume 32, Issue 2, April 1965, Pages 169–186, https://doi.org/10.2307/2296061
+Published: 01 April 1965
+... in " Parable and Realism in Capital Theory: The Surrogate Production Function", Review of Economic Studies, 1962, pp. 193-206. 3 The present must be thought of as a short but finite duration of time, rather than an instantaneous present. Otherwise present consumption would be incommensurable...
+Journal Article
+A Two-Level Constant-Elasticity-of-Substitution Production FunctionGet access Arrow
+K. Sato
+The Review of Economic Studies, Volume 34, Issue 2, April 1967, Pages 201–218, https://doi.org/10.2307/2296809
+Published: 01 April 1967
+Journal Article
+Disequilibrium Dynamics of Competitive Growth PathsGet access Arrow
+Walter Perrin Heller
+The Review of Economic Studies, Volume 38, Issue 4, October 1971, Pages 385–400, https://doi.org/10.2307/2296685
+Published: 01 October 1971
+Journal Article
+The Multiperiod Principal-Agent ProblemGet access Arrow
+James M. Malcomson and Frans Spinnewyn
+The Review of Economic Studies, Volume 55, Issue 3, July 1988, Pages 391–407, https://doi.org/10.2307/2297391
+Published: 01 July 1988
+... such link has nothing to do with improving incentive effects under repeated moral hazard and the memory result of Lambert and Rogerson arises from a pure wealth effect. This suggests that bonding in the present model is acting as a surrogate for saving by the agent. We explore this in the next section...
+Abstract 
+Journal Article
+Learning-by-Doing and Infant Industry ProtectionGet access Arrow
+S. Clemhout and H. Y. Wan
+The Review of Economic Studies, Volume 37, Issue 1, January 1970, Pages 33–56, https://doi.org/10.2307/2296497
+Published: 01 January 1970
+...) +pxz(t)]dt. 6) 00 ~ p(t) ~ 0 0 Hence, cumulative GNP at external prices should be maximized through a domestic price policy.' The maximization of current profits by individual firms (assumption 2.1) poses a surrogate problem"in (3), i.e.: Problem W…
+Learning-by-Doing and Infant Industry ProtectionGet access Arrow
+S. Clemhout and H. Y. Wan
+The Review of Economic Studies, Volume 37, Issue 1, January 1970, Pages 33–56, https://doi.org/10.2307/2296497
+Published: 01 January 1970
+...) +pxz(t)]dt. 6) 00 ~ p(t) ~ 0 0 Hence, cumulative GNP at external prices should be maximized through a domestic price policy.' The maximization of current profits by individual firms (assumption 2.1) poses a surrogate problem"in (3), i.e.: Problem W...
+Journal Article
+The Duality of Technology and Economic BehaviourGet access Arrow
+Dale W. Jorgenson and Lawrence J. Lau
+The Review of Economic Studies, Volume 41, Issue 2, April 1974, Pages 181–200, https://doi.org/10.2307/2296712
+Published: 01 April 1974
+Journal Article
+More Data or Better Data? A Statistical Decision ProblemGet access Arrow
+Jeff Dominitz and Charles F. Manski
+The Review of Economic Studies, Volume 84, Issue 4, October 2017, Pages 1583–1605, https://doi.org/10.1093/restud/rdx005
+Published: 20 February 2017
+... credible inference on treatment response. However, performance of such an experiment may be highly costly. Lower cost alternatives providing lower quality data include experimental designs with incomplete compliance, some attrition of subjects, and measurement of surrogate outcomes. They also include...
+Abstract  
+Supplementary data
+Journal Article
+Inverse Probability Tilting for Moment Condition Models with Missing DataGet access Arrow
+Bryan S. Graham and others
+The Review of Economic Studies, Volume 79, Issue 3, July 2012, Pages 1053–1079, https://doi.org/10.1093/restud/rdr047
+Published: 20 April 2012
+... function estimation with missing regressors). Let X 1 be a vector of demographic characteristics, X 2 log earnings, Y 1 armed forces qualification test (AFQT) score, and X 3 a vector of always observed surrogates or proxies for Y 1 (e.g. scores on subcomponents...
+Abstract  
+Supplementary data
+Journal Article
+Cross-Border Mergers as Instruments of Comparative AdvantageGet access Arrow
+J. Peter Neary
+The Review of Economic Studies, Volume 74, Issue 4, October 2007, Pages 1229–1257, https://doi.org/10.1111/j.1467-937X.2007.00466.x
+Published: 01 October 2007
+...” where both home and foreign firms can coexist: barriers to entry act as a surrogate for tariffs, allowing high-cost firms in one country to survive in the face of low-cost rivals in the other. In the competitive limit (as ξ0 and ξ*0 approach 0), this region collapses to the 45...
+Abstract  
+Supplementary data
+Journal Article
+Quality Sorting and Trade: Firm-level Evidence for French WineGet access Arrow
+Matthieu Crozet and others
+The Review of Economic Studies, Volume 79, Issue 2, April 2012, Pages 609–644, https://doi.org/10.1093/restud/rdr030
+Published: 07 November 2011
+Abstract  
+Supplementary data
+Journal Article
+Measuring Diffusion Over a Large NetworkGet access Arrow
+Xiaoqi He and Kyungchul Song
+The Review of Economic Studies, Volume 91, Issue 6, November 2024, Pages 3468–3503, https://doi.org/10.1093/restud/rdad115
+Published: 18 December 2023
+Abstract  
+Supplementary data
